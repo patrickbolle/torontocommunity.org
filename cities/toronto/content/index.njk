@@ -42,21 +42,7 @@ permalink: /
 <body class="homepage">
 <a href="#main-content" class="skip-link">Skip to content</a>
 
-<header class="site-header">
-  <div class="container">
-    <div class="header-top">
-      <a class="wordmark" href="/">toronto community</a>
-      <span class="metadata">{{ totalGroups }} groups · {{ collections.categories.length }} categories</span>
-    </div>
-    <nav class="nav" aria-label="Sections">
-      <a class="active" href="/">directory</a>
-      <a href="/start-here/">new to toronto</a>
-      <a href="/submit/">add a group</a>
-      <a href="/blog/">blog</a>
-      <a href="/about/">about</a>
-    </nav>
-  </div>
-</header>
+{% include "partials/topbar.njk" %}
 
 <main class="container" id="main-content">
   <section class="hero">
@@ -154,12 +140,7 @@ permalink: /
   </section>
 </main>
 
-<div class="container">
-  <img class="footer-art" src="/skyline-strip.svg" alt="">
-  <footer class="footer">
-    toronto community — local groups, made easier to find. · Made by <a href="https://bollenbach.ca?ref=torontocommunity">Patrick</a>. Also: <a href="https://runclubs.ca?ref=torontocommunity">runclubs.ca</a>
-  </footer>
-</div>
+{% include "partials/footer.njk" %}
 
 <script>
 var _searchGroups = [

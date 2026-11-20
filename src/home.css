@@ -19,3 +19,17 @@
 /* Balance the hero: wider art column, vertically centered so it doesn't float with a gap above */
 .hero { grid-template-columns: minmax(0, 1fr) minmax(340px, 1.18fr); }
 .hero-art { align-self: center; }
+
+/* ---- Site-wide base: make the handoff type/colour system apply everywhere ---- */
+body { font-family: var(--font); color: var(--ink); background: var(--page); }
+h1, h2, h3, h4 { font-family: var(--font); }
+
+/* Category page (handoff detail-columns + result-list) */
+.crumb{font:12px var(--mono);color:var(--muted);margin-bottom:10px}
+.crumb a{color:var(--muted);text-decoration:none}
+.category-title{font-size:clamp(38px,5vw,62px);letter-spacing:-.05em;margin:10px 0;line-height:1.05;font-weight:800}
+.category-lede{color:var(--muted);max-width:680px;line-height:1.6;margin:0}
+.section-title .count{font:13px var(--mono);color:var(--accent);font-weight:400;margin-left:4px}
+
+/* Content width: the handoff's 1344px fills the viewport edge-to-edge; pull it in */
+:root { --content-width: 1100px; }

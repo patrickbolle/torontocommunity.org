@@ -24,16 +24,8 @@
     "dateModified": "{{ page.date.toISOString() }}",
     "mainEntityOfPage": "{{ site.url }}/blog/{{ page.fileSlug }}/",
     "image": "{{ site.url }}/og-image.png",
-    "author": {
-      "@type": "Person",
-      "name": "Patrick Bollenbach",
-      "url": "https://bollenbach.ca"
-    },
-    "publisher": {
-      "@type": "Person",
-      "name": "Patrick Bollenbach",
-      "url": "https://bollenbach.ca"
-    }
+    "author": { "@type": "Person", "name": "Patrick Bollenbach", "url": "https://bollenbach.ca" },
+    "publisher": { "@type": "Person", "name": "Patrick Bollenbach", "url": "https://bollenbach.ca" }
   }
   </script>
   {%- if faq %}
@@ -46,10 +38,7 @@
       {
         "@type": "Question",
         "name": "{{ item.q | replace('"', '\\"') }}",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "{{ item.a | replace('"', '\\"') }}"
-        }
+        "acceptedAnswer": { "@type": "Answer", "text": "{{ item.a | replace('"', '\\"') }}" }
       }{% if not loop.last %},{% endif %}
       {%- endfor %}
     ]
@@ -60,40 +49,34 @@
 <body class="category-page">
 <a href="#main-content" class="skip-link">Skip to content</a>
 {% include "partials/topbar.njk" %}
-<main id="main-content">
-  <div class="frame page">
-    <nav class="breadcrumbs" aria-label="Breadcrumb">
-      <ol>
-        <li><a href="/">Directory</a></li>
-        <li><a href="/blog/">Blog</a></li>
-        <li><span class="breadcrumb-current" aria-current="page">{{ title }}</span></li>
-      </ol>
-    </nav>
-    <h1 class="page-title">{{ title }}</h1>
-    {% if description %}<p class="page-lede">{{ description }}</p>{% endif %}
-    <div class="columns">
-      <div class="col-main">
-        <article class="panel">
-          <div class="panel-body prose post-body">
-            {{ content | safe }}
-          </div>
-        </article>
-        {%- set promoVariant = "compact" %}{% set promoPlacement = "blog-" + page.fileSlug %}
-        {% include "partials/mutuals-promo.njk" %}
-      </div>
-      <aside class="col-side">
-        <nav class="panel post-toc" id="post-toc" aria-label="On this page" hidden>
-          <h2 class="panel-title">On this page</h2>
-          <ol class="panel-body"></ol>
-        </nav>
-        {% include "partials/banner-sidebar.njk" %}
-{%- set sponsorData = sponsors.pages %}{% set sponsorSlot = "blog" %}{% set sponsorDemo = false %}{% set sponsorPitch = "Reach Toronto people looking for their next group, class or hangout. Clearly labelled, one sponsor at a time." %}
-        {% include "partials/sponsor-card.njk" %}
-
-        {% include "partials/newsletter.njk" %}
-      </aside>
+<main class="container" id="main-content">
+  <section class="section">
+    <p class="crumb"><a href="/">directory</a> / <a href="/blog/">blog</a></p>
+    <h1 class="category-title">{{ title }}</h1>
+    {% if description %}<p class="category-lede">{{ description }}</p>{% endif %}
+  </section>
+  <section class="section detail-columns">
+    <div>
+      <article class="article post-body">
+        {{ content | safe }}
+      </article>
     </div>
-  </div>
+    <aside class="sidebar">
+      <nav class="sidebar-block post-toc" id="post-toc" aria-label="On this page" hidden>
+        <h3>on this page</h3>
+        <ol></ol>
+      </nav>
+      <div class="sidebar-block hp-newsletter">
+        <h3>the toronto roundup</h3>
+        <p>New groups and community picks, weekly.</p>
+        <form class="newsletter-form subscribe" data-umami-event="newsletter-signup">
+          <input type="email" class="newsletter-input" placeholder="your@email.com" required autocomplete="email" aria-label="Email address">
+          <button type="submit" class="newsletter-btn">join</button>
+        </form>
+        <p class="newsletter-status" role="status" aria-live="polite"></p>
+      </div>
+    </aside>
+  </section>
   <script>
   (function () {
     var toc = document.getElementById('post-toc');

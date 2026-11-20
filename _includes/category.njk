@@ -39,15 +39,8 @@
     "description": "{{ pageDescription | replace('"', '\\"') }}",
     "url": "{{ site.url }}/{{ page.fileSlug }}/",
     {% if groupCount %}"numberOfItems": {{ groupCount }},{% endif %}
-    "about": {
-      "@type": "Thing",
-      "name": "{{ title }}"
-    },
-    "isPartOf": {
-      "@type": "WebSite",
-      "name": "{{ site.title }}",
-      "url": "{{ site.url }}"
-    }{% if groupItems.length %},
+    "about": { "@type": "Thing", "name": "{{ title }}" },
+    "isPartOf": { "@type": "WebSite", "name": "{{ site.title }}", "url": "{{ site.url }}" }{% if groupItems.length %},
     "mainEntity": {
       "@type": "ItemList",
       "numberOfItems": {{ groupItems.length }},
@@ -60,17 +53,7 @@
             "@type": "Organization",
             "name": "{{ item.name | replace('"', '\\"') }}"{% if item.description %},
             "description": "{{ item.description | replace('"', '\\"') }}"{% endif %}{% if item.url %},
-            "url": "{{ item.url | safe }}"{% endif %}{% if item.location %},
-            "location": {
-              "@type": "Place",
-              "address": {
-                "@type": "PostalAddress",
-                "addressLocality": "Toronto",
-                "addressRegion": "ON",
-                "addressCountry": "CA"
-              },
-              "name": "{{ item.location | replace('"', '\\"') }}"
-            }{% endif %}
+            "url": "{{ item.url | safe }}"{% endif %}
           }
         }{% if not loop.last %},{% endif %}
         {%- endfor %}
@@ -83,18 +66,8 @@
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Toronto Community Directory",
-        "item": "{{ site.url }}/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "{{ title }}",
-        "item": "{{ site.url }}/{{ page.fileSlug }}/"
-      }
+      { "@type": "ListItem", "position": 1, "name": "Toronto Community Directory", "item": "{{ site.url }}/" },
+      { "@type": "ListItem", "position": 2, "name": "{{ title }}", "item": "{{ site.url }}/{{ page.fileSlug }}/" }
     ]
   }
   </script>
@@ -103,234 +76,64 @@
 <a href="#main-content" class="skip-link">Skip to content</a>
 {% include "partials/topbar.njk" %}
 
-<main id="main-content">
-  {%- set groupLabel = "" %}
-  {%- set groupKey = "" %}
-  {%- for g in groups %}
-    {%- for cat in collections.categories %}
-      {%- if cat.data.group == g.key and cat.fileSlug == page.fileSlug %}
-        {%- set groupLabel = g.label %}
-        {%- set groupKey = g.key %}
-      {%- endif %}
-    {%- endfor %}
-  {%- endfor %}
-  {%- set sponsor = null %}
-  {%- for s in sponsors.listings %}
-    {%- if s.category == page.fileSlug %}{% set sponsor = s %}{% endif %}
-  {%- endfor %}
+<main class="container" id="main-content">
+  <section class="section">
+    <p class="crumb"><a href="/">directory</a>{% if page.data.groupLabel %} / {{ page.data.groupLabel }}{% endif %}</p>
+    <h1 class="category-title">{% if seoHeading %}{{ seoHeading }}{% else %}{{ title }}{% endif %}</h1>
+    <p class="category-lede">{{ pageDescription }}</p>
+  </section>
 
-  {%- set mutualsCat = mutuals.categories[page.fileSlug] %}
-  <div class="frame page">
-    <nav class="breadcrumbs" aria-label="Breadcrumb">
-      <ol>
-        <li><a href="/">Directory</a></li>
-        {%- if groupLabel %}
-        <li><a href="/#group-{{ groupKey }}">{{ groupLabel }}</a></li>
-        {%- endif %}
-        <li><span class="breadcrumb-current" aria-current="page">{{ title }}</span></li>
-      </ol>
-    </nav>
-    <div class="columns">
-      <div class="col-main">
-        <h1 class="page-title">{% if seoHeading %}{{ seoHeading }}{% else %}{{ title }}{% if not titleHasGroupWord %} Groups{% endif %} in Toronto{% endif %}</h1>
-        <p class="page-lede">{{ liveDescription }}</p>
-        {%- set guideSlug = guides[page.fileSlug] %}
-        {%- if guideSlug %}
-        {%- for post in collections.posts %}{% if post.fileSlug == guideSlug %}
-        <p class="page-guide">Our guide: <a href="{{ post.url }}" data-umami-event="click-guide" data-umami-event-category="{{ page.fileSlug }}">{{ post.data.title }}</a></p>
-        {%- endif %}{% endfor %}
-        {%- endif %}
-
-        {#- Paid placement: top of the main column at every width (the advertise page promises "above the fold"). #}
-        {%- if sponsor %}
-        {%- set sponsorData = sponsor %}{% set sponsorSlot = page.fileSlug %}{% set sponsorDemo = false %}
-        {% include "partials/sponsor-card.njk" %}
-        {%- endif %}
-
-        <section class="panel">
-          <h2 class="panel-title">{{ listingCount }} {% if listNoun %}{{ listNoun }}{% else %}{{ title | lower }}{% if not titleHasGroupWord %} group{% if listingCount != 1 %}s{% endif %}{% endif %}{% endif %}</h2>
-          <div class="panel-body category-entries">
-            {%- set categoryBanner = null %}
-            {%- for b in banners.category %}{% if b.category == page.fileSlug %}{% set categoryBanner = b %}{% endif %}{% endfor %}
-            {%- set bannerData = categoryBanner %}{% set bannerSlot = page.fileSlug %}{% set bannerSize = "wide" %}
-            {%- set bannerHtml %}{% include "partials/banner.njk" %}{% endset %}
-            {{ content | stripH1 | cardify | midBanner(bannerHtml) | safe }}
-            {#- One shared description for every card's outbound link, so the h3 names stay clean. #}
-            <span id="new-tab-note" hidden>Opens in new tab</span>
-            {#- List footer: share, report a change, and the page's view count (the stats script fills #page-views). #}
-            <div class="panel-body">
-              <p class="panel-links">Know someone who'd like this list? <button type="button" class="link-button" onclick="sharePage('{{ page.fileSlug }}', this)" data-umami-event="click-share" data-umami-event-source="{{ page.fileSlug }}">Tell a friend</button></p>
-              <p class="panel-links">Something out of date or missing? <button type="button" class="link-button" onclick="openEditModal('{{ page.fileSlug }}', this)" aria-haspopup="dialog" data-umami-event="click-suggest-edit" data-umami-event-category="{{ page.fileSlug }}">Suggest an edit</button></p>
-              <p class="panel-note">Traffic: <span id="page-views"><span class="visually-hidden">Loading</span></span></p>
-            </div>
-          </div>
-        </section>
-
-        {#- Listings come first; the contextual mutuals card follows them. #}
-        {%- if mutualsCat %}
-        {%- set promoVariant = "feature" %}{% set promoPlacement = "category-" + page.fileSlug %}{% set promoHeading = mutualsCat.heading %}{% set promoBody = mutualsCat.lead %}
-        {% include "partials/mutuals-promo.njk" %}
-        {%- endif %}
-      </div>
-
-      <aside class="col-side">
-        {#- Sidebar order: keep browsing first, then context, then at most one ad slot. #}
-        {%- if groupKey %}
-        <section class="panel">
-          <h2 class="panel-title">More in {{ groupLabel }}</h2>
-          <div class="panel-body">
-            <ul class="link-list link-list-tight">
-              {%- for cat in collections.categories %}
-              {%- if cat.data.group == groupKey and cat.fileSlug != page.fileSlug %}
-              <li><a href="/{{ cat.fileSlug }}/" data-umami-event="click-related-category" data-umami-event-category="{{ cat.fileSlug }}">{{ cat.data.title }}</a>{% if cat.data.listingCount > 0 %}&nbsp;<span class="count">({{ cat.data.listingCount }})</span>{% endif %}</li>
-              {%- endif %}
-              {%- endfor %}
-            </ul>
-            <p class="panel-links">New in town? <a href="/start-here/">Start here</a> &middot; <a href="/blog/how-to-make-friends-in-toronto/">How to make friends</a></p>
-          </div>
-        </section>
-        {%- endif %}
-
-        {#- Category pages are where most visitors land; the signup lived in the
-            category hero until July 2026, and signups stopped when it moved out. #}
-        {% include "partials/newsletter.njk" %}
-
-        {#- One ad slot only: a sidebar banner if one is sold; otherwise the open
-            "Your business here" card, but only while the category has no paid sponsor
-            (a paid sponsor card already sits at the top of the main column). #}
-        {%- if banners.sidebar %}
-        {% include "partials/banner-sidebar.njk" %}
-        {%- elif not sponsor %}
-        {%- set sponsorData = null %}{% set sponsorSlot = page.fileSlug %}{% set sponsorDemo = false %}
-        {%- set sponsorPitch = "Sponsor cards and banners for this list, from $25/month." %}
-        {% include "partials/sponsor-card.njk" %}
-        {%- endif %}
-
-        {%- if not mutualsCat %}
-        {%- set promoVariant = "compact" %}{% set promoPlacement = "category-" + page.fileSlug %}
-        {% include "partials/mutuals-promo.njk" %}
-        {%- endif %}
-      </aside>
+  <section class="section detail-columns">
+    <div>
+      <h2 class="section-title">{{ listNoun or (title ~ " groups") }} <span class="count">({{ listingCount }})</span></h2>
+      <ul class="result-list">
+        {%- for item in (allGroupItems or groupItems) %}
+        <li>
+          <span class="tag">{% if item.when %}{{ item.when }}{% endif %}{% if item.location %}{% if item.when %} · {% endif %}{{ item.location }}{% endif %}{% if item.free %}{% if item.when or item.location %} · {% endif %}free{% endif %}</span>
+          <p><a href="{{ item.url }}" target="_blank" rel="noopener noreferrer" data-umami-event="outbound-link">{{ item.name }} →</a></p>
+          <p>{{ item.description }}</p>
+        </li>
+        {%- endfor %}
+      </ul>
     </div>
-  </div>
+    <aside class="sidebar">
+      <div class="sidebar-block">
+        <h3>browse nearby topics</h3>
+        <ul>
+          {%- for sib in (collections.categories | sectionCategories(page.data.group)) %}
+          {%- if sib.fileSlug != page.fileSlug %}
+          <li><a href="/{{ sib.fileSlug }}/">{{ sib.data.title }}</a></li>
+          {%- endif %}
+          {%- endfor %}
+        </ul>
+      </div>
+      <div class="sidebar-block">
+        <h3>know a group?</h3>
+        <a href="/submit/">suggest a listing →</a>
+      </div>
+      <div class="sidebar-block hp-newsletter">
+        <h3>the toronto roundup</h3>
+        <p>New groups and community picks, weekly.</p>
+        <form class="newsletter-form subscribe" data-umami-event="newsletter-signup">
+          <input type="email" class="newsletter-input" placeholder="your@email.com" required autocomplete="email" aria-label="Email address">
+          <button type="submit" class="newsletter-btn">join</button>
+        </form>
+        <p class="newsletter-status" role="status" aria-live="polite"></p>
+      </div>
+    </aside>
+  </section>
 </main>
+
 {% include "partials/footer.njk" %}
-
-<!-- Suggest Edit Modal -->
-<div id="edit-modal" class="edit-modal" role="dialog" aria-modal="true" aria-labelledby="edit-modal-title">
-  <div class="edit-modal-inner">
-    <button type="button" class="edit-modal-close" onclick="closeEditModal()" aria-label="Close">&times;</button>
-    <h2 id="edit-modal-title" class="edit-modal-title">Suggest an edit</h2>
-    <p class="edit-modal-desc">What needs to change? A closed group, wrong link, new info — anything helps.</p>
-    <form id="edit-form" class="form">
-      <p class="form-note">Fields marked * are required.</p>
-      <div class="form-field">
-        <label class="form-label" for="edit-summary">What should change? *</label>
-        <textarea class="form-input" id="edit-summary" name="summary" required rows="4" placeholder="e.g. Social Run Club meets on Tuesdays now, not Wednesdays. New website: ..."></textarea>
-      </div>
-      <div class="form-field">
-        <label class="form-label" for="edit-name">Your name (optional)</label>
-        <input class="form-input" type="text" id="edit-name" name="name" autocomplete="name" placeholder="Patrick">
-      </div>
-      <input type="hidden" name="category" id="edit-category">
-      <button class="form-submit" type="submit">Send suggestion</button>
-      <span class="form-status" id="edit-status"></span>
-    </form>
-    <div class="form edit-success" id="edit-success" hidden>
-      <p class="edit-success-message" tabindex="-1">Got it, thanks for helping keep this accurate.</p>
-      <p class="edit-success-actions"><a href="#" class="verify-funnel-link" onclick="sharePage('{{ page.fileSlug }}-edit', this); return false;">Tell a friend about this list</a></p>
-    </div>
-  </div>
-</div>
-
 <script>
-// Runs again after every page swap (main.js), with a fresh modal in the page.
-(function () {
-  var modal = document.getElementById('edit-modal');
-  var form = document.getElementById('edit-form');
-  if (!modal || !form) return;
-  var success = document.getElementById('edit-success');
-  var status = document.getElementById('edit-status');
-  var btn = form.querySelector('button[type="submit"]');
-  var btnLabel = btn.textContent;
-  var opener = null;
-  var openedAt = 0;
-
-  function setStatus(kind, text) {
-    status.className = 'form-status' + (kind ? ' ' + kind : '');
-    status.textContent = text;
-    if (text && window.announce) window.announce(text);
-  }
-
-  // opener: the button that was clicked (Safari doesn't focus buttons on click).
-  window.openEditModal = function (category, trigger) {
-    opener = trigger || document.activeElement;
-    openedAt = Date.now();
-    // A fresh form each time, even after a sent suggestion.
-    form.reset();
-    form.hidden = false;
-    success.hidden = true;
-    setStatus('', '');
-    document.getElementById('edit-category').value = category;
-    modal.style.display = 'block';
-    document.body.classList.add('modal-open');
-    if (window.a11yDialog) a11yDialog.open(modal);
-    document.getElementById('edit-summary').focus();
-  };
-  window.closeEditModal = function () {
-    modal.style.display = 'none';
-    document.body.classList.remove('modal-open');
-    if (window.a11yDialog) a11yDialog.close(modal);
-    if (opener && opener.isConnected && opener.focus) opener.focus();
-    opener = null;
-  };
-  modal.addEventListener('click', function (e) {
-    if (e.target === modal && Date.now() - openedAt > 300) window.closeEditModal();
-  });
-  // One Escape listener for the whole visit; it looks the modal up each time.
-  if (!window._editEscapeBound) {
-    window._editEscapeBound = true;
-    document.addEventListener('keydown', function (e) {
-      var m = document.getElementById('edit-modal');
-      if (e.key !== 'Escape' || !m || m.style.display !== 'block' || !window.closeEditModal) return;
-      e.preventDefault();
-      window.closeEditModal();
-    });
-  }
-  form.addEventListener('submit', async function (e) {
-    e.preventDefault();
-    // Busy guard instead of disabling the button, so focus stays on it.
-    if (form._busy) return;
-    form._busy = true;
-    setStatus('', '');
-    btn.setAttribute('aria-disabled', 'true');
-    btn.textContent = 'Sending...';
-    var category = document.getElementById('edit-category').value;
-    try {
-      var res = await fetch('https://toronto-community-submit.recipekit.workers.dev/edit', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(Object.fromEntries(new FormData(form)))
-      });
-      var result = null;
-      try { result = await res.json(); } catch (parseErr) {}
-      if (!res.ok || !result || !result.success) throw new Error('not sent');
-      if (typeof umami !== 'undefined') umami.track('submit-edit', { category: category });
-      form.hidden = true;
-      success.hidden = false;
-      var msg = success.querySelector('.edit-success-message');
-      msg.focus();
-      if (window.announce) window.announce(msg.textContent);
-    } catch (err) {
-      setStatus('error', 'Could not send. Try again, or email toronto@bolle.co.');
-    }
-    form._busy = false;
-    btn.removeAttribute('aria-disabled');
-    btn.textContent = btnLabel;
-  });
-})();
+var _searchGroups = [
+{%- for cat in collections.categories -%}
+  {%- for item in (cat.data.allGroupItems or cat.data.groupItems) -%}
+  {n:"{{ item.name | replace('"', '\\"') | safe }}",d:"{{ item.description | replace('"', '\\"') | truncate(120) | safe }}",c:"{{ cat.data.title | safe }}",s:"{{ cat.fileSlug }}",id:"{{ item.name | mdAnchor }}",u:"{{ item.url | safe }}",w:"{{ item.location | replace('"', '\\"') | safe }}",b:"{% if item.free %}Free{% endif %}"},
+  {%- endfor -%}
+{%- endfor -%}
+];
 </script>
-
 {% include "partials/scripts.njk" %}
 </body>
 </html>

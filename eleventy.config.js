@@ -12,6 +12,7 @@ const CITY = process.env.CITY || "toronto";
 const cityRoot = path.join("cities", CITY);                 // e.g. "cities/toronto"
 const cityDataDir = path.join(cityRoot, "_data");           // e.g. "cities/toronto/_data"
 const siteManifest = require(path.resolve(cityDataDir, "site.json"));
+const groupDefs = require(path.resolve(cityDataDir, "groups.json"));
 const siteRef = siteManifest.ref || String(siteManifest.url || "").replace(/^https?:\/\//, "");
 const mutuals = require(path.resolve(cityDataDir, "mutuals.js"));
 
@@ -76,6 +77,7 @@ module.exports = function (eleventyConfig) {
       .sort((a, b) => (a.data.order || 999) - (b.data.order || 999));
 
     for (const cat of cats) {
+      cat.data.groupLabel = (groupDefs.find((g) => g.key === cat.data.group) || {}).label || "";
       // expand() resolves {{ mutuals.* }} tokens (see _data/mutuals.js)
       const raw = mutuals.expand(fs.readFileSync(cat.inputPath, "utf-8"));
       // Strip frontmatter
