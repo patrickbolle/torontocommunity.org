@@ -148,14 +148,15 @@ permalink: /
   <section class="section">
     <span class="eyebrow">closer to home / 02</span>
     <h2 class="section-title">explore by neighbourhood</h2>
-    <div class="neighbourhood-grid">
+    <div class="neighbourhood-list">
       {%- for hood in neighbourhoods %}
-      <div class="neighbourhood">
-        <img class="pixel-art" src="/neighbourhoods/{{ hood.art }}" alt="Pixel illustration of {{ hood.name }}">
-        <a href="/neighbourhoods/{{ hood.slug }}/">{{ hood.name }} ↗</a>
-      </div>
+      {%- set ng = collections.categories | neighbourhoodGroups(hood.aliases) %}
+      {%- set hoodTotal = 0 %}
+      {%- for c in ng %}{% set hoodTotal = hoodTotal + c.groups.length %}{% endfor %}
+      <div class="neighbourhood-row"><a href="/neighbourhoods/{{ hood.slug }}/">{{ hood.name }}</a> <span class="count">({{ hoodTotal }})</span></div>
       {%- endfor %}
     </div>
+    <p class="neighbourhood-all"><a href="/neighbourhoods/">all neighbourhoods →</a></p>
   </section>
 </main>
 
