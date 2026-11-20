@@ -143,3 +143,12 @@ h1, h2, h3, h4 { font-family: var(--font); }
 .nav .nav-surprise { background: none; border: 0; padding: 0; font-family: inherit; font-size: 14px; font-weight: 600; color: var(--accent); cursor: pointer; }
 .nav .nav-surprise:hover { text-decoration: underline; text-underline-offset: 3px; }
 .nav .nav-surprise:focus-visible { outline: 3px solid var(--accent); outline-offset: 3px; }
+
+/* Hero profile box (replaces the stats card) */
+.hero-profile { max-width: 230px; justify-self: end; align-self: center; border: 1px solid var(--line); padding: 14px; }
+.hero-profile-photo { display: block; width: 100%; aspect-ratio: 1; object-fit: cover; margin-bottom: 10px; }
+.hero-profile-name { font-weight: 800; font-size: 18px; margin: 0 0 2px; }
+.hero-profile-line { font-size: 13px; color: var(--muted); line-height: 1.4; margin: 0 0 8px; }
+.hero-profile-links { font-size: 13px; font-weight: 700; margin: 0; }
+.hero-profile-links a { color: var(--accent); }
+@media (max-width: 760px) { .hero-profile { justify-self: start; max-width: 200px; margin-top: 20px; } }
