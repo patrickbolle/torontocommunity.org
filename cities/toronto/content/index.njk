@@ -3,8 +3,10 @@ layout: false
 permalink: /
 ---
 {%- set totalGroups = 0 %}
+{%- set totalListings = 0 %}
 {%- for cat in collections.categories %}
   {%- set totalGroups = totalGroups + cat.data.groupCount %}
+  {%- set totalListings = totalListings + cat.data.listingCount %}
 {%- endfor %}
 <!DOCTYPE html>
 <html lang="en">
@@ -65,6 +67,13 @@ permalink: /
     <div class="hero-art">
       <img class="pixel-art" src="/hero-street.svg" alt="Pixel-built Toronto street scene: a red brick storefront, a streetcar and the CN Tower">
     </div>
+  </section>
+
+  <section class="stats-strip" aria-label="Directory size">
+    <div class="stat"><span class="stat-num">{{ totalGroups }}</span><span class="stat-label">groups</span></div>
+    <div class="stat"><span class="stat-num">{{ collections.categories.length }}</span><span class="stat-label">categories</span></div>
+    <div class="stat"><span class="stat-num">{{ totalListings - totalGroups }}</span><span class="stat-label">venues &amp; resources</span></div>
+    <div class="stat"><span class="stat-num">{{ neighbourhoods.length }}</span><span class="stat-label">neighbourhoods</span></div>
   </section>
 
   <div id="search-results" class="search-results" hidden></div>
@@ -142,6 +151,8 @@ permalink: /
     </div>
   </section>
 
+  <div class="skyline-band"><img class="pixel-art" src="/skyline-strip.svg" alt=""></div>
+
   <section class="section">
     <h2 class="section-title">explore by neighbourhood</h2>
     <div class="neighbourhood-list">
@@ -153,6 +164,11 @@ permalink: /
       {%- endfor %}
     </div>
     <p class="neighbourhood-all"><a href="/neighbourhoods/">all neighbourhoods →</a></p>
+  </section>
+
+  <section class="section note-band">
+    <p class="note-text">Toronto can feel like a hard city to make friends. I built this directory as a shortcut — a list of places where people actually show up, week after week.</p>
+    <p class="note-sign">— Patrick, <a href="/about/">about the directory</a></p>
   </section>
 </main>
 
