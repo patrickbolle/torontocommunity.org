@@ -6,7 +6,7 @@ name: Weekly submission review
 
 on:
   schedule:
-    - cron: "0 18 * * 1" # Mondays 18:00 UTC (~10am Vancouver), two hours after link-check.yml
+    - cron: "0 18 * * 1" # Mondays 18:00 UTC (~10am Toronto), two hours after link-check.yml
   workflow_dispatch: {}
 
 concurrency:
@@ -61,7 +61,7 @@ jobs:
             --max-turns 150
             --allowedTools "Bash(git:*),Bash(gh:*),Bash(curl:*),Bash(npm:*),Read,Edit,Write,Glob,Grep"
           prompt: |
-            You are the weekly reviewer for community submissions to vancouvercommunity.org.
+            You are the weekly reviewer for community submissions to torontocommunity.org.
             Read CLAUDE.md first. Follow "What belongs in this directory", "Adding a group"
             and "Verifying a link" exactly. Repo: ${{ github.repository }}.
 
@@ -93,11 +93,11 @@ jobs:
             ## Step 2: does it belong?
             Apply the "What belongs in this directory" test. Close the PR (same command as
             above) only for a clear fail:
-            - online-only, with no in-person meetups in Metro Vancouver
+            - online-only, with no in-person meetups in Metro Toronto
             - a one-off event, not a recurring group
             - a transactional business with no community (pure retail, services, paid
               coaching with no group)
-            - based outside Metro Vancouver
+            - based outside Metro Toronto
             - spam or nonsense
             The comment must be short and kind: thank them, give the one reason, and say
             they are welcome to submit again if things change. No lectures.

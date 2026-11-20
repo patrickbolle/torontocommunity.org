@@ -2,7 +2,7 @@
 layout: category
 tags: category
 title: "Creative & Art"
-description: "16 art groups and collectives — sketch meetups, drink-and-draws, neurodivergent spaces, and community studios."
+description: "12 art groups and collectives in Toronto — sketch meetups, drink-and-draws, printmaking, artist-run spaces, and disability arts."
 emoji: "🎨"
 group: creative
 order: 1
@@ -10,88 +10,78 @@ order: 1
 
 # 🎨 Creative / Art Communities
 
-## Draw Around Vancouver
-- **What:** Drawing circles, creative flow workshops, still life sessions, art therapy. Slow, tea + community, alcohol-free options
-- **Where:** Beaumont Studios
-- **Find it:** [drawaroundvancouver.com](https://drawaroundvancouver.com)
+## Urban Sketchers Toronto
+- **What:** Outdoor sketching meetups in different Toronto neighbourhoods — draw on location, share your work, and explore the city one drawing at a time. All skill levels welcome
+- **Where:** Rotating locations across Toronto
+- **Find it:** [meetup.com/toronto-urban-sketchers](https://www.meetup.com/toronto-urban-sketchers/)
 
-## Van Sketch Club
-- **What:** Social sketching
-- **When:** Saturday afternoons
-- **Find it:** [meetup.com/vansketchclub](https://meetup.com/vansketchclub)
-
-## Sketchup (East Van Brewing)
-- **What:** Casual drink & draw
-- **When:** Every other Monday, 5pm
-- **Where:** East Van Brewing Co.
-- **Find it:** [meetup.com/the-sketchup](https://www.meetup.com/the-sketchup/)
-
-## Creative Pulse
-- **What:** Volunteer-run org for Vancouver creatives. Summer socials, industry events
-- **Find it:** [creativepulse.co](https://creativepulse.co)
-
-## CreativeMornings Vancouver
-- **What:** Morning talks
-- **When:** Monthly
-- **Where:** Vancouver Art Gallery
+## CreativeMornings Toronto
+- **What:** Free monthly breakfast lecture series for Toronto's creative community — a talk, coffee, and a room full of designers, artists, and makers. Part of a global network in 200+ cities
+- **When:** Monthly (Friday mornings)
 - **Cost:** Free
-- **Find it:** [creativemornings.com/cities/van](https://creativemornings.com/cities/van)
+- **Where:** Rotating venues
+- **Find it:** [creativemornings.com/cities/to](https://creativemornings.com/cities/to)
 
-## Community Arts Council of Vancouver
-- **What:** Connecting Vancouver artists to each other
-- **Find it:** [cacv.ca](https://cacv.ca)
-
-## Neurodivergent Artist Collective
-- **What:** For neurodivergent artists, run by the Community Arts Council of Vancouver
-- **Find it:** [cacv.ca/nac](https://cacv.ca/nac)
-
-## Vancouver Creatives
-- **What:** Discussion group for creative projects
-- **Find it:** [meetup.com/meaningfuldiscussions-vancouver](https://meetup.com/meaningfuldiscussions-vancouver)
-
-## Urban Sketchers Vancouver
-- **What:** Outdoor sketching meetups around the city. "We show the world, one drawing at a time"
-- **Find it:** [meetup.com/Vancouver-Urban-Sketchers](https://meetup.com/Vancouver-Urban-Sketchers)
-
-## Cozy Art Meetup
-- **What:** Relaxed sketching/drawing in cafes downtown. No pressure, chitchat, make friends
-- **Find it:** [aniasalmina.com](https://www.aniasalmina.com/) | [Eventbrite](https://www.eventbrite.ca/o/ania-salmina-70459154583)
-
-## Vancouver Outsider Arts Festival
-- **What:** Festival for artists facing social exclusion. 40+ visual artists, performances, workshops
-- **Find it:** [voaf.ca](https://voaf.ca/) | [CACV page](https://www.cacv.ca/programs/vancouver-outsider-arts-festival/)
-
-## Atelier
-- **What:** Community for working on side projects together. Embroidery, coding, music, building — anything goes
-- **When:** Sundays 12–3pm at UBC, Tuesdays 6–9pm in Vancouver
-- **Find it:** [lu.ma/atelier.place](https://lu.ma/atelier.place)
-
-## AI Film Club
-- **What:** Screenings exploring AI in film and VFX. Creative tech intersection, community-driven
+## Toronto Comic Jam
+- **What:** Monthly comic jam and drink-and-draw for cartoonists, illustrators, and zine-makers. Low-pressure drawing with like-minded people, plus the recurring Drink and Draw Toronto nights
 - **When:** Monthly
-- **Find it:** Events via [lu.ma/vancouver-ai](https://lu.ma/vancouver-ai)
+- **Find it:** [torontocomicjam.org](https://torontocomicjam.org)
 
-## The Artist's Way Vancouver
-- **What:** Discussion group for creative people. Supportive, encouraging, inspiring conversations
-- **Size:** 2,700+ members
-- **Find it:** [meetup.com/vancouver-artists-way](https://meetup.com/vancouver-artists-way)
+## Don Valley Art Club
+- **What:** Long-running painting club in the Don Valley — drop-in life drawing, workshops, and member exhibitions in a historic mill gallery
+- **Where:** Todmorden Mills, Pottery Rd (Don Valley)
+- **Find it:** [donvalleyartclub.com](https://donvalleyartclub.com)
 
-## YVR Art Photography Workshops
-- **What:** Studio and location photo sessions with models. Develop your artistic vision, non-judgmental
-- **Find it:** [meetup.com/Fine-Art-Photography-Sessions-with-Kate-Snig](https://meetup.com/Fine-Art-Photography-Sessions-with-Kate-Snig)
+## Open Studio
+- **What:** Artist-run printmaking centre — workshops, open studio access, and a community of printmakers from total beginners to pros
+- **Where:** 401 Richmond St W (Unit 104)
+- **Find it:** [openstudio.ca](https://openstudio.ca)
 
+## Toronto Animated Image Society (TAIS)
+- **What:** Artist-run centre for independent animation — workshops, equipment, screenings, and a community of animators and experimental filmmakers
+- **Where:** 1411 Dufferin St
+- **Find it:** [tais.ca](https://tais.ca)
 
-## Creative Gatherings by Understory
-- **What:** A brand new meet up group for expressing human creativity in it's multi-forms. Hosting events that merge introspection, artistic practice, and connection with others. Curated for the curious and creative.
+## East End Arts
+- **What:** Community arts organization serving east Toronto — classes, workshops, and programs that connect local artists and neighbours
+- **Where:** St. Matthew's Clubhouse, 450 Broadview Ave
+- **Find it:** [eastendarts.ca](https://eastendarts.ca)
 
-What is under the story?
-- **Find it:** [instagram.com/understory.experiences](https://www.instagram.com/understory.experiences/)
+## Gerrard Art Space
+- **What:** Community gallery and workshop space in Little India — drop-in life drawing, exhibitions, and classes for local artists
+- **Where:** 1475 Gerrard St E
+- **Find it:** [gerrardartspace.com](https://gerrardartspace.com)
+
+## Tangled Art + Disability
+- **What:** Disability-led arts organization — exhibitions, residencies, and a community where disabled artists and allies make and show work
+- **Where:** 401 Richmond St W (Suite 124)
+- **Find it:** [tangledarts.org](https://tangledarts.org)
+
+## Workman Arts
+- **What:** Arts and mental health organization — workshops, training, and a membership community for artists with lived experience of mental health and addiction
+- **Where:** 1025 Queen St W (Suite 2400)
+- **Find it:** [workmanarts.com](https://workmanarts.com)
+
+## Trinity Square Video
+- **What:** Artist-run centre for video and media art — workshops, equipment, and exhibitions for emerging media artists
+- **Where:** 401 Richmond St W
+- **Find it:** [trinitysquarevideo.com](https://trinitysquarevideo.com)
+
+## Artists' Network of Riverdale
+- **What:** Volunteer-run collective of Riverdale artists — drop-in life drawing, exhibitions, and the annual Riverdale ArtWalk
+- **Where:** Riverdale
+- **Find it:** [artistsnetwork.ca](https://artistsnetwork.ca)
 
 ---
 
 ## Venues & Spaces
 
-## The Arts Factory Society
-- **What:** Multidisciplinary arts facility — workshops, studio spaces, offices
-- **Where:** 281 Industrial Avenue
-- **Find it:** [artsfactorysociety.ca](https://artsfactorysociety.ca)
+## 401 Richmond
+- **What:** Heritage building packed with 140+ artist studios, galleries, and creative nonprofits — browse open studios, meet makers, and discover new work
+- **Where:** 401 Richmond St W
+- **Find it:** [401richmond.com](https://401richmond.com)
+
+## Toronto School of Art
+- **What:** Independent art school with drop-in classes, life drawing, and open studios for artists of every level
+- **Where:** 24 Ryerson Ave (Queen West)
+- **Find it:** [tsa-art.com](https://www.tsa-art.com)

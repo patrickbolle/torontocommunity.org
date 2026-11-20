@@ -8,7 +8,7 @@
 {%- set tabCurrent = "page" if navPath == tabMatch else "true" %}
 <header class="masthead">
   <div class="frame masthead-inner">
-    <a href="/" class="wordmark" aria-label="Vancouver Community home"><img class="wordmark-mark" src="/favicon.svg" width="32" height="32" alt="">vancouver<span class="wordmark-soft">community</span></a>
+    <a href="/" class="wordmark" aria-label="Toronto Community home"><img class="wordmark-mark" src="/favicon.svg" width="32" height="32" alt="">toronto<span class="wordmark-soft">community</span></a>
     {#- Search on every page but the homepage (CSS hides it there: the header
         stays put when main.js swaps pages, so it can't be left out of the markup).
         Without JS, Enter opens the homepage search with ?q=.
@@ -30,7 +30,7 @@
 <nav class="tabs" aria-label="Sections">
   <div class="frame tabs-inner">
     <a href="/" class="tab"{% if tabMatch == "/" %} aria-current="{{ tabCurrent }}"{% endif %}>Directory</a>
-    <a href="/start-here/" class="tab"{% if tabMatch == "/start-here/" %} aria-current="{{ tabCurrent }}"{% endif %}>New <span class="tab-long">to Vancouver</span><span class="tab-short">here</span></a>
+    <a href="/start-here/" class="tab"{% if tabMatch == "/start-here/" %} aria-current="{{ tabCurrent }}"{% endif %}>New <span class="tab-long">to Toronto</span><span class="tab-short">here</span></a>
     <a href="/submit/" class="tab"{% if tabMatch == "/submit/" %} aria-current="{{ tabCurrent }}"{% endif %}>Add a group</a>
     <a href="/blog/" class="tab tab-wide-only"{% if tabMatch == "/blog/" %} aria-current="{{ tabCurrent }}"{% endif %}>Blog</a>
     <a href="/about/" class="tab tab-wide-only"{% if tabMatch == "/about/" %} aria-current="{{ tabCurrent }}"{% endif %}>About</a>

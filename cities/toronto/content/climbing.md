@@ -1,69 +1,70 @@
 ---
 layout: category
 tags: category
-title: "Climbing"
-description: "5 climbing communities and gyms — bouldering meetups, partner-finding groups, and mountaineering clubs."
+title: "Climbing Gyms & Clubs"
+description: "{n} climbing gyms and clubs in Toronto — bouldering, top-rope and outdoor meetups, plus places to find a belay partner."
 emoji: "🧗"
 group: outdoor
+seoTitle: "{n} Climbing Gyms in Toronto: Bouldering & Ropes ({year})"
+seoDescription: "{n} climbing gyms and clubs in Toronto — bouldering, top-rope, lead and outdoor trips, plus meetups for finding a belay partner."
+seoHeading: "Climbing Gyms & Clubs in Toronto"
+listNoun: "climbing gyms"
 order: 4
 ---
 
-# 🧗 Climbing
+# 🧗 Climbing in Toronto
 
-## Van Queer Climbers
-- **What:** LGBTQ+ climbing meetups
-- **Where:** Hive Vancouver, Project Climbing, Base5 North Van
-- **Find it:** [vanqueerclimbers.thinkific.com](https://vanqueerclimbers.thinkific.com/)
+## Toronto Climbing Club
+- **What:** A volunteer-run community hub for indoor and outdoor climbers across the GTA — gym meetups, partner-finding, weekend crag trips and social events. Newcomers are genuinely welcome
+- **Where:** Gyms across the GTA
+- **Cost:** Free to join
+- **Find it:** [torontoclimbingclub.ca](https://www.torontoclimbingclub.ca/)
 
-## Vancouver Climbers Association
-- **What:** Skills clinics, bouldering meet-ups, community climb days. Transition from gym to crag safely
-- **Find it:** [vanclimbers.com](https://www.vanclimbers.com/)
+## Alpine Club of Canada — Toronto Section
+- **What:** The Toronto section of Canada's national alpine club, with rock and ice climbing trips, mountaineering courses, clinics and pub nights. A deep bench of experienced climbers happy to show newcomers the ropes
+- **Where:** Toronto; trips across Ontario and beyond
+- **Find it:** [alpineclubtoronto.ca](https://alpineclubtoronto.ca/)
 
-## UBC Aviary
-- **What:** UBC climbing club
-- **Find it:** [ubc-aviary.com](https://ubc-aviary.com/)
-
-## Alpine Club of Canada - Vancouver Section
-- **What:** 1500+ members, mountaineering, rock climbing, backcountry skiing. Experienced community, trips and courses
-- **Find it:** [accvancouver.ca](https://accvancouver.ca/)
-
-## Vancouver Rock Climbing Group (Facebook)
-- **What:** Connect with local climbers, find partners. Active community for indoor and outdoor climbing
-- **Find it:** [Facebook Group](https://www.facebook.com/groups/vrcg.ca/)
-
-## Bad Climbers Club
-- **What:** Climbers who don't take it too seriously. Supportive community with discounted meet-ups and workshops — holds space for women and GNC folks
-- **Find it:** [thebadacademy.com/clubs/bad-climbers-club](https://www.thebadacademy.com/clubs/bad-climbers-club)
+## Queer Climb Toronto
+- **What:** A community for queer and trans climbers to meet, climb and find partners, with regular meetups at GTA gyms. Low-pressure and social, whether you're brand new or projecting hard
+- **Where:** Gyms around Toronto
+- **Find it:** [instagram.com/queerclimbto](https://www.instagram.com/queerclimbto/)
 
 ---
 
 ## Venues & Spaces
 
-## The Hive
-- **What:** Bouldering and climbing gym. Inclusive community focus
-- **Find it:** [hiveclimbing.com](https://www.hiveclimbing.com/)
+## Boulderz Climbing Centre
+- **What:** Bouldering-focused gym in the Junction Triangle with a full fitness area and weekly resets. Three GTA locations — the Junction, a big Etobicoke gym and The Cave in Mississauga — so there's always a new wall to try
+- **Where:** Junction Triangle (1444 Dupont St), plus Etobicoke and Mississauga
+- **Find it:** [boulderzclimbing.com](https://boulderzclimbing.com/)
 
-## Progression Bouldering Gym
-- **What:** Climbing + café
-- **Find it:** [progressionbouldering.com](https://www.progressionbouldering.com/)
+## Basecamp Climbing
+- **What:** Two central gyms with a friendly, first-timer-heavy crowd: Queen West is bouldering-only in a converted cinema basement, while Bloor West adds top rope, lead and auto belays. Regular social nights make it easy to meet people
+- **Where:** Queen West (186 Spadina Ave) and Bloor West (677 Bloor St W)
+- **Find it:** [basecampclimbing.ca](https://basecampclimbing.ca/)
 
-## Climb Base5
-- **What:** Indoor climbing, kid-friendly. "Discover your extraordinary potential"
-- **Find it:** [climbbase5.com](https://climbbase5.com/)
+## Joe Rockhead's Indoor Rock Climbing
+- **What:** A downtown institution in Liberty Village with top rope, lead, bouldering and auto belays, plus a top-rope meetup and run club for meeting other climbers. Low-pressure and famously beginner-friendly
+- **Where:** Liberty Village (29 Fraser Ave)
+- **Find it:** [joerockheads.com](https://www.joerockheads.com/)
 
-## Cliffhanger Climbing Gym
-- **What:** Indoor climbing
-- **Find it:** [cliffhangerclimbing.com](https://cliffhangerclimbing.com/)
+## Rock Oasis
+- **What:** A long-running Leslieville climbing gym with top rope, lead and bouldering, plus adult classes and a strong regulars' scene. The kind of place where the staff learn your name
+- **Where:** Leslieville (388 Carlaw Ave)
+- **Find it:** [rockoasis.com](https://www.rockoasis.com/)
 
-## Project Climbing
-- **What:** Bouldering gym with community focus
-- **Where:** North Vancouver
-- **Find it:** [projectclimbing.ca](https://www.projectclimbing.ca/)
+## True North Climbing
+- **What:** Big Downsview Park gym with bouldering, auto belay, top rope and lead, plus a climbing-specific training area and weight room. Welcoming to new and experienced climbers of all ages
+- **Where:** Downsview Park (75 Carl Hall Rd)
+- **Find it:** [truenorthclimbing.com](https://www.truenorthclimbing.com/)
 
-## SFU Climbing Wall
-- **What:** University climbing wall open to public. Affordable, beginner-friendly
-- **Find it:** [sfu.ca/recreation/climbing](https://www.sfu.ca/recreation/climbing.html)
+## Toronto Climbing Academy
+- **What:** One of the city's most established gyms (since 1993), now in a bright East York facility with 110+ walls, a big bouldering area and 10 auto belays. A down-to-earth, all-ages community with clubs and meetup groups
+- **Where:** East York
+- **Find it:** [climbingacademy.com](https://climbingacademy.com/)
 
-## Tilted Climbing and Fitness
-- **What:** Bouldering gym with 24-hour member access
-- **Find it:** [tiltedclimbing.ca](https://tiltedclimbing.ca/)
+## Hub Climbing Mississauga
+- **What:** A huge Mississauga climbing park with bouldering, top rope, lead and auto belays, plus a 30-foot speed wall, Kilter and MoonBoard. Lots of beginner-friendly space and a broad all-levels crowd
+- **Where:** Mississauga (3636 Hawkestone Rd)
+- **Find it:** [hubclimbing.com/mississauga](https://hubclimbing.com/mississauga/)

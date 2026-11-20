@@ -1,27 +1,27 @@
 ---
 layout: post
 tags: post
-title: "Improv classes in Vancouver: where beginners start"
-description: "Beginner improv classes, long-form training, improv jams and comedy clubs in Vancouver, from Granville Island to New West. Here's where to start."
+title: "Improv classes in Toronto: where beginners start"
+description: "Beginner improv classes, long-form training, improv jams and comedy clubs in Toronto, from Granville Island to New West. Here's where to start."
 date: 2026-10-09
 faq:
-  - q: "Where can I take improv classes in Vancouver?"
-    a: "The Improv Centre on Granville Island runs improv shows and classes. Blind Tiger Comedy runs comedy classes and shows, and Tightrope Impro Theatre offers shows and classes for all levels. The Vancouver Community Directory lists them all on its improv and comedy page."
+  - q: "Where can I take improv classes in Toronto?"
+    a: "The Improv Centre on Granville Island runs improv shows and classes. Blind Tiger Comedy runs comedy classes and shows, and Tightrope Impro Theatre offers shows and classes for all levels. The Toronto Community Directory lists them all on its improv and comedy page."
   - q: "What is Blind Tiger Comedy?"
-    a: "Blind Tiger Comedy is a Vancouver comedy school that runs classes and shows at the Ukrainian Community Society hall. It also has a Long Form Studio, a training program for advanced improv and scene work."
-  - q: "Are there improv groups for beginners in Vancouver?"
+    a: "Blind Tiger Comedy is a Toronto comedy school that runs classes and shows at the Ukrainian Community Society hall. It also has a Long Form Studio, a training program for advanced improv and scene work."
+  - q: "Are there improv groups for beginners in Toronto?"
     a: "Yes. Tightrope Impro Theatre runs classes for all levels. New West Improv runs improv games and jams for beginners and up in New Westminster."
-  - q: "What are the best comedy clubs in Vancouver?"
+  - q: "What are the best comedy clubs in Toronto?"
     a: "Rick Bronson's House of Comedy in New Westminster is a professional club with touring acts. For smaller nights, try Little Mountain Gallery and the ANZA Club, which host comedy from open mics to polished sets. Laughs in Queer runs a monthly LGBTQ+ comedy social and open mic at Slice of Life Gallery."
 ---
 
 Improv has a reputation problem. People picture a stranger yelling "yes, and" at them while they freeze. I get it. But a beginner class is mostly a room of nervous adults playing games and laughing at their own mistakes. It's one of the friendliest rooms you can walk into.
 
-Vancouver is a good city for it. TheatreSports, the world-famous improv format, was founded here. Here's where to start, whether you want to take a class or just watch one. Every place below comes from [the directory's improv and comedy page](/improv-comedy/).
+Toronto is a good city for it. TheatreSports, the world-famous improv format, was founded here. Here's where to start, whether you want to take a class or just watch one. Every place below comes from [the directory's improv and comedy page](/improv-comedy/).
 
 ## If you want a beginner improv class
 
-**[The Improv Centre (TheatreSports)](/improv-comedy/#the-improv-centre-(theatresports))** on Granville Island runs improv shows and classes. It's the home of **[Vancouver TheatreSports League](/improv-comedy/#vancouver-theatresports-league)**, so you're learning from the league behind a format that started in this city. That's a nice bit of history to carry into your first scene.
+**[The Improv Centre (TheatreSports)](/improv-comedy/#the-improv-centre-(theatresports))** on Granville Island runs improv shows and classes. It's the home of **[Toronto TheatreSports League](/improv-comedy/#toronto-theatresports-league)**, so you're learning from the league behind a format that started in this city. That's a nice bit of history to carry into your first scene.
 
 **[Blind Tiger Comedy](/improv-comedy/#blind-tiger-comedy)** runs comedy classes and shows out of the Ukrainian Community Society hall. If you searched for "blind tiger improv," this is the one. Watch a show there first if you're on the fence. You'll get a feel for the room before you sign up.
 
@@ -45,7 +45,7 @@ Watching is research. It's also a good night out.
 
 - **[Instant Theatre Company](/improv-comedy/#instant-theatre-company)** does bold improv, comedy and live theatre.
 - **[Comedy Drop-In Shows](/improv-comedy/#comedy-drop-in-shows)** happen around the city, from open mics to polished sets. Little Mountain Gallery and the ANZA Club are two places to look.
-- **[Rick Bronson's House of Comedy](/improv-comedy/#rick-bronson's-house-of-comedy)** in New Westminster is a professional comedy club with touring acts. If you searched for Vancouver comedy clubs, this is the classic one.
+- **[Rick Bronson's House of Comedy](/improv-comedy/#rick-bronson's-house-of-comedy)** in New Westminster is a professional comedy club with touring acts. If you searched for Toronto comedy clubs, this is the classic one.
 - **[Laughs in Queer](/improv-comedy/#laughs-in-queer---comedy-social-and-open-mic)** is an LGBTQ+ comedy social and open mic, monthly at Slice of Life Gallery. It's a supportive, inclusive room, and a gentle place to try five minutes on stage.
 
 ## Why improv is good for making friends
@@ -64,4 +64,4 @@ Want more? [Browse the full improv and comedy list](/improv-comedy/), or [add a 
 
 ---
 
-*Part of the [Vancouver Community Directory](/), a free, community-built list of 250+ groups, clubs, and meetups across the city.*
+*Part of the [Toronto Community Directory](/), a free, community-built list of 250+ groups, clubs, and meetups across the city.*

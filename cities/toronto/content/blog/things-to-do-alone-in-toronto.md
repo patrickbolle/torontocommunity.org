@@ -1,19 +1,19 @@
 ---
 layout: post
 tags: post
-title: "Things to do alone in Vancouver (that put you around people)"
-description: "Solo-friendly things to do in Vancouver where showing up by yourself is completely normal — and where regulars quietly become friends."
+title: "Things to do alone in Toronto (that put you around people)"
+description: "Solo-friendly things to do in Toronto where showing up by yourself is completely normal — and where regulars quietly become friends."
 date: 2026-07-05
 faq:
-  - q: "What can I do alone in Vancouver?"
+  - q: "What can I do alone in Toronto?"
     a: "Silent book clubs, run clubs, drop-in climbing, drawing circles, open mics, language exchanges, sauna and cold plunge sessions, volunteer shifts, and pub trivia all welcome solo drop-ins — most people arrive alone."
-  - q: "Is it weird to go to things alone in Vancouver?"
+  - q: "Is it weird to go to things alone in Toronto?"
     a: "No — at most recurring community groups, arriving solo is the norm. Groups absorb solo newcomers much faster than pairs, because regulars naturally talk to someone standing alone."
-  - q: "What are free things to do alone in Vancouver?"
+  - q: "What are free things to do alone in Toronto?"
     a: "Free options include community run clubs, silent book clubs at the library, free Friday outdoor salsa with a beginner lesson, hiking groups, philosophy discussion nights, and drop-in meditation sessions."
 ---
 
-Doing things alone in Vancouver is easy — this city was practically designed for solo hikes and solo coffee. The harder question, and the one people are usually really asking, is: *what can I do alone that doesn't keep me alone?*
+Doing things alone in Toronto is easy — this city was practically designed for solo hikes and solo coffee. The harder question, and the one people are usually really asking, is: *what can I do alone that doesn't keep me alone?*
 
 Here's the secret about the activities below: **almost everyone else showed up alone too.** These are the places where being solo isn't just acceptable — it's the default entry ticket, and where going twice makes you a regular. Every link goes to the [directory](/), where you'll find the actual groups, times, and websites.
 
@@ -23,7 +23,7 @@ Perfect if you want company without conversation — or want the conversation to
 
 - **Silent Book Club** — the ideal solo activity: strangers reading together at a pub or library, chatting only if they feel like it. Find it under [book clubs](/book-clubs/).
 - **Shut Up & Write!** — same formula for writers: quiet writing time, then optional conversation. Under [writing](/writing/).
-- **Drawing circles** — Draw Around Vancouver runs slow, alcohol-free sessions where everyone's focused on their sketchbook. Under [creative & art](/creative-art/).
+- **Drawing circles** — Draw Around Toronto runs slow, alcohol-free sessions where everyone's focused on their sketchbook. Under [creative & art](/creative-art/).
 - **[Mindfulness & meditation](/mindfulness-meditation/)** — drop-in sits are inherently solo, together.
 - **[Vinyl & listening bars](/vinyl-listening-bars/)** — going alone to listen to records is not just normal, it's kind of the point.
 
@@ -61,7 +61,7 @@ Formats that hand you conversation, so you don't have to manufacture it.
 
 **Solo beats duo for meeting people.** A pair reads as "closed"; a person alone reads as "open." Regulars will talk to you *because* you're alone.
 
-**Pick recurring over one-off.** A festival alone is still a festival alone. A weekly thing alone becomes, by week three, a weekly thing with people who know your name. (More on that in [how to make friends in Vancouver](/blog/how-to-make-friends-in-vancouver/).)
+**Pick recurring over one-off.** A festival alone is still a festival alone. A weekly thing alone becomes, by week three, a weekly thing with people who know your name. (More on that in [how to make friends in Toronto](/blog/how-to-make-friends-in-toronto/).)
 
 **The after-thing is the real thing.** When the run or the sit or the game ends and someone says "we usually grab food" — go. That's where regulars become friends.
 
@@ -69,4 +69,4 @@ Formats that hand you conversation, so you don't have to manufacture it.
 
 ---
 
-*This guide is part of the [Vancouver Community Directory](/) — a free, community-built list of 250+ groups, clubs, and meetups across the city. Know a group that belongs here? [Add it](/submit/).*
+*This guide is part of the [Toronto Community Directory](/) — a free, community-built list of 250+ groups, clubs, and meetups across the city. Know a group that belongs here? [Add it](/submit/).*

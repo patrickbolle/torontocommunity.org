@@ -2,70 +2,77 @@
 layout: category
 tags: category
 title: "Language Exchange"
-description: "9 language exchange groups — Chinese, Spanish, Japanese, Korean, French, Russian, and ESL conversation clubs."
+description: "12 language exchange groups and conversation clubs in Toronto plus an online partner finder — Spanish, French, Japanese, Mandarin, Korean, Italian, German and ESL meetups."
 emoji: "🗣️"
 group: social
 order: 3
+seoTitle: "{n} Language Exchange Groups in Toronto ({year})"
+seoDescription: "{n} language exchange groups and conversation clubs in Toronto: Spanish, French, Japanese, Mandarin, Korean, Italian, German and ESL meetups. Beginners welcome."
+seoHeading: "Language Exchange Groups in Toronto"
+listNoun: "language exchange groups"
 ---
 
 # 🗣️ Language Exchange
 
-## Vancouver Chinese/English Language Exchange
-- **What:** Practice Mandarin Chinese and English, make friends. Casual
-- **Find it:** [meetup.com/vancouver-chinese-english-language-exchange](https://meetup.com/vancouver-chinese-english-language-exchange)
+## TorontoBabel
+- **What:** Toronto's international language exchange — practise French, Spanish, Japanese, Korean, Mandarin, German, Italian, Russian and more with native speakers at a relaxed social. All levels welcome
+- **Find it:** [meetup.com/TorontoBabel](https://www.meetup.com/TorontoBabel/)
 
-## Se Habla (English & Spanish)
-- **What:** Language and cultural exchanges (part of global network)
-- **Find it:** [meetup.com/vancouver](https://meetup.com/vancouver) | [se-habla.com](https://se-habla.com/)
+## Toronto Japanese English Exchange (TJEX)
+- **What:** Structured, organized language exchange between English and Japanese learners and native speakers. A friendly community into Japanese language and culture
+- **When:** Saturday evenings
+- **Find it:** [meetup.com/tjex-ca](https://www.meetup.com/tjex-ca/)
 
-## Conversational English
-- **What:** ESL conversation practice
-- **Where:** Waves Coffee, 900 Howe Street
-- **Find it:** [meetup.com/esl-conversation-classes](https://meetup.com/esl-conversation-classes)
+## Spanglish Toronto
+- **What:** Casual Spanish/English exchange for people from Spanish-speaking and non-Spanish-speaking backgrounds to chat and make friends
+- **Where:** Madison Avenue Pub, 14 Madison Ave
+- **When:** Saturday afternoons
+- **Find it:** [meetup.com/SpanglishToronto](https://www.meetup.com/SpanglishToronto/)
 
-## WASABI (Japanese)
-- **What:** Japanese language exchange with worksheets and conversation
-- **Find it:** [meetup.com/wasabi](https://meetup.com/wasabi)
+## Say hello, Di hola
+- **What:** Latino-Canadian Spanish/English language exchange — practise both languages with native speakers in a welcoming crowd
+- **Find it:** [meetup.com/hola-exchange-toronto](https://www.meetup.com/hola-exchange-toronto/)
 
-## Make A Circle - English Conversation Club
-- **What:** Practice English with topics prepared weekly
-- **Find it:** [meetup.com/make-a-circle-english-conversation-club-vancouver](https://meetup.com/make-a-circle-english-conversation-club-vancouver)
+## Downtown Toronto French Conversation Exchange
+- **What:** Informal downtown group to practise French and meet new people. All levels welcome, native speakers encouraged
+- **Find it:** [meetup.com/downtown-toronto-french-conversation-exchange](https://www.meetup.com/downtown-toronto-french-conversation-exchange/)
 
-## Korean English Language Exchange
-- **What:** Korean/English practice
-- **Find it:** [meetup.com/enkor-엔콜](https://meetup.com/enkor-%EC%97%94%EC%BD%9C/) (Enkor)
+## Alliance Française Toronto
+- **What:** Toronto's French cultural centre since 1902 — conversation classes, courses and French-language cultural events across five GTA campuses
+- **Where:** 24 Spadina Rd
+- **Find it:** [alliance-francaise.ca](https://www.alliance-francaise.ca/)
 
-## Vancouver French Language Meetup
-- **What:** Practice French in a social setting. Free since 2024, no subscription needed
+## Greater Toronto German Club
+- **What:** German conversation group for learners and speakers across the GTA — monthly conversation evenings for non-native speakers plus a Stammtisch for fluent speakers
+- **Find it:** [meetup.com/gtagerman](https://www.meetup.com/gtagerman/)
+
+## University of Toronto Mandarin Exchange Club (UTME)
+- **What:** U of T student club running regular Mandarin exchange sessions for all levels — beginners, heritage and native speakers welcome
+- **Find it:** [sop.utoronto.ca](https://sop.utoronto.ca/group/university-of-toronto-mandarin-exchange-club-utme/)
+
+## Chinese Chat Cafe (TMU)
+- **What:** Mandarin conversation tables run by Toronto Metropolitan University's Languages, Literatures and Cultures department — practise speaking and listening at any level
+- **Where:** Toronto Metropolitan University, downtown campus
+- **Find it:** [torontomu.ca/chinese](https://www.torontomu.ca/chinese)
+
+## Say Kimchi
+- **What:** Long-running Korean/English language and culture exchange — practise Korean with native speakers over food and casual hangouts
+- **Find it:** [meetup.com/Say-Kimchi](https://www.meetup.com/Say-Kimchi/)
+
+## Toronto Italian
+- **What:** Italian-speaking group meeting at restaurants across Toronto to chat, eat and share Italian films and novels
+- **Find it:** [meetup.com/italian-toronto](https://www.meetup.com/italian-toronto/)
+
+## Toronto Public Library English Conversation Circle
+- **What:** Free, drop-in English conversation circles at library branches across the city for newcomers to practise speaking and make friends
+- **Where:** Various Toronto Public Library branches
 - **Cost:** Free
-- **Find it:** [meetup.com/vancouver-french-meetup](https://meetup.com/vancouver-french-meetup)
-
-## YATTA! Canada Japanese Exchange
-- **What:** Japanese language and cultural exchange. Friendly, regular meetups
-- **Find it:** [meetup.com/yatta-canada](https://meetup.com/yatta-canada)
-
-## An Effective Chit-chat Meeting
-- **What:** Casual conversation practice, English/Japanese focus. Low-pressure, social, run by software engineer
-- **Find it:** [meetup.com/an-effective-language-practice-english-japanese](https://meetup.com/an-effective-language-practice-english-japanese)
-
-## Russian English Language Exchange
-- **What:** Russian and English speakers meet over coffee to practise both languages. All levels welcome. The organiser is a Russian beginner too, so nobody needs to feel shy
-- **Where:** Waves Coffee House, 492 W Hastings St
-- **Find it:** [meetup.com/vancouver_russian](https://www.meetup.com/vancouver_russian/)
-
-## Russian Speaking Conversation & Adventure
-- **What:** A long-running group for Russian speakers who want to make friends in their own language. Hikes, Grouse Grinds, films, concerts and ski trips, all in Russian. English-speaking guests are welcome if a friend translates
-- **Find it:** [meetup.com/russian-speaking-vancouverites](https://www.meetup.com/russian-speaking-vancouverites/)
-
-## Russian Vancouver Book Club
-- **What:** Book discussions held in Russian over coffee. Read the book in any language you like. Native speakers and learners both welcome
-- **Where:** Chez Nous French Bakery, 1262 Homer St
-- **Find it:** [meetup.com/russian-vancouver-book-club](https://www.meetup.com/russian-vancouver-book-club/)
+- **Find it:** [torontopubliclibrary.ca](https://www.torontopubliclibrary.ca/programs-and-classes/categories/newcomer-esl-programs.jsp)
 
 ---
 
 ## Venues & Resources
 
-## My Language Exchange Vancouver
-- **What:** Online platform to find language partners. One-on-one conversation meetups
-- **Find it:** [mylanguageexchange.com/city/Vancouver](https://www.mylanguageexchange.com/city/Vancouver__Canada.asp)
+## My Language Exchange Toronto
+- **What:** Online platform to find language partners for one-on-one conversation meetups
+- **Find it:** [mylanguageexchange.com/city/Toronto](https://www.mylanguageexchange.com/city/Toronto__Canada.asp)

@@ -1,81 +1,91 @@
 ---
 layout: category
 tags: category
-title: "Dance"
-description: "11 places to dance — free salsa at Robson Square, bachata socials, West Coast Swing nights, and studios. No partner needed."
+title: "Dance Classes & Socials"
+description: "Salsa, bachata, swing and tango — {n} dance classes and socials in Toronto where you can learn and meet people. No partner needed."
 emoji: "💃"
 group: mind-body
-seoTitle: "Robson Square Salsa & {n} Dance Socials in Vancouver"
-seoDescription: "Free Sunday salsa at Robson Square, plus bachata socials, West Coast Swing nights and studios: {n} places to dance in Vancouver. No partner needed."
-listNoun: "places to dance"
-seoHeading: "Dance Socials in Vancouver: Salsa, Bachata & Swing"
+seoTitle: "{n} Dance Classes & Socials in Toronto"
+seoDescription: "Salsa, swing, bachata and tango: {n} dance classes and socials in Toronto to learn and meet people. No partner needed."
+listNoun: "dance classes and socials"
+seoHeading: "Dance Classes & Socials in Toronto: Salsa, Swing, Bachata & Tango"
 order: 5
 ---
 
-# 💃 Dance
+# 💃 Dance Classes & Socials
 
-## Sunday Afternoon Salsa at Robson Square
-- **What:** FREE outdoor salsa/bachata
-- **Cost:** Free
-- **When:** Sundays, July–August
-- **Where:** Robson Square
-- **Note:** The first 30 minutes are a free beginner lesson. No partner needed
-- **Find it:** [bazadance.org/salsa-bachata-robson-square](https://www.bazadance.org/salsa-bachata-robson-square)
+## Toronto Swing Dance Society (TSDS)
+- **What:** Canada's longest-running swing dance group — welcoming weekly lessons and friendly social dances in swing. No experience or partner required
+- **Where:** Beverley Halls, 206 Beverley Street
+- **Find it:** [torontoswingdancesociety.ca](https://torontoswingdancesociety.ca/)
 
-## Rueda de la Vida - Friday Free Community Salsa/Bachata
-- **What:** Free outdoor Latin dance
-- **Cost:** Free
-- **When:** Fridays 7–9pm (lesson at 7pm)
-- **Where:** Sun Hop Park
-- **Find it:** [ruedadance.org](https://ruedadance.org/)
+## Bees' Knees Dance
+- **What:** Toronto's longest-running Lindy Hop school (since 1999) — classes in Lindy Hop, Blues, Charleston and Solo Jazz, from total beginners up
+- **Where:** Dovercourt House, Bloor & Dovercourt
+- **Find it:** [beeskneesdance.com](https://beeskneesdance.com/)
 
-## BC Swing Dance Club
-- **What:** West Coast Swing lessons, socials, conventions. Active community, regional events
-- **Find it:** [bcswingdance.ca](https://bcswingdance.ca/)
+## Swing Bandits Dance
+- **What:** Toronto's inclusive West Coast Swing community — beginner and intermediate classes plus monthly social dance parties. Everyone welcome regardless of background
+- **Where:** 967 College Street
+- **When:** Third Saturday monthly
+- **Find it:** [swingbanditsdance.ca](https://swingbanditsdance.ca/)
 
-## Line Dancing at Community Centres
-- **What:** Weekly line dance classes at city community centres, from beginner to intermediate. Groups at Mount Pleasant, Hillcrest, Kensington, Hastings, Thunderbird and Renfrew Park, some for 45+ or 55+. No partner needed
-- **When:** Weekly
-- **Where:** Community centres across Vancouver
-- **Find it:** [Vancouver Recreation: line dance](https://anc.ca.apm.activecommunities.com/vancouver/activity/search?onlineSiteId=0&activity_keyword=line%20dance&viewMode=list)
+## Toronto Contra Dance
+- **What:** Lively community contra dancing with live musicians and callers who walk you through every dance — no experience or partner needed. Come alone or bring friends
+- **Where:** St. Barnabas Hall, 175 Hampton Avenue
+- **When:** 2nd & 4th Saturdays, Sept–June
+- **Find it:** [tcdance.org](http://www.tcdance.org/)
 
-## Vancouver English Country Dance
-- **What:** Regency-era social dancing with live musicians. "No experience needed. All dances taught on the spot." Come alone or with friends
-- **When:** Sundays 4:30–7:30pm, about twice a month (intro at 4:15pm)
-- **Where:** Cambrian Hall, 215 E 17th Ave
-- **Find it:** [vancouverecd.ca](https://www.vancouverecd.ca/)
+## Toronto English Country Dance Assembly (TECDA)
+- **What:** Friendly English country dancing — Regency-era social dances taught on the spot with live music. All dances called, no experience needed
+- **Where:** North York & Riverdale
+- **When:** Tuesdays & Fridays
+- **Find it:** [tecda.ca](http://www.tecda.ca/)
+
+## Toronto Tango Academy
+- **What:** Argentine tango classes, guided prácticas and regular milongas open to all levels — a welcoming entry point into Toronto's tango scene
+- **When:** Wednesday prácticas 8:30–11:30pm
+- **Find it:** [torontotangoacademy.com](https://torontotangoacademy.com/)
+
+## Steps Dance Studio
+- **What:** Salsa and bachata classes for every level, from first-timers to performance teams, in a warm studio community. Also cha cha, Latin hustle and more
+- **Where:** 819 Yonge Street
+- **Find it:** [stepsdancestudio.com](https://www.stepsdancestudio.com/)
+
+## Toronto Dance Salsa
+- **What:** Salsa and bachata lessons from Level 1 through advanced, plus regular parties and socials. A long-running school with a big, friendly student community
+- **Find it:** [torontodancesalsa.ca](https://torontodancesalsa.ca/)
+
+## UnitedSalseros
+- **What:** One of Canada's longest-running salsa schools, led by Teddy Olaso — salsa and bachata lessons plus a weekly Sunday social at Dovercourt House
+- **When:** Sundays (social at Dovercourt House)
+- **Find it:** [unitedsalseros.ca](https://unitedsalseros.ca/)
+
+## Soul2Sole Latin Dance Co.
+- **What:** Salsa and bachata classes and socials across the GTA — Mississauga, Richmond Hill, Toronto and Vaughan. Relaxed, social atmosphere focused on connection
+- **Find it:** [soul2sole.ca](https://soul2sole.ca/)
+
+## Lula Lounge
+- **What:** Toronto's home for live Latin music — Cuban Fridays and Salsa Saturdays with a beginner dance lesson before the band, then dancing all night
+- **Where:** 1585 Dundas Street West
+- **When:** Fridays & Saturdays
+- **Find it:** [lula.ca](https://www.lula.ca/)
+
+## Access Ballroom Studio
+- **What:** Ballroom and Latin group classes where you rotate partners — friendly for singles and couples alike, from Bronze 1 up
+- **Where:** 909 Queen Street East
+- **Find it:** [studioaccessballroom.com](https://studioaccessballroom.com/)
 
 ---
 
 ## Venues & Spaces
 
-## SalsaStudio.net
-- **What:** Salsa and Bachata classes
-- **Where:** Downtown Vancouver
-- **Find it:** [salsastudio.net](https://www.salsastudio.net/)
+## Dovercourt House
+- **What:** Toronto's social-dance hub — hosts salsa, bachata, swing, tango and more most nights of the week
+- **Where:** 805 Dovercourt Road
+- **Find it:** [dovercourthouse.ca](https://www.dovercourthouse.ca/)
 
-## BAZA Dance
-- **What:** Beginner Latin dance, GTK workshops. No partner required
-- **Find it:** [bazadance.com](https://www.bazadance.com/)
-
-## Dance Vancouver Studio
-- **What:** Salsa, Bachata, Cumbia, Hip Hop, Hustle
-- **Where:** 1627 West Broadway
-- **Find it:** [dancevancouver.ca](https://www.dancevancouver.ca)
-
-## Baila! DanceToday
-- **What:** Latin dance classes
-- **Find it:** [dancetoday.fun](https://www.dancetoday.fun/)
-
-## Swing Soul Vancouver
-- **What:** Intro to West Coast Swing classes. Beginner-friendly, strong foundation
-- **Find it:** [swingliteracy.com/swingsoul](https://www.swingliteracy.com/swingsoul/)
-
-## Bachata ME Thursdays
-- **What:** Bachata lessons and party all-in-one. Weekly social dance night
-- **When:** Thursdays
-- **Find it:** [danceus.org](https://www.danceus.org/events/salsa/vancouver-bc-canada-salsa-calendar/)
-
-## Mangos Kitchen Bar Dance Nights
-- **What:** Learn salsa, bachata, merengue at a Latin restaurant. Casual, fun atmosphere
-- **Find it:** [mangosvancouver.com](https://www.mangosvancouver.com/)
+## Joy of Dance Centre
+- **What:** Danforth dance studio and event space hosting West Coast Swing socials and a rotating slate of classes
+- **Where:** 95 Danforth Avenue
+- **Find it:** [joyofdance.ca](https://www.joyofdance.ca/)

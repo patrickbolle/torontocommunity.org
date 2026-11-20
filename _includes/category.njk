@@ -4,11 +4,11 @@
   {% include "partials/head.njk" %}
   {%- set titleHasGroupWord = "club" in title | lower or "group" in title | lower or "space" in title | lower or "bar" in title | lower -%}
   {%- if groupCount and titleHasGroupWord -%}
-    {%- set metaTitle = groupCount + " " + title + " in Vancouver" -%}
+    {%- set metaTitle = groupCount + " " + title + " in Toronto" -%}
   {%- elif groupCount -%}
-    {%- set metaTitle = groupCount + " " + title + " Group" + ("s" if groupCount != 1) + " in Vancouver" -%}
+    {%- set metaTitle = groupCount + " " + title + " Group" + ("s" if groupCount != 1) + " in Toronto" -%}
   {%- else -%}
-    {%- set metaTitle = title + " in Vancouver" -%}
+    {%- set metaTitle = title + " in Toronto" -%}
   {%- endif -%}
   {#- Optional front matter overrides, written from Search Console queries:
       seoTitle / seoDescription ({n} = group count, {year} = build year), seoHeading (the h1). -#}
@@ -17,8 +17,8 @@
   {%- else -%}
     {%- set pageTitle = metaTitle + " (" + buildYear + ")" -%}
   {%- endif -%}
-  {%- set liveDescription = description | liveCount(listingCount, groupCount) -%}
-  {%- set pageDescription = (seoDescription | replace("{n}", listingCount)) if seoDescription else liveDescription -%}
+  {%- set liveDescription = description | replace("{n}", listingCount) | replace("{year}", buildYear) | liveCount(listingCount, groupCount) -%}
+  {%- set pageDescription = (seoDescription | replace("{n}", listingCount) | replace("{year}", buildYear)) if seoDescription else liveDescription -%}
   <title>{{ pageTitle }}{% if (pageTitle | length) <= 41 %} | {{ site.shortTitle }}{% endif %}</title>
   <meta name="description" content="{{ pageDescription }} Updated {% buildDateHuman %}.">
   <meta property="og:title" content="{{ pageTitle }}">
@@ -35,8 +35,8 @@
   {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
-    "name": "{{ title }} in Vancouver",
-    "description": "{{ description }}",
+    "name": "{{ title }} in Toronto",
+    "description": "{{ pageDescription | replace('"', '\\"') }}",
     "url": "{{ site.url }}/{{ page.fileSlug }}/",
     {% if groupCount %}"numberOfItems": {{ groupCount }},{% endif %}
     "about": {
@@ -65,8 +65,8 @@
               "@type": "Place",
               "address": {
                 "@type": "PostalAddress",
-                "addressLocality": "Vancouver",
-                "addressRegion": "BC",
+                "addressLocality": "Toronto",
+                "addressRegion": "ON",
                 "addressCountry": "CA"
               },
               "name": "{{ item.location | replace('"', '\\"') }}"
@@ -86,7 +86,7 @@
       {
         "@type": "ListItem",
         "position": 1,
-        "name": "Vancouver Community Directory",
+        "name": "Toronto Community Directory",
         "item": "{{ site.url }}/"
       },
       {
@@ -132,7 +132,7 @@
     </nav>
     <div class="columns">
       <div class="col-main">
-        <h1 class="page-title">{% if seoHeading %}{{ seoHeading }}{% else %}{{ title }}{% if not titleHasGroupWord %} Groups{% endif %} in Vancouver{% endif %}</h1>
+        <h1 class="page-title">{% if seoHeading %}{{ seoHeading }}{% else %}{{ title }}{% if not titleHasGroupWord %} Groups{% endif %} in Toronto{% endif %}</h1>
         <p class="page-lede">{{ liveDescription }}</p>
         {%- set guideSlug = guides[page.fileSlug] %}
         {%- if guideSlug %}
@@ -186,7 +186,7 @@
               {%- endif %}
               {%- endfor %}
             </ul>
-            <p class="panel-links">New in town? <a href="/start-here/">Start here</a> &middot; <a href="/blog/how-to-make-friends-in-vancouver/">How to make friends</a></p>
+            <p class="panel-links">New in town? <a href="/start-here/">Start here</a> &middot; <a href="/blog/how-to-make-friends-in-toronto/">How to make friends</a></p>
           </div>
         </section>
         {%- endif %}
@@ -307,7 +307,7 @@
     btn.textContent = 'Sending...';
     var category = document.getElementById('edit-category').value;
     try {
-      var res = await fetch('https://vancouver-community-submit.recipekit.workers.dev/edit', {
+      var res = await fetch('https://toronto-community-submit.recipekit.workers.dev/edit', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(Object.fromEntries(new FormData(form)))
@@ -322,7 +322,7 @@
       msg.focus();
       if (window.announce) window.announce(msg.textContent);
     } catch (err) {
-      setStatus('error', 'Could not send. Try again, or email vancouver@bolle.co.');
+      setStatus('error', 'Could not send. Try again, or email toronto@bolle.co.');
     }
     form._busy = false;
     btn.removeAttribute('aria-disabled');

@@ -1,7 +1,35 @@
 {
-  "url": "https://vancouvercommunity.org",
-  "title": "Vancouver Community Directory",
-  "description": "Find your people in Vancouver: 300+ clubs, groups and meetups in 45+ categories, from run clubs and book clubs to supper clubs. Free, updated weekly.",
-  "analyticsId": "ce0a9531-1032-4e43-a3a6-5c93cf9513f6",
-  "shortTitle": "Vancouver Community"
+  "url": "https://torontocommunity.org",
+  "title": "Toronto Community Directory",
+  "description": "Find your people in Toronto & the GTA: clubs, groups and meetups in 45+ categories, from run clubs and book clubs to supper clubs. Free, updated weekly.",
+  "analyticsId": "",
+  "shortTitle": "Toronto Community",
+  "ref": "torontocommunity.org",
+  "city": "toronto",
+  "name": "Toronto",
+  "contact": {
+    "email": "toronto@bolle.co",
+    "hello": "hello@torontocommunity.org"
+  },
+  "github": {
+    "repo": "patrickbolle/torontocommunity.org"
+  },
+  "author": {
+    "name": "Patrick",
+    "link": "https://bollenbach.ca?ref=torontocommunity",
+    "inCity": false
+  },
+  "voice": {
+    "origin": "Toronto can feel like a big, fast city — easy to be surrounded by people and still feel alone. I built this directory to help you find your people.",
+    "tagline": "Groups, clubs and meetups in Toronto & the GTA, collected by hand."
+  },
+  "theme": {
+    "masthead": "#7a3b2e",
+    "mastheadDeep": "#5e2c22",
+    "link": "#1f5d7a",
+    "linkHover": "#144257",
+    "linkVisited": "#4f4f86",
+    "success": "#3f6e3e",
+    "error": "#b23a48"
+  }
 }

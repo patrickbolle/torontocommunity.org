@@ -2,124 +2,80 @@
 layout: category
 tags: category
 title: "Social & Friend Clubs"
-description: "21 ways to make friends in Vancouver — park hangs, brunch meetups, wine nights, dodgeball leagues, and more."
+description: "15 ways to make friends in Toronto — stranger dinners, introvert-friendly hangouts, social sports leagues, women's circles, and more."
 emoji: "🤝"
 group: social
-seoTitle: "Social Clubs in Vancouver: {n} Ways to Meet People ({year})"
-seoDescription: "Social clubs in Vancouver and where to meet people: {n} friend clubs and meetups, from park hangs and brunch meetups to dodgeball leagues."
+seoTitle: "Social Clubs in Toronto: {n} Ways to Meet People ({year})"
+seoDescription: "Social clubs in Toronto and where to meet people: {n} friend clubs and meetups, from stranger dinners and introvert-friendly hangouts to social sports leagues."
 listNoun: "social & friend clubs"
-seoHeading: "Social Clubs in Vancouver: Where to Meet People"
+seoHeading: "Social Clubs in Toronto: Where to Meet People"
 order: 2
 ---
 
-# 🤝 Social / Friend Clubs
+# 🤝 Social & Friend Clubs in Toronto
 
-## We Should Be Friends
-- **What:** Park hangs, pottery nights, spin classes, neighbourhood book clubs. Focused on lasting friendships, not one-night connections
-- **Find it:** [@weshouldbefriendsvancouver](https://instagram.com/weshouldbefriendsvancouver)
+## Timeleft Toronto
+- **What:** Weekly dinners that match you with 4–6 compatible strangers at a restaurant the app picks. Women-only dinners on Mondays, too
+- **When:** Wednesdays & Fridays 7pm
+- **Find it:** [timeleft.com/toronto](https://timeleft.com/toronto/)
 
-## Vancouver Social Club
-- **What:** General social events for expanding your circle
-- **Size:** 4,600+ members
-- **Find it:** [meetup.com/vancouver-social-club](https://meetup.com/vancouver-social-club)
+## 222
+- **What:** A short personality quiz matches you with a small group of strangers for curated evenings — group dinners, comedy nights, rooftop DJs and yoga
+- **Find it:** [222.place](https://222.place/)
 
-## Stellar Socials
-- **What:** Networking events, social activities. Learning and exploring new interests together
-- **Find it:** [meetup.com/stellar-socials-vancouver-meetup-group](https://meetup.com/stellar-socials-vancouver-meetup-group)
+## Social Club 150
+- **What:** Friendship club for people in their 40s, 50s and 60s, named after Dunbar's Number — the idea that we each keep about 150 meaningful connections. Two Toronto chapters
+- **Where:** East End & West End chapters (Queen St E & Broadview; College & Dovercourt)
+- **Find it:** [socialclub150.com](https://socialclub150.com/)
 
-## Weird & Wonderful: A Neurodiverse Social Club
-- **What:** Social events for neurodivergent folks. Positive, friendly space for magical and interesting people
-- **Find it:** [meetup.com/aspies-and-other-neurodivergents](https://meetup.com/aspies-and-other-neurodivergents)
+## Toronto Tamagotchi Club
+- **What:** A social club built around a shared love of Tamagotchi virtual pets, started in 2022 as an antidote to the "cultural crisis of loneliness." 200+ members meet in parks and public spaces across the city
+- **When:** Every other month
+- **Find it:** [torontotamagotchiclub.neocities.org](https://torontotamagotchiclub.neocities.org/)
 
-## Black Women Connect Vancouver
-- **What:** Community events for Black women. Inspire, empower, embrace diverse experiences
-- **Find it:** [blackwomenconnectvancouver.com](https://blackwomenconnectvancouver.com/) | [Instagram](https://instagram.com/blackwomenconnectvancouver)
+## Invisible Strangers
+- **What:** Social events designed to be introvert and social-anxiety friendly, for Gen Z and Millennials — icebreaker games, craft nights and walks that skip the small talk
+- **Find it:** [meetup.com/invisible-strangers](https://www.meetup.com/invisible-strangers/)
 
-## The Witching Hour
-- **What:** Baby-friendly happy hour for parents
-- **Find it:** [Instagram @witchinghouryvr](https://instagram.com/witchinghouryvr)
+## 20 & 30 Somethings in Toronto
+- **What:** Meet people in their 20s and 30s through friendship, activities, music, arts, networking and fun
+- **Find it:** [meetup.com/20-30somethingsintoronto](https://www.meetup.com/20-30somethingsintoronto/)
 
-## Shindigs & Board Games with Friendly Folks
-- **What:** Games and socializing. "Safe, comfortable space... not a dating meetup"
-- **Find it:** [meetup.com/game-of-boards-with-friendly-folks](https://meetup.com/game-of-boards-with-friendly-folks)
+## Toronto Social Club
+- **What:** A friendly general social group running casual events — dinners, walks and nights out — to meet new people around the city
+- **Find it:** [meetup.com/toronto-social-club](https://www.meetup.com/toronto-social-club/)
 
-## Make Friends Over Brunch Vancouver
-- **What:** Brunch meetups to make new friends. Low-pressure, delicious food, small groups of 4-6 people
-- **Find it:** [groupvibe.com](https://groupvibe.com/)
+## New in Toronto
+- **What:** Meetups for people who are new to Toronto — explore the city, make friends and build a social circle from scratch
+- **Find it:** [meetup.com/newintoronto](https://www.meetup.com/newintoronto/)
 
-## Meatless Meetup
-- **What:** Social events for vegetarians/vegans. Plant-based dining and socializing, 5400+ members
-- **Find it:** [meetup.com/MeatlessMeetup](https://meetup.com/MeatlessMeetup)
+## Hogtown Hash House Harriers
+- **What:** Toronto chapter of the global "drinking club with a running problem" — social runs and walks along pre-marked 4–8 km trails, then drinks together
+- **When:** Every other Saturday, plus monthly Thursday & Friday
+- **Find it:** [meetup.com/meetup-group-pyrddkbc](https://www.meetup.com/meetup-group-pyrddkbc/)
 
-## Kits Beach Evening Social
-- **What:** Casual beach/downtown hangouts. Summer vibes, making new social connections
-- **Find it:** [meetup.com/kits-beach-social-group](https://meetup.com/kits-beach-social-group)
+## JAM Sports Toronto
+- **What:** Adult recreational sports leagues — dodgeball, basketball, beach volleyball, curling and more — built around the social side as much as the game
+- **Find it:** [toronto.jamsports.com](https://toronto.jamsports.com/)
 
-## Foodees on Board
-- **What:** Food-focused social meetups. Explore Vancouver's food scene together
-- **Find it:** [meetup.com/foodees-on-board](https://meetup.com/foodees-on-board)
+## Dodgeball Collective
+- **What:** Co-ed dodgeball league in downtown Toronto welcoming every experience level, from 15-year veterans to first-timers
+- **Where:** Downtown Toronto
+- **Find it:** [leagues.teamlinkt.com/Leagues/index/dodgeballcollective](https://leagues.teamlinkt.com/Leagues/index/dodgeballcollective/)
 
-## WNORTH
-- **What:** Women's leadership and networking events. Award-winning membership network, summits, connect dinners
-- **Find it:** [lu.ma/wnorth](https://lu.ma/wnorth)
+## FemCity Toronto
+- **What:** A heart-centred community for women across the GTA — social gatherings and events that grow genuine friendships alongside careers
+- **Find it:** [femcity.com/toronto](https://femcity.com/toronto/)
 
-## Ascent
-- **What:** Private social club for learning and playing poker. Safe space for beginners, networking with like-minded people
-- **Find it:** [lu.ma/ascent](https://lu.ma/ascent)
+## Gyallivant
+- **What:** Wellness and social events created by and for Black women and women of colour — line dancing, workshops and community spaces across the GTHA
+- **Where:** GTHA
+- **Find it:** [gyallivant.com](https://gyallivant.com/)
 
-## Events & Adventures
-- **What:** Invitation-only singles social club with curated activities. Meet people through fun group outings, pressure-free
-- **Find it:** [eventsandadventures.com](https://eventsandadventures.com)
+## Brown Girls Thriving
+- **What:** Community for South Asian women to connect, grow and build friendships and ambition together
+- **Find it:** [browngirlsthriving.com](https://browngirlsthriving.com/)
 
-## Vancouver Widowed Social Group
-- **What:** Social group for widows and widowers in Greater Vancouver. Friendly, welcoming, supportive community
-- **Find it:** [heylo.com/g/vancouver-widowed](https://www.heylo.com/g/9e18daaa-3500-46ab-b754-195038213729)
-
-## Vancouver Dodgeball League
-- **What:** Largest non-profit dodgeball organization in the world. Sport + social, post-game pub nights
-- **Size:** 260+ teams, 2,000+ players
-- **Find it:** [vdldodgeball.ca](https://vdldodgeball.ca)
-
-## Double Rainbow Dodgeball
-- **What:** Inclusive community dodgeball league. 19+, LGBTQ+ friendly, drug & alcohol free
-- **Find it:** [doublerainbowdodgeball.ca](https://doublerainbowdodgeball.ca)
-
-## English Bay Swim Club
-- **What:** LGBTQ+ swimming club. Positive, inclusive space, especially trans-friendly
-- **Find it:** Search "English Bay Swim Club Vancouver"
-
-## Nikkei Social
-- **What:** Nikkei Social is a Vancouver social club for Japanese, Nikkei, and anyone who loves the Japanese culture. We wanted to create a community that feels natural, intentional and fun. Expect great venues, good conversations, and thoughtful hosting so the vibe stays warm and inclusive. Not a language exchange or anime focused. English first by default. Japanese always welcome.
-- **Find it:** [instagram.com/nikkeisocial](https://www.instagram.com/nikkeisocial)
-
-## Choose Well Club
-- **What:** Monthly women's wellness brunches. Each month, we focus on a different aspect of women's health by inviting industry experts to come and deliver a workshop so women can be connected to the information they can trust. Brunch is always included, and is a chance to connect with other women from the Vancouver area.
-- **When:** Monthly
-- **Find it:** [instagram.com/choosewellclub](https://www.instagram.com/choosewellclub/)
-
-## Vancouver Pub Nights
-- **What:** Free, casual pub nights to meet new people at a different pub each time. Stay an hour or all night. Also runs a board game night every second Monday
-- **Cost:** Free
-- **When:** Every second Thursday, 7pm
-- **Size:** 15,000+ members
-- **Find it:** [meetup.com/vancouver-pub-nights](https://www.meetup.com/vancouver-pub-nights/)
-
-## Urban Minglers over 30
-- **What:** Downtown social group for people over 30, with regular "Mingle 45+" meetups for making new friends. Also happy hours, dance nights and outings
-- **Where:** Downtown Vancouver
-- **Find it:** [meetup.com/urbanminglersover30](https://www.meetup.com/urbanminglersover30/)
-
-## 411 Seniors Centre Society
-- **What:** "The go-to hub for older adults." A drop-in centre for older adults with activities, events and committees. Volunteers and staff welcome you in person on weekdays
-- **Where:** 3502 Fraser St
-- **Find it:** [411seniors.org](https://411seniors.org/)
-
-## Seniors' Socials at Community Centres
-- **What:** Low-cost socials for older adults: Seniors' Social and Games at Marpole (50+), the Fall Seniors Social at Killarney, free mah jong drop-ins at Hastings (55+) and karaoke drop-ins at Sunset (50+)
-- **Where:** Community centres across Vancouver
-- **Find it:** [Vancouver Recreation: seniors social](https://anc.ca.apm.activecommunities.com/vancouver/activity/search?onlineSiteId=0&activity_keyword=seniors%20social&viewMode=list)
-
-## {{ mutuals.name }}
-- **What:** A low-pressure way to meet people through books. Get matched into a neighbourhood book club of 4 to 8 people who love the same kinds of books. No cost to sign up; you pay $15 only when your group is ready
-- **Cost:** $15 when your group is ready
-- **Find it:** [{{ mutuals.domain }}]({{ mutuals.links.listingSocial }})
+## City Girls Social Club
+- **What:** Social events and learning workshops that help women meet like-minded women — usually ages 24–35, all welcome
+- **Find it:** [instagram.com/citygirlssocialclub](https://www.instagram.com/citygirlssocialclub/)

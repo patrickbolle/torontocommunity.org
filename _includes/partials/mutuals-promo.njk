@@ -5,6 +5,7 @@
       promoHeading   optional heading (feature only)
       promoBody      optional one-sentence lead before the steps (feature only)
 -#}
+{%- if mutuals.enabled %}
 {%- set promoHref = mutuals.link(promoPlacement) %}
 {%- if promoVariant == "compact" %}
 <section class="mutuals-promo mutuals-promo-compact" aria-label="{{ mutuals.name }}, neighbourhood book clubs">
@@ -31,4 +32,5 @@
     <p class="mutuals-promo-price">{{ mutuals.price }}</p>
   </div>
 </section>
+{%- endif %}
 {%- endif %}

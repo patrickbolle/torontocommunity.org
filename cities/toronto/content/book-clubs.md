@@ -1,75 +1,69 @@
 ---
 layout: category
 tags: category
-title: "Book Clubs"
-description: "9 book clubs — silent reading sessions, spirited debates, genre-specific picks, and read-whatever-you-want meetups."
+title: "Book Clubs in Toronto"
+description: "{n} book clubs in Toronto — silent reading sessions, spirited debates, sci-fi & fantasy picks, and read-what-you-love meetups ({year})."
 emoji: "📚"
 group: intellectual
 order: 1
 ---
 
-# 📚 Book Clubs & Reading
+# 📚 Book Clubs in Toronto
 
-## Silent Book Club
-- **What:** People gather to read silently together, then chat. Introverts unite, low-pressure social
-- **Find it:** [silentbook.club](https://silentbook.club) (check for Vancouver chapter)
+## Silent Book Club (Toronto)
+- **What:** Readers gather to read their own books in companionable silence, then chat about what they're reading. Free, low-pressure, introvert-friendly — no assigned book to finish
+- **Find it:** [meetup.com/toronto-silent-book-club-meetup-group](https://www.meetup.com/toronto-silent-book-club-meetup-group/)
 
-## Rebel Book Club Vancouver
-- **What:** Thought-provoking reads and meaningful discussions
-- **When:** Last Tuesday of the month
-- **Find it:** [rebelbook.club/cities/vancouver](https://rebelbook.club/cities/vancouver)
-
-## The Gloss Book Club
-- **What:** Global book club for women. Same book globally, local meetups monthly
+## Rebel Book Club Toronto
+- **What:** A once-a-month non-fiction book club that brings people together to look at the world differently
 - **When:** Monthly
-- **Find it:** [theglossbookclub.com/vancouver](https://theglossbookclub.com/vancouver)
+- **Find it:** [rebelbook.club/cities/toronto](https://rebelbook.club/cities/toronto)
 
-## VPL Book Clubs
-- **What:** Various library-run book clubs
-- **Find it:** [vpl.bibliocommons.com](https://vpl.bibliocommons.com/v2/events)
-
-## Vancouver Women Who Read
-- **What:** Anti-book club where members read their own thought-provoking choices. Supportive community
+## The Gloss Book Club Toronto
+- **What:** Book club for women that reads the same book worldwide and meets up locally — Toronto is where it all began
 - **When:** Monthly
-- **Find it:** [meetup.com/vancouver-women-who-read](https://meetup.com/vancouver-women-who-read)
+- **Find it:** [theglossbookclub.com/toronto](https://theglossbookclub.com/toronto)
 
-## The Little Things Book and Movie Club
-- **What:** Books and their film adaptations. Appreciating special moments in books/movies
-- **Find it:** [meetup.com/the-little-things-book-and-movie-club](https://meetup.com/the-little-things-book-and-movie-club)
+## Flying Books Book Club
+- **What:** Monthly book club at this indie bookshop — your ticket includes a drink and a $20 credit toward any book in the shop
+- **Where:** Neverland, 371 Queen St W
+- **Find it:** [flyingbooks.ca/events](https://www.flyingbooks.ca/events)
 
-## Vancouver Unconventional Books
-- **What:** Off-the-beaten-path book selections. Literary, iconoclastic reads
-- **Find it:** [meetup.com/vanunconventionalbooks](https://meetup.com/vanunconventionalbooks)
+## Another Story Bookshop
+- **What:** Roncesvalles indie that hosts the Violet Hour Book Club — classic and queer-lit reads over discussion — plus regular author events
+- **Where:** 315 Roncesvalles Ave
+- **Find it:** [anotherstory.ca/events](https://anotherstory.ca/events)
 
-## Vancouver Fantasy & Sci-Fi Group
-- **What:** This group is for people who love sci-fi, fantasy, anime, and speculative stories, but want to talk about them like adults. We discuss books, films, anime, TV, and short fiction through the big human questions underneath: freedom, technology, power, loneliness, identity, memory, fear, home, and what people become under pressure. No trivia sludge, no lore-flexing, no fandom gatekeeping. Story as a machine for ideas.
-- **Find it:** [meetup.com/vancouver-fantasy-scifi-meetup-group](https://www.meetup.com/vancouver-fantasy-scifi-meetup-group/)
+## A Different Booklist
+- **What:** Bookstore and cultural hub for Black, Indigenous, Caribbean and African-Canadian books; hosts book clubs, readings and community events
+- **Where:** 779 Bathurst St
+- **Find it:** [adifferentbooklist.com/events](https://www.adifferentbooklist.com/events)
 
-## LitBug Community Book Club
-- **What:** Reads biographies, fiction and non-fiction, then meets to talk books and socialize
-- **When:** Monthly or every two months
-- **Where:** Cafés around the Lower Mainland, often downtown
-- **Find it:** [meetup.com/litbug-community-book-club](https://www.meetup.com/litbug-community-book-club/)
+## Glad Day Bookshop
+- **What:** The world's oldest 2SLGBTQIA+ bookstore; Glad Day Lit runs book clubs, readings and discussion nights that keep queer culture alive
+- **Find it:** [gladday.ca](https://www.gladday.ca/)
 
-## Vancouver Genre Book Club
-- **What:** Monthly book club for sci-fi and fantasy, with mystery, crime and horror too. Members suggest books on Discord. Run by Shindigs & Board Games with Friendly Folks
-- **When:** Thursdays 6:30pm, about every 4 weeks
-- **Where:** Mount Pleasant Library
-- **Find it:** [meetup.com/shindigs](https://www.meetup.com/shindigs/)
+## Queen Books
+- **What:** Leslieville indie running the Read Wine Book Club and other reading nights out of a neighbourhood storefront
+- **Where:** 914 Queen St E
+- **Find it:** [queenbooks.ca/events](http://queenbooks.ca/events/)
 
-## Jane Austen & Beyond Book Club
-- **What:** Reads Austen and other 19th-century British novels, then talks them over with tea or a meal. You can come even if you haven't finished the book
-- **When:** Monthly, usually Friday evenings
-- **Where:** Based in Coquitlam
-- **Find it:** [meetup.com/jane-austen-and-beyond-book-club](https://www.meetup.com/jane-austen-and-beyond-book-club/)
+## Toronto Sci-Fi + Fantasy for 20s & 30s
+- **What:** Readers in their 20s and 30s pick one sci-fi or fantasy book a month and meet at a downtown café or pub to talk it over
+- **When:** Monthly
+- **Where:** Downtown Toronto
+- **Find it:** [bookclubs.com/club/toronto-sci-fi-fantasy-for-20s-and-30s](https://bookclubs.com/join-a-book-club/club/toronto-sci-fi-fantasy-for-20s-and-30s)
 
-## Upstart & Crow Book Clubs
-- **What:** Two book clubs at this Granville Island bookshop. In Translation reads books from other languages (free). litty reads new books before the critics' year-end lists
-- **When:** Each meets every two months, 6–7:30pm
-- **Where:** Upstart & Crow Studio, Granville Island
-- **Find it:** [upstartandcrow.com/events](https://upstartandcrow.com/events/)
+## The Augur Bookshelf
+- **What:** Monthly speculative-fiction book club from Toronto's Augur Magazine — SFF picks across fiction, poetry, comics and plays, sourced with Bakka-Phoenix Books
+- **When:** Fourth Monday monthly
+- **Find it:** [augursociety.org](https://augursociety.org/augur-society-launches-a-new-book-club-the-augur-bookshelf/)
 
-## {{ mutuals.name }}
-- **What:** Matches Vancouver readers into small neighbourhood book clubs of 4 to 8 people who love the same kinds of books, then introduces you by email. No cost to sign up; you pay $15 only when your group is ready
-- **Cost:** $15 when your group is ready
-- **Find it:** [{{ mutuals.domain }}]({{ mutuals.links.listingBookClubs }})
+## Book Club for Humans
+- **What:** Non-fiction book club for philosophical and cultural discussion on human behaviour, culture and thinking
+- **When:** Monthly
+- **Find it:** [meetup.com/book-club-for-humans](https://www.meetup.com/book-club-for-humans/)
+
+## Toronto Women's Book Club
+- **What:** Friendly book club for women with cozy meetups, book-bar nights and monthly reads
+- **Find it:** [meetup.com/toronto-women-s-book-society](https://www.meetup.com/toronto-women-s-book-society/)

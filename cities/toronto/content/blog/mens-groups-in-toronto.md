@@ -1,25 +1,25 @@
 ---
 layout: post
 tags: post
-title: "Men's groups in Vancouver: circles, dads and friends"
-description: "A plain guide to men's talking circles, support groups, dad meetups and wellness groups in Vancouver, plus easy ways to make friends as a man."
+title: "Men's groups in Toronto: circles, dads and friends"
+description: "A plain guide to men's talking circles, support groups, dad meetups and wellness groups in Toronto, plus easy ways to make friends as a man."
 date: 2026-10-09
 faq:
-  - q: "Are there men's support groups in Vancouver?"
+  - q: "Are there men's support groups in Toronto?"
     a: "Yes. The DUDES Club, ManKind Project BC and Pathways Men's Talking Circle all run supportive talking circles for men. The DUDES Club and Pathways are participant-led, and ManKind Project BC has a finder to help you locate a group. The directory lists them all on its men's groups page."
   - q: "What is a men's circle?"
     a: "A men's circle is a small group of men who meet to talk honestly about their lives. Some focus on support and listening, like ManKind Project BC. Others, like ARKA Brotherhood, run weekly action-focused circles built around leadership and mature masculinity."
-  - q: "How do I make friends as a man in Vancouver?"
+  - q: "How do I make friends as a man in Toronto?"
     a: "Join something that meets on a schedule and go three times before you judge it. That can be a men's circle, a dads' meetup, or an activity like a run club or board game night. Friendship comes from seeing the same faces again and again."
-  - q: "Are there groups for dads in Vancouver?"
-    a: "Yes. Metro Vancouver Dads runs meetups for fathers with young kids. They are casual playground hangouts with some parenting support, and you can find them on Meetup."
+  - q: "Are there groups for dads in Toronto?"
+    a: "Yes. Metro Toronto Dads runs meetups for fathers with young kids. They are casual playground hangouts with some parenting support, and you can find them on Meetup."
 ---
 
-Men in Vancouver are lonely. Not all of them, and not all the time. But enough that "mens groups vancouver" is one of the most common searches that lands people on this site.
+Men in Toronto are lonely. Not all of them, and not all the time. But enough that "mens groups toronto" is one of the most common searches that lands people on this site.
 
 I get it. Most men I know lost their friends the slow way. School ended, jobs moved, partners and kids took the evenings. Nobody decided to stop calling. It just stopped. Then one day you notice you have no one to tell about your week, and you are not sure how to fix it.
 
-The good news is that some men in this city have built places for exactly this. Here is what exists, sorted by what you might be looking for. Every group below is a real Vancouver listing from [the directory's men's groups page](/mens-groups/).
+The good news is that some men in this city have built places for exactly this. Here is what exists, sorted by what you might be looking for. Every group below is a real Toronto listing from [the directory's men's groups page](/mens-groups/).
 
 ## If you want to talk (a men's circle)
 
@@ -39,13 +39,13 @@ Some men want support. Others want someone to hold them to a goal. Both are fine
 
 ## If you want to look after your health
 
-**[Men's Wellness Groups (Meetup)](/mens-groups/#men's-wellness-groups-(meetup))** is a Meetup page that gathers men's health groups in Vancouver. It covers fitness, mindfulness and social events, with a whole-person approach to wellness. It is a good place to browse if you want to do something with your body and meet other men while you do it.
+**[Men's Wellness Groups (Meetup)](/mens-groups/#men's-wellness-groups-(meetup))** is a Meetup page that gathers men's health groups in Toronto. It covers fitness, mindfulness and social events, with a whole-person approach to wellness. It is a good place to browse if you want to do something with your body and meet other men while you do it.
 
 ## If you're a dad
 
 New fatherhood can be strangely isolating. You are busy every minute and still somehow alone.
 
-**[Metro Vancouver Dads](/mens-groups/#metro-vancouver-dads)** runs meetups for fathers with young kids. They are casual playground hangouts. The kids play, the dads talk, and some parenting support happens along the way. It is a low-stakes way to meet men in the same season of life.
+**[Metro Toronto Dads](/mens-groups/#metro-toronto-dads)** runs meetups for fathers with young kids. They are casual playground hangouts. The kids play, the dads talk, and some parenting support happens along the way. It is a low-stakes way to meet men in the same season of life.
 
 ## If you just want friends
 
@@ -56,7 +56,7 @@ Not every man wants a circle. Some just want a few guys to see on a Thursday. Th
 - **[Social and friend clubs](/social-friend-clubs/)** exist only so strangers can become friends.
 - **[More sports](/more-sports/)** has drop-in leagues and games where you are on a team by default.
 
-I wrote a longer guide on [how to make friends in Vancouver](/blog/how-to-make-friends-in-vancouver/). The short version is one rule: pick something that meets on a schedule, and go three times before you decide.
+I wrote a longer guide on [how to make friends in Toronto](/blog/how-to-make-friends-in-toronto/). The short version is one rule: pick something that meets on a schedule, and go three times before you decide.
 
 ## How to walk in the first time
 
@@ -78,4 +78,4 @@ There are more men's groups than any one guide can cover. New ones join the dire
 
 ---
 
-*Part of the [Vancouver Community Directory](/), a free, community-built list of 250+ groups, clubs, and meetups across the city.*
+*Part of the [Toronto Community Directory](/), a free, community-built list of 250+ groups, clubs, and meetups across the city.*

@@ -7,7 +7,7 @@ permalink: /submit/
 <head>
   {% include "partials/head.njk" %}
   <title>Submit a Group | {{ site.shortTitle }}</title>
-  <meta name="description" content="Submit a community group, club, or meetup to be added to the Vancouver Community Directory.">
+  <meta name="description" content="Submit a community group, club, or meetup to be added to the Toronto Community Directory.">
   <meta property="og:image" content="{{ site.url }}/og-image.png">
   <link rel="canonical" href="{{ site.url }}/submit/">
 </head>
@@ -17,7 +17,7 @@ permalink: /submit/
 <main id="main-content">
   <div class="frame page">
   <h1 class="page-title">Submit a group</h1>
-  <p class="page-lede">Know a community, club or meetup in Vancouver that should be listed here? This directory is community-built. Your suggestion helps everyone.</p>
+  <p class="page-lede">Know a community, club or meetup in Toronto that should be listed here? This directory is community-built. Your suggestion helps everyone.</p>
   <div class="columns">
   <div class="col-main">
   <section class="panel">
@@ -93,7 +93,7 @@ permalink: /submit/
     btn.textContent = 'Submitting...';
     const data = Object.fromEntries(new FormData(form));
     try {
-      const res = await fetch('https://vancouver-community-submit.recipekit.workers.dev/', {
+      const res = await fetch('https://toronto-community-submit.recipekit.workers.dev/', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(data)
@@ -107,10 +107,10 @@ permalink: /submit/
         form.reset();
       } else {
         const serverMsg = result && typeof result.error === 'string' && result.error.trim();
-        say('error', (serverMsg || 'Something went wrong on our side.') + ' Your answers are still here. Try again, or email vancouver@bolle.co.');
+        say('error', (serverMsg || 'Something went wrong on our side.') + ' Your answers are still here. Try again, or email toronto@bolle.co.');
       }
     } catch (err) {
-      say('error', 'Could not reach the server. Check your connection and try again, or email vancouver@bolle.co.');
+      say('error', 'Could not reach the server. Check your connection and try again, or email toronto@bolle.co.');
     }
     form._busy = false;
     btn.removeAttribute('aria-disabled');

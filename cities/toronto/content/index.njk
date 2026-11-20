@@ -10,15 +10,15 @@ permalink: /
 <html lang="en">
 <head>
   {% include "partials/head.njk" %}
-  <title>Vancouver Community: {{ totalGroups }}+ Clubs, Groups & Meetups ({% buildYear %})</title>
+  <title>Toronto Community: {{ totalGroups }}+ Clubs, Groups & Meetups ({% buildYear %})</title>
   <meta name="description" content="{{ site.description }}">
-  <meta property="og:title" content="Vancouver Community Directory — Find Your People">
+  <meta property="og:title" content="Toronto Community Directory — Find Your People">
   <meta property="og:description" content="{{ site.description }}">
   <meta property="og:type" content="website">
   <meta property="og:url" content="{{ site.url }}/">
   <meta property="og:image" content="{{ site.url }}/og-image.png">
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="Vancouver Community Directory — Find Your People">
+  <meta name="twitter:title" content="Toronto Community Directory — Find Your People">
   <meta name="twitter:description" content="{{ site.description }}">
   <meta name="twitter:image" content="{{ site.url }}/og-image.png">
   <link rel="canonical" href="{{ site.url }}/">
@@ -31,10 +31,10 @@ permalink: /
     "description": "{{ site.description }}",
     "areaServed": {
       "@type": "City",
-      "name": "Vancouver",
+      "name": "Toronto",
       "address": {
         "@type": "PostalAddress",
-        "addressRegion": "BC",
+        "addressRegion": "ON",
         "addressCountry": "CA"
       }
     },
@@ -49,7 +49,7 @@ permalink: /
   {
     "@context": "https://schema.org",
     "@type": "ItemList",
-    "name": "Community Categories in Vancouver",
+    "name": "Community Categories in Toronto",
     "numberOfItems": {{ collections.categories.length }},
     "itemListElement": [
       {%- for cat in collections.categories %}
@@ -73,7 +73,7 @@ permalink: /
   <div class="frame page">
     <div class="columns">
       <div class="col-main">
-        <h1 class="page-title">Find your people in Vancouver.</h1>
+        <h1 class="page-title">Find your people in Toronto.</h1>
         <p class="page-lede">{{ totalGroups }}+ groups across {{ collections.categories.length }} categories. Run clubs, supper clubs, philosophy circles, maker spaces and more. Browse, click through, show up.</p>
 
         <form class="search" role="search" id="homepage-search-form" action="/" method="get">
@@ -137,14 +137,14 @@ permalink: /
             <h2 class="panel-title">A note from Patrick</h2>
             <div class="panel-body note">
               <img src="/patrick-face.jpg" alt="Patrick Bollenbach" class="note-photo" width="56" height="56" loading="lazy">
-              <p>Vancouver can feel like a hard city to make friends. I built this directory to help.</p>
+              <p>Toronto can feel like a hard city to make friends. I built this directory to help.</p>
               <p>I add new groups every week. Know one I'm missing? <a href="/submit/" data-umami-event="click-submit-cta" data-umami-event-source="homepage-note">Tell me about it</a>.</p>
               <p class="panel-links"><a href="/about/">Why I made this <span aria-hidden="true">&rarr;</span></a></p>
             </div>
           </section>
 
           {%- set sponsorData = sponsors.homepage %}{% set sponsorSlot = "homepage" %}{% set sponsorDemo = false %}
-          {%- set sponsorPitch = "This is the front door of the directory. One partner at a time, clearly labelled, right where Vancouver looks for things to do." %}
+          {%- set sponsorPitch = "This is the front door of the directory. One partner at a time, clearly labelled, right where Toronto looks for things to do." %}
           {% include "partials/sponsor-card.njk" %}
         </div>
       </div>
@@ -171,12 +171,12 @@ permalink: /
 
         {#- A short, hand-picked list (most-searched in Search Console) with short names; the rest live on /blog/. #}
         {%- set homeGuides = [
-          ["how-to-make-friends-in-vancouver", "How to make friends in Vancouver"],
-          ["best-book-clubs-in-vancouver", "The best book clubs"],
-          ["things-to-do-alone-in-vancouver", "Things to do alone"],
-          ["hiking-clubs-in-vancouver", "Hiking clubs"],
-          ["supper-clubs-dinner-with-strangers-vancouver", "Supper clubs and dinner with strangers"],
-          ["writing-groups-in-vancouver", "Writing groups"]
+          ["how-to-make-friends-in-toronto", "How to make friends in Toronto"],
+          ["best-book-clubs-in-toronto", "The best book clubs"],
+          ["things-to-do-alone-in-toronto", "Things to do alone"],
+          ["hiking-clubs-in-toronto", "Hiking clubs"],
+          ["supper-clubs-dinner-with-strangers-toronto", "Supper clubs and dinner with strangers"],
+          ["writing-groups-in-toronto", "Writing groups"]
         ] %}
         <section class="panel">
           <h2 class="panel-title">Guides</h2>

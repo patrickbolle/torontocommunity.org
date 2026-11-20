@@ -1,27 +1,27 @@
 ---
 layout: post
 tags: post
-title: "Vinyl listening bars in Vancouver: bars, shops and parties"
-description: "Where to listen to records in Vancouver: Bar Gobo, Amber, Lala and more listening bars, Doze Hifi pop-ups, Neptoon parties and the best record shops."
+title: "Vinyl listening bars in Toronto: bars, shops and parties"
+description: "Where to listen to records in Toronto: Bar Gobo, Amber, Lala and more listening bars, Doze Hifi pop-ups, Neptoon parties and the best record shops."
 date: 2026-11-13
 faq:
-  - q: "Is there a vinyl listening bar in Vancouver?"
+  - q: "Is there a vinyl listening bar in Toronto?"
     a: "Yes, several. Bar Gobo (237 Union St, Chinatown) plays all vinyl on a custom analogue system. Amber (99 Powell St, Gastown) plays vinyl only on vintage hi-fi. Lala is a 40-seat vinyl bar in the basement of June at 3305 Cambie St. Bleach Listening Room is at 611 Gore Ave, and Osteria Otto pairs Italian food with hi-fi vinyl at 151 E 8th Ave."
   - q: "Do I need a reservation for Lala?"
     a: "When Lala opened, Scout Magazine reported limited online reservations through Resy and said walk-ins are always welcome. Check June's Instagram, @juneoncambie, for the latest."
-  - q: "Where are album listening parties in Vancouver?"
+  - q: "Where are album listening parties in Toronto?"
     a: "Neptoon Records hosts album release listening parties for new records. Check the events on neptoon.com for upcoming dates."
-  - q: "Which Vancouver record stores are good to browse?"
+  - q: "Which Toronto record stores are good to browse?"
     a: "Zulu Records at 1972 W 4th Ave in Kitsilano has listening stations and an in-house turntable refurbisher. Red Cat Records is at 4386 Main St, Audiopile is on Commercial Drive, and Beat Street Records at 439 W Hastings St focuses on electronic, hip-hop and house."
 ---
 
 There's something about listening to a record with other people. Nobody skips a track. Nobody checks their phone between songs. You hear an album the way the band meant it, start to finish, and then someone turns to you and says, "That second side, though."
 
-Vancouver has a small, lovely vinyl scene. There are real listening bars in Chinatown, Gastown and Mount Pleasant, a pop-up that travels, a record shop that throws parties, and a handful of stores where you can lose an afternoon. Here's where to go, sorted by the kind of night you want. Every spot below comes from [the directory's vinyl page](/vinyl-listening-bars/).
+Toronto has a small, lovely vinyl scene. There are real listening bars in Chinatown, Gastown and Mount Pleasant, a pop-up that travels, a record shop that throws parties, and a handful of stores where you can lose an afternoon. Here's where to go, sorted by the kind of night you want. Every spot below comes from [the directory's vinyl page](/vinyl-listening-bars/).
 
 ## If you want a listening bar
 
-**[Bar Gobo](/vinyl-listening-bars/#bar-gobo)** at 237 Union St in Chinatown was one of the first listening bars in the city. Its house rule is "all vinyl, all the time," played on a custom analogue system. When the [Georgia Straight](https://www.straight.com/food/ranking-three-vancouver-listening-lounges-by-sound-snacks-sips-and-scene) ranked three listening lounges in August 2026, it gave Bar Gobo top marks for sound. The music is clear, and you can still hear the person beside you.
+**[Bar Gobo](/vinyl-listening-bars/#bar-gobo)** at 237 Union St in Chinatown was one of the first listening bars in the city. Its house rule is "all vinyl, all the time," played on a custom analogue system. When the [Georgia Straight](https://www.straight.com/food/ranking-three-toronto-listening-lounges-by-sound-snacks-sips-and-scene) ranked three listening lounges in August 2026, it gave Bar Gobo top marks for sound. The music is clear, and you can still hear the person beside you.
 
 **[Amber](/vinyl-listening-bars/#amber)** opened in July 2026 at 99 Powell St in Gastown. It takes its cue from Japanese kissa bars: vinyl only, on vintage hi-fi, with cocktails and a raw bar. The Straight picked it as the best night out of the three, partly because everyone seemed to be talking to everyone else. Good news if you came to meet people.
 
@@ -47,7 +47,7 @@ This is the easiest way to meet people who love the same band you do. You don't 
 
 Record shops are where vinyl people gather. Go on a Saturday, flip through the bins, and you'll end up in a chat about a pressing you've never heard of.
 
-- **[Zulu Records](/vinyl-listening-bars/#zulu-records)** is a Vancouver legend at 1972 W 4th Ave in Kitsilano. It has listening stations, a huge selection and an in-house turntable refurbisher. Handy if your old deck needs some love.
+- **[Zulu Records](/vinyl-listening-bars/#zulu-records)** is a Toronto legend at 1972 W 4th Ave in Kitsilano. It has listening stations, a huge selection and an in-house turntable refurbisher. Handy if your old deck needs some love.
 - **[Red Cat Records](/vinyl-listening-bars/#red-cat-records)** is an independent record store at 4386 Main St.
 - **[Audiopile](/vinyl-listening-bars/#audiopile)** sells new and used vinyl on Commercial Drive.
 - **[Beat Street Records](/vinyl-listening-bars/#beat-street-records)** is a DJ-focused shop at 439 W Hastings St, with electronic, hip-hop and house.
@@ -56,7 +56,7 @@ Record shops are where vinyl people gather. Go on a Saturday, flip through the b
 
 Vinyl can feel like a solo hobby. You, your headphones, your shelf. It's more fun with company.
 
-Pick one spot and become a regular. Go to the same pop-up twice in a month. Go to the next listening party at the same shop. Ask the person beside you what they're digging for. Record people love to talk about records, and the second conversation is always easier than the first. That rule is the core of my guide to [making friends in Vancouver](/blog/how-to-make-friends-in-vancouver/).
+Pick one spot and become a regular. Go to the same pop-up twice in a month. Go to the next listening party at the same shop. Ask the person beside you what they're digging for. Record people love to talk about records, and the second conversation is always easier than the first. That rule is the core of my guide to [making friends in Toronto](/blog/how-to-make-friends-in-toronto/).
 
 ## Find more vinyl
 
@@ -64,4 +64,4 @@ There's more on [the full vinyl and listening bars list](/vinyl-listening-bars/)
 
 ---
 
-*Part of the [Vancouver Community Directory](/), a free, community-built list of 250+ groups, clubs, and meetups across the city.*
+*Part of the [Toronto Community Directory](/), a free, community-built list of 250+ groups, clubs, and meetups across the city.*

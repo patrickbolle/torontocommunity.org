@@ -1,90 +1,126 @@
-// Neighbourhood guide definitions. Each renders a page at
-// /neighbourhoods/{slug}/ that pairs editorial character with the real
-// directory groups matching `aliases` (matched against each group's name,
-// location, and description via the `neighbourhoodGroups` filter).
-//
-// Keep `aliases` specific enough to avoid false matches. `intro` and
-// `character` are the editorial anchor — evergreen neighbourhood character,
-// not claims about specific groups (the group list carries specifics).
+// Toronto/GTA neighbourhood guide definitions. Same shape as the Vancouver
+// original: each renders a page at /neighbourhoods/{slug}/ that pairs editorial
+// character with the real directory groups matching `aliases`.
 
 module.exports = [
   {
-    slug: "kitsilano",
-    name: "Kitsilano",
-    aliases: "kitsilano, kits, jericho, point grey, west 4th",
-    tagline: "Beach mornings, run clubs, and a wellness streak a mile wide.",
+    slug: "the-annex",
+    name: "The Annex & Bloor West",
+    aliases: "annex, bloor west, harbord, koreatown, the junction, high park",
+    tagline: "Bookshops, old houses, and the university's front porch.",
     metaDescription:
-      "Things to do and people to meet in Kitsilano — run clubs, beach volleyball, yoga and wellness communities, book clubs, and more, from Vancouver's community directory.",
+      "Things to do and people to meet in the Annex and Bloor West — book clubs, film societies, board game nights, and more from Toronto's community directory.",
     intro:
-      "Kitsilano is the west-side neighbourhood that treats the outdoors as a lifestyle. Between the beach, the pool, the seawall, and West 4th's studios and cafés, it draws people who like to move — and, quietly, people who moved here and are trying to build a social life around all that motion.",
+      "The Annex is Toronto's brainy, leafy middle — tree-lined streets of old Victorians between the University of Toronto and Bloor, dense with bookshops, repertory cinemas, and people who like to think out loud.",
     character: [
-      "If Vancouver has a wellness capital, it's Kits. The stereotype — beach yoga, a run before work, a smoothie after — is a stereotype because it's mostly true, and it makes the neighbourhood unusually easy to meet people in. Almost everything social here is built around an activity.",
-      "Kits Beach is the anchor: volleyball courts, the outdoor pool, and a stretch of sand that turns into an impromptu social scene the moment the sun's out. Run clubs launch from here and from the running shops along West 4th. The seawall connects it all the way to Jericho, where the sailing and windsurfing crowd keeps a looser, saltier version of the same energy.",
-      "It's a west-side neighbourhood, which means it skews a little older and a little more established than East Van — but the flip side is consistency. The groups that meet in Kits tend to have been meeting for years, which is exactly what you want when you're trying to become a regular somewhere.",
+      "This is the part of town where 'casual' still means 'we'll talk about the book, then the film adaptation, then stay late arguing.' The university sets the tone: lots of reading groups, film societies, and philosophy-adjacent meetups cluster around Bloor and Harbord.",
+      "Bloor West and the Junction give it a quieter, slightly more settled streak — brunch spots, indie cinemas, and High Park as the neighbourhood's backyard. The park alone is a community engine: running, birdwatching, and seasonal meetups run through it year-round.",
+      "It's walkable, literate, and rewards showing up twice. Most groups here are small and long-running, which is exactly what you want when you're trying to become a regular.",
     ],
   },
   {
-    slug: "east-vancouver",
-    name: "East Vancouver",
-    aliases:
-      "east vancouver, east van, commercial drive, commercial-broadway, trout lake, strathcona, hastings-sunrise, grandview",
-    tagline: "The city's community heart — diverse, bohemian, and joiner-friendly.",
+    slug: "kensington-market",
+    name: "Kensington Market & Chinatown",
+    aliases: "kensington market, chinatown, baldwin, augusta, grange, spadina",
+    tagline: "Bohemian, walkable, and full of people organizing things.",
     metaDescription:
-      "Things to do and people to meet in East Vancouver — Commercial Drive, Trout Lake, and beyond. Community groups, clubs, and meetups from Vancouver's directory.",
+      "Things to do and people to meet in Kensington Market and Chinatown — community dinners, music, art nights, and more from Toronto's community directory.",
     intro:
-      "East Vancouver is where the city feels most like a collection of neighbourhoods rather than a skyline. Commercial Drive, Trout Lake, Strathcona — this is the part of town with the deepest community roots, and it shows in how many groups meet here.",
+      "Kensington Market is Toronto's community heart — a tangle of pedestrian streets and independent shops, sitting right beside Chinatown and its dim-sum-and-late-night energy.",
     character: [
-      "If you're new to Vancouver and worried it's cold and hard to crack, East Van is the antidote. It's the most joiner-friendly part of the city: diverse, a little bohemian, and full of people who organize things — reading groups, dodgeball leagues, community dinners, art nights.",
-      "Commercial Drive (\"the Drive\") is the spine — Italian cafés next to vegan spots next to co-ops, and a walkable density that makes running into people the default. Trout Lake / John Hendry Park is East Van's living room, with its farmers market, the community centre, and enough open field for any group meetup under fifty people. Strathcona and Hastings-Sunrise bring the maker and studio energy.",
-      "The whole area rewards showing up. It's the kind of place where a book club becomes a friend group and a dodgeball team becomes a standing Friday. If you only explore one part of Vancouver's community scene, make it this one.",
+      "If Toronto feels big and anonymous, Kensington is the antidote. It's the most joiner-friendly part of the city: diverse, a little chaotic, and full of people who organize things — potlucks, music nights, art crawls, language exchanges.",
+      "Chinatown and the Spadina strip bring their own depth, with cultural associations and food-centred community that spans generations. The Market proper is dense enough that bumping into the same faces is the default, not the exception.",
+      "The whole area rewards just walking in. It's the kind of place where a street festival becomes a friend group, and where 'come by the shop Saturday' is a standing invitation.",
     ],
   },
   {
-    slug: "mount-pleasant",
-    name: "Mount Pleasant",
-    aliases:
-      "mount pleasant, mt pleasant, main street, main st, brewery district, olympic village",
-    tagline: "Breweries, makers, and the young creative middle of the city.",
+    slug: "queen-west",
+    name: "Queen West, Parkdale & Roncesvalles",
+    aliases: "queen west, parkdale, roncesvalles, ossington, trinity bellwoods, liberty village",
+    tagline: "The creative spine — galleries, bars, and maker energy.",
     metaDescription:
-      "Things to do and people to meet in Mount Pleasant — Main Street and the Brewery District. Maker spaces, art groups, run clubs, and community meetups in Vancouver.",
+      "Things to do and people to meet on Queen West, Parkdale and Roncesvalles — art groups, maker spaces, run clubs, and community meetups in Toronto.",
     intro:
-      "Mount Pleasant is Vancouver's creative middle — geographically central, culturally young, and dense with the kind of places community actually forms in: breweries, maker spaces, studios, and the endless small businesses of Main Street.",
+      "Queen West runs from the fashion district through West Queen West's galleries and bars, into Parkdale and Roncesvalles — Toronto's long creative corridor, where art, music, and community overlap.",
     character: [
-      "This is the neighbourhood for people in their twenties and thirties trying to find their creative crowd. The Brewery District alone does a surprising amount of social heavy-lifting — run clubs that finish at a taproom, trivia nights, board-game meetups — because a brewery is just a community centre that sells beer.",
-      "Main Street is the axis: vintage shops, indie coffee, galleries, and a steady supply of pop-ups and openings. Mount Pleasant and the neighbouring Brewery District/Olympic Village stretch is also where a lot of the city's makers work — pottery studios, print shops, and maker spaces cluster here, and most run classes that double as the easiest way to meet people with your hands busy.",
-      "It's walkable, it's central, and it's the part of town where \"want to come to a thing on Main?\" is a complete sentence. If you want to be near everything and everyone, start here.",
-    ],
-  },
-  {
-    slug: "north-shore",
-    name: "North Vancouver",
-    aliases:
-      "north vancouver, north van, north shore, lonsdale, lynn valley, deep cove, west vancouver, west van",
-    tagline: "Mountains at the end of the street, and a SeaBus ride from downtown.",
-    metaDescription:
-      "Things to do and people to meet on the North Shore: North Vancouver and West Vancouver clubs, outdoor groups, writing circles and meetups, from Vancouver's community directory.",
-    intro:
-      "The North Shore is Vancouver with the mountains pulled closer. North and West Vancouver sit across Burrard Inlet, a short SeaBus ride from downtown, with trailheads, forest and ocean a few minutes from almost any front door.",
-    character: [
-      "Life here leans outdoors. Grouse, Seymour and Cypress are right there, and Lynn Canyon and Deep Cove are local walks rather than day trips. A lot of North Shore social life starts on a trail and ends at a coffee shop.",
-      "It is quieter and more spread out than the city side, with more families and fewer late nights. That makes recurring groups matter more, not less. When you can't bump into people on a dense block, a weekly club is how you keep seeing the same faces.",
-      "Lonsdale is the closest thing to a main street, and Lonsdale Quay is where the SeaBus lands. If you live here, check the North Shore groups first. If you don't, most of them are one boat ride away.",
+      "This is where the city's creative middle lives: makers, musicians, and people in their twenties and thirties looking for their crowd. Galleries, pottery studios, print shops, and DIY venues cluster along the corridor, and most run classes or open nights that double as the easiest way to meet people.",
+      "Trinity Bellwoods is the neighbourhood's living room — picnics, pickup sports, and the run clubs that launch from its edges. Parkdale and Roncesvalles keep the rents a little friendlier and the community a little tighter.",
+      "It's walkable and always a little under construction in the best way. If you want to be near everything and everyone, start here.",
     ],
   },
   {
     slug: "downtown",
-    name: "Downtown Vancouver",
-    aliases:
-      "downtown, yaletown, coal harbour, west end, davie, denman, english bay, robson",
-    tagline: "Thousands of neighbours on every block, and the seawall out the door.",
+    name: "Downtown, King West & Harbourfront",
+    aliases: "downtown, king west, harbourfront, financial district, st lawrence, waterfront, distillery",
+    tagline: "Dense, walkable, and where newcomers land first.",
     metaDescription:
-      "Things to do and people to meet in Downtown Vancouver and the West End: clubs, dance socials, karaoke, run clubs and meetups, from Vancouver's community directory.",
+      "Things to do and people to meet in Downtown Toronto — clubs, dance socials, karaoke, run clubs and meetups, from Toronto's community directory.",
     intro:
-      "Downtown and the West End are the densest part of the city: towers, old walk-ups, the seawall, Stanley Park and English Bay all within a short walk. It is also where many newcomers land first.",
+      "Downtown is Toronto at its most intense — towers, the Financial District, King West's condos and nightlife, and the lake at Harbourfront. It's where a lot of people land first.",
     character: [
-      "Density cuts both ways. You are surrounded by people all day and can still go weeks without a real conversation. Downtown is where the lonely-in-a-crowd feeling hits hardest, and where a standing weekly plan helps most.",
-      "The good news is that almost everything is walkable. Robson Square, the Davie Village, Yaletown and the West End's long, leafy streets put a lot within reach of a short walk home. Davie Street is also the heart of Vancouver's 2SLGBTQIA+ community.",
+      "Density cuts both ways: you're surrounded by people all day and can still go weeks without a real conversation. Downtown is where the lonely-in-a-crowd feeling hits hardest, and where a standing weekly plan helps most.",
+      "The good news is almost everything is walkable. St. Lawrence Market, the Distillery District, King West's social venues, and the Harbourfront's long lakefront path put a lot within reach of a short walk home.",
       "If you live downtown, start with groups you can walk to. Small, regular, nearby things are what turn a busy neighbourhood into your neighbourhood.",
+    ],
+  },
+  {
+    slug: "east-end",
+    name: "Leslieville, The Beaches & Danforth",
+    aliases: "leslieville, the beaches, the danforth, greektown, riverdale, east york",
+    tagline: "Village streets, the lake, and Greektown's long tables.",
+    metaDescription:
+      "Things to do and people to meet in Leslieville, the Beaches and the Danforth — community groups, clubs and meetups in Toronto's east end.",
+    intro:
+      "The east end is Toronto's slower, friendlier half — Leslieville's brunch-and-boutique stretch, the Beaches' boardwalk, and the Danforth's Greektown, where a meal turns into a neighbourhood.",
+    character: [
+      "Life here leans village. Streets are quieter, the lake is a short walk, and people actually know their neighbours — which makes recurring groups matter more, not less. A weekly club is how you keep seeing the same faces.",
+      "Greektown and Riverdale bring the food-and-festival energy, and the Beaches boardwalk is a four-season community runway for runners, skaters, and swimmers.",
+      "It's a little further from the core, but the trade is a sense of place. If you want a community that feels local, start in the east end.",
+    ],
+  },
+  {
+    slug: "north-york",
+    name: "North York & Midtown",
+    aliases: "north york, yonge and eglinton, yonge & eglinton, willowdale, midtown, mel lastman",
+    tagline: "Uptown, suburban-in-a-good-way, and quietly busy.",
+    metaDescription:
+      "Things to do and people to meet in North York and Midtown Toronto — community centres, clubs and meetups, from Toronto's community directory.",
+    intro:
+      "North York and Midtown are Toronto's uptown — Yonge & Eglinton's condo canyons, Willowdale's quieter streets, and Mel Lastman Square's festivals.",
+    character: [
+      "This is where a lot of families and established residents settle, and it shows in the community infrastructure: big community centres, libraries, and organized recreation leagues that have been running for years.",
+      "Yonge & Eglinton is the densest pocket — walkable, busy, and full of condos, which means a steady supply of newcomers looking for their people. Willowdale and the surrounding streets are greener and quieter.",
+      "The recurring groups here are the draw: leagues, classes, and clubs that meet like clockwork. If consistency matters to you more than late nights, this is your part of town.",
+    ],
+  },
+  {
+    slug: "scarborough",
+    name: "Scarborough",
+    aliases: "scarborough, scarborough town centre, agincourt, malvern, scarborough bluffs",
+    tagline: "The most diverse corner of the city, and its best-kept community secret.",
+    metaDescription:
+      "Things to do and people to meet in Scarborough — community groups, cultural clubs, sports and meetups, from Toronto's community directory.",
+    intro:
+      "Scarborough is Toronto's east-end anchor — the most diverse part of one of the most diverse cities on earth, where community happens around food, faith, sport, and the Bluffs.",
+    character: [
+      "Scarborough is where 'community' is lived, not curated. Cultural associations, faith communities, cricket and basketball leagues, and food-centred gatherings form a deep, overlapping social fabric that newcomers and lifers both plug into.",
+      "The Scarborough Bluffs and the parks along the waterfront give it an outdoors streak too — hiking groups and nature clubs anchor around them.",
+      "It's often overlooked by people who never leave the core, which is exactly why it's a secret worth keeping. If you want deep roots and real diversity, come east.",
+    ],
+  },
+  {
+    slug: "mississauga",
+    name: "Mississauga, Etobicoke & GTA West",
+    aliases: "mississauga, etobicoke, port credit, square one, lakeshore, brampton, markham",
+    tagline: "The GTA west — big parks, big lakefront, and real clubs.",
+    metaDescription:
+      "Things to do and people to meet in Mississauga, Etobicoke and the western GTA — clubs, groups and meetups, from Toronto's community directory.",
+    intro:
+      "Mississauga and Etobicoke are the GTA's western half — Lake Ontario shoreline, Port Credit's village, and a suburban grid that hides a surprising amount of organized community.",
+    character: [
+      "The suburbs get a bad rap for being isolating, but the GTA west runs on organized activity: rec leagues, run clubs, community centres, and cultural associations that meet weekly and welcome newcomers.",
+      "Port Credit and the Lakeshore are the closest thing to a main street — marinas, festivals, and the lakefront trail that connects it all. Square One anchors the centre with a dense, increasingly walkable core.",
+      "It's more spread out than the city, so recurring groups matter more than anywhere. Pick one club and go weekly — that's how the west end turns into your neighbourhood.",
     ],
   },
 ];

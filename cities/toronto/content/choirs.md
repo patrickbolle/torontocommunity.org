@@ -2,84 +2,77 @@
 layout: category
 tags: category
 title: "Choirs & Singing"
-description: "12 community choirs in Vancouver — pop and rock choirs, LGBTQ+ choirs, and no-audition choirs for beginners."
+description: "{n} community choirs in Toronto — pop and rock choirs, LGBTQ+ choirs, barbershop and no-audition groups for beginners."
 emoji: "🎼"
 group: creative
-seoTitle: "{n} Community Choirs in Vancouver: Join a Choir ({year})"
-seoDescription: "{n} community choirs in Vancouver: no-audition choirs, pop and rock choirs, LGBTQ+ choirs and outdoor sing-alongs. Beginners welcome."
+seoTitle: "{n} Community Choirs in Toronto: Join a Choir ({year})"
+seoDescription: "{n} community choirs in Toronto: no-audition choirs, LGBTQ+ choirs, barbershop and pop singalongs. Beginners welcome."
+seoHeading: "Community Choirs in Toronto"
 listNoun: "choirs"
-seoHeading: "Community Choirs in Vancouver"
 order: 8
 added: 2026-11-14
 ---
 
-# 🎼 Choirs & Singing
+# 🎼 Choirs & Singing in Toronto
 
-## Out in Harmony
-- **What:** 2SLGBTQIA+ and friends choir, singing since 1990. No auditions, no experience needed, and cost is never a barrier
-- **When:** Tuesday evenings, September–June
-- **Where:** St. Margaret's Cedar Cottage, 1530 East 22nd Ave
-- **Find it:** [outinharmony.org](https://outinharmony.org/join_us/)
+## Toronto Choral Society
+- **What:** The city's oldest community choir, founded in 1845 and now about 150 singers. No audition, though some previous choral experience is expected. The repertoire stretches from choral classics to music from Toronto's many cultures
+- **Where:** Eastminster United Church, Danforth
+- **When:** Wednesdays 7pm
+- **Cost:** $350/year
+- **Find it:** [torontochoralsociety.org](https://www.torontochoralsociety.org/)
 
-## Vancouver Men's Chorus
-- **What:** Canada's first LGBTQ2+ chorus. Takes in new singers twice a year
-- **Find it:** [vancouvermenschorus.ca](https://www.vancouvermenschorus.ca/)
+## Common Thread Community Chorus
+- **What:** An 80-voice, non-audition choir that sings for social justice, drawing on folk traditions from around the world. Warm and welcoming, with vocal and ear-training built into rehearsals
+- **Where:** Cecil Community Centre, 58 Cecil St
+- **When:** Wednesdays 6:45pm
+- **Find it:** [commonthreadchorus.ca](https://commonthreadchorus.ca/)
 
-## The Vancouver Rock Choir
-- **What:** Non-auditioned rock choir for adults of all ages, backed by a live four-piece band. No need to read music
-- **Where:** St Titus Church, 680 West 49th Ave
-- **Find it:** [vancouverrockchoir.com](https://vancouverrockchoir.com/)
+## Singing Out
+- **What:** Toronto's largest 2SLGBTQQIA+ non-auditioned, mixed-voice choir. All experience levels are welcome, and reduced membership fees make sure cost never keeps anyone out
+- **When:** Tuesdays
+- **Find it:** [singingout.com](https://singingout.com/)
 
-## Chorus Studio
-- **What:** Four weekly adult choirs singing pop, indie, R&B, gospel and musical theatre. No auditions, open to anyone 16+, queer- and trans-friendly
-- **When:** Weekly
-- **Where:** 101-2468 Scotia St, Mount Pleasant
-- **Find it:** [thechorusstudio.com](https://www.thechorusstudio.com/choirs)
+## ECHO Choir
+- **What:** Adult treble-voice choir for women, trans and non-binary singers. No audition and no experience needed; new members join in September or January
+- **Where:** Holy Trinity Church, Trinity Square
+- **When:** Tuesdays 7pm
+- **Cost:** $200/season
+- **Find it:** [echochoir.ca](https://www.echochoir.ca/)
 
-## Joyful Voice Community Choir
-- **What:** Downtown community choir where anyone is welcome. No audition or choir experience needed, "just bring your love of singing."
-- **When:** Monday evenings
-- **Where:** St. Paul's Anglican Church, Jervis and Pendrell
-- **Find it:** [joyfulvoice.ca](https://joyfulvoice.ca/)
+## Toronto Choristers
+- **What:** Non-auditioned SATB choir of up to 120 singers, many of them retired educators. Repertoire runs from folk songs and Broadway tunes to spirituals and art songs, with concerts in December and May
+- **Where:** Jubilee United Church
+- **When:** Thursdays 12:15pm
+- **Find it:** [torontochoristers.ca](https://torontochoristers.ca/)
 
-## Vancouver CanSing Choir
-- **What:** Non-auditioned adult choir for singers of every level. Community over competition. "If you can talk—and match pitch—you can sing!"
-- **Find it:** [cansing.ca](https://cansing.ca/)
+## PCS Singers Brampton
+- **What:** Brampton's longest-running community choir, founded in 1971. Non-auditioned and open to singers 16 and up — reading music helps, but they'll teach you as you go
+- **Where:** Emmanuel United Church, 420 Balmoral Dr, Brampton
+- **When:** Mondays 7pm
+- **Cost:** $280/year
+- **Find it:** [peelchoral.ca](https://www.peelchoral.ca/)
 
-## Willan Choir
-- **What:** Big community choir of about 80 singers doing classical music. No audition. Tuesday evenings, with a concert at the end of each term
-- **When:** Tuesday evenings
-- **Where:** VCC Broadway campus
-- **Find it:** [vcc.ca/programscourses/willan-choir](https://www.vcc.ca/programscourses/willan-choir/)
+## Mississauga Chamber Singers
+- **What:** Auditioned chamber choir with a classical focus, rehearsing and performing in Mississauga. Auditions are held in September and January, and singers can sit in on a rehearsal first
+- **Where:** St Andrew's Memorial Presbyterian Church, 24 Stavebank Rd, Mississauga
+- **When:** Tuesdays 7:15pm
+- **Cost:** $250/year
+- **Find it:** [mcsingers.ca](https://www.mcsingers.ca/)
 
-## Simple Gifts Community Choir
-- **What:** Unauditioned choir for new and experienced singers. Love songs, swing, gospel and folk
-- **When:** Tuesday evenings
-- **Where:** Holy Cross Japanese Anglican Church hall, 4580 Walden St
-- **Find it:** [gottasing.ca](https://gottasing.ca/simple-gifts-community-choir/)
+## Pax Chorale
+- **What:** A 100-voice community choir drawing singers from across the GTA. Audition required, with a season that runs from September to April
+- **Where:** 230 St. Clair Ave W
+- **When:** Mondays 7:30pm
+- **Cost:** $250/year
+- **Find it:** [paxchristichorale.org](https://www.paxchristichorale.org/)
 
-## Vancouver Pops Choir
-- **What:** Disney, Hollywood and Broadway songs, with a step-by-step program from complete beginner up. No audition for levels 1 and 2, and a free drop-in to try it first
-- **Find it:** [vancouverpops.com/choir](https://www.vancouverpops.com/choir)
+## Toronto Northern Lights
+- **What:** Ontario's premier barbershop chorus, singing four-part harmony a cappella. Guests — experienced barbershop singers or just the curious — are welcome to sit in on a Monday rehearsal
+- **Where:** Willowdale Baptist Church, 15 Olive Ave, North York
+- **When:** Mondays 7pm
+- **Find it:** [northernlightschorus.com](https://northernlightschorus.com/)
 
-## My Pop Choir Vancouver-Burnaby
-- **What:** "No Auditions, No Stress, A Pop Choir For Everyone!" Low-pressure pop choir for adults
-- **When:** Tuesday evenings
-- **Where:** Deer Lake United Church, 5135 Sperling Ave, Burnaby
-- **Find it:** [mypopchoir.com/burnaby](https://www.mypopchoir.com/burnaby)
-
-## CoJa Classic Rock Choir
-- **What:** Classic rock choir for adults of all levels, even if you only sing in the shower. "No Audition. Just Rock." Monday nights, with a concert each term
-- **When:** Monday nights
-- **Where:** St. Andrew's United Church, 1044 St Georges Ave, North Vancouver
-- **Find it:** [cojamusic.com](https://cojamusic.com/classic-rock-choir/)
-
-## Beautifully Loose Anti-Choir
-- **What:** Martin Reisle's outdoor community choir, learning four-part harmony in 9-week seasons. Sliding scale so money is never a barrier
-- **Find it:** [martinreisle.com](https://www.martinreisle.com/music.html)
-
-## Indonesian Vancouver Nusantara Community Choir (Indo VNC)
-- **What:** A mixed choir that sings and celebrates Indonesian culture. Everyone is welcome; you don't need to be Indonesian or speak Bahasa, and no choir experience is needed. Rehearsals pick up before the Indonesian Independence Day show in August
-- **When:** At least once a month
-- **Where:** Consulate General of Indonesia, 1630 Alberni St
-- **Find it:** [meetup.com/indonesian-vancouver-nusantara-vnc-community-choir](https://www.meetup.com/indonesian-vancouver-nusantara-vnc-community-choir/)
+## Choir! Choir! Choir!
+- **What:** Toronto-born participatory singalong founded in 2011 by Daveed Goldman and Nobu Adilman. They teach a custom arrangement of a pop or rock song, then a room full of strangers sings it together — no experience or rehearsal needed
+- **Find it:** [choirchoirchoir.com](https://www.choirchoirchoir.com/)

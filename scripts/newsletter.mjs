@@ -11,7 +11,7 @@ const mutuals = createRequire(import.meta.url)("../_data/mutuals.js");
 
 const BUTTONDOWN_API = "https://api.buttondown.com/v1";
 const API_KEY = process.env.BUTTONDOWN_API_KEY;
-const SITE_URL = "https://vancouvercommunity.org";
+const SITE_URL = "https://torontocommunity.org";
 const CONTENT_DIR = join(process.cwd(), "content");
 const DRY_RUN = process.argv.includes("--dry-run");
 
@@ -125,11 +125,11 @@ async function getOpener() {
   const monthNames = ["January", "February", "March", "April", "May", "June",
     "July", "August", "September", "October", "November", "December"];
 
-  // Fetch Vancouver weather from Open-Meteo (free, no key)
+  // Fetch Toronto weather from Open-Meteo (free, no key)
   let weather = "";
   try {
     const res = await fetch(
-      "https://api.open-meteo.com/v1/forecast?latitude=49.2827&longitude=-123.1207&daily=temperature_2m_max,precipitation_sum,weathercode&timezone=America/Vancouver&forecast_days=1"
+      "https://api.open-meteo.com/v1/forecast?latitude=43.6532&longitude=-79.3832&daily=temperature_2m_max,precipitation_sum,weathercode&timezone=America/Toronto&forecast_days=1"
     );
     const data = await res.json();
     const temp = Math.round(data.daily.temperature_2m_max[0]);
@@ -138,13 +138,13 @@ async function getOpener() {
 
     // WMO weather codes: 0-1 clear, 2-3 cloudy, 45-48 fog, 51-67 rain/drizzle, 71-77 snow, 80-82 showers, 95-99 thunderstorm
     if (code <= 1) weather = `It's ${temp}°C and sunny out there today.`;
-    else if (code <= 3) weather = `Overcast and ${temp}°C today — classic Vancouver.`;
+    else if (code <= 3) weather = `Overcast and ${temp}°C today — classic Toronto.`;
     else if (code <= 48) weather = `Foggy and ${temp}°C today.`;
     else if (code <= 67 || (code >= 80 && code <= 82)) weather = `Rainy and ${temp}°C today — good day to plan something indoors.`;
-    else if (code <= 77) weather = `Snowing in Vancouver? Wild. ${temp}°C out there.`;
-    else weather = `${temp}°C in Vancouver today.`;
+    else if (code <= 77) weather = `Snowing in Toronto? Wild. ${temp}°C out there.`;
+    else weather = `${temp}°C in Toronto today.`;
   } catch {
-    weather = `Happy ${monthNames[month]} from Vancouver.`;
+    weather = `Happy ${monthNames[month]} from Toronto.`;
   }
 
   return `${weather} Here's what's new on the directory this week.`;

@@ -2,7 +2,7 @@ name: Link check
 
 on:
   schedule:
-    - cron: "0 16 * * 1" # Mondays 16:00 UTC (~8am Vancouver)
+    - cron: "0 16 * * 1" # Mondays 16:00 UTC (~8am Toronto)
   workflow_dispatch: {}
 
 permissions:

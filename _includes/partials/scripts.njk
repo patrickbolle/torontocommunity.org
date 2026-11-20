@@ -133,7 +133,7 @@ function shareGroup(el) {
 }
 if (!window._statsLoaded) {
   window._statsLoaded = true;
-  fetch("https://vancouver-communities-stats.recipekit.workers.dev/")
+  fetch("https://toronto-communities-stats.recipekit.workers.dev/")
     .then(function(r) { return r.json(); })
     .then(function(data) {
       window._statsData = data;

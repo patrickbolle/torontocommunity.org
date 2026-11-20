@@ -57,7 +57,7 @@ if (document.body && !document.getElementById('a11y-live')) window.announce('');
 
 // ── Group search (homepage box + masthead box on every other page) ──
 // One implementation for both. Every word must match, except filler words
-// like "group" or "vancouver". Spaces are ignored ("bird watching" finds
+// like "group" or "toronto". Spaces are ignored ("bird watching" finds
 // Birdwatching), and words of 5+ letters allow one typo ("frencg" finds French).
 window.vcSearch = (function () {
   var CAP = 12; // results shown before "Show all N"
@@ -79,7 +79,7 @@ window.vcSearch = (function () {
     }
     return edits + (a.length - i) + (b.length - j) <= 1;
   }
-  var FILLER = { a: 1, an: 1, the: 1, in: 1, for: 1, of: 1, and: 1, to: 1, near: 1, me: 1, vancouver: 1, group: 1, groups: 1, club: 1, clubs: 1, meetup: 1, meetups: 1, community: 1 };
+  var FILLER = { a: 1, an: 1, the: 1, in: 1, for: 1, of: 1, and: 1, to: 1, near: 1, me: 1, toronto: 1, group: 1, groups: 1, club: 1, clubs: 1, meetup: 1, meetups: 1, community: 1 };
   function searchWords(q) {
     var all = normalize(q).split(' ').filter(Boolean);
     var kept = all.filter(function (w) { return !FILLER[w]; });
@@ -641,7 +641,7 @@ document.addEventListener('DOMContentLoaded', function() {
         btn.setAttribute('aria-disabled', 'true');
         btn.textContent = 'Subscribing...';
         var source = window.location.pathname.replace(/^\/|\/$/g, '') || 'homepage';
-        fetch('https://vancouver-community-newsletter.recipekit.workers.dev/subscribe', {
+        fetch('https://toronto-community-newsletter.recipekit.workers.dev/subscribe', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({ email: email, source: source })
@@ -657,7 +657,7 @@ document.addEventListener('DOMContentLoaded', function() {
             if (typeof umami !== 'undefined') umami.track('newsletter-signup', { source: source });
           } else {
             var serverMsg = typeof res.data.error === 'string' && res.data.error.trim();
-            say('error', serverMsg || 'Could not subscribe just now. Try again, or email vancouver@bolle.co.');
+            say('error', serverMsg || 'Could not subscribe just now. Try again, or email toronto@bolle.co.');
           }
         }, function() {
           say('error', 'Could not reach the server. Check your connection and try again.');
@@ -839,7 +839,7 @@ document.addEventListener('DOMContentLoaded', function() {
     if (typeof umami !== 'undefined') {
       umami.track('verify-link', { group: groupName, status: status });
     }
-    fetch('https://vancouver-community-submit.recipekit.workers.dev/verify', {
+    fetch('https://toronto-community-submit.recipekit.workers.dev/verify', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({

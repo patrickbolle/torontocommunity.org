@@ -11,9 +11,9 @@ permalink: /about/
 <head>
   {% include "partials/head.njk" %}
   <title>About | {{ site.shortTitle }}</title>
-  <meta name="description" content="Vancouver Community is a free, community-built directory of {{ totalGroups }}+ clubs, meetups, and groups in Vancouver.">
-  <meta property="og:title" content="About Vancouver Community">
-  <meta property="og:description" content="A free, community-built directory of {{ totalGroups }}+ clubs, meetups, and groups in Vancouver.">
+  <meta name="description" content="Toronto Community is a free, community-built directory of {{ totalGroups }}+ clubs, meetups, and groups in Toronto.">
+  <meta property="og:title" content="About Toronto Community">
+  <meta property="og:description" content="A free, community-built directory of {{ totalGroups }}+ clubs, meetups, and groups in Toronto.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="{{ site.url }}/about/">
   <meta property="og:image" content="{{ site.url }}/og-image.png">
@@ -24,15 +24,15 @@ permalink: /about/
 {% include "partials/topbar.njk" %}
 <main id="main-content">
   <div class="frame page">
-    <h1 class="page-title">About Vancouver Community</h1>
-    <p class="page-lede">A free, community-built directory of {{ totalGroups }}+ clubs, meetups and groups in Vancouver.</p>
+    <h1 class="page-title">About Toronto Community</h1>
+    <p class="page-lede">A free, community-built directory of {{ totalGroups }}+ clubs, meetups and groups in Toronto.</p>
     <div class="columns">
       <div class="col-main">
         <section class="panel">
           <h2 class="panel-title">Why I built this</h2>
           <div class="panel-body prose">
             <p>After nearly a decade of traveling — 60+ countries, living out of a backpack — I got to see what community looks like in cities all over the world. Run clubs in Berlin, language exchanges in Buenos Aires, climbing groups in Taipei. People finding their people everywhere I went.</p>
-            <p>When I moved to Vancouver, I heard the stereotype: it's a lonely city, hard to break into. I found that reputation to be mostly earned. But I also found that hundreds of communities were already here — run clubs, craft nights, board game groups, climbing crews — quietly doing their thing, just hard to find.</p>
+            <p>Toronto has a reputation for being a lonely city, hard to break into — and I found that reputation to be mostly earned. But I also found that hundreds of communities were already here: run clubs, craft nights, board game groups, climbing crews — quietly doing their thing, just hard to find.</p>
             <p>So I started searching them out for myself. Then I started keeping a list. Then I figured: why not make this available to everyone? That list became this directory — {{ totalGroups }}+ groups, all free to browse.</p>
           </div>
         </section>
@@ -45,7 +45,7 @@ permalink: /about/
         <section class="panel">
           <h2 class="panel-title">Get in touch</h2>
           <div class="panel-body prose">
-            <p><a href="mailto:vancouver@bolle.co">vancouver@bolle.co</a></p>
+            <p><a href="mailto:toronto@bolle.co">toronto@bolle.co</a></p>
           </div>
         </section>
       </div>
@@ -57,19 +57,18 @@ permalink: /about/
           <div class="panel-body">
             <img src="/patrick-face.jpg" alt="Patrick Bollenbach" class="profile-photo" loading="lazy">
             <p><strong>Patrick Bollenbach</strong></p>
-            <p>Software developer in Vancouver. Spent a decade as a digital nomad across 60+ countries before putting down roots here.</p>
-            <p class="panel-links"><a href="https://bollenbach.ca?ref=vancouvercommunity" target="_blank" rel="noopener noreferrer">bollenbach.ca</a></p>
+            <p>Software developer. Spent a decade as a digital nomad across 60+ countries before building this directory.</p>
+            <p class="panel-links"><a href="https://bollenbach.ca?ref=torontocommunity" target="_blank" rel="noopener noreferrer">bollenbach.ca</a></p>
           </div>
         </section>
         <section class="panel">
           <h2 class="panel-title">Other projects</h2>
           <ul class="panel-body link-list">
-            <li><a href="https://runclubs.ca?ref=vancouvercommunity" target="_blank" rel="noopener noreferrer">runclubs.ca</a><span class="link-list-note">Canada's run club directory</span></li>
-            <li><a href="https://recipekit.com?ref=vancouvercommunity" target="_blank" rel="noopener noreferrer">Recipe Kit</a><span class="link-list-note">Recipe cards for Shopify</span></li>
-            <li><a href="{{ mutuals.link('about') }}" target="_blank" rel="noopener" data-umami-event="click-mutuals" data-umami-event-source="about">{{ mutuals.name }}</a><span class="link-list-note">{{ mutuals.tagline }}</span></li>
+            <li><a href="https://runclubs.ca?ref=torontocommunity" target="_blank" rel="noopener noreferrer">runclubs.ca</a><span class="link-list-note">Canada's run club directory</span></li>
+            <li><a href="https://recipekit.com?ref=torontocommunity" target="_blank" rel="noopener noreferrer">Recipe Kit</a><span class="link-list-note">Recipe cards for Shopify</span></li>
           </ul>
         </section>
-        {%- set sponsorData = sponsors.pages %}{% set sponsorSlot = "about" %}{% set sponsorDemo = false %}{% set sponsorPitch = "Reach Vancouver people looking for their next group, class or hangout. Clearly labelled, one sponsor at a time." %}
+        {%- set sponsorData = sponsors.pages %}{% set sponsorSlot = "about" %}{% set sponsorDemo = false %}{% set sponsorPitch = "Reach Toronto people looking for their next group, class or hangout. Clearly labelled, one sponsor at a time." %}
         {% include "partials/sponsor-card.njk" %}
       </aside>
     </div>
