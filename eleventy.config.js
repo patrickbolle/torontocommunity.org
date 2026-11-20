@@ -27,6 +27,7 @@ function isFreeText(text) {
 module.exports = function (eleventyConfig) {
   // --- Passthrough copies (preserves existing URL paths) ---
   eleventyConfig.addPassthroughCopy({ "src/style.css": "_build/style.css" });
+  eleventyConfig.addPassthroughCopy({ "src/home.css": "_build/home.css" });
   eleventyConfig.addPassthroughCopy({ "src/main.js": "_build/main.js" });
   eleventyConfig.addPassthroughCopy({ [path.join(cityRoot, "static")]: "/" });
 

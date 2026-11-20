@@ -10,6 +10,7 @@ permalink: /
 <html lang="en">
 <head>
   {% include "partials/head.njk" %}
+  <link rel="stylesheet" href="/_build/home.css">
   <title>Toronto Community: {{ totalGroups }}+ Clubs, Groups & Meetups ({% buildYear %})</title>
   <meta name="description" content="{{ site.description }}">
   <meta property="og:title" content="Toronto Community Directory — Find Your People">
@@ -32,192 +33,139 @@ permalink: /
     "areaServed": {
       "@type": "City",
       "name": "Toronto",
-      "address": {
-        "@type": "PostalAddress",
-        "addressRegion": "ON",
-        "addressCountry": "CA"
-      }
+      "address": { "@type": "PostalAddress", "addressRegion": "ON", "addressCountry": "CA" }
     },
-    "publisher": {
-      "@type": "Person",
-      "name": "Patrick Bollenbach",
-      "url": "https://bollenbach.ca"
-    }
-  }
-  </script>
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "ItemList",
-    "name": "Community Categories in Toronto",
-    "numberOfItems": {{ collections.categories.length }},
-    "itemListElement": [
-      {%- for cat in collections.categories %}
-      {
-        "@type": "ListItem",
-        "position": {{ loop.index }},
-        "name": "{{ cat.data.title }}",
-        "url": "{{ site.url }}/{{ cat.fileSlug }}/"{% if cat.data.groupCount %},
-        "numberOfItems": {{ cat.data.groupCount }}{% endif %}
-      }{% if not loop.last %},{% endif %}
-      {%- endfor %}
-    ]
+    "publisher": { "@type": "Person", "name": "Patrick Bollenbach", "url": "https://bollenbach.ca" }
   }
   </script>
 </head>
 <body class="homepage">
 <a href="#main-content" class="skip-link">Skip to content</a>
-{% include "partials/topbar.njk" %}
 
-<main id="main-content">
-  <div class="frame page">
-    <div class="home-hero">
-      <div class="home-hero-text">
-        <h1 class="page-title">Find your people in Toronto.</h1>
-        <p class="page-lede">{{ totalGroups }}+ groups across {{ collections.categories.length }} categories. Run clubs, book clubs, maker spaces and more.</p>
+<header class="site-header">
+  <div class="container">
+    <div class="header-top">
+      <a class="wordmark" href="/">toronto community</a>
+      <span class="metadata">{{ totalGroups }} groups · {{ collections.categories.length }} categories</span>
+    </div>
+    <nav class="nav" aria-label="Sections">
+      <a class="active" href="/">directory</a>
+      <a href="/start-here/">new to toronto</a>
+      <a href="/submit/">add a group</a>
+      <a href="/blog/">blog</a>
+      <a href="/about/">about</a>
+    </nav>
+  </div>
+</header>
 
-        <form class="search" role="search" id="homepage-search-form" action="/" method="get">
-          <label for="homepage-group-search" class="visually-hidden">Search the directory</label>
-          <input type="search" id="homepage-group-search" class="search-input" name="q" placeholder="Search groups: hiking, chess, book clubs…" autocomplete="off" data-umami-event="homepage-search">
-          <button type="submit" class="search-btn search-btn-primary">Search</button>
-        </form>
-        <p class="search-popular">Popular:
-          <a href="/run-clubs/">run clubs</a> &middot;
-          <a href="/book-clubs/">book clubs</a> &middot;
-          <a href="/dinner-supper-clubs/">supper clubs</a> &middot;
-          <a href="/hiking-outdoors/">hiking</a> &middot;
-          <a href="/chess/">chess</a>
-        </p>
-      </div>
-      <div class="home-hero-art">
-        <img src="/hero.svg" alt="A pixel-art Toronto street scene: a red brick corner shop, a tree, the CN Tower, a streetcar and the city skyline" class="hero-art" width="640" height="448">
+<main class="container" id="main-content">
+  <section class="hero">
+    <div>
+      <span class="eyebrow">a directory for getting out there</span>
+      <h1>find your people<br>in toronto.</h1>
+      <p>Find run clubs, book groups, maker spaces, neighbourhood meetups, and more. Real communities, all in one place.</p>
+      <form class="search" role="search" id="homepage-search-form" action="/" method="get">
+        <label for="homepage-group-search" class="visually-hidden">Search the directory</label>
+        <input type="search" id="homepage-group-search" name="q" aria-label="Search communities" placeholder="search groups: hiking, chess, book clubs…" autocomplete="off" data-umami-event="homepage-search">
+        <button type="submit">search</button>
+      </form>
+      <div class="popular">popular:
+        <a href="/run-clubs/">run clubs</a>
+        <a href="/book-clubs/">book clubs</a>
+        <a href="/dinner-supper-clubs/">supper clubs</a>
+        <a href="/hiking-outdoors/">hiking</a>
+        <a href="/chess/">chess</a>
       </div>
     </div>
-    <div id="search-results" class="search-results" hidden></div>
-    <div class="columns">
-      <div class="col-main">
-        <div id="homepage-browse-content">
-          <section class="panel" id="categories">
-            <h2 class="panel-title">browse the directory</h2>
-            <div class="panel-body">
-              {#- Categories with `added:` front matter in the last 21 days, newest 6 only. Renders nothing when none qualify. #}
-              {%- set newCats = (collections.categories | newCategories(21)).slice(0, 6) %}
-              {%- if newCats.length %}
-              <div class="directory-new">
-                <h3 class="directory-new-title">New lists</h3>
-                <ul class="directory-new-list">
-                  {%- for cat in newCats %}
-                  <li><a href="/{{ cat.fileSlug }}/" data-umami-event="click-category" data-umami-event-category="{{ cat.fileSlug }}" data-umami-event-source="new">{{ cat.data.title }}</a>{% if cat.data.listingCount > 0 %}&nbsp;<span class="count">({{ cat.data.listingCount }})</span>{% endif %}</li>
-                  {%- endfor %}
-                </ul>
-              </div>
-              {%- endif %}
-              <div class="directory">
-                {#- Each section shows its 5 biggest categories; the rest sit behind a native <details>. #}
-                {%- for group in groups %}
-                {%- set sectionCats = collections.categories | sectionCategories(group.key) %}
-                <div class="directory-group" id="group-{{ group.key }}">
-                  <h3 class="directory-heading"><img class="pixel-icon" src="/icons/{{ group.key }}.svg" width="16" height="16" alt="">{{ group.label | ampEscape | safe }}</h3>
-                  <ul class="directory-list">
-                    {%- for cat in sectionCats.slice(0, 5) %}
-                    <li><a href="/{{ cat.fileSlug }}/" data-umami-event="click-category" data-umami-event-category="{{ cat.fileSlug }}">{{ cat.data.title }}</a>{% if cat.data.listingCount > 0 %}&nbsp;<span class="count">({{ cat.data.listingCount }})</span>{% endif %}</li>
-                    {%- endfor %}
-                  </ul>
-                  {%- if sectionCats.length > 5 %}
-                  <details class="directory-more">
-                    <summary><span class="directory-more-closed">+{{ sectionCats.length - 5 }} more</span><span class="directory-more-open">Show fewer</span><span class="visually-hidden"> in {{ group.label | ampEscape | safe }}</span></summary>
-                    <ul class="directory-list">
-                      {%- for cat in sectionCats.slice(5) %}
-                      <li><a href="/{{ cat.fileSlug }}/" data-umami-event="click-category" data-umami-event-category="{{ cat.fileSlug }}">{{ cat.data.title }}</a>{% if cat.data.listingCount > 0 %}&nbsp;<span class="count">({{ cat.data.listingCount }})</span>{% endif %}</li>
-                      {%- endfor %}
-                    </ul>
-                  </details>
-                  {%- endif %}
-                </div>
-                {%- endfor %}
-              </div>
-            </div>
-          </section>
+    <div class="hero-art">
+      <img class="pixel-art" src="/hero-street.svg" alt="Pixel-built Toronto street scene: a red brick storefront, a streetcar and the CN Tower">
+    </div>
+  </section>
 
-          <section class="panel">
-            <h2 class="panel-title">A note from Patrick</h2>
-            <div class="panel-body note">
-              <img src="/patrick-face.jpg" alt="Patrick Bollenbach" class="note-photo" width="56" height="56" loading="lazy">
-              <p>Toronto can feel like a hard city to make friends. I built this directory to help.</p>
-              <p>I add new groups every week. Know one I'm missing? <a href="/submit/" data-umami-event="click-submit-cta" data-umami-event-source="homepage-note">Tell me about it</a>.</p>
-              <p class="panel-links"><a href="/about/">Why I made this <span aria-hidden="true">&rarr;</span></a></p>
-            </div>
-          </section>
+  <div id="search-results" class="search-results" hidden></div>
 
-          {%- set sponsorData = sponsors.homepage %}{% set sponsorSlot = "homepage" %}{% set sponsorDemo = false %}
-          {%- set sponsorPitch = "This is the front door of the directory. One partner at a time, clearly labelled, right where Toronto looks for things to do." %}
-          {% include "partials/sponsor-card.njk" %}
-        </div>
-      </div>
-
-      <aside class="col-side">
-        <section class="new-to-toronto">
-          <a href="/start-here/" class="new-to-toronto-link">
-            <h2 class="new-to-toronto-title">new to<br>toronto?</h2>
-            <p class="new-to-toronto-text">A quick guide to finding community in the city. <span aria-hidden="true">&rarr;</span></p>
-          </a>
-        </section>
-        <section class="panel">
-          <h2 class="panel-title">explore by neighbourhood</h2>
-          <ul class="panel-body link-list link-list-tight neighbourhood-list">
-            {%- for hood in neighbourhoods %}
-            <li><a href="/neighbourhoods/{{ hood.slug }}/">{{ hood.name }}</a></li>
+  <section class="section home-content">
+    <div>
+      <span class="eyebrow">the city index / 01</span>
+      <h2 class="section-title">browse the directory</h2>
+      <div class="directory-grid">
+        {%- for group in groups %}
+        {%- set sectionCats = collections.categories | sectionCategories(group.key) %}
+        <section class="category">
+          {%- set sectionTotal = 0 %}
+          {%- for cat in sectionCats %}{% set sectionTotal = sectionTotal + cat.data.listingCount %}{% endfor %}
+          <h3>{{ group.label }} <span>({{ sectionTotal }})</span></h3>
+          <ul>
+            {%- for cat in sectionCats.slice(0, 5) %}
+            <li><a href="/{{ cat.fileSlug }}/">{{ cat.data.title }}</a>{% if cat.data.listingCount > 0 %} <span class="count">({{ cat.data.listingCount }})</span>{% endif %}</li>
             {%- endfor %}
           </ul>
-          <p class="panel-links"><a href="/neighbourhoods/">all neighbourhoods <span aria-hidden="true">&rarr;</span></a></p>
-        </section>
-        {#- The sister-site ad sits first so it's visible without scrolling. #}
-        {%- set promoVariant = "feature" %}{% set promoPlacement = "homepage" %}{% set promoHeading = "" %}{% set promoBody = "" %}
-        {% include "partials/mutuals-promo.njk" %}
-        {% include "partials/banner-sidebar.njk" %}
-
-        {%- if recentGroups.length > 0 %}
-        <section class="panel">
-          <h2 class="panel-title">New groups</h2>
-          <ul class="panel-body link-list">
-            {%- for group in recentGroups %}
-            <li>
-              <a href="/{{ group.categorySlug }}/#{{ group.name | mdAnchor }}" data-umami-event="click-recent-group" data-group data-g-name="{{ group.name }}" data-g-desc="{{ group.description }}" data-g-cat="{{ group.categoryTitle }}" data-g-slug="{{ group.categorySlug }}"{% if group.url %} data-g-url="{{ group.url }}"{% endif %}{% if group.location %} data-g-where="{{ group.location }}"{% endif %}>{{ group.name }}</a>
-              <span class="link-list-note">in {{ group.categoryTitle }}</span>
-            </li>
-            {%- endfor %}
-          </ul>
-        </section>
-        {%- endif %}
-
-        {#- A short, hand-picked list (most-searched in Search Console) with short names; the rest live on /blog/. #}
-        {%- set homeGuides = [
-          ["how-to-make-friends-in-toronto", "How to make friends in Toronto"],
-          ["best-book-clubs-in-toronto", "The best book clubs"],
-          ["things-to-do-alone-in-toronto", "Things to do alone"],
-          ["hiking-clubs-in-toronto", "Hiking clubs"],
-          ["supper-clubs-dinner-with-strangers-toronto", "Supper clubs and dinner with strangers"],
-          ["writing-groups-in-toronto", "Writing groups"]
-        ] %}
-        <section class="panel">
-          <h2 class="panel-title">Guides</h2>
-          <div class="panel-body">
-            <ul class="link-list link-list-tight">
-              {%- for g in homeGuides %}
-              <li><a href="/blog/{{ g[0] }}/" data-umami-event="click-guide" data-umami-event-source="homepage">{{ g[1] }}</a></li>
+          {%- if sectionCats.length > 5 %}
+          <details class="directory-more">
+            <summary><span class="directory-more-closed">+{{ sectionCats.length - 5 }} more</span><span class="directory-more-open">fewer</span></summary>
+            <ul>
+              {%- for cat in sectionCats.slice(5) %}
+              <li><a href="/{{ cat.fileSlug }}/">{{ cat.data.title }}</a>{% if cat.data.listingCount > 0 %} <span class="count">({{ cat.data.listingCount }})</span>{% endif %}</li>
               {%- endfor %}
             </ul>
-            <p class="panel-links"><a href="/blog/">All {{ collections.posts.length - 1 }} guides <span aria-hidden="true">&rarr;</span></a></p>
-          </div>
+          </details>
+          {%- endif %}
         </section>
-
-        {% include "partials/newsletter.njk" %}
-      </aside>
+        {%- endfor %}
+      </div>
     </div>
-  </div>
+
+    <aside class="sidebar">
+      <div class="sidebar-block">
+        <span class="eyebrow">start here</span>
+        <h3>new to toronto?</h3>
+        <p>A short, practical guide to finding people and communities in the city.</p>
+        <a href="/start-here/">read the guide →</a>
+      </div>
+      <div class="sidebar-block">
+        <span class="eyebrow">reading list</span>
+        <h3>useful guides</h3>
+        <ul>
+          <li><a href="/blog/how-to-make-friends-in-toronto/">How to make friends in Toronto</a></li>
+          <li><a href="/blog/best-book-clubs-in-toronto/">The best book clubs</a></li>
+          <li><a href="/blog/things-to-do-alone-in-toronto/">Things to do alone</a></li>
+          <li><a href="/blog/writing-groups-in-toronto/">Writing groups</a></li>
+        </ul>
+      </div>
+      <div class="sidebar-block hp-newsletter">
+        <span class="eyebrow">every thursday</span>
+        <h3>the toronto roundup</h3>
+        <p>New groups and community picks, weekly.</p>
+        <form class="newsletter-form subscribe" data-umami-event="newsletter-signup">
+          <input type="email" class="newsletter-input" placeholder="your@email.com" required autocomplete="email" aria-label="Email address">
+          <button type="submit" class="newsletter-btn">join</button>
+        </form>
+        <p class="newsletter-status" role="status" aria-live="polite"></p>
+      </div>
+    </aside>
+  </section>
+
+  <section class="section">
+    <span class="eyebrow">closer to home / 02</span>
+    <h2 class="section-title">explore by neighbourhood</h2>
+    <div class="neighbourhood-grid">
+      {%- for hood in neighbourhoods %}
+      <div class="neighbourhood">
+        <img class="pixel-art" src="/neighbourhoods/{{ hood.art }}" alt="Pixel illustration of {{ hood.name }}">
+        <a href="/neighbourhoods/{{ hood.slug }}/">{{ hood.name }} ↗</a>
+      </div>
+      {%- endfor %}
+    </div>
+  </section>
 </main>
-<div class="skyline-strip" aria-hidden="true"></div>
-{% include "partials/footer.njk" %}
+
+<div class="container">
+  <img class="footer-art" src="/skyline-strip.svg" alt="">
+  <footer class="footer">
+    toronto community — local groups, made easier to find. · Made by <a href="https://bollenbach.ca?ref=torontocommunity">Patrick</a>. Also: <a href="https://runclubs.ca?ref=torontocommunity">runclubs.ca</a>
+  </footer>
+</div>
+
 <script>
 var _searchGroups = [
 {%- for cat in collections.categories -%}
