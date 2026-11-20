@@ -53,4 +53,4 @@ Want the full list of cafés and groups? [Browse the board games page](/board-ga
 
 ---
 
-*Part of the [Toronto Community Directory](/) — a free, community-built list of 250+ groups, clubs, and meetups across the city.*
+*Part of the [Toronto Community Directory](/) — a free, community-built list of 550+ groups, clubs, and meetups across the city.*

@@ -23,7 +23,7 @@ Volunteering gives you all three. Here's where to start in Toronto this holiday 
 
 This is the one tip that matters most. Most places need you to apply, attend an orientation or pass a check before your first shift. That takes time. December is also when everyone else wants to help.
 
-This month alone, [Scott Mission](/volunteer/#scott-mission) — which has served meals and shelter in downtown Toronto since 1941 — says plainly on its volunteer page: "The Christmas season has been filled." [Toronto Humane Society](/volunteer/#toronto-humane-society) has paused its volunteer application form because of the volume already in the queue.
+This month alone, [Scott Mission](/volunteer/#scott-mission) — a downtown Toronto charity founded in 1941 — says plainly on its volunteer page: "The Christmas season has been filled." [Toronto Humane Society](/volunteer/#toronto-humane-society) has paused its volunteer application form because of the volume already in the queue.
 
 So apply now, even if you can only give a few hours in the new year. Holiday help is lovely. January help is just as needed.
 
@@ -46,7 +46,7 @@ A few things to know before you apply:
 
 Not every holiday shift happens in a warehouse. Some of the most useful ones happen in a kitchen or on a van, on the coldest evenings of the year.
 
-**[Scott Mission](/volunteer/#scott-mission)** has served meals, shelter, groceries and clothing in downtown Toronto since 1941, with its main downtown site at 502 Spadina Avenue. Volunteers work in the reheat kitchen serving sit-down and takeout meals, in the food and clothing bank, or on evening shelter meals at 346 Spadina. The catch is the one above: this year's Christmas spots are already full. The application is a real process — online form, two references, screening and an orientation — so put your name in now for January.
+**[Scott Mission](/volunteer/#scott-mission)** has served people in downtown Toronto since 1941 — meals, shelter, groceries and clothing — with its kitchen and food bank at 502 Spadina Avenue. Volunteers work in the reheat kitchen serving sit-down and takeout meals, in the food and clothing bank, or on evening shelter meals at 346 Spadina. The catch is the one above: this year's Christmas spots are already full. The application is a real process — online form, two references, screening and an orientation — so put your name in now for January.
 
 **[Ve'ahavta](/volunteer/#ve%27ahavta)** sends its Mobile Jewish Response to Homelessness van out on weekday evenings with warm food and supplies. Van shifts are five hours, Monday to Friday, and teens 12 and up can ride along with a guardian. If evenings don't work, the kitchen and warehouse take two- to three-hour weekday shifts. There's also Make-a-Blanket, a no-sew blanket project for the cold winter months that you can do with a group at home.
 
@@ -92,4 +92,4 @@ There's more on [the full volunteer list](/volunteer/). Know a group that needs 
 
 ---
 
-*Part of the [Toronto Community Directory](/), a free, community-built list of 250+ groups, clubs, and meetups across the city.*
+*Part of the [Toronto Community Directory](/), a free, community-built list of 550+ groups, clubs, and meetups across the city.*

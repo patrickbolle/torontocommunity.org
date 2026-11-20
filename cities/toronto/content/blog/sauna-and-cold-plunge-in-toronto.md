@@ -55,4 +55,4 @@ Want the full list of saunas, spas, and plunge groups? [Browse the sauna & cold 
 
 ---
 
-*Part of the [Toronto Community Directory](/) — a free, community-built list of 250+ groups, clubs, and meetups across the city.*
+*Part of the [Toronto Community Directory](/) — a free, community-built list of 550+ groups, clubs, and meetups across the city.*

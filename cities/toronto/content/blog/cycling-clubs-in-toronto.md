@@ -56,4 +56,4 @@ Want the full roster, including race teams and touring clubs? [Browse every cycl
 
 ---
 
-*Part of the [Toronto Community Directory](/) — a free, community-built list of 250+ groups, clubs, and meetups across the city.*
+*Part of the [Toronto Community Directory](/) — a free, community-built list of 550+ groups, clubs, and meetups across the city.*

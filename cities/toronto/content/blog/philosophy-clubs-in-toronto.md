@@ -59,4 +59,4 @@ There's more on [the full philosophy and discussion list](/philosophy-intellectu
 
 ---
 
-*Part of the [Toronto Community Directory](/), a free, community-built list of 250+ groups, clubs, and meetups across the city.*
+*Part of the [Toronto Community Directory](/), a free, community-built list of 550+ groups, clubs, and meetups across the city.*

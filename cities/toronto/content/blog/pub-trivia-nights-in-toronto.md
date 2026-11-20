@@ -50,4 +50,4 @@ Want the full schedule of trivia nights? [Browse the pub trivia page](/pub-trivi
 
 ---
 
-*Part of the [Toronto Community Directory](/) — a free, community-built list of 250+ groups, clubs, and meetups across the city.*
+*Part of the [Toronto Community Directory](/) — a free, community-built list of 550+ groups, clubs, and meetups across the city.*

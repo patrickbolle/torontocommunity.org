@@ -6,7 +6,7 @@ description: "Free classes, beginner-friendly introduction workshops, Buddhist s
 date: 2026-10-09
 faq:
   - q: "Where can I find meditation classes in Toronto?"
-    a: "Kadampa Meditation Centre Canada in Little Italy runs $15 drop-in classes at 631 Crawford St. The Toronto Zen Centre in High Park requires a half-day Introduction to Zen workshop for newcomers. Yoga Meditation Canada offers free classes across the GTA, and the Consciousness Explorers Club meets Monday nights at St Stephen-in-the-Fields near Kensington Market."
+    a: "Kadampa Meditation Centre Canada near Bloor and Christie runs $15 drop-in classes at 631 Crawford St. The Toronto Zen Centre in High Park requires a half-day Introduction to Zen workshop for newcomers. Yoga Meditation Canada offers free classes across the GTA, and the Consciousness Explorers Club meets Monday nights at St Stephen-in-the-Fields near Kensington Market."
   - q: "Is there a free meditation group in Toronto?"
     a: "Yes. Yoga Meditation Canada runs free introductory classes in Toronto, Etobicoke and King City. Brahma Kumaris Toronto offers every program free, including a World Meditation Hour on the third Sunday of each month. Kadampa holds a free Meditate for World Peace class, and the Theravada Buddhist Community charges no fees."
   - q: "Which Toronto meditation groups are good for beginners?"
@@ -79,4 +79,4 @@ Want more? [Browse the full meditation list](/mindfulness-meditation/), or look 
 
 ---
 
-*Part of the [Toronto Community Directory](/), a free, community-built list of 250+ groups, clubs, and meetups across the city.*
+*Part of the [Toronto Community Directory](/), a free, community-built list of 550+ groups, clubs, and meetups across the city.*

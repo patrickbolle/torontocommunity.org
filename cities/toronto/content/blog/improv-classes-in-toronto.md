@@ -74,4 +74,4 @@ Want more? [Browse the full improv and comedy list](/improv-comedy/), or [add a 
 
 ---
 
-*Part of the [Toronto Community Directory](/), a free, community-built list of 250+ groups, clubs, and meetups across the city.*
+*Part of the [Toronto Community Directory](/), a free, community-built list of 550+ groups, clubs, and meetups across the city.*

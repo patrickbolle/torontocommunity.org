@@ -62,4 +62,4 @@ Dancing is one of the fastest ways I know to stop feeling like a stranger in a c
 
 ---
 
-*Part of the [Toronto Community Directory](/) — a free, community-built list of 250+ groups, clubs, and meetups across the city.*
+*Part of the [Toronto Community Directory](/) — a free, community-built list of 550+ groups, clubs, and meetups across the city.*

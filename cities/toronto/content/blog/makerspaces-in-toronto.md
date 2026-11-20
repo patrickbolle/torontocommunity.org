@@ -77,4 +77,4 @@ There's more on [the full maker spaces list](/maker-spaces/). If you'd rather wo
 
 ---
 
-*Part of the [Toronto Community Directory](/), a free, community-built list of 250+ groups, clubs, and meetups across the city.*
+*Part of the [Toronto Community Directory](/), a free, community-built list of 550+ groups, clubs, and meetups across the city.*
