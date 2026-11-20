@@ -120,3 +120,14 @@ h1, h2, h3, h4 { font-family: var(--font); }
 .hero h1 { font-size: clamp(46px, 6.2vw, 82px); max-width: 940px; }
 .hero p { max-width: 660px; }
 .hero .search { max-width: 660px; }
+
+/* Hero: stats live in the right column, not a separate strip */
+.hero { grid-template-columns: minmax(0, 1.55fr) minmax(230px, 0.45fr); align-items: center; }
+.hero-main { min-width: 0; }
+.hero-stats { display: grid; grid-template-columns: 1fr 1fr; gap: 24px 20px; border-left: 1px solid var(--line); padding-left: 26px; }
+.hero-stats .stat-num { display: block; font: 700 32px/1 var(--mono); letter-spacing: -.02em; color: var(--ink); }
+.hero-stats .stat-label { display: block; font-size: 11px; color: var(--muted); margin-top: 4px; }
+@media (max-width: 760px) {
+  .hero { grid-template-columns: 1fr; }
+  .hero-stats { border-left: 0; border-top: 1px solid var(--line); padding: 18px 0 0; margin-top: 22px; }
+}

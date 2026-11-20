@@ -48,7 +48,7 @@ permalink: /
 
 <main class="container" id="main-content">
   <section class="hero">
-    <div>
+    <div class="hero-main">
       <h1>find your people<br>in toronto.</h1>
       <p>Find run clubs, book groups, maker spaces, neighbourhood meetups, and more. Real communities, all in one place.</p>
       <form class="search" role="search" id="homepage-search-form" action="/" method="get">
@@ -64,13 +64,12 @@ permalink: /
         <a href="/chess/">chess</a>
       </div>
     </div>
-  </section>
-
-  <section class="stats-strip" aria-label="Directory size">
-    <div class="stat"><span class="stat-num">{{ totalGroups }}</span><span class="stat-label">groups</span></div>
-    <div class="stat"><span class="stat-num">{{ collections.categories.length }}</span><span class="stat-label">categories</span></div>
-    <div class="stat"><span class="stat-num">{{ totalListings - totalGroups }}</span><span class="stat-label">venues &amp; resources</span></div>
-    <div class="stat"><span class="stat-num">{{ neighbourhoods.length }}</span><span class="stat-label">neighbourhoods</span></div>
+    <div class="hero-stats" aria-label="Directory size">
+      <div class="stat"><span class="stat-num">{{ totalGroups }}</span><span class="stat-label">groups</span></div>
+      <div class="stat"><span class="stat-num">{{ collections.categories.length }}</span><span class="stat-label">categories</span></div>
+      <div class="stat"><span class="stat-num">{{ totalListings - totalGroups }}</span><span class="stat-label">venues &amp; resources</span></div>
+      <div class="stat"><span class="stat-num">{{ neighbourhoods.length }}</span><span class="stat-label">neighbourhoods</span></div>
+    </div>
   </section>
 
   <div id="search-results" class="search-results" hidden></div>
