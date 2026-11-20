@@ -71,14 +71,14 @@ permalink: /
 
 <main id="main-content">
   <div class="frame page">
-    <div class="columns">
-      <div class="col-main">
+    <div class="home-hero">
+      <div class="home-hero-text">
         <h1 class="page-title">Find your people in Toronto.</h1>
-        <p class="page-lede">{{ totalGroups }}+ groups across {{ collections.categories.length }} categories. Run clubs, supper clubs, philosophy circles, maker spaces and more. Browse, click through, show up.</p>
+        <p class="page-lede">{{ totalGroups }}+ groups across {{ collections.categories.length }} categories. Run clubs, book clubs, maker spaces and more.</p>
 
         <form class="search" role="search" id="homepage-search-form" action="/" method="get">
           <label for="homepage-group-search" class="visually-hidden">Search the directory</label>
-          <input type="search" id="homepage-group-search" class="search-input" name="q" placeholder="Search {{ totalGroups }}+ groups: hiking, chess, supper club…" autocomplete="off" data-umami-event="homepage-search">
+          <input type="search" id="homepage-group-search" class="search-input" name="q" placeholder="Search groups: hiking, chess, book clubs…" autocomplete="off" data-umami-event="homepage-search">
           <button type="submit" class="search-btn search-btn-primary">Search</button>
         </form>
         <p class="search-popular">Popular:
@@ -86,10 +86,16 @@ permalink: /
           <a href="/book-clubs/">book clubs</a> &middot;
           <a href="/dinner-supper-clubs/">supper clubs</a> &middot;
           <a href="/hiking-outdoors/">hiking</a> &middot;
-          <a href="/free/">free things</a>
+          <a href="/chess/">chess</a>
         </p>
-        <div id="search-results" class="search-results" hidden></div>
-
+      </div>
+      <div class="home-hero-art">
+        <img src="/hero.svg" alt="A pixel-art Toronto street scene: a red brick corner shop, a tree, the CN Tower, a streetcar and the city skyline" class="hero-art" width="640" height="448">
+      </div>
+    </div>
+    <div id="search-results" class="search-results" hidden></div>
+    <div class="columns">
+      <div class="col-main">
         <div id="homepage-browse-content">
           <section class="panel" id="categories">
             <h2 class="panel-title">Browse by category</h2>
@@ -150,6 +156,21 @@ permalink: /
       </div>
 
       <aside class="col-side">
+        <section class="new-to-toronto">
+          <a href="/start-here/" class="new-to-toronto-link">
+            <h2 class="new-to-toronto-title">new to<br>toronto?</h2>
+            <p class="new-to-toronto-text">A quick guide to finding community in the city. <span aria-hidden="true">&rarr;</span></p>
+          </a>
+        </section>
+        <section class="panel">
+          <h2 class="panel-title">explore by neighbourhood</h2>
+          <ul class="panel-body link-list link-list-tight neighbourhood-list">
+            {%- for hood in neighbourhoods %}
+            <li><a href="/neighbourhoods/{{ hood.slug }}/">{{ hood.name }}</a></li>
+            {%- endfor %}
+          </ul>
+          <p class="panel-links"><a href="/neighbourhoods/">all neighbourhoods <span aria-hidden="true">&rarr;</span></a></p>
+        </section>
         {#- The sister-site ad sits first so it's visible without scrolling. #}
         {%- set promoVariant = "feature" %}{% set promoPlacement = "homepage" %}{% set promoHeading = "" %}{% set promoBody = "" %}
         {% include "partials/mutuals-promo.njk" %}

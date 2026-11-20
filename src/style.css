@@ -2,35 +2,38 @@
    Boxed panels, dense link lists, underlined links, Georgia headings, Verdana text. */
 
 :root {
-  --bg: #f7f3ec;
-  --surface: #fffdf8;
-  --panel-head: #efe4d6;
-  --line: #ddcfbd;
-  --line-soft: #e9e0d2;
+  --bg: #fdfcf9;
+  --surface: #ffffff;
+  --panel-head: #f4f2ec;
+  --line: #e5e3dc;
+  --line-soft: #eeece6;
 
-  --ink: #2b2925;
-  --ink-2: #4d4943;
-  --ink-muted: #6b665d;
+  --ink: #1a1a1a;
+  --ink-2: #3d3d3d;
+  --ink-muted: #6b6b6b;
 
-  --masthead: #1b5b86;
-  --masthead-deep: #13405f;
-  --link: #1d6fa8;
-  --link-visited: #4f4f86;
-  --link-hover: #0f4a70;
+  --masthead: #ffffff;
+  --masthead-deep: #f7f5f0;
+  --link: #1a1a1a;
+  --link-visited: #4a4a4a;
+  --link-hover: #c8402f;
   --success: #3f6e3e;
-  --error: #b23a48;
-  --overlay: rgba(43, 41, 37, 0.45);
+  --error: #c8402f;
+  --overlay: rgba(26, 26, 26, 0.45);
+  --accent: #c8402f;
+  --accent-hover: #a83425;
+  --blue: #4a7fb5;
 
-  --hover-bg: #faf5ee;      /* hovered rows and cards, open ad boxes */
+  --hover-bg: #f7f5ef;      /* hovered rows and cards, open ad boxes */
   --target-bg: #fbf3d5;     /* the card a #link points at */
-  --field-border: #7c8a94;  /* inputs, cream button edges, dropdown edges (3:1 on white) */
+  --field-border: #9a9a9a;  /* inputs, cream button edges, dropdown edges (3:1 on white) */
   --success-line: #b9cdb8;  /* Free badge border */
-  /* Bevel edges: brick buttons use light/dark, cream buttons use cream/field-border. */
-  --bevel-light: #4a86ad;
-  --bevel-dark: #0c2c40;
-  --bevel-cream: #fffdf6;
+  /* Bevel edges: red buttons use light/dark, cream buttons use cream/field-border. */
+  --bevel-light: #e06a55;
+  --bevel-dark: #8a2a1e;
+  --bevel-cream: #ffffff;
   /* Dialogs, toasts and dropdowns: the same hard 2px offset as panels, a little darker. */
-  --shadow-overlay: 2px 2px 0 rgba(43, 41, 37, 0.35);
+  --shadow-overlay: 2px 2px 0 rgba(26, 26, 26, 0.3);
 
   --serif: Georgia, 'Times New Roman', serif;
   --sans: Verdana, Geneva, sans-serif;
@@ -47,7 +50,7 @@
   --fs-xl: 1.75rem;     /* page titles */
 
   /* 2px checkerboard, the GIF-era way to soften a line. */
-  --dither: repeating-conic-gradient(#b3bcc3 0 25%, transparent 0 50%);
+  --dither: repeating-conic-gradient(#d8d4c8 0 25%, transparent 0 50%);
 }
 
 *, *::before, *::after { box-sizing: border-box; }
@@ -103,7 +106,7 @@ button { font-family: inherit; font-size: inherit; cursor: pointer; }
 .frame { max-width: var(--frame); margin: 0 auto; padding: 0 var(--gutter); }
 
 /* ---------- Masthead and tabs ---------- */
-.masthead { background: var(--masthead); color: #fff; }
+.masthead { background: var(--masthead); color: var(--ink); }
 /* The logo's scene, stretched along the bottom edge: stepped mountains and evergreens. */
 .masthead::after {
   content: "";
@@ -128,28 +131,28 @@ button { font-family: inherit; font-size: inherit; cursor: pointer; }
   font-size: var(--fs-xl);
   font-weight: 700;
   letter-spacing: -0.02em;
-  color: #fff;
+  color: var(--ink);
   text-decoration: none;
 }
-.wordmark:visited, .wordmark:hover { color: #fff; }
+.wordmark:visited, .wordmark:hover { color: var(--ink); }
 .wordmark-mark { width: 32px; height: 32px; flex: none; margin-right: 10px; image-rendering: pixelated; }
-.wordmark-soft { color: #b9cbbf; margin-left: 0.25em; }
-.wordmark-small .wordmark-soft { color: #5a7566; }
+.wordmark-soft { color: var(--ink-muted); margin-left: 0.25em; }
+.wordmark-small .wordmark-soft { color: var(--ink-muted); }
 /* Right side of the masthead: what this is, how big it is, and Surprise me. */
 .masthead-side { display: flex; align-items: center; gap: 20px; }
-.masthead-tag { color: #b9cbbf; font-size: var(--fs-sm); white-space: nowrap; }
+.masthead-tag { color: var(--ink-muted); font-size: var(--fs-sm); white-space: nowrap; }
 /* Surprise me is a quiet underlined link-button, so it doesn't compete with Search. */
 .masthead-surprise {
   flex: none;
   padding: 6px 0;
   font-size: var(--fs-base);
-  color: var(--bg);
+  color: var(--ink);
   background: none;
   border: none;
   text-decoration: underline;
   text-underline-offset: 2px;
 }
-.masthead-surprise:hover { color: #fff; text-decoration-thickness: 2px; }
+.masthead-surprise:hover { color: var(--accent); text-decoration-thickness: 2px; }
 .masthead-surprise:active { transform: translate(1px, 1px); }
 /* Below 900px the tagline would wrap into a block; keep just the wordmark and Surprise me. */
 @media (max-width: 899px) { .masthead-tag { display: none; } }
@@ -180,10 +183,10 @@ button { font-family: inherit; font-size: inherit; cursor: pointer; }
 .tab:focus-visible { outline-offset: -2px; }
 /* aria-current is "page" on the tab's own page and "true" anywhere inside its section. */
 .tab[aria-current], .tabs-more-btn.is-current {
-  color: var(--ink);
+  color: var(--accent);
   font-weight: 700;
   text-decoration: none;
-  border-bottom-color: var(--masthead);
+  border-bottom-color: var(--accent);
 }
 
 /* ---------- Key/value tables (.details) ---------- */
@@ -207,6 +210,32 @@ button { font-family: inherit; font-size: inherit; cursor: pointer; }
 @media (max-width: 899px) {
   .columns { grid-template-columns: minmax(0, 1fr); }
 }
+
+/* Homepage hero: text left, pixel-art Toronto street scene right */
+.home-hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr);
+  gap: 28px;
+  align-items: center;
+  padding: 8px 0 20px;
+  border-bottom: 1px solid var(--line);
+  margin-bottom: 20px;
+}
+.home-hero-art { display: flex; justify-content: center; }
+.hero-art { width: 100%; max-width: 440px; height: auto; display: block; image-rendering: pixelated; }
+@media (max-width: 760px) {
+  .home-hero { grid-template-columns: 1fr; gap: 12px; }
+  .home-hero-art { order: -1; }
+  .hero-art { max-width: 360px; }
+}
+
+/* "new to toronto?" red promo panel in the homepage sidebar */
+.new-to-toronto { background: var(--accent); box-shadow: 2px 2px 0 var(--bevel-dark); }
+.new-to-toronto-link { display: block; padding: 16px; color: #fff; text-decoration: none; }
+.new-to-toronto-title { font-family: var(--serif); font-size: var(--fs-xl); line-height: 1.05; color: #fff; margin-bottom: 8px; }
+.new-to-toronto-text { font-size: var(--fs-sm); color: #fff; }
+.new-to-toronto-link:hover .new-to-toronto-title { text-decoration: underline; }
+.neighbourhood-list { display: grid; grid-template-columns: 1fr 1fr; gap: 2px 12px; }
 
 .breadcrumbs { font-size: var(--fs-sm); color: var(--ink-muted); margin-bottom: 12px; }
 .breadcrumbs ol { display: flex; flex-wrap: wrap; list-style: none; }
@@ -271,7 +300,7 @@ button { font-family: inherit; font-size: inherit; cursor: pointer; }
   font-size: var(--fs-base);
   font-weight: 700;
   color: #fff;
-  background: var(--masthead);
+  background: var(--accent);
   border: 1px solid;
   border-color: var(--bevel-light) var(--bevel-dark) var(--bevel-dark) var(--bevel-light);
   border-radius: 2px;
@@ -369,10 +398,13 @@ button { font-family: inherit; font-size: inherit; cursor: pointer; }
    grows its own row instead of reflowing every section. */
 .directory {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  grid-template-columns: repeat(3, minmax(0, 1fr));
   column-gap: 24px;
+  row-gap: 4px;
   align-items: start;
 }
+@media (max-width: 640px) { .directory { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 420px) { .directory { grid-template-columns: 1fr; } }
 .directory-group { padding-bottom: 14px; min-width: 0; }
 /* The 2px dither under section headings (and under "New lists"). */
 .directory-heading, .directory-new {
