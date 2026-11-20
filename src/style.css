@@ -130,6 +130,11 @@ button { font-family: inherit; font-size: inherit; cursor: pointer; }
 }
 .wordmark:visited, .wordmark:hover { color: var(--ink); }
 .wordmark-mark { width: 32px; height: 32px; flex: none; margin-right: 10px; image-rendering: pixelated; }
+/* Single-row masthead nav (mockup style): wordmark, nav, then counts pushed right */
+.masthead-inner .wordmark { margin-right: 0; }
+.masthead-nav { display: flex; align-items: center; gap: 18px; margin-right: auto; }
+.masthead-nav .tab { padding: 2px 0; border-bottom: none; }
+.masthead-nav .tab[aria-current] { color: var(--accent); text-decoration: underline; text-underline-offset: 4px; border-bottom: none; }
 .wordmark-soft { color: var(--ink-muted); margin-left: 0.25em; }
 .wordmark-small .wordmark-soft { color: var(--ink-muted); }
 /* Right side of the masthead: what this is, how big it is, and Surprise me. */
@@ -230,6 +235,34 @@ button { font-family: inherit; font-size: inherit; cursor: pointer; }
 .new-to-toronto-text { font-size: var(--fs-sm); color: #fff; }
 .new-to-toronto-link:hover .new-to-toronto-title { text-decoration: underline; }
 .neighbourhood-list { display: grid; grid-template-columns: 1fr 1fr; gap: 2px 12px; }
+
+/* ---- Homepage redesign: big editorial type, open layout, clean sidebar (matches mockup) ---- */
+.homepage .home-hero .page-title {
+  font-size: clamp(2.6rem, 6vw, 3.6rem);
+  line-height: 1.0;
+  letter-spacing: -0.035em;
+  margin-bottom: 12px;
+}
+.homepage .page-lede { font-size: 1rem; }
+#categories.panel { border: none; background: none; box-shadow: none; }
+#categories .panel-title {
+  background: none; border: none; box-shadow: none;
+  font-family: var(--serif); font-size: 1.9rem; font-weight: 700;
+  padding: 0 0 12px; margin-bottom: 4px;
+}
+#categories .panel-body { padding: 0; }
+.homepage .col-side .panel { border: none; background: none; box-shadow: none; }
+.homepage .col-side .panel-title {
+  background: none; border: none; box-shadow: none;
+  font-family: var(--serif); font-size: var(--fs-lg); padding: 0 0 8px;
+}
+.homepage .col-side .panel-body { padding: 0; }
+.skyline-strip {
+  height: 56px;
+  background: url("/treeline.svg") repeat-x center bottom / 384px 24px;
+  image-rendering: pixelated;
+  margin-top: 28px;
+}
 
 .breadcrumbs { font-size: var(--fs-sm); color: var(--ink-muted); margin-bottom: 12px; }
 .breadcrumbs ol { display: flex; flex-wrap: wrap; list-style: none; }
