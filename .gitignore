@@ -18,3 +18,5 @@ link-issue.md
 .xdg-data/
 .DS_Store
 .cf-token
+
+.pylib/

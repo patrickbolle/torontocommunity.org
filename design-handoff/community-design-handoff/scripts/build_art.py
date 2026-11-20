@@ -56,8 +56,8 @@ def paint(city='toronto',scene='hero',variant=0):
    for wy in range(ground-bh+4,ground-3,5):
     rect(x+3,wy,1,2,'glass');rect(x+6,wy,1,2,'glass')
   if scene in ('hero','strip'):
-   tx=(W-26 if scene=='hero' else W//2); th=(47 if scene=='hero' else 23); top=ground-th
-   rect(tx,top+6,2,th-6,'ink');rect(tx-2,top+18,6,3,'brick');rect(tx-4,top+20,10,2,'brick2');rect(tx,top,1,7,'ink');rect(tx+1,top+9,1,9,'ink')
+   tx=(W-26 if scene=='hero' else W//2); th=(68 if scene=='hero' else 23); top=ground-th
+   rect(tx,top+6,2,th-6,'ink');rect(tx-3,top+18,8,3,'brick');rect(tx-5,top+20,12,2,'brick2');rect(tx,top,1,7,'ink');rect(tx+1,top+9,1,9,'ink')
  if scene!='strip':
   # small Toronto street grid / Vancouver building assembly
   if city=='toronto':

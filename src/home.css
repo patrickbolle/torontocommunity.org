@@ -15,3 +15,7 @@
 /* Hero art fills its grid column (overrides the old 440px cap in style.css) */
 .hero-art { max-width: none; }
 .hero-art .pixel-art, .hero-art img { width: 100%; max-width: none; }
+
+/* Balance the hero: wider art column, vertically centered so it doesn't float with a gap above */
+.hero { grid-template-columns: minmax(0, 1fr) minmax(340px, 1.18fr); }
+.hero-art { align-self: center; }
