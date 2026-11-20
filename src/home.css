@@ -131,3 +131,10 @@ h1, h2, h3, h4 { font-family: var(--font); }
   .hero { grid-template-columns: 1fr; }
   .hero-stats { border-left: 0; border-top: 1px solid var(--line); padding: 18px 0 0; margin-top: 22px; }
 }
+
+/* A bit more Myspace: pixel mark, dashed rule, webring line */
+.wordmark { display: inline-flex; align-items: center; gap: 8px; }
+.wordmark-mark { display: block; flex: none; image-rendering: pixelated; }
+.footer { border-top: 1px dashed var(--ink); }
+.webring { margin: 8px 0 0; font-size: 11px; color: var(--muted); }
+.webring a { color: var(--muted); }
