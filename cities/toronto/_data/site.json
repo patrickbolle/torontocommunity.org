@@ -24,10 +24,10 @@
     "tagline": "Groups, clubs and meetups in Toronto & the GTA, collected by hand."
   },
   "theme": {
-    "masthead": "#7a3b2e",
-    "mastheadDeep": "#5e2c22",
-    "link": "#1f5d7a",
-    "linkHover": "#144257",
+    "masthead": "#1b5b86",
+    "mastheadDeep": "#13405f",
+    "link": "#1d6fa8",
+    "linkHover": "#0f4a70",
     "linkVisited": "#4f4f86",
     "success": "#3f6e3e",
     "error": "#b23a48"

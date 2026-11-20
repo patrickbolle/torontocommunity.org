@@ -1,52 +1,70 @@
 ---
 layout: category
 tags: category
-title: "Maker Spaces"
-description: "3 maker communities plus shared workshops — 3D printing, laser cutting, woodworking, and a tool lending library."
+title: "Maker Spaces in Toronto"
+description: "{n} maker spaces in Toronto and the GTA — hackerspaces, shared workshops for 3D printing, laser cutting, woodworking and sewing, and a tool-lending library."
 emoji: "🔧"
 group: work-tech
-seoTitle: "Maker Spaces in Vancouver: Workshops & Tools ({year})"
-seoDescription: "Maker spaces in Vancouver: hackerspaces, shared workshops for 3D printing, laser cutting and woodworking, repair cafés and a tool library."
+seoTitle: "{n} Maker Spaces in Toronto: Workshops & Tools ({year})"
+seoDescription: "{n} maker spaces in Toronto and the GTA: hackerspaces, shared workshops for 3D printing, laser cutting, woodworking and sewing, and a tool-lending library."
 listNoun: "maker spaces"
-seoHeading: "Maker Spaces in Vancouver"
+seoHeading: "Maker Spaces in Toronto"
 order: 3
 ---
 
-# 🔧 Maker Spaces
+# 🔧 Maker Spaces in Toronto
 
-## Vancouver Hack Space (VHS)
-- **What:** Volunteer-run workshop, 3D printing, laser cutting, woodworking, robotics, welding. "Share tools, equipment, space, knowledge, and good times"
-- **Find it:** [vanhack.ca](https://vanhack.ca/wp/)
+## Site 3 CoLaboratory
+- **What:** Volunteer-run, non-profit maker space in a 2,000 sq ft west-end shop — woodworking, metalworking, welding, electronics, plastics and 3D printing. A community of makers, artists, inventors and tinkerers who create, display, teach and inspire
+- **Where:** Bloor & Ossington
+- **When:** Open house Thursdays 7–10pm
+- **Cost:** $60/mo + HST
+- **Find it:** [site3.ca](https://www.site3.ca/)
 
-## Repair Cafés Vancouver
-- **What:** Free community repair events. Fix things instead of throwing them away, learn repair skills
+## HackLab.TO
+- **What:** Toronto's volunteer-run hackerspace, a not-for-profit with artists, programmers and hardware hackers sharing tools and knowledge. 3D printers, laser cutter, darkroom, electronics benches and a busy calendar of workshops and swap days
+- **Where:** 1677 St Clair Ave W, Stockyards
+- **When:** Open house Tuesdays from 6pm
+- **Cost:** $75/mo
+- **Find it:** [hacklab.to](https://hacklab.to/)
+
+## InterAccess
+- **What:** Media arts centre and studio with a gallery, equipment rentals and a workshop program. Members get tool training on the laser cutter, mill and lathe, plus access to electronics and digital fabrication gear
+- **Where:** 32 Lisgar St, Parkdale
+- **Find it:** [interaccess.org](https://www.interaccess.org/)
+
+## Toronto Tool Library
+- **What:** Non-profit tool-lending library running since 2012 — thousands of tools to borrow for up to a week, plus hands-on workshops in leathercraft, sewing and home repair. A friendly, practical DIY community
+- **Where:** 192 Spadina Ave, Kensington Market
+- **Cost:** $85/year
+- **Find it:** [torontotoollibrary.com](https://torontotoollibrary.com/)
+
+## Shoppe & Tailor Studios
+- **What:** Queer-owned textile maker space and rental sewing studio — a fully equipped studio for garment makers, with private lessons, workshops and a studio collective of small fashion businesses
+- **Where:** 163 Sterling Rd, Unit 167, The Junction
+- **Find it:** [shoppeandtailor.com](https://www.shoppeandtailor.com/)
+
+## Repair Café Toronto
+- **What:** Volunteer fixers help neighbours repair small appliances, electronics, clothes, jewellery, books and more at free community events across the city. Learn the fix instead of tossing it
+- **Where:** Across Toronto
 - **Cost:** Free
-- **Find it:** [spec.bc.ca/waste/repair-cafe](https://spec.bc.ca/waste/repair-cafe/) | [Facebook](https://www.facebook.com/mvrepaircafes/)
+- **Find it:** [repaircafetoronto.ca](https://repaircafetoronto.ca/)
 
-## Vancouver Tool Library
-- **What:** Borrow tools instead of buying. Community resource, sustainable making
-- **Find it:** [vancouvertoollibrary.com](https://vancouvertoollibrary.com/)
+## Mischief Makers
+- **What:** Neighbourhood DIY makerspace in the east end with workshops, clubs and workstations for building, making and upcycling. A circular-economy-minded crew that turns everyday materials into something extraordinary
+- **Where:** 247 Coxwell Ave, Leslieville
+- **Find it:** [mischiefmakers.ca](https://www.mischiefmakers.ca/)
+
+## Burnhamthorpe Library Makerspace
+- **What:** Library makerspace with sewing machines, button makers, Cricut cutters, Adobe Creative Cloud iMacs, digitization gear and a 3D printer. Workshops and equipment for your own projects at the Burnhamthorpe branch
+- **Where:** 3650 Dixie Rd, Mississauga
+- **Find it:** [mississauga.ca/library/makerspace](https://www.mississauga.ca/library/locations/burnhamthorpe-library/makerspace/)
 
 ---
 
 ## Venues & Spaces
 
-## MakerLabs
-- **What:** 26,000 sq ft — wood shop, metal shop, ceramics, CNC, laser cutters, sewing
-- **Find it:** [makerlabs.com](https://www.makerlabs.com/)
-
-## Vancouver Community Laboratory (CoLab)
-- **What:** Collaborative workshop — wood, metal, textiles
-- **Find it:** [vancommunitylab.com](https://vancommunitylab.com/)
-
-## Maker Cube (Langley)
-- **What:** Woodworking to 3D printing to pottery
-- **Find it:** [makercube.ca](https://makercube.ca/)
-
-## Emily Carr University Digital Fabrication Lab
-- **What:** Access to fabrication tools for students and community. Creative, art-focused making
-- **Find it:** [ecuad.ca/on-campus/shops-studios/digfab](https://www.ecuad.ca/on-campus/shops-studios/digfab)
-
-## Vancouver Battlebots
-- **What:** Builds and fights combat robots under NHRL rules. Meets at Vancouver Hack Space
-- **Find it:** [vanhack.ca/](https://vanhack.ca/)
+## Make It! at Pierre Berton Resource Library
+- **What:** Creation space inside Vaughan's Pierre Berton library with a laser cutter, Cricut, sublimation printer, 3D printer and digital design tools. Workshops and open making for all ages
+- **Where:** 4921 Rutherford Rd, Woodbridge
+- **Find it:** [vaughanpl.info/libraries/view/7](https://www.vaughanpl.info/libraries/view/7)

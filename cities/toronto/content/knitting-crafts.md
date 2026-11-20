@@ -2,68 +2,76 @@
 layout: category
 tags: category
 title: "Knitting & Fibre Crafts"
-description: "7 knit nights, crochet circles and weaving guilds plus a yarn shop social. Bring your project and pull up a chair."
+description: "{n} knitting circles, crochet meetups and weaving, spinning and quilting guilds across Toronto and the GTA, plus a Kensington yarn-shop stitch night."
 emoji: "🧶"
 group: creative
-seoTitle: "{n} Knitting Groups & Fibre Guilds in Vancouver ({year})"
-seoDescription: "{n} knitting and crochet groups, knit nights, and weaving and spinning guilds in Vancouver. Bring your project. Beginners welcome."
+seoTitle: "{n} Knitting Groups & Fibre Guilds in Toronto ({year})"
+seoDescription: "{n} places to knit, crochet and spin in Toronto — guilds, stitch nights and a Kensington yarn shop. Bring your project. Beginners welcome."
 listNoun: "knitting groups"
-seoHeading: "Knitting Groups & Fibre Guilds in Vancouver"
+seoHeading: "Knitting Groups & Fibre Guilds in Toronto"
 order: 9
 added: 2026-11-14
 ---
 
 # 🧶 Knitting & Fibre Crafts
 
-## North Shore Knitters
-- **What:** Social group of knitters, crocheters and other fibre crafters. Skill-sharing and conversation, newcomers always welcome, no registration
-- **When:** 1st & 3rd Thu, 2nd & 4th Sun
-- **Where:** North Vancouver City Library, 120 14th St W
-- **Find it:** [nvcl.ca](https://www.nvcl.ca/events/north-shore-knitters-34)
+## Toronto Knitters Guild
+- **What:** Intergenerational guild of knitters and fibre crafters, from first-timers to master knitters. Monthly meetings, virtual knit nights, workshops and charity knitting, with a show-and-tell culture that makes new faces feel at home
+- **When:** 3rd Wednesday monthly, 7:30pm
+- **Cost:** $75/year
+- **Where:** Yorkminster Park Baptist Church, 1585 Yonge St
+- **Find it:** [torontoknittersguild.ca](https://torontoknittersguild.ca/)
 
-## By Hand – for Makers
-- **What:** Free weekly drop-in for knitting, crochet, embroidery, beading and quilting. Bring your current project, or the one you keep meaning to finish
-- **When:** Thursdays 1–3pm
-- **Cost:** Free
-- **Where:** Kitsilano Community Centre, 2690 Larch St
-- **Find it:** [kitscc.com](https://kitscc.com/event/by-hand-for-makers-a-free-weekly-drop-in/)
+## Toronto Guild of Spinners and Weavers
+- **What:** Weavers, spinners and dyers who meet for guest speakers, show and tell and plenty of fibre talk. Members can borrow looms, carders and wheels, and the guild demonstrates fleece-to-fabric skills at Riverdale Farm
+- **When:** 2nd Wednesday monthly
+- **Where:** Riverdale Farm, 201 Winchester St
+- **Find it:** [toronto-guild-of-spinners-and-weavers.com](https://toronto-guild-of-spinners-and-weavers.com/)
 
-## Froggers Anonymous
-- **What:** Knitters and crocheters meeting at a coffee shop to work on projects, trade tips and get to know each other. All levels, first visit free
-- **When:** Thursday evenings
-- **Where:** Burnaby
-- **Find it:** [meetup.com/froggers](https://www.meetup.com/froggers/)
+## Toronto Guild of Stitchery
+- **What:** Embroidery guild founded in 1975, covering cross-stitch, needlepoint, blackwork, hardanger, goldwork and more. Day and evening groups, dedicated stitching days, workshops and a library, with beginners genuinely welcome
+- **When:** 1st & 3rd Thursday, 10am & 7pm
+- **Where:** Blythwood Road Baptist Church, 80 Blythwood Rd
+- **Find it:** [tgsweb.ca](https://www.tgsweb.ca/)
 
-## Greater Vancouver Weavers' and Spinners' Guild
-- **What:** Weaving and spinning guild since 1935, with workshops, study groups and a 900+ book library. New members very welcome. Monthly social with coffee, show 'n tell and a shared dye pot
-- **When:** Monthly
-- **Where:** Kanata Co-op community hall, 7155 Blake St
-- **Find it:** [gvwsg.com](https://gvwsg.com/)
+## Etobicoke Handweavers & Spinners Guild
+- **What:** Half-century-old guild with its own studio at Neilson Park Creative Centre, stocked with looms, spinning wheels and fibre-processing equipment. Guest speakers, workshops, a weekly Friday drop-in and a bi-weekly Zoom knit night
+- **When:** Weekly Friday drop-in
+- **Where:** Neilson Park Creative Centre, 56 Neilson Dr, Etobicoke
+- **Find it:** [ehsguild.com](https://ehsguild.com/)
 
-## Richmond Weavers and Spinners Guild
-- **What:** Weavers, spinners and dyers of every level. Weekly studio drop-in, monthly meetings, study groups and beginner weaving classes
-- **When:** Weekly drop-in, monthly meetings
-- **Where:** Richmond Cultural Centre, 7700 Minoru Gate
-- **Find it:** [rwsg.ca](https://rwsg.ca/)
+## Etobicoke Rugcrafters
+- **What:** Traditional rug hooking group and a branch of the Ontario Hooking Craft Guild. Members work in primitive, pictorial, oriental and geometric styles, with mini-workshops, trips and a yearly gallery show. Evening sessions run the 2nd and 4th Tuesday, and help for beginners is part of the deal
+- **When:** 1st, 3rd & 5th Tue 9am–4pm
+- **Cost:** $35/year plus NPCC membership
+- **Where:** Neilson Park Creative Centre, 56 Neilson Dr, Etobicoke
+- **Find it:** [etobicokerugcrafters.com](https://www.etobicokerugcrafters.com/)
 
-## Peace Arch Weavers & Spinners Guild
-- **What:** Friendly guild for weaving, spinning, dyeing, felting, basketry and knitting. Meets Wednesdays, with looms, spinning wheels and a library
-- **When:** Wednesdays
-- **Where:** Museum of Surrey, 17710 56A Ave, Surrey
-- **Find it:** [peace-arch-weavers-and-spinners.org](https://peace-arch-weavers-and-spinners.org/)
+## York Heritage Quilters Guild
+- **What:** Quilting guild with monthly guest speakers, workshops, community quilt projects and a generous show-and-share. Meetings run in person and over Zoom, and the guild library opens before the meeting
+- **When:** 3rd Tuesday monthly, 7pm
+- **Cost:** $60/year
+- **Where:** Toronto Botanical Garden, 777 Lawrence Ave E
+- **Find it:** [yhqg.org](https://yhqg.org/)
 
-## Vancouver Guild of Embroiderers
-- **What:** Non-profit for embroidery in all its forms. Monthly meetings, workshops and a lending library, for anyone who loves stitching, learning or making new friends
-- **When:** Monthly
-- **Where:** 1825 West 16th Ave
-- **Find it:** [vgeweb.ca](https://vgeweb.ca/)
+## Mississauga Handweavers and Spinners Guild
+- **What:** Weavers, spinners and dyers who also wander into beading, basketry and other fibre arts. Monthly program meetings, anniversary displays and a lot of shared know-how between members
+- **When:** 4th Monday, Sept–May, 1:30pm
+- **Where:** River Grove Community Centre, 5800 River Grove Ave, Mississauga
+- **Find it:** [mississaugaweaversandspinners.wordpress.com](https://mississaugaweaversandspinners.wordpress.com/)
+
+## Markham Guild of Village Crafts
+- **What:** Volunteer-run craft guild that has been making things together since 1971. Interest groups cover knitting, crochet, weaving, quilting and embroidery, and the sessions are as much social as they are stitch-and-share
+- **When:** Mondays 9:30am, Fridays 7pm
+- **Where:** 11 Church St, Markham
+- **Find it:** [markhamguild.com](https://www.markhamguild.com/s-projects-basic)
 
 ---
 
 ## Venues & Spaces
 
-## Baaad Rabbit Fibre Arts
-- **What:** Yarn shop hosting a free Sunday Social for crochet, knitting, needle felting and drop spindling. Bring a portable project. Seats are limited, so sign up
-- **When:** Sundays
-- **Where:** 804 Twentieth St, New Westminster
-- **Find it:** [baaadrabbitfa.com](https://baaadrabbitfa.com/)
+## Yarns Untangled
+- **What:** Kensington Market yarn boutique full of Canadian hand-dyed yarn, with classes and a welcoming stitch night. Every second Wednesday the table fills with knitters, crocheters and people who just want to sit and make something
+- **When:** Every second Wednesday, 6–9pm
+- **Where:** 86 Nassau St
+- **Find it:** [yarnsuntangled.com](https://yarnsuntangled.com/)

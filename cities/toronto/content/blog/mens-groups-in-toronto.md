@@ -1,18 +1,18 @@
 ---
 layout: post
 tags: post
-title: "Men's groups in Toronto: circles, dads and friends"
-description: "A plain guide to men's talking circles, support groups, dad meetups and wellness groups in Toronto, plus easy ways to make friends as a man."
+title: "Men's groups in Toronto: circles, dads and friendship"
+description: "A plain guide to men's talking circles, peer support, dads' meetups and social groups in Toronto and the GTA, plus easy ways to make friends as a man."
 date: 2026-10-09
 faq:
   - q: "Are there men's support groups in Toronto?"
-    a: "Yes. The DUDES Club, ManKind Project BC and Pathways Men's Talking Circle all run supportive talking circles for men. The DUDES Club and Pathways are participant-led, and ManKind Project BC has a finder to help you locate a group. The directory lists them all on its men's groups page."
+    a: "Yes. The Canadian Centre for Men and Families runs a men's peer support group alongside counselling and a legal clinic, ManKind Project Toronto runs peer-led circles open to visitors, Fairlawn Avenue Men's Group meets monthly for conversation, and Talk It Out's Sunday Dinner Series is a quarterly peer discussion for Black men across the GTA. The directory lists them all on its men's groups page."
   - q: "What is a men's circle?"
-    a: "A men's circle is a small group of men who meet to talk honestly about their lives. Some focus on support and listening, like ManKind Project BC. Others, like ARKA Brotherhood, run weekly action-focused circles built around leadership and mature masculinity."
+    a: "A men's circle is a small group of men who meet to talk honestly about their lives. Some focus on support and listening, like the ManKind Project Toronto circles. Others, like the MDI men's teams, are built around setting a goal and reporting back the following week."
   - q: "How do I make friends as a man in Toronto?"
     a: "Join something that meets on a schedule and go three times before you judge it. That can be a men's circle, a dads' meetup, or an activity like a run club or board game night. Friendship comes from seeing the same faces again and again."
   - q: "Are there groups for dads in Toronto?"
-    a: "Yes. Metro Toronto Dads runs meetups for fathers with young kids. They are casual playground hangouts with some parenting support, and you can find them on Meetup."
+    a: "Yes. Toronto Dads Group runs meetups several times a month for fathers with kids, at parks, playgrounds and museums across the GTA, plus Dads' Nights Out. Black Daddies Club also hosts Sunday Dinners and fatherhood programs for Black fathers and Black men."
 ---
 
 Men in Toronto are lonely. Not all of them, and not all the time. But enough that "mens groups toronto" is one of the most common searches that lands people on this site.
@@ -25,27 +25,32 @@ The good news is that some men in this city have built places for exactly this. 
 
 A talking circle is simple. A few men sit together and say what is actually going on. Others listen. Nobody fixes anyone. It sounds small. For a lot of men it is the first time they have said certain things out loud.
 
-- **[The DUDES Club](/mens-groups/#the-dudes-club)** runs men's talking circles focused on health and wellness. It is participant-led, so the men in the room shape it. The word they use is brotherhood.
-- **[ManKind Project BC](/mens-groups/#mankind-project-bc)** offers supportive men's talking circles. Their site has a "find a men's group" page, which helps you find a circle that fits.
-- **[Pathways Men's Talking Circle](/mens-groups/#pathways-men's-talking-circle)** is another participant-led community for men's health and wellness, built around brotherhood and support circles.
+- **[ManKind Project Toronto Men's Circles](/mens-groups/#mankind-project-toronto-men's-circles)** are peer-run circles open to visitors whether or not they have done the New Warrior Training Adventure. The Toronto I-Group meets Mondays at 7pm downtown, and Catacomb Warriors meets every other Thursday at 6:30pm near Danforth and Broadview.
+- **[Fairlawn Avenue Men's Group](/mens-groups/#fairlawn-avenue-men's-group)** meets on the first Monday morning of the month, September to June, at Fairlawn Avenue United Church in North York for friendship and wide-ranging discussion. A low-key room.
 
-If you have never done this before, start with one of these three. They are made for listening, not performing.
+If you are Indigenous, the **[Native Canadian Centre of Toronto](/mens-groups/#native-canadian-centre-of-toronto)** runs men's and women's circles, teaching circles and visiting elders — a place to connect with culture and other men.
+
+If you have never done this before, start with one of these. They are made for listening, not performing.
 
 ## If you want a push, not just a chat
 
 Some men want support. Others want someone to hold them to a goal. Both are fine.
 
-**[ARKA Brotherhood](/mens-groups/#arka-brotherhood)** combines leadership training with community. Its circles meet weekly and are action-focused. The theme is mature masculinity. If "talking about feelings" makes you want to leave, but "set a goal and report back next week" sounds good, this is your door in. You will probably end up talking about feelings anyway. That is sort of the point.
+**[Toronto & York Region Men's Circles — MDI](/mens-groups/#toronto-%26-york-region-men's-circles-%E2%80%94-mdi)** is part of Mentor Discover Inspire, which runs small men's teams that meet weekly. You set a goal, report back the following week, and talk honestly about work, relationships and fatherhood along the way. Teams meet in downtown Toronto, East York, Etobicoke and York Region, and trying one is free. If "talking about feelings" makes you want to leave, but "set a goal and report back next week" sounds good, this is your door in. You will probably end up talking about feelings anyway. That is sort of the point.
 
 ## If you want to look after your health
 
-**[Men's Wellness Groups (Meetup)](/mens-groups/#men's-wellness-groups-(meetup))** is a Meetup page that gathers men's health groups in Toronto. It covers fitness, mindfulness and social events, with a whole-person approach to wellness. It is a good place to browse if you want to do something with your body and meet other men while you do it.
+**[Canadian Centre for Men and Families](/mens-groups/#canadian-centre-for-men-and-families)** has been a Toronto hub for the health and well-being of boys, men, fathers and families since 2014. From its North York home at 26 Mansur Terrace it runs a men's peer support group, counselling, fathering programs, a legal clinic and support for male survivors of trauma and violence. It is explicitly open and inclusive, which matters if you have been put off by the idea of a men's group before.
+
+**[Talk It Out — Black Men's Mental Health](/mens-groups/#talk-it-out-%E2%80%94-black-men's-mental-health)** runs the Sunday Dinner Series, a quarterly facilitated peer discussion group for Black men across the GTA. It is done with Black Daddies Club, with student-clinicians who share lived experience, and the focus is mental, emotional and relational well-being.
 
 ## If you're a dad
 
 New fatherhood can be strangely isolating. You are busy every minute and still somehow alone.
 
-**[Metro Toronto Dads](/mens-groups/#metro-toronto-dads)** runs meetups for fathers with young kids. They are casual playground hangouts. The kids play, the dads talk, and some parenting support happens along the way. It is a low-stakes way to meet men in the same season of life.
+**[Toronto Dads Group](/mens-groups/#toronto-dads-group)** is a big, loose community of dads — married, single, gay, trans, adoptive, step, stay-at-home and working — who meet several times a month with their kids at parks, playgrounds, museums and parent-and-me classes, plus Dads' Nights Out. There are no dues and no attendance expectations. The kids play, the dads talk, and some parenting support happens along the way.
+
+**[Black Daddies Club](/mens-groups/#black-daddies-club)** is a long-running Toronto community for Black fathers and Black men, built around Sunday Dinners, intergenerational conversations and programs on fatherhood, identity, vulnerability and mental health. If you want a room where race and fatherhood are part of the conversation from the start, start here.
 
 ## If you just want friends
 
@@ -55,6 +60,8 @@ Not every man wants a circle. Some just want a few guys to see on a Thursday. Th
 - **[Board games](/board-games/)** hand you a reason to sit at a table and talk.
 - **[Social and friend clubs](/social-friend-clubs/)** exist only so strangers can become friends.
 - **[More sports](/more-sports/)** has drop-in leagues and games where you are on a team by default.
+
+If you are a gay, bi or trans man over 40, **[Prime Timers Toronto](/mens-groups/#prime-timers-toronto)** is a social group rather than a support circle: coffees, lunches, parties, speakers and a monthly euchre afternoon at The 519. The monthly social is the third Saturday, 2–4pm, and you can come as a guest before joining.
 
 I wrote a longer guide on [how to make friends in Toronto](/blog/how-to-make-friends-in-toronto/). The short version is one rule: pick something that meets on a schedule, and go three times before you decide.
 

@@ -1,60 +1,65 @@
 ---
 layout: category
 tags: category
-title: "Tabletop RPG & D&D"
-description: "3 D&D and tabletop RPG groups plus game stores with weekly tables. Roll up a character, no experience needed."
+title: "D&D & Tabletop RPG Groups in Toronto"
+description: "{n} D&D and tabletop RPG groups in Toronto and the GTA, plus game stores with weekly tables. Roll up a character, no experience needed."
 emoji: "🐉"
 group: intellectual
-seoTitle: "{n} Places to Play D&D in Vancouver: Tabletop RPG Groups ({year})"
-seoDescription: "{n} places to play D&D and tabletop RPGs in Vancouver: learn-to-play days, a free weekly RPG night, library games and game-store tables."
+seoTitle: "{n} Places to Play D&D in Toronto: Tabletop RPG Groups ({year})"
+seoDescription: "{n} places to play D&D and tabletop RPGs in Toronto and the GTA: citywide drop-in games, Adventurers League nights, campus clubs and game-store tables."
 listNoun: "D&D groups"
-seoHeading: "D&D and Tabletop RPG Groups in Vancouver"
+seoHeading: "D&D and Tabletop RPG Groups in Toronto"
 order: 4.5
 added: 2026-11-14
 ---
 
-# 🐉 Tabletop RPG & D&D
+# 🐉 D&D & Tabletop RPG Groups in Toronto
 
-## YVR Dungeon Masters
-- **What:** Nonprofit bringing game masters and players together. Learn-to-play days for brand-new players, group-finding nights, and workshops for GMs
-- **Where:** Events move around the city
-- **Find it:** [yvrdungeonmasters.com](https://www.yvrdungeonmasters.com/)
+## TorontoDnD
+- **What:** Citywide D&D community running drop-in one-shots and ongoing tables around Toronto, from Newbie Night to high-level epic adventures. Book a seat online and sit down with a welcoming table — no campaign commitment needed
+- **Where:** Venues across the city, including The Guild House and Storm Crow Manor
+- **When:** Games most nights of the week
+- **Find it:** [torontodnd.com](https://www.torontodnd.com/)
 
-## Wargamers of UBC
-- **What:** Free drop-in RPG night, open to everybody. D&D, Pathfinder, Call of Cthulhu, Blades in the Dark and more. Always looking for new players and GMs
-- **When:** Fridays
-- **Cost:** Free
-- **Where:** NEST, UBC
-- **Find it:** [amsclubs.ca/wargamers-of-ubc](https://amsclubs.ca/wargamers-of-ubc/)
+## Markham Board Gaming and Tabletop Roleplaying
+- **What:** Markham meetup for board games and tabletop RPGs, with a recurring D&D Adventurers League table and a mid-week board game night. LGBTQ+ and neurodivergent players are explicitly welcome
+- **Where:** WoodForSheep Hobbies, Markham
+- **When:** Tuesdays and Wednesdays
+- **Cost:** $8 sitting fee
+- **Find it:** [meetup.com/markham-board-gaming-and-tabletop-roleplaying](https://www.meetup.com/Markham-Board-Gaming-and-Tabletop-Roleplaying/)
 
-## Richmond Public Library Digital D&D
-- **What:** Weekly D&D for adults (18+) looking for a regular group. Volunteer Dungeon Masters, and library laptops make learning the rules a breeze. Registration required
+## UTM Against Dragons
+- **What:** U of T Mississauga's D&D club, running weekly tables, a West Marches campaign, DM nights and beginner-friendly game cafés. The club places newcomers into a group so everyone can play
+- **Where:** University of Toronto Mississauga, 3359 Mississauga Rd
 - **When:** Weekly
-- **Where:** Brighouse Branch, 7700 Minoru Gate, Richmond
-- **Find it:** [yourlibrary.bibliocommons.com](https://yourlibrary.bibliocommons.com/v2/events?q=dungeons)
+- **Find it:** [sop.utoronto.ca/group/utm-against-dragons-utmad](https://sop.utoronto.ca/group/utm-against-dragons-utmad/)
+
+## The Serpents D&D Society
+- **What:** UTSC's Dungeons & Dragons society, running full campaigns and drop-in one-shots across D&D, Chronicles of Darkness and Pathfinder. Newcomers and veterans both welcome
+- **Where:** University of Toronto Scarborough, 1265 Military Trail
+- **Find it:** [sop.utoronto.ca/group/utsc-serpents](https://sop.utoronto.ca/group/utsc-serpents/)
 
 ---
 
 ## Venues & Spaces
 
-## Rain City Games
-- **What:** Independent game store running in-store Dungeons & Dragons one-shots ("Legends of Valhaven") and weekly game nights
-- **Where:** International Village (Vancouver) and New Westminster
-- **Find it:** [raincity.games/pages/events](https://www.raincity.games/pages/events)
+## The Guild House
+- **What:** Board game café and store on St Clair West with a dedicated D&D program, beginner-friendly tables and a game master for hire for private campaigns. Easy place to turn up alone and join a table
+- **Where:** 579 St Clair Ave W
+- **Find it:** [theguildhouse.ca](https://theguildhouse.ca/)
 
-## The Campfire
-- **What:** D&D studio with professional Game Masters. One-night adventures, four-week arcs and campaigns at a castle table. No experience needed. Bring friends or make new ones
-- **Where:** 119-1087 East Kent Ave N
-- **Find it:** [thecampfire.ca](https://thecampfire.ca/)
+## WoodForSheep Hobbies
+- **What:** Markham game store and game centre running the official D&D Adventurers League campaign, plus Pathfinder and board game nights. A long-running home base for York Region RPGers
+- **Where:** 3-220 Royal Crest Court, Markham
+- **Find it:** [woodforsheep.ca/pages/dungeons-dragons-adventurers-league](https://www.woodforsheep.ca/pages/dungeons-dragons-adventurers-league)
 
-## Hourglass Comics & Games
-- **What:** Ongoing Saturday D&D groups, one-shots, demo games for new players and DM workshops. $10 per session goes on a store gift card, and your first game is free
-- **When:** Saturdays
-- **Cost:** $10 per session
-- **Where:** 2625 Clarke St, Port Moody
-- **Find it:** [hourglasscomics.ca/games](https://hourglasscomics.ca/games/)
+## Heroes World
+- **What:** Richmond Hill game store with a dedicated RPG room and weekly roleplaying events, including 10-week Thursday D&D campaigns built for beginners
+- **Where:** 9078 Leslie St, Richmond Hill
+- **When:** Thursdays
+- **Find it:** [heroesworld.ca/collections/event-tickets/rpgevent](https://www.heroesworld.ca/collections/event-tickets/rpgevent)
 
-## Quest Central Gaming Lounge
-- **What:** Board game and TTRPG hub with weekly D&D one-shots and DND 101 for total beginners, from character creation to play
-- **Where:** 2755 Lougheed Hwy, Port Coquitlam
-- **Find it:** [questcentral.ca](https://questcentral.ca/)
+## Storm Crow Manor
+- **What:** Canada's nerdiest bar, in a three-storey Victorian mansion on Church Street, and a regular TorontoDnD venue. Themed rooms, a dungeon meal and a crowd that plays
+- **Where:** 580 Church St
+- **Find it:** [stormcrow.com](https://stormcrow.com/)

@@ -1,73 +1,102 @@
 ---
 layout: category
 tags: category
-title: "Board Games"
-description: "4 game night groups plus board game cafes with 600+ game libraries. Drop in, no experience needed."
+title: "Board Game Groups"
+description: "{n} board game groups plus Toronto cafés, clubs and meetup nights — heavy strategy, casual drop-ins and friendly tables for all levels."
 emoji: "🎲"
 group: intellectual
 order: 4
+listNoun: "board game groups & venues"
 ---
 
-# 🎲 Board Games
+# 🎲 Board Game Groups in Toronto
 
-## Vancouver Board Games
-- **What:** Largest regularly meeting board game group downtown
-- **Find it:** [meetup.com/vancouverbg](https://meetup.com/vancouverbg)
+## Toronto Heavy Boardgamers
+- **What:** A group for heavier, crunchier games — Euro games, war games and 18xx — with weekend sessions where experienced players break out long, complex titles. Friendly to anyone ready to move beyond party games
+- **Where:** The Guild House, 579 St Clair Ave W; Face-to-Face Games, 1398 Danforth Ave
+- **When:** Weekends from 11am
+- **Find it:** [meetup.com/toronto-heavy-boardgamers](https://www.meetup.com/toronto-heavy-boardgamers/)
 
-## Good Game - North Vancouver
-- **What:** Board gaming meetup with modern games provided. Inclusive, fun
-- **Find it:** [meetup.com/good-game-north-vancouver](https://meetup.com/good-game-north-vancouver)
+## Board Games and Social
+- **What:** Casual board games with a community feel — regulars teach the rules, beginners are welcome, and the group heads to a pub for food and drinks afterward. Mostly 20s–40s, and easy to join solo
+- **Where:** 30 Leeds St
+- **When:** Fridays 6:30pm
+- **Find it:** [meetup.com/boardgamestoronto](https://www.meetup.com/boardgamestoronto/)
 
-## Vancouver Social Deduction Gamers
-- **What:** Mafia-style games and more
-- **Find it:** [meetup.com/vancouver-mafia-werewolf-group](https://meetup.com/vancouver-mafia-werewolf-group)
+## Toronto Gaymers
+- **What:** Toronto's long-running LGBTQ2IA+ gaming community, running board game socials, Magic nights and craft meetups. A safe, pronoun-friendly space where allies are welcome
+- **Where:** Penny's, 1306 Bloor St W; One Star Bar, 538 Queen St W
+- **When:** Weekends; check the calendar
+- **Cost:** Free; buy food or drinks at the venue
+- **Find it:** [meetup.com/toronto-gaymers](https://www.meetup.com/toronto-gaymers/)
 
-## Vancouver Gaymers
-- **What:** Our mission is to create and enable the creation of safer spaces for 2SLGBTQIA+ people and their allies in the Greater Vancouver Area to meet and socialize. We aim to enable the creation of and to provide virtual and physical spaces for events for players and participants to meet and play games, and to facilitate social events for the benefit of our members.
-- **Find it:** [www.vancouvergaymers.com/](https://www.vancouvergaymers.com/)
+## Midtown Toronto Board Games
+- **What:** A relaxed weekly board game night for every experience level, with card and party games in the mix. Come alone or bring a friend — the point is meeting people
+- **Where:** Yonge Burger, 44 St Clair Ave E
+- **When:** Wednesdays
+- **Find it:** [meetup.com/midtown-toronto-board-games](https://www.meetup.com/midtown-toronto-board-games/)
 
-## Meeple Leaf
-- **What:** Board game nights for all levels, with volunteer hosts who teach the games. Brings its own game library, or bring yours. Free Sunday gaming at the Anvil Centre
-- **Where:** Anvil Centre (New Westminster), Killarney Community Centre and more
-- **Find it:** [meetup.com/meeple-leaf](https://www.meetup.com/meeple-leaf/)
+## Geekz United
+- **What:** A broad geek social group whose calendar includes a Tuesday board game night in North York and occasional game nights at Face-to-Face Games on the Danforth. Casual and welcoming, especially if your interests range beyond the table
+- **Where:** Mitchell Field Community Centre, 89 Church Ave, North York
+- **When:** Tuesdays 5:30pm
+- **Find it:** [meetup.com/geekzunited](https://www.meetup.com/geekzunited/)
 
-## Vancouver Playtest
-- **What:** Plays and tests board game prototypes and gives friendly feedback. Come to play, or bring a game you're designing
-- **Where:** Rain City Games, downtown
-- **Find it:** [meetup.com/vancouver-playtest](https://www.meetup.com/vancouver-playtest/)
+## Weekly Board Games @ For The Win
+- **What:** A weekly board game night at a Yonge & Lawrence café, with a big game library and staff who teach. Beginners and seasoned strategists both fit in
+- **Where:** For The Win Board Game Cafe & Bar, 3216 Yonge St
+- **When:** Thursdays 7–11pm
+- **Find it:** [meetup.com/for-the-win](https://www.meetup.com/for-the-win/)
 
-## Shindigs & Board Games with Friendly Folks
-- **What:** Big, friendly drop-in game nights. Experienced players happily teach the rules, so total beginners fit right in. Bring a game to share if you like. Thursday nights at Craving for a Game in Surrey too, plus a monthly book club and hikes
-- **When:** Fridays from 5pm
-- **Where:** Waterfront Centre food court, 200 Burrard St
-- **Find it:** [meetup.com/shindigs](https://www.meetup.com/shindigs/)
+## Mississauga Board Gamers United
+- **What:** Mississauga's largest tabletop meetup, running since 2014. An inclusive crowd plays everything from quick card games to big strategy titles, with several events a week at LVLUP Games
+- **Where:** LVLUP Games, 833 Westlock Rd Unit 9, Mississauga
+- **When:** Several nights a week
+- **Find it:** [meetup.com/m-b-g-u](https://www.meetup.com/m-b-g-u/)
+
+## Brampton Nighttime Board Games and Coffee
+- **What:** Low-pressure board and card game meetups built around coffee and conversation. A friendly mix of regulars and newcomers, with sessions in Brampton and Mississauga
+- **Where:** Brampton and Mississauga
+- **When:** Saturdays and Wednesday evenings
+- **Find it:** [meetup.com/brampton-nighttime-boardgames-and-coffee](https://www.meetup.com/brampton-nighttime-boardgames-and-coffee/)
+
+## Markham Board Gaming and Tabletop Roleplaying
+- **What:** Mid-week board games plus Dungeons & Dragons Adventurers League, with a demo library at WoodForSheep. Explicitly welcoming to LGBTQ+ people and people with learning or social disabilities
+- **Where:** WoodForSheep, 220 Royal Crest Ct #3, Markham
+- **When:** Wednesdays 6:30pm
+- **Cost:** $8 sitting fee
+- **Find it:** [meetup.com/markham-board-gaming-and-tabletop-roleplaying](https://www.meetup.com/markham-board-gaming-and-tabletop-roleplaying/)
+
+## Toronto Go Club
+- **What:** A Go club at The 519, teaching beginners and hosting tournaments. One of the calmest, most welcoming strategy game nights in the city
+- **Where:** The 519, 519 Church St
+- **When:** Sundays 1:30–4pm
+- **Cost:** Free
+- **Find it:** [the519.org/programs/toronto-go-club](https://www.the519.org/programs/toronto-go-club/)
 
 ---
 
 ## Venues & Spaces
 
-## Hideout Cafe
-- **What:** Board game meetups
-- **When:** Every other week
-- **Where:** 716 Carnarvon Street, New Westminster
-- **Cost:** Spend $10 on food/drink
-- **Find it:** [thehideoutcafe.com](https://thehideoutcafe.com/)
+## Snakes & Lattes
+- **What:** The board game bar that started Toronto's café scene, with locations across the city and a huge library. Book a table, order food, and staff will teach the rules
+- **Find it:** [snakesandlattes.com](https://www.snakesandlattes.com/)
 
-## Mench Café
-- **What:** Board gaming & cyber café
-- **Where:** North Vancouver
-- **Find it:** [menchcafe.com](https://menchcafe.com/)
+## Twilight Board Game Cafe & Bar
+- **What:** Multiple Toronto locations with 200+ games, food, drinks and late hours. Good for a group that wants a table and a long game
+- **Find it:** [twilightcafe.ca](https://www.twilightcafe.ca/)
 
-## Pizzeria Ludica
-- **What:** Board game café with no play fee. Order food/drinks, play from huge game library
-- **Find it:** [pizzerialudica.com](https://pizzerialudica.com/)
+## LVLUP Games
+- **What:** A Mississauga board game store and café that hosts local meetups, tournaments and community game nights. Store, café and events space under one roof, with staff who know the games
+- **Where:** 833 Westlock Rd Unit 9, Mississauga
+- **Find it:** [lvlupgames.ca](https://lvlupgames.ca/)
 
-## Boardwalk Cafe and Games (Abbotsford)
-- **What:** 600+ tabletop games, worth the drive. Massive selection, friendly staff
-- **Where:** Abbotsford, ~1 hour from Vancouver
-- **Find it:** [abbyboardwalk.com](https://abbyboardwalk.com/)
+## For The Win Board Game Cafe & Bar
+- **What:** A Yonge & Lawrence café with a large library, a bar and weekly meetups. Staff help you learn, so it works for a first game night
+- **Where:** 3216 Yonge St
+- **Find it:** [forthewincafe.com](https://www.forthewincafe.com/)
 
-## Quest Central Gaming Lounge
-- **What:** Board game lounge with 200+ games, coffee and snacks. Drop in at a lounge table or book a private room. Game experts help you learn, and weekly events change each month
-- **Where:** 2755 Lougheed Hwy, Port Coquitlam
-- **Find it:** [questcentral.ca](https://questcentral.ca/)
+## Board Games Together
+- **What:** A Brampton board game club and café with big tables, a deep library and a host who teaches. Book a table or drop into a learn-and-play night
+- **Where:** 289 Rutherford Rd S, Unit 19, Brampton
+- **Find it:** [boardgamestogether.ca](https://www.boardgamestogether.ca/)

@@ -1,63 +1,98 @@
 ---
 layout: category
 tags: category
-title: "Writing"
-description: "8 writing groups — quiet library sessions, genre circles, critique groups, and heritage-house workshops."
+title: "Writing Groups & Workshops"
+description: "{n} writing groups in Toronto plus literary venues — free critique circles, genre meetups, screenwriting labs and drop-in workshops ({year})."
 emoji: "✍️"
 group: creative
 order: 4
 ---
 
-# ✍️ Writing
+# ✍️ Writing Groups & Workshops in Toronto
 
-## Vancouver Writers Group
-- **What:** Share fiction, non-fiction, comedy, scripts, poetry. Supportive, sometimes social nights at bars
-- **Find it:** [meetup.com/vancouver-writers-group](https://meetup.com/vancouver-writers-group)
+## Toronto Writers' Centre
+- **What:** A quiet writing space and supportive community for emerging and established writers, with drop-in days and workshops. A creative hub running since 2006, now near Spadina station.
+- **Where:** 344 Bloor St W, 4th floor (Annex)
+- **Find it:** [writerscentre.ca](http://www.writerscentre.ca/)
 
-## Shut Up & Write! Vancouver
-- **What:** Quiet writing time followed by chat. "Accepting, supportive, judgment-free"
-- **Where:** VPL Central, 8th Floor
-- **When:** 10am–1pm
-- **Find it:** [meetup.com/shutupandwritevancouver](https://meetup.com/shutupandwritevancouver)
+## Shut Up & Write! Toronto
+- **What:** Structured, distraction-free writing sessions: quick introductions, a focused writing block, then a progress check-in. Free and open to writers at any stage.
+- **Where:** Toronto
+- **Cost:** Free
+- **Find it:** [meetup.com/shutupandwritetoronto](https://www.meetup.com/shutupandwritetoronto/)
 
-## Vancouver Genre Writers
-- **What:** Sci-fi, fantasy, horror writers. "Let our geek flags fly"
-- **Find it:** [vancouvergenrewriters.com](https://www.vancouvergenrewriters.com/)
+## Toronto SFF Writers
+- **What:** Sci-fi, fantasy and horror writers who meet for structured critique, writing sprints and pub nights. Open to speculative fiction writers at any level, in person or online.
+- **Where:** The Blake House, Toronto
+- **When:** Saturdays 1–4pm
+- **Cost:** Free
+- **Find it:** [torontosffwriters.com](https://www.torontosffwriters.com/)
 
-## North Shore Writers' Association
-- **What:** Fellowship of writers at all stages. Non-profit, teaching and community
-- **Find it:** [nswriters.org](https://nswriters.org/)
+## Dark Fiction Writers
+- **What:** Critique and feedback group for horror, dark sci-fi/fantasy, suspense and thriller writers. Supportive, equal-footing feedback with in-person and online meetups across the GTA.
+- **Where:** Toronto/GTA
+- **Find it:** [meetup.com/darkfictionwriters-horror-sff-thriller-suspense-writersgroup](https://www.meetup.com/darkfictionwriters-horror-sff-thriller-suspense-writersgroup/)
 
-## The Grind Writers' Group
-- **What:** Writers of all levels and genres
-- **Find it:** [VPL Writing Resources](https://www.vpl.ca/guide/resources-writers/writing-community)
+## Toronto Romance Writers
+- **What:** A long-running romance writers' chapter with monthly meetings, workshops, feedback and publishing support. Guests are welcome at most meetings.
+- **Where:** Toronto
+- **When:** Monthly meetings
+- **Find it:** [torontoromancewriters.com](https://www.torontoromancewriters.com/)
 
-## Thursdays Writing Collective / DTES Writers Collective
-- **What:** Creative writing in Downtown Eastside
-- **Find it:** [thursdayswritingcollective.ca](https://thursdayswritingcollective.ca/) / [dteswriters.org](https://dteswriters.org/)
+## East End Writers' Group
+- **What:** A long-running critique group offering constructive feedback on fiction, non-fiction, poetry and plays. Free to attend and free to join.
+- **Where:** East End, Toronto
+- **Cost:** Free
+- **Find it:** [samcraw.com/east-end-writers](https://samcraw.com/east-end-writers/)
 
-## Historic Joy Kogawa House Writing Sessions
-- **What:** In-person and Zoom writing sessions. Beautiful heritage house, supportive community
-- **Find it:** [kogawahouse.com](https://kogawahouse.com/)
+## Mississauga Writers Group
+- **What:** A large, welcoming writers' group with monthly meetings, anthologies, writing contests and a quarterly e-zine. Members write poetry, prose and everything in between.
+- **Where:** Meadowvale Community Centre, Mississauga
+- **When:** Second Saturday monthly, 9am–1pm
+- **Find it:** [mississaugawritersgroup.ca](https://mississaugawritersgroup.ca/)
 
-## Power of the Pen Friday Writing Group
-- **What:** Online writing sessions: 45-minute writing blocks with chat breaks
-- **When:** Fridays 12:30–3:30pm
-- **Find it:** [VPL Writing Resources](https://www.vpl.ca/guide/resources-writers/writing-community)
+## Writers' Community of Durham Region
+- **What:** A long-running writers' organization with monthly network meetings, guest authors, writing classes and an anthology contest. Open to writers across Durham Region.
+- **Where:** St. Mark's Church, Whitby
+- **When:** Monthly network meetings
+- **Find it:** [wcdr.info](https://www.wcdr.info/)
+
+## Writers Collective of Canada
+- **What:** Free drop-in expressive writing workshops where people write together, share first drafts in an encouraging space and listen deeply. Workshops run in Toronto and online.
+- **Where:** Toronto
+- **Cost:** Free
+- **Find it:** [wcc-cec.org](https://wcc-cec.org/)
+
+## Diaspora Dialogues
+- **What:** Mentorships, workshops and public events that help emerging Toronto writers develop craft and find an audience. Focused on voices reflecting the city's diversity.
+- **Where:** Toronto
+- **Find it:** [diasporadialogues.com](https://www.diasporadialogues.com/)
+
+## LIFT Screenwriters Circle
+- **What:** A monthly screenwriters' group for skill sharing, supportive critique and moving scripts from page to screen. Open to LIFT members at any experience level.
+- **Where:** Online
+- **When:** Third Wednesday monthly, 7pm ET
+- **Find it:** [lift.ca/programming-home](https://lift.ca/programming-home/)
 
 ---
 
 ## Venues & Resources
 
-## Federation of BC Writers
-- **What:** Directory of writing groups across BC. Resource hub for all writers
-- **Find it:** [bcwriters.ca](https://bcwriters.ca/)
+## Another Story Bookshop
+- **What:** Independent bookshop on Roncesvalles that hosts book launches, readings and open mics — a steady home for Toronto's literary community.
+- **Where:** 315 Roncesvalles Ave
+- **Find it:** [anotherstory.ca](https://anotherstory.ca/)
 
-## VPL Writing Resources
-- **What:** Library resources for writers including group listings. Free, accessible, comprehensive
-- **Cost:** Free
-- **Find it:** [vpl.ca/guide/resources-writers](https://www.vpl.ca/guide/resources-writers/writing-community)
+## TYPE Books
+- **What:** Independent Toronto bookshop with an author events series and readings at its Queen West and Junction stores.
+- **Where:** 883 Queen St W
+- **Find it:** [typebooks.ca](https://www.typebooks.ca/)
 
-## Vancouver Pen Club
-- **What:** The Vancouver Pen Club was founded in 2006 as a way of sharing our knowledge of & enthusiasm for the fountain pen hobby with others ~ Both modern and vintage writing equipment enthusiasts welcome!
-- **Find it:** [www.vancouverpenclub.com/](https://www.vancouverpenclub.com/)
+## The FOLD
+- **What:** The Festival of Literary Diversity in Brampton, with panels, workshops and free FOLD Academy sessions for emerging writers. Year-round programming, plus a flagship festival each May.
+- **Where:** Brampton
+- **Find it:** [thefoldcanada.org](https://thefoldcanada.org/)
+
+## Playwrights Guild of Canada
+- **What:** National association for playwrights based in Toronto, offering advocacy, professional resources and a community for script writers.
+- **Find it:** [playwrightsguild.ca](https://www.playwrightsguild.ca/)

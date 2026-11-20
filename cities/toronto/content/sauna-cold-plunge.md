@@ -1,56 +1,60 @@
 ---
 layout: category
 tags: category
-title: "Sauna & Cold Plunge"
-description: "3 community groups plus Nordic spas, wood-fired saunas, and free ocean dips at Kits Beach."
+title: "Sauna & Cold Plunge in Toronto"
+description: "{n} sauna, cold-plunge and bathhouse spots around Toronto — social saunas, a floating waterfront plunge and community groups that get you into the heat ({year})."
 emoji: "🧊"
 group: outdoor
-seoTitle: "Sauna & Cold Plunge in Vancouver: Where to Go ({year})"
-seoDescription: "Where to sauna and cold plunge in Vancouver: wood-fired saunas, Nordic spas, free ocean dips at Kits Beach and the community groups that run them."
+seoTitle: "Sauna & Cold Plunge in Toronto: Where to Go ({year})"
+seoDescription: "Where to sauna and cold plunge in Toronto: social saunas, a floating waterfront plunge, Nordic spa days in Whitby and traditional hammams."
 listNoun: "saunas, plunges & groups"
-seoHeading: "Sauna & Cold Plunge in Vancouver"
+seoHeading: "Sauna & Cold Plunge in Toronto"
 order: 6
 ---
 
-# 🧊 Sauna / Cold Plunge
+# 🧊 Sauna & Cold Plunge in Toronto
 
-## The Good Sauna
-- **What:** Outdoor wood-fired sauna, mobile. "Cultivate special meeting places... foster meaningful relationships"
-- **Find it:** [thegoodsauna.com](https://www.thegoodsauna.com)
+## Othership
+- **What:** Music-driven sauna and guided ice-bath classes in a 50–100 person cedar sauna, with 0–4°C plunge tubs and a no-shh-ing rule. Alcohol-free, body-positive, and built for meeting people — the evening social is a sober night out
+- **Where:** Yorkville & Adelaide St W
+- **Find it:** [othership.us](https://www.othership.us/)
 
-## Tality Community Runs + Sauna
-- **What:** Group runs followed by sauna sessions. Combines fitness with thermal recovery
-- **Find it:** [talitywellness.ca](https://www.talitywellness.ca/)
+## Kotisauna
+- **What:** A social-enterprise community sauna at Evergreen Brick Works, run as a proper Finnish ritual — heat, cold shower, rest, and the people on the bench beside you. Hosted 90-minute sessions, no experience needed
+- **Where:** Evergreen Brick Works, Don Valley
+- **When:** Thu–Mon
+- **Cost:** $25 first visit
+- **Find it:** [kotisauna.ca](https://kotisauna.ca/)
 
-## Cold Plunge Vancouver
-- **What:** Groups organizing ocean and lake cold plunges. Free, outdoor, community-led
-- **Cost:** Free
-- **Find it:** [Cold Plunge Crew (Facebook)](https://www.facebook.com/p/Cold-Plunge-Crew-100067058136726/) | Kits Beach women's dips
+## NRG Haus
+- **What:** Toronto's social sauna and cold-plunge club: a 60-person sauna, 2–10°C plunge tubs, rain showers and an alcohol-free lounge. Guided classes, DJ nights and themed Haus Parties make it a sober way to spend an evening
+- **Where:** Liberty Village
+- **Find it:** [nrghaus.com](https://nrghaus.com/)
+
+## Toronto Nordic Spa & Wellness Escapes
+- **What:** Meetup group for people who want to slow down over Nordic spa rituals, forest wellness and nature retreats a few hours outside the city. Low-pressure, small-group trips — go alone and leave with people to text
+- **Find it:** [meetup.com/nordic-spa-wellness-escapes](https://www.meetup.com/nordic-spa-wellness-escapes/)
+
+## Unbounded
+- **What:** The crew behind the Toronto Sauna Festival, plus recurring Sunrise Social and Sunset Social gatherings with saunas, cold plunges, breathwork and live music. Community-first and easy to show up to solo
+- **Where:** Woodbine Beach & Evergreen Brick Works
+- **Find it:** [stayunbounded.com](https://stayunbounded.com/)
 
 ---
 
 ## Venues & Spaces
 
-## Kolm Kontrast Nordic Spa
-- **What:** Self-guided sauna, ice baths, tea lounge
-- **Find it:** [kolmkontrast.com](https://kolmkontrast.com/)
+## Löyly Floating Sauna
+- **What:** A Finnish-style floating sauna moored on the harbour with a custom outdoor plunge pool — 75-minute shared sessions, so you sweat and freeze alongside strangers who become sauna friends
+- **Where:** 275 Queens Quay W
+- **Find it:** [loylyfloatingsauna.ca](https://www.loylyfloatingsauna.ca/toronto-1)
 
-## AetherHaus
-- **What:** Eastern European-inspired sauna + cold plunge — hosts Silent Open Haus, Social Open Haus, and Aufguss rituals
-- **Find it:** [aetherhaus.ca](https://www.aetherhaus.ca/)
+## Thermea Spa Village Whitby
+- **What:** A four-seasons Nordic spa village about 45 minutes east of the city: saunas, seven outdoor thermal baths, cold plunges and a Moroccan-style rhassoul. A social day out built for lingering
+- **Where:** Whitby
+- **Find it:** [thermea.com/whitby](https://thermea.com/whitby/)
 
-## Tality Wellness
-- **What:** Sauna club with community and private sessions, patio parties, brand pop-ups, and community runs
-- **Find it:** [talitywellness.ca](https://www.talitywellness.ca/) / [talityspa.com](https://www.talityspa.com/)
-
-## Gatherwell
-- **What:** Outdoor sauna and cold plunges. "Meaningful connection through shared ritual of hot and cold"
-- **Find it:** [gatherwell.ca](https://www.gatherwell.ca)
-
-## Circle Wellness Wellpod
-- **What:** Private thermal spa with cedar tub, WellPod sauna, cold plunge. Self-guided, intimate experience
-- **Find it:** [circlewellnessspas.com](https://circlewellnessspas.com/)
-
-## Scandinave Spa Whistler
-- **What:** Nordic-inspired spa with saunas and cold plunges. Day trip destination, silence policy
-- **Find it:** [scandinave.com](https://www.scandinave.com/whistler/)
+## Hammam Spa by Céla
+- **What:** Traditional Turkish hammam ritual on King West — heat, steam and a full-body scrub in a space inspired by the ancient baths. A quiet, communal reset in the middle of the city
+- **Where:** 602 King St W
+- **Find it:** [hammamspa.ca](https://hammamspa.ca/)

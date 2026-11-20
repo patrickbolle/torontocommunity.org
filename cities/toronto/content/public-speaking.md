@@ -2,70 +2,84 @@
 layout: category
 tags: category
 title: "Public Speaking"
-description: "8 Toastmasters clubs and storytelling nights plus a club finder. Practise speaking with people rooting for you."
+description: "{n} Toastmasters clubs and storytelling nights across Toronto and the GTA, plus a club finder. Practise speaking with people rooting for you."
 emoji: "📣"
 group: intellectual
-seoTitle: "{n} Public Speaking Groups & Toastmasters Clubs in Vancouver ({year})"
-seoDescription: "{n} public speaking groups in Vancouver: Toastmasters clubs for evenings and lunchtimes, an LGBTQ+ club, story slams and storytelling nights."
+seoTitle: "{n} Public Speaking Groups & Toastmasters Clubs in Toronto ({year})"
+seoDescription: "{n} public speaking groups in Toronto: Toastmasters clubs for evenings and lunchtimes, debating nights, story slams and storytelling shows."
 listNoun: "speaking groups"
-seoHeading: "Public Speaking Groups in Vancouver"
+seoHeading: "Public Speaking Groups in Toronto"
 order: 6
 added: 2026-11-14
 ---
 
-# 📣 Public Speaking
+# 📣 Public Speaking in Toronto
 
-## Vancouver Toastmasters Club
-- **What:** Canada's second Toastmasters club, founded in 1936. A welcoming crowd where members help each other build confidence
-- **When:** Mondays 7–9pm
-- **Where:** Kitsilano Yacht Club
-- **Find it:** [tmclub59.com](https://www.tmclub59.com/)
+## Liberty Village Toastmasters
+- **What:** One of Toronto's bigger public-speaking groups, meeting weekly by the lake. Members take on meeting roles, deliver prepared speeches and get feedback from a friendly room that's quick to welcome guests
+- **Where:** Waterfront Neighbourhood Centre, 627 Queens Quay W
+- **When:** Wednesdays 6:15pm
+- **Find it:** [libertyvillagetoastmasters.com](https://libertyvillagetoastmasters.com/)
 
-## Vancouver Speakers and Leaders
-- **What:** Casual, laid-back Toastmasters club with an ESL-friendly culture. Helps each member find their own voice. Also on Zoom
-- **When:** Tuesdays 6:30–8:30pm
-- **Where:** West End Community Centre, 870 Denman St
-- **Find it:** [973.toastmastersclubs.org](https://973.toastmastersclubs.org/)
+## Grosvenor Toastmasters
+- **What:** Founded in 1967, one of the oldest active clubs in District 60. A high-calibre hybrid club where every new member gets a mentor, and the meeting usually rolls into a pub social afterwards
+- **Where:** Downtown Toronto, plus on Zoom
+- **When:** 2nd & 4th Wednesdays 6–8pm
+- **Find it:** [grosvenortoastmasters.com](https://grosvenortoastmasters.com/)
 
-## Queer Voices Toastmasters
-- **What:** Inclusive, supportive space for LGBTQ+ people and allies to find their voice and build confidence
-- **When:** 2nd & 4th Wednesday evenings
-- **Where:** St. Paul's Hospital, 1081 Burrard St
-- **Find it:** [queervoicestoastmasters.ca](https://www.queervoicestoastmasters.ca/)
+## Toronto #1 Toastmasters
+- **What:** The first Toastmasters club in Toronto, still going strong at Etobicoke Civic Centre. Experienced members coach newcomers at their own pace, and guests are welcome at any meeting
+- **Where:** Etobicoke Civic Centre, 399 The West Mall
+- **When:** Mondays 6:30–8:30pm
+- **Find it:** [toronto1.toastmastersclubs.org](https://toronto1.toastmastersclubs.org/)
 
-## Vancouver Entrepreneurs Toastmasters Club
-- **What:** Entrepreneurs sharpening their public speaking since 2007. "Where entrepreneurs train to succeed."
-- **When:** Wednesdays 6:30pm
-- **Where:** BCIT Downtown Campus, 555 Seymour St
-- **Find it:** [vetc.ca](https://www.vetc.ca/)
+## Roncesvalles Speakers Circle
+- **What:** A warm west-end club built around "speak, connect, grow." It alternates between in-person meetings at the library and online, so members practise for both kinds of rooms
+- **Where:** Annette Street Library, Bloor West
+- **When:** Tuesdays, in person or on Zoom
+- **Find it:** [roncesvallesspeakers.toastmastersclubs.org](https://roncesvallesspeakers.toastmastersclubs.org/)
 
-## St. Paul's Toastmasters
-- **What:** Weekly lunchtime Toastmasters club. Guests welcome. Email ahead for the room and RSVP
-- **When:** Thursdays 12–1pm
-- **Where:** St. Paul's Hospital, 1081 Burrard St
-- **Find it:** [stpauls.toastmastersclubs.org](https://stpauls.toastmastersclubs.org/)
+## North York Toastmasters
+- **What:** A diverse, good-humoured club that takes the Toastmasters mission seriously without taking itself too seriously. Guests can book a visit online and see a full meeting before joining
+- **Where:** North York Seniors Centre, 21 Hendon Ave
+- **When:** Alternate Thursdays 6:30pm
+- **Find it:** [northyorktoastmasters.com](https://www.northyorktoastmasters.com/)
 
-## Advanced Aurators Toastmasters
-- **What:** Monthly advanced club focused on evaluating and presenting speeches. Friendly and supportive, guests welcome
-- **When:** First Thursday, 7–9pm
-- **Where:** Roundhouse Community Centre, 189 Roundhouse Mews
-- **Find it:** [advancedaurators.toastmastersclubs.org](https://advancedaurators.toastmastersclubs.org/)
+## Scarborough Toastmasters
+- **What:** Developing speakers in Scarborough for more than 60 years. Weekly meetings alternate between in person and Zoom, with prepared speeches, table topics and constructive feedback
+- **Where:** Stephen Leacock Community Recreation Centre, 2500 Birchmount Rd
+- **When:** Wednesdays 7pm
+- **Find it:** [3090.toastmastersclubs.org](https://3090.toastmastersclubs.org/)
 
-## Vancouver Tellers
-- **What:** Storytellers and listeners gathering for over 40 years. Three featured tellers with folk tales and personal stories, then an open story circle and snacks
-- **When:** Third Sunday, October–May
-- **Where:** Trinity Grace United Church, 803 East 16th Ave
-- **Find it:** [vancouvertellers.com](https://vancouvertellers.com/)
+## Toronto Debating Society
+- **What:** Toronto's oldest public debating society, a non-profit devoted to civil argument on topics from the whimsical to the serious. Members rotate through speaking roles, and no debating experience is needed
+- **Where:** Friends House, 60 Lowther Ave
+- **When:** Alternate Tuesdays, October–May
+- **Cost:** Guests free; $150/year
+- **Find it:** [torontodebating.com](https://www.torontodebating.com/)
 
-## Vancouver Story Slam
-- **What:** Canada's longest-running story slam, since 2004. Tell a 4–6 minute original story on stage, and the audience votes. Monthly on Main Street, with a championship each December
-- **When:** Monthly
-- **Find it:** [Facebook](https://www.facebook.com/VancouverStorySlam)
+## Storytelling Toronto
+- **What:** The organisation behind the annual Toronto Storytelling Festival, plus the free StoryTent sessions at Wychwood Barns and the Story Pillars story slams. Courses and workshops run through the year for tellers and listeners alike
+- **Where:** Wychwood Barns, 601 Christie St
+- **When:** StoryTent Saturdays 10am
+- **Find it:** [storytellingtoronto.org](https://storytellingtoronto.org/)
+
+## True Stories (Told Live) Toronto
+- **What:** A quiet night out in a back room in West Toronto: true, ten-minute, no-notes stories from ordinary people, with a storytelling musician between sets. Storytellers are chosen and coached by the organiser beforehand
+- **Where:** The Garrison, Dundas St W
+- **When:** Four shows a year
+- **Find it:** [truestoriestoronto.com](https://truestoriestoronto.com/)
+
+## Speaker Slam
+- **What:** North America's largest inspirational speaking competition, running since 2016. Ten speakers tell a five-minute true story before four judges and an audience of 200+, and alumni have gone on to TEDx stages and book deals
+- **Where:** Lula Lounge, Dundas St W
+- **When:** Every two months
+- **Find it:** [speakerslam.com](https://www.speakerslam.com/)
 
 ---
 
 ## Venues & Resources
 
-## Toastmasters District 21 Club Finder
-- **What:** Official list of Toastmasters clubs in BC and the Yukon. Search by day, time, and online or in person
-- **Find it:** [d21toastmasters.ca/join-us/find-a-club](https://d21toastmasters.ca/join-us/find-a-club)
+## Toastmasters District 60 Club Finder
+- **What:** Official directory of Toastmasters clubs across Toronto and the GTA. Search by meeting day, time and whether a club meets in person or online
+- **Find it:** [toastmasters60.com/find-a-club](https://www.toastmasters60.com/find-a-club/)

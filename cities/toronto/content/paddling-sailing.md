@@ -1,69 +1,81 @@
 ---
 layout: category
 tags: category
-title: "Paddling & Sailing"
-description: "10 sailing and paddling clubs plus Jericho Sailing Centre — co-op sailing, sea kayaking, SUP, outrigger, and dragon boat."
+title: "Paddling & Sailing Clubs"
+description: "{n} paddling and sailing clubs in Toronto, plus a Humber River outfitter and a city launch map — Harbourfront, Toronto Islands and Humber River lessons and rentals."
 emoji: "⛵"
 group: outdoor
+seoTitle: "{n} Places to Paddle & Sail in Toronto ({year})"
+seoDescription: "{n} places to kayak, canoe and sail in Toronto — clubs, lessons and rentals at Harbourfront, the Toronto Islands and the Humber River."
+seoHeading: "Paddling & Sailing Clubs in Toronto"
+listNoun: "paddling & sailing spots"
 order: 6.7
 added: 2026-11-14
 ---
 
-# ⛵ Paddling & Sailing
+# ⛵ Paddling & Sailing in Toronto
 
-## UBC Sailing Club
-- **What:** Canada's largest not-for-profit sailing club, and non-students are welcome. Lessons from beginner to advanced, then unlimited use of 80+ boats, kayaks and boards. Sailing, windsurfing, kayaking and SUP
-- **Where:** Jericho Sailing Centre
-- **Find it:** [ubcsailing.org](https://ubcsailing.org/)
+## Harbourfront Canoe & Kayak Centre
+- **What:** Toronto's best-known paddling centre, on the waterfront since 1985. Kayak, canoe and stand-up paddleboard rentals, lessons and guided tours — including tandem kayak tours and big voyageur canoe outings — with the Toronto Islands only a short paddle away. Social paddles make it easy to meet other paddlers
+- **Where:** Harbourfront (283 Queens Quay W)
+- **When:** Late May to early October
+- **Find it:** [paddletoronto.com](https://paddletoronto.com/)
 
-## Viking Sailing Club
-- **What:** Non-profit sailing co-op: first-class sailing at economy-class prices. Members share dinghies, catamarans, kayaks and a 34-foot keelboat. Hands-on training and mentoring for all levels
-- **Where:** Jericho Sailing Centre
-- **Find it:** [vikingsailingclub.bc.ca](https://www.vikingsailingclub.bc.ca/)
+## Toronto Sailing & Canoe Club
+- **What:** A friendly, volunteer-run club on Humber Bay where sailing and paddling share one clubhouse. Adult learn-to-sail courses, dinghy and keelboat memberships, and a paddling section with canoes, kayaks, outrigger canoes and SUPs — plus quiet water up the Humber River
+- **Where:** Humber Bay (1391 Lake Shore Blvd W)
+- **Find it:** [tscc.net](https://www.tscc.net/)
 
-## Kitsilano Yacht Club
-- **What:** Non-profit, volunteer-powered community sailing club since 1934. Adult learn-to-sail courses (no membership needed), weeknight racing, a busy social calendar, and a co-op for sailboats, kayaks and SUPs
-- **Where:** Kitsilano (2401 Point Grey Rd)
-- **Find it:** [kitsilanoyachtclub.com](https://www.kitsilanoyachtclub.com/)
+## Humber Bay Sailing Centre
+- **What:** Sailing school and boat-sharing club on Humber Bay. Learn-to-sail programs run from a three-hour intro to Sail Canada keelboat levels, then the sharing club lets you sail without owning a boat. Kayak and SUP storage memberships for paddlers who just want water access
+- **Where:** Humber Bay Park West
+- **Find it:** [hbsailing.com](https://www.hbsailing.com/)
 
-## Hollyburn Sailing Club
-- **What:** The North Shore's ocean sport centre. Adult sailing lessons, a co-op with shared boats, plus kayaking, SUP and rowing
-- **Where:** North Shore
-- **Find it:** [hollyburnsailingclub.ca](https://www.hollyburnsailingclub.ca/)
+## Toronto Island Canoe Club
+- **What:** Inclusive, non-profit canoe club in the sheltered lagoons of Wards Island. ORCKA-certified courses run from first-time safe canoeing to solo canoeing, alongside a seasonal membership with canoe storage. Recreational paddling only these days, and a genuinely welcoming crew
+- **Where:** Toronto Islands (Wards Island, Algonquin Bridge Rd)
+- **Find it:** [torontoislandcanoeclub.org](https://torontoislandcanoeclub.org/)
 
-## Lower Mainland Yacht Co-op
-- **What:** Member-owned sailing co-op with five keelboats. No experience or boat needed. Learn from Newbie to Cruise Skipper, then join club cruises to the Gulf and San Juan Islands
-- **Where:** Horseshoe Bay and Point Roberts
-- **Find it:** [lmyc.ca](https://lmyc.ca/)
+## Queen City Yacht Club
+- **What:** Historic island sailing club on the Toronto Islands with adult learn-to-sail lessons, a youth sailing camp, drysail and mooring memberships, and a paddleboard amenity. Club racing, a proper island clubhouse and a social calendar that keeps members coming back
+- **Where:** Toronto Islands (Seneca Ave)
+- **Find it:** [qcyc.ca](https://www.qcyc.ca/)
 
-## Sea Kayak Association of BC
-- **What:** Vancouver club of kayakers who love exploring the coast. Training from beginner to advanced, trips run by trained leaders, and talks and socials
-- **Find it:** [skabc.org](https://www.skabc.org/)
+## Outer Harbour Sailing Federation
+- **What:** Not-for-profit federation of eight volunteer-run co-op sailing clubs at Cherry Beach, representing nearly 2,000 members. Low-cost learn-to-sail programs with seasonal boat access, social memberships for non-sailors, open houses and public socials — plus windsurfing, kayaking and summer camps
+- **Where:** Cherry Beach (14 Regatta Rd)
+- **Cost:** Low-cost memberships
+- **Find it:** [outerharboursailing.ca](https://outerharboursailing.ca/)
 
-## Vancouver Ocean Sports
-- **What:** Not-for-profit paddling club with an "ohana" (family) spirit. Beginner to competitive outrigger canoe, plus kayak and SUP memberships. Paddle when you want, as hard as you want
-- **Where:** Kitsilano, next to Burrard Civic Marina
-- **Find it:** [vancouveroceansports.ca](http://www.vancouveroceansports.ca/)
+## Ashbridge's Bay Yacht Club
+- **What:** Club founded in 1932 with memberships for people with and without boats. Adult learn-to-sail, junior and youth programs, club racing and cruising, and a busy social calendar on the beach side of the outer harbour
+- **Where:** Ashbridge's Bay (30 Ashbridges Bay Park Rd)
+- **Find it:** [abyc.ca](https://abyc.ca/)
 
-## False Creek Racing Canoe Club
-- **What:** Multi-discipline paddling club: dragon boat, outrigger, sprint kayak and canoe, surfski and marathon canoe. Novice to competitive, and new paddlers welcome all season
-- **Where:** Granville Island
-- **Find it:** [fcrcc.com](https://fcrcc.com/)
+## Toronto Hydroplane & Sailing Club
+- **What:** Laid-back Ashbridge's Bay club with sailing, crew and kayak memberships, so you can join without owning a boat. Wednesday night racing with a post-race BBQ, weekend cruises to other lake clubs, and boats that are often looking for crew — one of the easiest ways to learn
+- **Where:** Ashbridge's Bay (20 Ashbridges Bay Park Rd)
+- **Find it:** [thsc.ca](https://thsc.ca/)
 
-## Dragon Zone Paddling Club
-- **What:** Dragon boat club with intro programs for individuals and groups, plus community paddling days and local races
-- **Where:** Creekside Paddling Centre, False Creek
-- **Find it:** [dragonzone.ca](https://dragonzone.ca/)
+## Toronto Windsurfing Club
+- **What:** Windsurfing club on the beach at Cherry Beach with just over 550 members, plus adult lessons, a summer camp, wing foiling lessons and Wednesday night racing. Members race, freestyle or simply cruise — and hang around on the sand afterwards
+- **Where:** Cherry Beach (2 Regatta Rd)
+- **Find it:** [torontowindsurfingclub.com](https://torontowindsurfingclub.com/)
 
-## Abreast in a Boat
-- **What:** Dragon boat team for women who have had a breast cancer diagnosis. "A floating support group" and proof of a full, active life after breast cancer
-- **Find it:** [abreastinaboat.com](https://www.abreastinaboat.com/)
+## Mississauga Canoe Club
+- **What:** Sprint canoe and kayak club on the Credit River since 1958, with youth racing, paracanoe, outrigger and adult fitness programs. Serious about high performance, but built for every skill level — no experience or equipment needed to start
+- **Where:** Port Credit, Mississauga
+- **Find it:** [mississaugacanoeclub.ca](https://mississaugacanoeclub.ca/)
 
 ---
 
 ## Venues & Resources
 
-## Jericho Sailing Centre
-- **What:** Vancouver's ocean community centre, with low-cost access to English Bay for sailing, rowing and paddling. Home to many clubs and co-ops, with rentals and lessons
-- **Where:** Jericho Beach
-- **Find it:** [jsca.bc.ca](https://jsca.bc.ca/)
+## Toronto Adventures
+- **What:** Outfitter on the Humber River since 1999, with two-hour kayak, canoe and SUP rentals, lessons, Paddle Canada courses and guided tours — including full-moon and wildlife paddles. Also runs the Humber River spring and fall cleanups. A five-minute walk from Old Mill Station
+- **Where:** Humber River (Old Mill)
+- **Find it:** [torontoadventures.ca](https://www.torontoadventures.ca/)
+
+## City of Toronto Paddle Sports
+- **What:** The city's map of launch points, rentals and paddle-craft storage along 46 km of shoreline, including Toronto Island Park, Cherry Beach and the Humber River — plus safety notes and restricted zones. Start here before you buy a boat
+- **Find it:** [toronto.ca/paddle-sports](https://www.toronto.ca/explore-enjoy/parks-recreation/program-activities/swim-water-activities/paddle-sports/)

@@ -12,22 +12,22 @@
   --ink-2: #4d4943;
   --ink-muted: #6b665d;
 
-  --masthead: #7a3b2e;
-  --masthead-deep: #5e2c22;
-  --link: #1f5d7a;
+  --masthead: #1b5b86;
+  --masthead-deep: #13405f;
+  --link: #1d6fa8;
   --link-visited: #4f4f86;
-  --link-hover: #144257;
+  --link-hover: #0f4a70;
   --success: #3f6e3e;
   --error: #b23a48;
   --overlay: rgba(43, 41, 37, 0.45);
 
   --hover-bg: #faf5ee;      /* hovered rows and cards, open ad boxes */
   --target-bg: #fbf3d5;     /* the card a #link points at */
-  --field-border: #8a7d68;  /* inputs, cream button edges, dropdown edges (3:1 on white) */
+  --field-border: #7c8a94;  /* inputs, cream button edges, dropdown edges (3:1 on white) */
   --success-line: #b9cdb8;  /* Free badge border */
   /* Bevel edges: brick buttons use light/dark, cream buttons use cream/field-border. */
-  --bevel-light: #a56a56;
-  --bevel-dark: #2e1510;
+  --bevel-light: #4a86ad;
+  --bevel-dark: #0c2c40;
   --bevel-cream: #fffdf6;
   /* Dialogs, toasts and dropdowns: the same hard 2px offset as panels, a little darker. */
   --shadow-overlay: 2px 2px 0 rgba(43, 41, 37, 0.35);
@@ -47,7 +47,7 @@
   --fs-xl: 1.75rem;     /* page titles */
 
   /* 2px checkerboard, the GIF-era way to soften a line. */
-  --dither: repeating-conic-gradient(#b9a58c 0 25%, transparent 0 50%);
+  --dither: repeating-conic-gradient(#b3bcc3 0 25%, transparent 0 50%);
 }
 
 *, *::before, *::after { box-sizing: border-box; }

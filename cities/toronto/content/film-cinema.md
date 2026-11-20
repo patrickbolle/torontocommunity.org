@@ -1,58 +1,68 @@
 ---
 layout: category
 tags: category
-title: "Film & Cinema"
-description: "4 film clubs and indie cinemas — social movie nights, art house screenings, and Asia's longest-running film festival."
+title: "Film Clubs & Indie Cinemas"
+description: "{n} film clubs and indie cinemas in Toronto — repertory screenings, filmmaker workshops, film festivals ({year})."
+seoTitle: "{n} Film Clubs & Indie Cinemas in Toronto ({year})"
+seoDescription: "{n} film clubs and indie cinemas in Toronto — repertory screenings, filmmaker workshops, film festivals ({year})."
 emoji: "🎬"
 group: creative
 order: 3
 ---
 
-# 🎬 Film / Cinema
+# 🎬 Film Clubs & Indie Cinemas in Toronto
 
-## Celluloid Social Club
-- **What:** Independent film screenings
-- **Where:** ANZA Club, 3 West 8th Ave
-- **Find it:** [celluloidsocialclub.com](https://celluloidsocialclub.com/)
+## Downtown Toronto Movie Club
+- **What:** A movie-lovers' club founded in 2023 that has grown to 1,400+ members in its Discord. They organize in-person meetups for screenings across the city, host film nights at Bay Street Video, and rally members around TIFF, Hot Docs, and Revue Cinema programming
+- **Where:** Downtown Toronto
+- **Find it:** [dtmovieclub.com](https://dtmovieclub.com/)
 
-## UBC Film Society
-- **What:** Screenings, workshops, interviews at Norm Theatre
-- **Find it:** [ubcfilmsociety.ca](https://www.ubcfilmsociety.ca/)
+## Hot Docs Doc Soup
+- **What:** Hot Docs' long-running documentary series serves up the best docs fresh off the international festival circuit, each followed by a lively post-screening discussion with special guests. The crowd is curious, opinionated, and there to talk
+- **Where:** Hot Docs Ted Rogers Cinema, 506 Bloor St W
+- **Cost:** $20 single tickets
+- **Find it:** [hotdocs.ca/whats-on/doc-soup](https://hotdocs.ca/whats-on/doc-soup)
 
-## Vancouver Asian Film Festival (VAFF)
-- **What:** Canada's longest-running Asian film festival. Year-round programs, November festival
-- **Find it:** [vaff.org](https://vaff.org/)
+## LIFT (Liaison of Independent Filmmakers of Toronto)
+- **What:** A member-driven, artist-run charity founded in 1981 that has become one of the world's foremost film production hubs. Affordable gear rentals, workshops, residencies, commissions, and screenings keep Toronto's independent film community connected
+- **Where:** 1137 Dupont St
+- **Find it:** [lift.ca](https://www.lift.ca/)
 
+## Toronto Animated Image Society (TAIS)
+- **What:** An artist-run animation centre founded in 1984, with workshops, residencies, screenings, and studio and equipment access for animators working in stop-motion, hand-drawn, 3D, and VR. A welcoming crowd for beginners and experimental artists alike
+- **Where:** 1411 Dufferin St, Unit B
+- **Find it:** [tais.ca](https://www.tais.ca/)
 
-## Vancouver Literature and Film
-- **What:** Vancouver Literature and Film is for people who want serious books, classic texts, Shakespeare, poetry, essays, screenplays, and cinema to feel alive again. We host discussion nights, reading sessions, film conversations, theatre and cinema outings, and classic works reframed through modern life: ego, ambition, grief, power, love, control, shame, beauty, and moral compromise. Not school. Not museum homework. A room for people who still think art can bite.
-- **Find it:** [meetup.com/vancouver-literature-and-film](https://www.meetup.com/vancouver-literature-and-film/)
+## Pleasure Dome
+- **What:** An artist-run presenter of experimental film and video since 1989, known for adventurous screenings, artist talks, and its annual New Toronto Works showcase. Members help shape the programming
+- **Where:** Screenings across Toronto
+- **Cost:** $10/year membership
+- **Find it:** [pdome.org](https://www.pdome.org/)
+
+## Toronto Reel Asian International Film Festival
+- **What:** Canada's largest pan-Asian film festival, founded in 1997, with a November festival plus year-round screenings, youth programs, and industry events. Volunteers and members keep the community going all year
+- **When:** November festival
+- **Find it:** [reelasian.com](https://www.reelasian.com/)
+
+## Inside Out Film Festival
+- **What:** A not-for-profit charity celebrating films by and about 2SLGBTQ+ people for more than three decades, with a Toronto festival and year-round initiatives. A warm, vocal community of queer film lovers, filmmakers, and volunteers
+- **Find it:** [insideout.ca](https://insideout.ca/)
 
 ---
 
 ## Venues & Spaces
 
-## The Cinematheque
-- **What:** Art house cinema, curated screenings
-- **Find it:** [thecinematheque.ca](https://thecinematheque.ca/)
+## Revue Cinema
+- **What:** A 1912 cinema in Roncesvalles operated by the non-profit Revue Film Society, mixing repertory classics, documentaries, and community events. Membership brings discounted tickets and members-only screenings
+- **Where:** 400 Roncesvalles Ave
+- **Find it:** [revuecinema.ca](https://www.revuecinema.ca/)
 
-## VIFF Centre
-- **What:** Vancouver International Film Festival venue, year-round programming
-- **Find it:** [viff.org](https://viff.org/)
+## Fox Theatre
+- **What:** Toronto's oldest continuously operating cinema (since 1914), an independent art-house in the Beaches with curated new releases, repertory classics, and themed series like Klassic Kidz and Northern Frights. A genuine neighbourhood crowd
+- **Where:** 2236 Queen St E
+- **Find it:** [foxtheatre.ca](https://www.foxtheatre.ca/)
 
-## Vancouver Public Library Film Screenings
-- **What:** Feature films and documentaries with discussions
-- **Find it:** [vpl.ca/program/film-screenings](https://www.vpl.ca/program/film-screenings)
-
-## Film Club at The Cinematheque
-- **What:** Family-friendly movie matinees
-- **When:** Third Sunday of the month
-- **Find it:** [thecinematheque.ca/series/film-club](https://thecinematheque.ca/series/film-club)
-
-## VIFF Live
-- **What:** Live performances intersecting cinema with music, comedy, podcasts. Unique cinema-infused live shows
-- **Find it:** [viff.org](https://viff.org/)
-
-## Rio Theatre
-- **What:** Independent cinema with cult classics and special events. Community hub, midnight movies, live events
-- **Find it:** [riotheatre.ca](https://riotheatre.ca/)
+## Regent Theatre
+- **What:** A 1919 movie palace in downtown Oshawa showing films, live events, and community screenings. The kind of historic single-screen theatre where the audience still makes an evening of it
+- **Where:** 50 King St E, Oshawa
+- **Find it:** [regenttheatre.ca](https://regenttheatre.ca/)

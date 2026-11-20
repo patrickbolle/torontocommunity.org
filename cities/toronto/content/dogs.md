@@ -1,52 +1,49 @@
 ---
 layout: category
 tags: category
-title: "Dogs"
-description: "6 dog meetups, social dog runs and dog sports clubs: agility, flyball and canicross. Bring your dog or just come say hi."
+title: "Dog Clubs & Meetups in Toronto"
+description: "{n} dog clubs and meetups in Toronto and the GTA — small-dog play dates, obedience and rally clubs, agility and puppy socials. Bring your dog or say hi."
 emoji: "🐕"
 group: outdoor
-seoTitle: "{n} Dog Meetups & Dog Sports Clubs in Vancouver ({year})"
-seoDescription: "{n} dog meetups, social dog runs and dog sports clubs around Vancouver: agility, flyball and canicross. Bring your dog or just say hi."
+seoTitle: "{n} Dog Clubs & Meetups in Toronto ({year})"
+seoDescription: "{n} dog clubs and meetup groups in Toronto and the GTA: small-dog play dates, obedience and rally clubs, agility classes and free puppy meetups."
 listNoun: "dog groups"
-seoHeading: "Dog Meetups & Dog Sports Clubs in Vancouver"
+seoHeading: "Dog Clubs & Meetups in Toronto"
 order: 8
 added: 2026-11-14
 ---
 
-# 🐕 Dogs
+# 🐕 Dog Clubs & Meetups in Toronto
 
-## K9 Run
-- **What:** "A community for people who love being active with their dogs." Free, relaxed social dog runs for all dogs and experience levels, plus canicross events and races
-- **Cost:** Free
-- **Where:** Around Burnaby (Burnaby Lake, Deer Lake Park)
-- **Find it:** [k9run.ca/run-club](https://k9run.ca/run-club/)
-- **Notes:** Run dates are posted on Instagram [@thek9run](https://www.instagram.com/thek9run/)
+## Small Dog Meetup Toronto
+- **What:** A relaxed small-dog meetup for little breeds and their people: park hangs, walks and playtime. All small breeds and mixes are welcome, whether your pup is playful, shy or full of personality
+- **Where:** David Crombie Park, The Esplanade, downtown Toronto
+- **Find it:** [meetup.com/small-dog-meetup-toronto](https://www.meetup.com/small-dog-meetup-toronto/)
 
-## GVAD Monthly Dog Meetup
-- **What:** Free dog meetup from the Greater Vancouver Association of the Deaf. For Deaf, hard of hearing, DeafBlind and hearing friends, families and dog lovers. Come with or without a dog
-- **When:** Monthly
-- **Cost:** Free
-- **Where:** Dog parks around Coquitlam
-- **Find it:** [gvad.ca](https://gvad.ca/gvad-monthly-dog-meetup/)
+## East York Small Breed Dogs Meetup
+- **What:** Small-breed play dates and dog-park meetups in East York, started by a local owner who wanted more chances for small dogs to socialize and burn off energy together
+- **Where:** Stan Wadlow Park, East York
+- **Find it:** [meetup.com/east-york-small-breed-dogs-meetup](https://www.meetup.com/east-york-small-breed-dogs-meetup/)
 
-## Dream Team Flyball Club
-- **What:** Recreational flyball club, running since 1998. Beginner practices Sunday mornings, rain or shine
-- **When:** Sunday mornings (beginners)
-- **Where:** Ioco Field, Port Moody
-- **Find it:** [dreamteamflyball.org](https://dreamteamflyball.org/)
-- **Notes:** Full for new dog-handler teams as of 2026. Join the email list for the next opening
+## Rock and Rollover K-9 Training Club
+- **What:** East York training club with free weekly puppy meet-ups, members-only club meet-ups for graduates, and themed community events like its Howl-O-Ween bash
+- **Where:** 792 Eglinton Avenue East, East York
+- **When:** Weekly (puppy meet-ups)
+- **Cost:** Free (puppy meet-ups)
+- **Find it:** [rockandrolloverk9.com/puppy-play-group](https://www.rockandrolloverk9.com/puppy-play-group)
 
-## Paws Squad Canine Sports Club
-- **What:** "A non-profit dog agility club that focuses on fun with our four legged family members." Member-led practices all year, and novice teams welcome
-- **Where:** Burnaby Lake Sports Complex and Twin Creeks Ranch, Langley
-- **Find it:** [pawssquad.ca](https://pawssquad.ca/)
+## Swansea Dog Obedience Club
+- **What:** Volunteer-run, not-for-profit obedience club teaching puppy, beginner obedience, Rally-O, agility, scent detection and tricks since 1974. Members also put on annual trials and community demos
+- **Where:** St. Matthew's Church, 3962 Bloor Street West, west Toronto
+- **Find it:** [swanseadog.com](https://www.swanseadog.com/)
 
-## Dogwood Pacesetters Canine Sports Club
-- **What:** Non-profit dog sports club since 1986, built on "Companionship, Competition, and Community." Agility trials, demos and parades
-- **Where:** Lower Mainland
-- **Find it:** [dogwoodpacesetters.ca](https://dogwoodpacesetters.ca/)
+## North York Obedience Club (NYOC)
+- **What:** Volunteer-run, not-for-profit club since 1961 offering positive, reward-based puppy, beginner, rally and obedience classes — plus trials, titles and a K-9 demo team. A welcoming crowd for first-timers and competitors alike
+- **Where:** St. Matthew the Apostle, Oriole Anglican Church, 80 George Henry Blvd, North York
+- **Find it:** [nyoc.ca](https://nyoc.ca/)
 
-## Leaps N Bounds Agility Club
-- **What:** Local agility club that hosts trials and fun matches through the year.
-- **Where:** Twin Creeks Ranch, Langley
-- **Find it:** [lnbagility.ca](https://lnbagility.ca/)
+## Caledon Kennel Association
+- **What:** Non-profit all-breed club north of Toronto, running since 1974. Handling classes, conformation, rally and obedience, plus a three-day conformation show each November
+- **Where:** Caledon, Ontario
+- **When:** Nov 27–29, 2026 (annual show)
+- **Find it:** [caledondogs.org](https://caledondogs.org/)

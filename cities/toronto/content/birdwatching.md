@@ -2,54 +2,67 @@
 layout: category
 tags: category
 title: "Birdwatching"
-description: "7 birding groups — guided walks, expert-led field trips, youth programs, and a free two-week festival in May."
+description: "{n} birdwatching and nature groups in Toronto & the GTA — guided walks, expert-led field trips, hawk watches and volunteer stewardship."
 emoji: "🐦"
 group: mind-body
 order: 6
+seoTitle: "{n} Birdwatching Groups in Toronto ({year})"
+seoDescription: "Birding clubs, guided walks and nature groups across Toronto & the GTA — from High Park to Tommy Thompson Park. Find your flock."
+seoHeading: "Birdwatching Groups in Toronto"
+listNoun: "birding groups"
 ---
 
-# 🐦 Birdwatching
+# 🐦 Birdwatching in Toronto
 
-## Nature Vancouver - Birding Section
-- **What:** Field trips, Birders' Night presentations
-- **Find it:** [naturevancouver.ca/birding](https://naturevancouver.ca/birding/)
+## Toronto Field Naturalists
+- **What:** Volunteer-led walks and outings — more than 100 a year — covering birding, ecology, geology and Toronto's ravines. Public walks welcome newcomers; members get the full calendar.
+- **Where:** Across Toronto
+- **When:** Year-round outings
+- **Find it:** [torontofieldnaturalists.org/walks](https://torontofieldnaturalists.org/walks/)
 
-## VARC (Vancouver Avian Research Centre)
-- **What:** Guided bird walks. Learn local bird ID with experts
-- **When:** Monthly
-- **Find it:** [birdvancouver.com/guided-bird-walks](https://www.birdvancouver.com/guided-bird-walks/)
+## Toronto Ornithological Club
+- **What:** Toronto's birding club, running small-group outings across the GTA plus hawk watches, whimbrel watches and the Christmas Bird Count. Outings are welcoming and open to all skill levels.
+- **Where:** GTA
+- **Find it:** [torontobirding.ca/events](https://www.torontobirding.ca/events)
 
-## Stanley Park Ecology - Birding with Me
-- **What:** Free guided bird walks. Celebrates diversity in bird and human communities
-- **Cost:** Free
-- **Find it:** [stanleyparkecology.ca](https://stanleyparkecology.ca/education/birding-with-me/)
+## Ontario Field Ornithologists
+- **What:** Province-wide field trips, Birding Buddies outings and a Young Birders program, with a calendar of trips across Ontario. A friendly route into the province's wider birding community.
+- **Where:** Ontario
+- **Find it:** [ofo.ca/field-trips-events/event-calendar](https://ofo.ca/field-trips-events/event-calendar/)
 
-## Greater Vancouver Bird Celebration
-- **What:** 2-week series every May — workshops, walks, talks, exhibitions (all free)
-- **Cost:** Free
-- **Find it:** [destinationvancouver.com](https://www.destinationvancouver.com/inspirations/bird-watching)
+## High Park Nature Centre
+- **What:** Adult nature clubs in High Park — Urban Naturalists, Adult Rangers stewardship, Branching Out multilingual hikes and a nature book club. Meet other curious city naturalists.
+- **Where:** High Park
+- **Find it:** [highparknaturecentre.com/adult-nature-clubs](https://highparknaturecentre.com/adult-nature-clubs/)
 
-## Delta Naturalists Casual Birders (DNCB)
-- **What:** Bird walks. Friendly, welcoming to newcomers
-- **When:** Weekly, mostly weekday mornings
-- **Find it:** [dncb.wordpress.com](https://dncb.wordpress.com/)
+## Tommy Thompson Park Bird Research Station
+- **What:** Bird monitoring station on the Leslie Street Spit: migration counts, bird banding, breeding-bird surveys and volunteer opportunities at a globally significant Important Bird Area.
+- **Where:** Tommy Thompson Park, Leslie Street Spit
+- **When:** Spring and fall migration
+- **Find it:** [tommythompsonpark.ca/park-species/birds](https://tommythompsonpark.ca/park-species/birds/)
 
-## BC Young Birders Program
-- **What:** Promotes birding among youth, founded 2014. Educational, conservation-focused, healthy lifestyles
-- **Find it:** [naturevancouver.ca/birding](https://naturevancouver.ca/birding/)
+## The Riverwood Conservancy
+- **What:** Guided birding hikes at Riverwood's 150-acre park and other GTA hotspots, plus the Armstrong Wild Bird Trek. Expert volunteer leaders, public programs and 200 recorded species.
+- **Where:** Mississauga
+- **When:** Year-round programs
+- **Find it:** [theriverwoodconservancy.org/birding](https://theriverwoodconservancy.org/birding/)
 
-## Vancouver Birding Group (Facebook)
-- **What:** Active online community for local birders. Share sightings, ask questions, connect with birders
-- **Find it:** [Facebook Group](https://www.facebook.com/groups/1566767990204738/)
+## FLAP Canada
+- **What:** Volunteer-powered bird collision rescue and monitoring in the GTA — patrol buildings for injured birds, collect collision data and help make windows bird-safe.
+- **Where:** Downtown Toronto & the GTA
+- **Find it:** [flap.org/get-involved](https://flap.org/get-involved/)
+
+## Toronto Nature Stewards
+- **What:** Volunteer stewards restoring ravines and natural areas at 53 public sites across Toronto — invasive plant removal, native planting and community nature education.
+- **Where:** Across Toronto
+- **Find it:** [torontonaturestewards.org/get-involved](https://torontonaturestewards.org/get-involved/)
 
 ---
 
 ## Venues & Resources
 
-## BC Bird Trail
-- **What:** Trail and resources for birding across BC
-- **Find it:** [bcbirdtrail.ca](https://bcbirdtrail.ca/)
+**[Toronto Birding Hotspots](https://www.torontobirding.ca/birding-hotspots)** — the Toronto Ornithological Club's guide to GTA birding locations, from High Park and the islands to the Leslie Street Spit.
 
-## Birding BC Website
-- **What:** Hub for BC birding info, rare bird alerts, forums. Resource for all skill levels
-- **Find it:** [birding.bc.ca](https://birding.bc.ca/)
+**[Rouge National Urban Park](https://www.pc.gc.ca/en/pn-np/on/rouge)** — Canada's first national urban park, with trails and birding across Scarborough and Durham Region. A big, free landscape for a full day out.
+
+**[TRCA Parks](https://trca.ca/parks/)** — conservation areas and parks across the GTA, including Tommy Thompson Park, with birding events and seasonal nature programs.

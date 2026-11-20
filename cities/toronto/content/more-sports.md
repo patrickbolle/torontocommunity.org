@@ -1,74 +1,80 @@
 ---
 layout: category
 tags: category
-title: "More Sports"
-description: "13 rec sports leagues and clubs — co-ed social leagues, ultimate, flag football, curling, squash, table tennis, and more."
+title: "Rec Sports Leagues"
+description: "{n} rec sports leagues and clubs in Toronto — co-ed social leagues, ultimate, flag football, curling, squash, table tennis, and more."
 emoji: "⚽"
 group: outdoor
-seoTitle: "{n} Rec Sports Leagues & Clubs in Vancouver ({year})"
-seoDescription: "{n} adult rec sports leagues and clubs in Vancouver: co-ed leagues, dodgeball, ultimate, curling, squash and table tennis."
+seoTitle: "{n} Rec Sports Leagues & Clubs in Toronto ({year})"
+seoDescription: "{n} adult rec sports leagues in Toronto: dodgeball, ultimate, volleyball, flag football, curling, squash and table tennis."
 listNoun: "leagues & clubs"
-seoHeading: "Rec Sports Leagues & Clubs in Vancouver"
+seoHeading: "Rec Sports Leagues & Clubs in Toronto"
 order: 7
 ---
 
-# ⚽ More Sports
+# ⚽ Rec Sports Leagues in Toronto
 
-## Urban Rec Vancouver
-- **What:** Co-ed rec leagues in 12+ sports: dodgeball, flag football, indoor and beach volleyball, soccer, softball, basketball and more. Join with a team or sign up solo. Built around fun games and meeting people
-- **Find it:** [vancouver.urbanrec.ca](https://vancouver.urbanrec.ca)
+## JAM Sports Toronto
+- **What:** Adult rec leagues and tournaments in 20+ sports — soccer, volleyball, basketball, flag football, dodgeball, kickball and lawn bowling among them. Join with a team or sign up solo, year-round, across the city. Built for meeting people
+- **Where:** Venues across Toronto
+- **Find it:** [toronto.jamsports.com](https://toronto.jamsports.com)
 
-## Vancouver Ultimate League
-- **What:** Ultimate frisbee leagues for every level, from your first time picking up a disc to competitive. Learn to Play programs and clinics. Spirited and inclusive, running for 40 years
-- **Find it:** [vul.ca](https://vul.ca/)
+## Extreme Toronto Sports Club (XTSC)
+- **What:** Co-ed rec leagues in soccer, volleyball, basketball and hockey, with downtown and North York divisions and development clinics for newer players. Register a team or join one as an individual
+- **Where:** Downtown & North York
+- **Find it:** [xtsc.ca](https://xtsc.ca)
 
-## BC Adult Flag Football League
-- **What:** Adult flag football with women's, men's and co-ed 5v5 divisions. Teams or individual players can register
-- **Find it:** [bcaffl.ca](https://bcaffl.ca/)
+## Toronto Ultimate Club
+- **What:** Ultimate frisbee leagues for every level, from your first time holding a disc to competitive touring teams. Summer, fall and winter indoor leagues, plus pickup games, clinics and a junior program. Spirited and social
+- **Where:** Fields across Toronto
+- **Find it:** [tuc.org](https://www.tuc.org)
 
-## Out For Kicks
-- **What:** LGBTQ2+ inclusive rec soccer, indoor and outdoor, all year round. Running since 1990, with socials and community fundraisers off the field
-- **Find it:** [outforkicks.ca](https://www.outforkicks.ca/)
+## Toronto Dodgeball
+- **What:** Toronto's original dodgeball league, running since 2005. Co-ed, men's and women's divisions, with both teams and individual players welcome. Sweat first, socialize after
+- **Find it:** [torontododgeball.com](https://www.torontododgeball.com)
 
-## Volleyball BC Adult Leagues
-- **What:** Recreational indoor leagues: men's, women's, co-ed 6s and co-ed 4s, for all skill levels. Register as a team, or join the individual players list to find one
-- **Where:** Burnaby and Richmond
-- **Find it:** [volleyballbc.org](https://volleyballbc.org/play/adult/indoor/leagues/)
+## Toronto Flag Football League
+- **What:** Non-contact flag football for adults and youth, with pro-style jerseys, live stats and playoffs. A relaxed way into the game if you have never played before
+- **Where:** Toronto
+- **Find it:** [torontoflagfootball.com](https://torontoflagfootball.com)
 
-## VIVA (Vancouver Inclusive Volleyball Association)
-- **What:** Inclusive volleyball leagues and drop-ins, formerly the Vancouver Gay Volleyball Association. Recreational to competitive divisions
-- **Find it:** [viva-vball.net](https://viva-vball.net/)
+## Toronto Spartan Volleyball League (TSVL)
+- **What:** Canada's largest LGBTQ2S+ sport organization, running competitive, intermediate and recreational volleyball nights. Volunteer-run and welcoming, whether you are new to the sport or a longtime player
+- **When:** Tuesday, Wednesday & Thursday evenings
+- **Find it:** [tsvl.org](https://www.tsvl.org)
 
-## Vancouver Curling Club
-- **What:** Curling for all ages and abilities. Try a one-hour intro or a 5-week Learn to Curl, then join an evening, daytime or weekend league
-- **Where:** Hillcrest Park (4575 Clancy Loranger Way)
-- **Find it:** [vancurl.com](https://vancurl.com/)
+## Brodie Rec League
+- **What:** Rec basketball with your first game free, then pick your level and your season. Runs in Toronto and across the GTA with a social, team-first crowd
+- **Where:** Toronto & GTA
+- **Cost:** First game free
+- **Find it:** [brodierec.com](https://www.brodierec.com)
 
-## Terminal City Roller Derby
-- **What:** Vancouver's flat-track roller derby league, since 2006. A 13-week learn-to-play program for beginners of all gender identities, with loaner gear
-- **Find it:** [tcrd.ca](https://tcrd.ca/)
+## Toronto Roller Derby
+- **What:** Flat-track roller derby league open to skaters of every level, including complete beginners, plus officials and volunteers. A diverse, inclusive community on eight wheels
+- **Find it:** [torontorollerderby.com](https://torontorollerderby.com)
 
-## Vancouver Table Tennis Club
-- **What:** Dedicated ping pong club with drop-in play, weekly leagues, lessons and tournaments. Rent a paddle and balls on site
-- **Where:** 3925 Fraser St
-- **Find it:** [vttc.ca](https://www.vttc.ca/)
+## High Park Club
+- **What:** Toronto's oldest curling club, with five sheets of ice and twelve sections ranging from competitive men's and women's to social mixed. The season runs late September to April
+- **Where:** High Park (Bloor West)
+- **When:** September to April
+- **Find it:** [highparkclub.com](https://www.highparkclub.com)
 
-## Vancouver Racquets Club
-- **What:** Non-profit squash and badminton club. Friday night squash drop-in for every level (guests welcome) and a women's drop-in on Wednesdays
-- **When:** Friday nights, Wednesdays (women's)
-- **Where:** Hillcrest Park (4867 Ontario St)
-- **Find it:** [vrc.bc.ca](https://vrc.bc.ca/squash/squash-programs)
+## Mayfair Clubs
+- **What:** Squash house leagues and adult programs at two GTA locations, from beginner clinics to competitive club teams. A low-pressure way into the Toronto squash scene
+- **Where:** Leslieville & Markham
+- **Find it:** [mayfairclubs.com](https://mayfairclubs.com/sports-fitness/sports/racquet/squash/)
 
-## Vancouver Tennis Society
-- **What:** Non-profit growing tennis in Vancouver. Open play meetups for all levels. Bring your own racquet and balls
-- **Find it:** [meetup.com/vancouvertennis](https://www.meetup.com/vancouvertennis/)
+## Sunny International Table Tennis Club
+- **What:** Scarborough table tennis club open seven days a week, with drop-in play, coaching and group lessons. A friendly mix of casual players and competitive training
+- **Where:** 4500 Sheppard Ave E, Scarborough
+- **Find it:** [sunnyclub.ca](https://sunnyclub.ca)
 
-## Vancouver Lawn Bowling Club
-- **What:** Lawn bowling for all ages, social or competitive. Drop in without booking, or try a one-month trial with beginner coaching. Season runs May to October
-- **Where:** Queen Elizabeth Park
-- **Find it:** [vanlawnbowling.ca](https://www.vanlawnbowling.ca/)
+## Cosburn Park Lawn Bowling Club
+- **What:** East York's lawn bowling club, 300+ members strong and one of Ontario's largest and most active. Friendly leagues and tournaments, with new bowlers always welcome
+- **Where:** Cosburn Park, East York (Coxwell & Cosburn)
+- **Find it:** [cosburnbowls.ca](https://www.cosburnbowls.ca/)
 
-## Vancouver Rowing Club
-- **What:** Historic Stanley Park club for rowing, rugby and field hockey. Adult Learn to Row courses run May to October, then grads join the recreational program
-- **Where:** Stanley Park
-- **Find it:** [vancouverrowingclub.ca](https://www.vancouverrowingclub.ca/)
+## Argonaut Rowing Club
+- **What:** One of Canada's oldest rowing clubs, with Learn to Row courses, a masters recreational program and competitive teams. Volunteer-run and right on the Lake Ontario shore
+- **Where:** 1225 Lakeshore Blvd W
+- **Find it:** [argonautrowingclub.org](https://argonautrowingclub.org)

@@ -1,197 +1,141 @@
 ---
 layout: category
 tags: category
-title: "Resources"
-description: "Newsletters, Instagram accounts, aggregators, and other directories for finding things to do and people to meet in Vancouver."
+title: "Newcomer & Community Resources"
+description: "{n} newcomer and community resources in Toronto — settlement help, food banks, housing support, libraries, and City of Toronto services."
+seoTitle: "{n} Newcomer & Community Resources in Toronto ({year})"
+seoDescription: "Newcomer settlement help, food banks, housing support, libraries, crisis lines, and City of Toronto programs."
+seoHeading: "Newcomer & Community Resources in Toronto"
+listNoun: "resources"
 emoji: "🔗"
 group: community
 order: 3
 ---
 
-# 🔗 Resources & Aggregators
+# 🔗 Newcomer & Community Resources in Toronto
 
-*These are meta-resources — directories and aggregators to help you find communities and events across all categories.*
-
----
-
-## Community Finders
-
-## r/Vancouver4Friends
-- **What:** Reddit community for Vancouver friend-making
-- **Find it:** [reddit.com/r/Vancouver4Friends](https://www.reddit.com/r/Vancouver4Friends/)
-
-## Meetup Vancouver
-- **What:** Aggregator for all kinds of social groups
-- **Find it:** [meetup.com/cities/ca/bc/vancouver](https://meetup.com/cities/ca/bc/vancouver)
-
-## Flock Social
-- **What:** Vancouver-based IRL communities and social events app. Discover local clubs — supper clubs, mahjong nights, DJ sets
-- **Find it:** [flocksocial.app](https://flocksocial.app)
-
-## Heylo
-- **What:** Community groups app (Meetup alternative). Run clubs, parent groups, social clubs
-- **Find it:** [heylo.com](https://heylo.com)
+*Official Toronto and GTA services for newcomers — settlement help, food and housing support, libraries, community centres, and crisis lines. The places to start when you need a hand, not a club.*
 
 ---
 
-## Event Calendars
+<h2 id="newcomer-settlement">Newcomer &amp; Settlement</h2>
 
-## Lu.ma Vancouver
-- **What:** Tech, startup, and creative community events aggregator. Where Vancouver's builder community lives — subscribe for notifications
-- **Find it:** [lu.ma/vancouver](https://lu.ma/vancouver)
+## Settlement.org
+- **What:** Ontario's plain-language newcomer guide — housing, jobs, health care, schools, banking, and immigration paperwork. The first place to look when you don't yet know which office to call.
+- **Find it:** [settlement.org](https://settlement.org/)
 
-## Vancouver Tech Events (Lu.ma)
-- **What:** Curated IRL tech events with weekly email digest
-- **Find it:** [lu.ma/vancouvertech](https://lu.ma/vancouvertech)
+## 211 Ontario
+- **What:** Free, confidential helpline and online database for community, social, and government services across Ontario. Dial 2-1-1, text, or chat to be pointed to food banks, housing help, counselling, and settlement agencies near you.
+- **Cost:** Free
+- **Find it:** [211ontario.ca](https://211ontario.ca/)
 
-## Georgia Straight Events
-- **What:** Local arts, culture, events coverage
-- **Find it:** [straight.com](https://www.straight.com/)
+## City of Toronto — Moving to Toronto
+- **What:** The City's official newcomer landing page — connect with a settlement worker, download the Newcomer Welcome Brochure, and work through what to do before you arrive (visas, preparing for work) and after (health card, City services, schools).
+- **Where:** City-wide
+- **Find it:** [toronto.ca/community-people/moving-to-toronto](https://www.toronto.ca/community-people/moving-to-toronto/)
 
-## do604
-- **What:** Vancouver events calendar
-- **Find it:** [do604.com](https://do604.com/)
+## COSTI Immigrant Services
+- **What:** Settlement, employment, and language training for newcomers at locations across the GTA. Counsellors help with everything from your first weeks in the city to a job in your field.
+- **Find it:** [costi.org](https://costi.org/)
 
-## Eventbrite Vancouver
-- **What:** Event ticketing platform
-- **Find it:** [eventbrite.ca/d/canada--vancouver](https://www.eventbrite.ca/d/canada--vancouver/events/)
+## ACCES Employment
+- **What:** Free employment services built for newcomers and career changers — job search coaching, résumé help, mentoring, and bridging programs that connect internationally trained professionals to Toronto employers.
+- **Cost:** Free
+- **Find it:** [accesemployment.ca](https://accesemployment.ca/)
 
----
-
-## Local News & Guides
-
-## Daily Hive Vancouver
-- **What:** Local news with community guides and event coverage
-- **Find it:** [dailyhive.com/vancouver](https://dailyhive.com/vancouver)
-
-## Vancouver Is Awesome
-- **What:** Local news, community spotlights, event guides
-- **Find it:** [vancouverisawesome.com](https://vancouverisawesome.com)
-
-## Scout Magazine
-- **What:** Vancouver food, culture, and community coverage
-- **Find it:** [scoutmagazine.ca](https://scoutmagazine.ca)
-
-## Miss604
-- **What:** Vancouver events, contests, community news
-- **Find it:** [miss604.com](https://miss604.com)
+## WoodGreen Community Services
+- **What:** One of Toronto's largest multi-service agencies — newcomer settlement, employment help, housing and shelter support, seniors' programs, and mental health services, with a strong presence in the east end.
+- **Where:** East Toronto
+- **Find it:** [woodgreen.org](https://www.woodgreen.org/)
 
 ---
 
-## Specialty Directories
+<h2 id="libraries-learning">Libraries &amp; Learning</h2>
 
-## 19hz.info
-- **What:** Electronic music event listing for BC
-- **Find it:** [19hz.info/eventlisting_BC.php](https://19hz.info/eventlisting_BC.php)
+## Toronto Public Library — Newcomer Services
+- **What:** Free library cards plus English conversation circles, citizenship test prep, computer help, and settlement information for newcomers. Branch staff can connect you to language classes and community programs across the city.
+- **Where:** City-wide
+- **Cost:** Free
+- **Find it:** [tpl.ca/using-the-library/new-to-canada/information-for-newcomers](https://tpl.ca/using-the-library/new-to-canada/information-for-newcomers/)
 
-## runclubs.ca
-- **What:** 60+ Vancouver run clubs in one directory
-- **Find it:** [runclubs.ca/vancouver](https://runclubs.ca/vancouver)
-
-## bikehub.ca
-- **What:** Cycling clubs and resources in BC
-- **Find it:** [bikehub.ca](https://bikehub.ca)
-
-## ClimbFind
-- **What:** Find climbing partners and groups
-- **Find it:** [climbfind.com](https://climbfind.com)
+## Skills for Change
+- **What:** Employment and settlement agency for newcomers and equity-deserving job seekers — language training, mentoring, job placement, and entrepreneurship programs, with a long history in Toronto.
+- **Find it:** [skillsforchange.org](https://skillsforchange.org/)
 
 ---
 
-## Facebook Groups
+<h2 id="food-housing-help">Food &amp; Housing Help</h2>
 
-## Vancouver Events
-- **What:** Markets, shows, classes, workshops, festivals
-- **Find it:** [facebook.com/groups/VANCOUVER-Events](https://www.facebook.com/share/g/1BhPHx9wiS/)
+## Daily Bread Food Bank
+- **What:** One of Toronto's largest food bank networks, supporting hundreds of neighbourhood food programs. Use the online finder to locate a food bank or meal program near you.
+- **Where:** City-wide
+- **Find it:** [dailybread.ca](https://www.dailybread.ca/)
 
-## Vancouver Foodies Group
-- **What:** Honest reviews, drool-worthy photos, hidden gems
-- **Find it:** [facebook.com/groups/VancouverFoodies](https://www.facebook.com/share/g/16csYCJ5rP/)
+## The Stop Community Food Centre
+- **What:** A community food centre in the west end — food bank, drop-in meals, cooking and gardening programs, and advocacy, all built around the idea that food is a right and a way to bring neighbours together.
+- **Where:** West End
+- **Find it:** [thestop.org](https://www.thestop.org/)
 
-## Metro Vancouver Buy & Sell
-- **What:** Cleanest buy/sell group for furniture, bikes, electronics
-- **Find it:** [facebook.com/groups/MetroVancouverBuySell](https://www.facebook.com/share/g/19JQZMyZb4/)
+## FoodShare Toronto
+- **What:** Food-security organization working on affordable produce, community gardens, school programs, and food justice. Their Good Food Boxes and community markets make fresh food more accessible across the city.
+- **Find it:** [foodshare.net](https://foodshare.net/)
 
-## Vancouver Housing Rentals
-- **What:** Rental listings, roommates, housing
-- **Find it:** [facebook.com/groups/VancouverHousingRentals](https://www.facebook.com/share/g/15qdwwZSp8/)
+## North York Harvest Food Bank
+- **What:** The food bank network for northern Toronto, supplying neighbourhood food banks and meal programs. Their site lists where to get food and how to support the network.
+- **Where:** North York
+- **Find it:** [northyorkharvest.com](https://northyorkharvest.com/)
 
-## JOBS Vancouver BC
-- **What:** Part-time gigs, career moves, job postings
-- **Find it:** [facebook.com/groups/JOBSVancouverBC](https://www.facebook.com/share/g/1BhTD8BRYV/)
+## City of Toronto — Housing Help
+- **What:** The City's housing and shelter hub: renters' rights, eviction prevention, emergency shelter through Central Intake (416-338-4766), community housing, and financial support for renters. Start here when rent is at risk or you're facing homelessness.
+- **Find it:** [toronto.ca/community-people/housing-shelter](https://www.toronto.ca/community-people/housing-shelter/)
 
-## Newcomers in Vancouver
-- **What:** For people new to Vancouver
-- **Find it:** [facebook.com/groups/newcomersinvancouver](https://facebook.com/groups/newcomersinvancouver)
-
-## Irish and New in Vancouver
-- **What:** Newcomers finding housing, jobs, and friendships
-- **Find it:** [facebook.com/groups/IrishAndNewInVancouver](https://www.facebook.com/share/g/1EarYgsnbg/)
-
-## Take a Hike! Vancouver
-- **What:** Active hiking group with weekly hikes, all skill levels
-- **When:** Weekly
-- **Find it:** [facebook.com/groups/97461647231](https://facebook.com/groups/97461647231)
-
-## Slow Hikers Vancouver
-- **What:** For hikers who take their time on trails. Supportive, no-rush, "we'll wait for you"
-- **Find it:** [facebook.com/groups/2615875668725777](https://facebook.com/groups/2615875668725777)
-
-## BC Kids Hiking Club
-- **What:** Family-friendly hiking for parents with kids
-- **Find it:** [facebook.com/groups/689466651389187](https://facebook.com/groups/689466651389187)
-
-## Sunday Hike
-- **What:** Find hiking buddies for weekend adventures
-- **Find it:** [facebook.com/groups/SundayHike](https://www.facebook.com/share/g/1B7qbv3rbS/)
-
-## Vancouver Dog Owners
-- **What:** Off-leash friends, vet recommendations, lost dog alerts
-- **Find it:** [facebook.com/groups/VancouverDogOwners](https://www.facebook.com/share/g/19XEuNFE9g/)
-
-## VancouverMom.ca
-- **What:** Community of Vancouver parents. Daycare tips, kid-friendly spots, parenting advice
-- **Find it:** [facebook.com/groups/VancouverMom](https://www.facebook.com/share/g/16t9da4owh/)
-
-## Gay Vancouver LIFE (Alphabet Family)
-- **What:** 2SLGBTQIA+ community space. Connect, vent, celebrate, share resources
-- **Find it:** [facebook.com/groups/GayVancouverLIFE](https://www.facebook.com/share/g/1GcFJmjDy6/)
+## Housing Help Centre
+- **What:** Non-profit help finding and keeping affordable market-rent housing in Toronto and York Region — landlord-tenant support, rent arrears help, housing search, and referrals. Free and confidential.
+- **Where:** Scarborough
+- **Cost:** Free
+- **Find it:** [shhc.ca](https://www.shhc.ca/)
 
 ---
 
-## Instagram Communities
+<h2 id="city-services-community-life">City Services &amp; Community Life</h2>
 
-## @weshouldbefriendsvancouver
-- **What:** Chill meetups — picnics, plant swaps, game nights
-- **Size:** 33,000+ followers
-- **Find it:** [instagram.com/weshouldbefriendsvancouver](https://instagram.com/weshouldbefriendsvancouver)
+## City of Toronto — Recreation Centre Listings
+- **What:** Find your local community recreation centre and what's running there — drop-in sports, swimming, fitness, arts, and registered programs for every age. Many programs are low-cost or free, and centres are some of the easiest places to meet neighbours.
+- **Find it:** [toronto.ca/.../recreation-centre-listings](https://www.toronto.ca/explore-enjoy/parks-recreation/places-spaces/parks-and-recreation-facilities/recreation-centre-listings/)
 
-## @letsadventurevan
-- **What:** Outdoor stranger meetups — hikes, cold plunges, sports. Welcoming, low-key, builds real friendships
-- **When:** Weekly
-- **Find it:** [instagram.com/letsadventurevan](https://instagram.com/letsadventurevan)
+## Toronto Community Benefits Network
+- **What:** A community-labour network organizing around major Toronto construction projects so that local residents get good jobs, affordable housing, and neighbourhood benefits. A way into community organizing, training, and advocacy if you want to shape the city.
+- **Find it:** [tcbn.ca](https://tcbn.ca/)
 
-## @van.thrive.club
-- **What:** Young entrepreneurs networking and events
-- **Find it:** [instagram.com/van.thrive.club](https://instagram.com/van.thrive.club)
+## City of Toronto — Festivals & Events
+- **What:** The City's official events calendar — neighbourhood festivals, cultural celebrations, markets, and outdoor happenings across Toronto's parks and squares. Good for finding a low-pressure reason to show up somewhere new.
+- **Find it:** [toronto.ca/explore-enjoy/festivals-events](https://www.toronto.ca/explore-enjoy/festivals-events/)
 
-## @vancitybusinessbabes
-- **What:** Female entrepreneurs network. Events, podcasts, education, connections
-- **Find it:** [instagram.com/vancitybusinessbabes](https://instagram.com/vancitybusinessbabes)
+---
 
-## @slicevancouver
-- **What:** Artist community supporting 350+ local creatives. Gift shop, gallery, coworking, workshops
-- **Find it:** [instagram.com/slicevancouver](https://instagram.com/slicevancouver)
+<h2 id="health-crisis-belonging">Health, Crisis &amp; Belonging</h2>
 
-## @boredinvancouver
-- **What:** Fun, unique things to do in Vancouver. "Keeping the vibe real"
-- **Find it:** [instagram.com/boredinvancouver](https://instagram.com/boredinvancouver)
+## ConnexOntario
+- **What:** Free, confidential, 24/7 information and referral for mental health, addiction, and problem gambling services in Ontario. Call, text, or chat and a real person helps you find the right support.
+- **Cost:** Free
+- **Find it:** [connexontario.ca](https://connexontario.ca/)
 
-## @604now
-- **What:** Lifestyle, entertainment, what's happening
-- **Find it:** [instagram.com/604now](https://instagram.com/604now)
+## Distress Centres of Greater Toronto
+- **What:** Free, confidential emotional support and crisis intervention, 24 hours a day. Call 416-408-4357 or reach out by text or chat when you need someone to talk to — no crisis too small.
+- **Cost:** Free
+- **Find it:** [dcogt.com](https://www.dcogt.com/)
 
-## @dishedvancouver
-- **What:** Food and drink news and reviews
-- **Size:** 476,000+ followers
-- **Find it:** [instagram.com/dishedvancouver](https://instagram.com/dishedvancouver)
+## The 519
+- **What:** Toronto's 2SLGBTQ+ community centre in the Church-Wellesley Village — drop-in programs, support groups, counselling referrals, newcomer and refugee help, and spaces for trans, queer, and gender-diverse people of all ages.
+- **Where:** Downtown
+- **Find it:** [the519.org](https://www.the519.org/)
+
+## Toronto Council Fire Native Cultural Centre
+- **What:** An Indigenous cultural centre offering healing and wellness programs, employment and training, youth and family support, and community gatherings. A welcoming place for First Nations, Inuit, and Métis people in Toronto.
+- **Where:** Downtown
+- **Find it:** [councilfire.org](https://www.councilfire.org/)
+
+## YWCA Toronto
+- **What:** Programs and housing for women, girls, and gender-diverse people — emergency shelters, affordable housing, employment services, camps, and advocacy. A long-running Toronto organization with real reach for anyone starting over.
+- **Where:** Downtown
+- **Find it:** [ywcatoronto.org](https://www.ywcatoronto.org/)

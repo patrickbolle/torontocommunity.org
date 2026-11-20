@@ -1,67 +1,74 @@
 ---
 layout: category
 tags: category
-title: "Vinyl & Listening Bars"
-description: "8 listening bars, record shops, and album-listening parties. Vancouver's vinyl and hi-fi scene in one place."
+title: "Vinyl Bars & Record Stores in Toronto"
+description: "{n} vinyl listening bars and record shops in Toronto — hi-fi rooms, crate-digging, and album-listening parties across the city ({year})."
 emoji: "💿"
 group: community
 order: 2
+seoTitle: "{n} Vinyl Bars & Record Stores in Toronto ({year})"
+seoDescription: "{n} vinyl listening bars and record shops in Toronto — hi-fi rooms, deep crates and album-listening parties from Ossington to the Danforth."
+listNoun: "vinyl bars & record shops"
+seoHeading: "Vinyl Bars & Record Stores in Toronto"
 ---
 
-# 🎵 Vinyl / Listening Bars
+# 💿 Vinyl Bars & Record Stores in Toronto
 
-## Neptoon Records Listening Parties
-- **What:** Album release listening parties at iconic record store. Community events celebrating new releases
-- **Find it:** [neptoon.com](https://neptoon.com/)
+## 915 Dupont
+- **What:** A café that becomes a hi-fi listening bar after dark, with guest selectors spinning vinyl on a system built for close listening. Disco ball, mid-century furniture and a low-key, design-minded crowd
+- **Where:** 915 Dupont St, Dovercourt
+- **Find it:** [915dupont.com](https://www.915dupont.com/)
+
+## The Little Jerry
+- **What:** A tiny neighbourhood wine, beer and cider bar with a high-fidelity system and records at the centre of the room. Named after a Seinfeld episode, and the kind of place where the music gets as much attention as the drinks
+- **Where:** 418 College St, College Street
+- **Find it:** [thelittlejerry.com](https://thelittlejerry.com/)
+
+## Vinny
+- **What:** King West restaurant and vinyl bar with a '70s rec-room feel — wood panelling, vintage speakers and stacks of records. Dinner rolls into a DJ-led late night
+- **Where:** 480 King St W, King West
+- **Find it:** [vinnytoronto.com](https://vinnytoronto.com/)
+
+## TOKI Listening Bar
+- **What:** Tokyo-style listening bar hidden behind a curtain inside W Toronto. Rare records, whisky-forward cocktails and vinyl DJs on a system tuned for detail. Intimate, hush-hush and built for a proper listen
+- **Where:** 90 Bloor St E, Yorkville
+- **Find it:** [marriott.com](https://www.marriott.com/en-us/hotels/yyzwh-w-toronto/dining/)
+
+## Café Russo
+- **What:** Roncesvalles café and listening lounge with a curated wall of vinyl running from jazz and soul to '80s and Afrobeats. Coffee and matcha by day, with records playing throughout
+- **Where:** 139 Roncesvalles Ave, Roncesvalles
+- **Find it:** [Roncesvalles Village BIA](https://roncesvallesvillage.ca/custom-home-page-5/business-listing/cafe-russo/)
 
 ---
 
 ## Venues & Spaces
 
-## Lala (at June Restaurant)
-- **What:** 40-seat vinyl listening bar. "Living room listening to records" — relaxed, curated
-- **Where:** Basement of June, 3305 Cambie St
-- **Find it:** [Scout Magazine](https://scoutmagazine.ca/june-introduces-lala-a-new-vinyl-listening-bar/)
+## Rotate This
+- **What:** Independent record shop and long-running scene hub on Ossington. New and used records, staff picks, listening stations and in-store shows — a place to talk shop with people who care about the same records
+- **Where:** 186 Ossington Ave, Ossington
+- **Find it:** [rotatethis.com](https://rotatethis.com/)
 
-## Bar Gobo
-- **What:** Hi-fi wine bar. "All vinyl, all the time" on a custom analogue sound system, with natural wine and small plates
-- **Where:** 237 Union St, Chinatown
-- **Find it:** [bargobo.com](https://bargobo.com/)
+## Sonic Boom
+- **What:** Canada's largest independent record store, with hundreds of thousands of new and used records, CDs and cassettes. Regular in-store performances and signings make it a hub for Toronto music fans
+- **Where:** 215 Spadina Ave
+- **Find it:** [sonicboommusic.com](https://www.sonicboommusic.com/)
 
-## Amber
-- **What:** Japanese kissa-style listening bar. Vinyl only on vintage hi-fi, with cocktails and a raw bar. Social, chatty room
-- **Where:** 99 Powell St, Gastown
-- **Find it:** [amber99.com](https://amber99.com/)
+## Kops Records
+- **What:** Toronto record shop since 1976, hosting listening parties and artist signings alongside its new and used vinyl. The Queen West shop is the flagship, and regulars come for the deep crates
+- **Where:** 395 Queen St W, Queen West
+- **Find it:** [kopsrecords.ca](https://kopsrecords.ca/)
 
-## Bleach Listening Room
-- **What:** Casual listening room from Bleach Studios. Communal tables and a young, creative crowd. Schedule posted weekly on Instagram
-- **Where:** 611 Gore Ave, Chinatown
-- **Find it:** [bleachstudios.xyz/pages/listening-room](https://bleachstudios.xyz/pages/listening-room)
+## Play De Record
+- **What:** A Spadina institution for DJs and dance-music heads, stocking vinyl and DJ gear across house, techno, hip-hop and more. Staff and regulars make it one of the city's best places to talk records and get plugged into the scene
+- **Where:** 411 Spadina Ave, Chinatown
+- **Find it:** [playderecord.com](https://www.playderecord.com/)
 
-## Osteria Otto
-- **What:** Italian restaurant inspired by Japanese listening bars. Curated vinyl on a hi-fi system in an old house off Main
-- **Where:** 151 E 8th Ave, Mount Pleasant
-- **Find it:** [osteria-otto.com](https://osteria-otto.com/)
+## Press Vinyl Cafe
+- **What:** Record shop and coffee bar on the Danforth, with thousands of new and used records and cassettes across two floors. Pull a record, order a coffee and listen — no pretension, just a friendly neighbourhood room for music people
+- **Where:** 2442 Danforth Ave, East Danforth
+- **Find it:** [pressvinylcafe.com](https://pressvinylcafe.com/)
 
-## Doze Hifi
-- **What:** Travelling vinyl pop-up with rotating vintage speakers. Saturdays disco/house, Sundays jazz/soul/funk
-- **When:** Saturdays & Sundays
-- **Find it:** [@dozehifi](https://www.instagram.com/dozehifi/)
-
-## Red Cat Records
-- **What:** Independent record store on Main Street
-- **Where:** 4386 Main St
-- **Find it:** [redcat.ca](https://redcat.ca/)
-
-## Zulu Records
-- **What:** Vancouver's legendary record store with listening stations. In-house turntable refurbisher, huge selection
-- **Find it:** [zulurecords.com](https://zulurecords.com/) | 1972 W 4th Ave, Kitsilano
-
-## Audiopile
-- **What:** Record store with new and used vinyl
-- **Where:** Commercial Drive
-- **Find it:** [audiopile.ca](https://www.audiopile.ca/)
-
-## Beat Street Records
-- **What:** DJ-focused record shop. Electronic, hip-hop, house music
-- **Find it:** [beatstreet.ca](https://www.beatstreet.ca/) | 439 W Hastings St
+## Pop Music
+- **What:** East-end record shop on Broadview known for pop, rock and new releases, and for hosting album listening parties. A friendly, well-stocked stop for casual fans and serious collectors alike
+- **Where:** 345 Broadview Ave, Broadview
+- **Find it:** [pop-music.ca](https://www.pop-music.ca/)
