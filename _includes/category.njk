@@ -78,7 +78,7 @@
 
 <main class="container" id="main-content">
   <section class="section">
-    <p class="crumb"><a href="/">directory</a>{% if page.data.groupLabel %} / {{ page.data.groupLabel }}{% endif %}</p>
+    <p class="crumb"><a href="/">directory</a>{% set gl = group | groupLabel %}{% if gl %} / {{ gl }}{% endif %}</p>
     <h1 class="category-title">{% if seoHeading %}{{ seoHeading }}{% else %}{{ title }}{% endif %}</h1>
     <p class="category-lede">{{ pageDescription }}</p>
   </section>
@@ -100,7 +100,7 @@
       <div class="sidebar-block">
         <h3>browse nearby topics</h3>
         <ul>
-          {%- for sib in (collections.categories | sectionCategories(page.data.group)) %}
+          {%- for sib in (collections.categories | sectionCategories(group)) %}
           {%- if sib.fileSlug != page.fileSlug %}
           <li><a href="/{{ sib.fileSlug }}/">{{ sib.data.title }}</a></li>
           {%- endif %}

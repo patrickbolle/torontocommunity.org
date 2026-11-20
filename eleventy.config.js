@@ -30,6 +30,12 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "src/style.css": "_build/style.css" });
   eleventyConfig.addPassthroughCopy({ "src/home.css": "_build/home.css" });
   eleventyConfig.addPassthroughCopy({ "src/main.js": "_build/main.js" });
+
+  // Map a category's group key to its display label (e.g. "outdoor" -> "Sports & Outdoors").
+  eleventyConfig.addFilter("groupLabel", (key) => {
+    const g = groupDefs.find((x) => x.key === key);
+    return g ? g.label : "";
+  });
   eleventyConfig.addPassthroughCopy({ [path.join(cityRoot, "static")]: "/" });
 
   // --- Markdown: add anchor links to h2 headings ---
