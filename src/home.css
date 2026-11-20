@@ -11,3 +11,7 @@
 .neighbourhood-all{margin-top:14px;font-size:14px}
 .neighbourhood-all a{font-weight:700;color:var(--accent)}
 @media(max-width:700px){.neighbourhood-list{grid-template-columns:repeat(2,minmax(0,1fr))}}
+
+/* Hero art fills its grid column (overrides the old 440px cap in style.css) */
+.hero-art { max-width: none; }
+.hero-art .pixel-art, .hero-art img { width: 100%; max-width: none; }
