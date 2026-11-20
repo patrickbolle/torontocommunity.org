@@ -2,44 +2,48 @@
 layout: post
 tags: post
 title: "Vinyl listening bars in Toronto: bars, shops and parties"
-description: "Where to listen to records in Toronto: Bar Gobo, Amber, Lala and more listening bars, Doze Hifi pop-ups, Neptoon parties and the best record shops."
+description: "Where to listen to records in Toronto: 915 Dupont, The Little Jerry, Vinny, TOKI and Café Russo, plus the best record shops from Ossington to the Danforth."
 date: 2026-11-13
 faq:
   - q: "Is there a vinyl listening bar in Toronto?"
-    a: "Yes, several. Bar Gobo (237 Union St, Chinatown) plays all vinyl on a custom analogue system. Amber (99 Powell St, Gastown) plays vinyl only on vintage hi-fi. Lala is a 40-seat vinyl bar in the basement of June at 3305 Cambie St. Bleach Listening Room is at 611 Gore Ave, and Osteria Otto pairs Italian food with hi-fi vinyl at 151 E 8th Ave."
-  - q: "Do I need a reservation for Lala?"
-    a: "When Lala opened, Scout Magazine reported limited online reservations through Resy and said walk-ins are always welcome. Check June's Instagram, @juneoncambie, for the latest."
+    a: "Yes, five worth knowing. 915 Dupont (915 Dupont St) is a café that turns into a hi-fi listening bar after dark. The Little Jerry (418 College St) is a tiny wine bar built around a high-fidelity system. Vinny (480 King St W) is a King West restaurant and vinyl bar with DJs Thursday to Saturday. TOKI Listening Bar is behind a curtain inside W Toronto (90 Bloor St E), and Café Russo (139 Roncesvalles Ave) is a café and listening lounge in Roncesvalles."
+  - q: "Where can I buy records in Toronto?"
+    a: "Rotate This (186 Ossington Ave), Sonic Boom (215 Spadina Ave), Kops Records (395 Queen St W), Play De Record (411 Spadina Ave), Press Vinyl Cafe (2442 Danforth Ave) and Pop Music (345 Broadview Ave) cover new and used vinyl across the city. Rotate This and Press Vinyl Cafe also have room to listen while you browse."
   - q: "Where are album listening parties in Toronto?"
-    a: "Neptoon Records hosts album release listening parties for new records. Check the events on neptoon.com for upcoming dates."
+    a: "Pop Music on Broadview hosts album listening parties, and Kops Records has hosted listening parties and artist signings alongside its new and used vinyl. Check each shop's website or Instagram for upcoming dates."
   - q: "Which Toronto record stores are good to browse?"
-    a: "Zulu Records at 1972 W 4th Ave in Kitsilano has listening stations and an in-house turntable refurbisher. Red Cat Records is at 4386 Main St, Audiopile is on Commercial Drive, and Beat Street Records at 439 W Hastings St focuses on electronic, hip-hop and house."
+    a: "Rotate This has listening stations and in-store shows. Sonic Boom is Canada's largest independent record store. Press Vinyl Cafe pairs thousands of records with a coffee bar, and Play De Record is the DJ-focused stop for house, techno and hip-hop."
 ---
 
 There's something about listening to a record with other people. Nobody skips a track. Nobody checks their phone between songs. You hear an album the way the band meant it, start to finish, and then someone turns to you and says, "That second side, though."
 
-Toronto has a small, lovely vinyl scene. There are real listening bars in Chinatown, Gastown and Mount Pleasant, a pop-up that travels, a record shop that throws parties, and a handful of stores where you can lose an afternoon. Here's where to go, sorted by the kind of night you want. Every spot below comes from [the directory's vinyl page](/vinyl-listening-bars/).
+Toronto has a small, lovely vinyl scene. There are real listening bars in Dovercourt, College Street, King West, Yorkville and Roncesvalles, record shops that host parties, and a handful of stores where you can lose an afternoon. Here's where to go, sorted by the kind of night you want. Every spot below comes from [the directory's vinyl page](/vinyl-listening-bars/).
 
 ## If you want a listening bar
 
-**[Bar Gobo](/vinyl-listening-bars/#bar-gobo)** at 237 Union St in Chinatown was one of the first listening bars in the city. Its house rule is "all vinyl, all the time," played on a custom analogue system. When the [Georgia Straight](https://www.straight.com/food/ranking-three-toronto-listening-lounges-by-sound-snacks-sips-and-scene) ranked three listening lounges in August 2026, it gave Bar Gobo top marks for sound. The music is clear, and you can still hear the person beside you.
+**[915 Dupont](/vinyl-listening-bars/#915-dupont)** at 915 Dupont St in Dovercourt is a café that changes clothes after dark. By day it's coffee and a design-minded crowd; in the evening guest selectors spin vinyl on a system built for close listening, under a disco ball, with mid-century furniture and a low-key room. Good for sitting alone with a record and not feeling like you're waiting for someone.
 
-**[Amber](/vinyl-listening-bars/#amber)** opened in July 2026 at 99 Powell St in Gastown. It takes its cue from Japanese kissa bars: vinyl only, on vintage hi-fi, with cocktails and a raw bar. The Straight picked it as the best night out of the three, partly because everyone seemed to be talking to everyone else. Good news if you came to meet people.
+**[The Little Jerry](/vinyl-listening-bars/#the-little-jerry)** at 418 College St is a tiny wine, beer and cider bar with a high-fidelity system and records at the centre of the room. It's named after a Seinfeld episode, and the music gets as much attention as the drinks. Small rooms like this are good for conversation: you're close enough to ask the person beside you what's playing.
 
-**[Lala (at June Restaurant)](/vinyl-listening-bars/#lala-(at-june-restaurant))** is a 40-seat vinyl bar in the basement of June, at 3305 Cambie St. The listing sums it up as a "living room listening to records." When it opened, [Scout Magazine](https://scoutmagazine.ca/june-introduces-lala-a-new-vinyl-listening-bar/) reported DJs spinning vinyl seven nights a week, a few reservations on Resy, and walk-ins always welcome.
+**[Vinny](/vinyl-listening-bars/#vinny)** at 480 King St W is the dinner-and-late-night pick. The King West restaurant has a '70s rec-room feel — wood panelling, vintage speakers, stacks of records — and dinner rolls into DJ-led nights Thursday to Saturday. Reservations are encouraged, and walk-ins are welcome.
 
-**[Bleach Listening Room](/vinyl-listening-bars/#bleach-listening-room)** at 611 Gore Ave in Chinatown is the most casual of the bunch. It's run by Bleach Studios, with communal tables and a young, creative crowd. The schedule changes, so check their Instagram each week.
+**[TOKI Listening Bar](/vinyl-listening-bars/#toki-listening-bar)** is behind a curtain inside W Toronto at 90 Bloor St E. It's Tokyo-style: rare records, whisky-forward cocktails and vinyl DJs on a system tuned for detail. Intimate and a little hush-hush, which makes it a good date or a good place to disappear for an hour.
 
-**[Osteria Otto](/vinyl-listening-bars/#osteria-otto)** is a dinner pick. It's an Italian restaurant in an old house at 151 E 8th Ave, just off Main, inspired by Japanese listening bars. Curated vinyl plays on a hi-fi system while you eat pasta and linger.
+**[Café Russo](/vinyl-listening-bars/#caf%C3%A9-russo)** at 139 Roncesvalles Ave is the all-day option. Coffee and matcha by day, a curated wall of vinyl running from jazz and soul to '80s and Afrobeats, records playing throughout. It's a neighbourhood room where the music is part of the furniture.
 
-## If you want a pop-up
+## If you want to listen while you browse
 
-**[Doze Hifi](/vinyl-listening-bars/#doze-hifi)** is a travelling vinyl pop-up with rotating vintage speakers. Saturdays lean disco and house. Sundays are jazz, soul and funk. Because it moves around, Instagram is the place to find the next one.
+**[Press Vinyl Cafe](/vinyl-listening-bars/#press-vinyl-cafe)** on the Danforth is half record shop, half coffee bar. Thousands of new and used records and cassettes across two floors, and you can pull a record, order a coffee and listen without anyone rushing you. It's the least intimidating way to spend an afternoon with vinyl.
 
-I like a pop-up for a first visit. Everyone there made a small effort to find it, so you already have something in common.
+**[Rotate This](/vinyl-listening-bars/#rotate-this)** on Ossington has listening stations too, plus staff picks and in-store shows. The shop has been a hub for Toronto music people for years, and the staff are the kind of people who'll talk you into a record you didn't know you wanted.
+
+I like a shop with a listening station for a first visit. You're already doing something with your hands, so nobody has to make conversation until you want to.
 
 ## If you want a listening party
 
-**[Neptoon Records Listening Parties](/vinyl-listening-bars/#neptoon-records-listening-parties)** are album release parties at a well-loved record store. A new album comes out, and people gather to hear it together. Their website lists upcoming parties, and some include an artist signing.
+**[Pop Music](/vinyl-listening-bars/#pop-music)** on Broadview is an east-end shop known for pop, rock and new releases, and for hosting album listening parties. A new record comes out, people gather to hear it together, and the shop becomes a room instead of a store. Check [pop-music.ca](https://www.pop-music.ca/) for dates.
+
+**[Kops Records](/vinyl-listening-bars/#kops-records)** has been selling vinyl in Toronto since 1976 and hosts listening parties and artist signings alongside the crates. The Queen West shop is the flagship. Its events are worth watching if you want the release-day version of a listening bar.
 
 This is the easiest way to meet people who love the same band you do. You don't need an opener. "Have you heard the new one yet?" works every time.
 
@@ -47,16 +51,18 @@ This is the easiest way to meet people who love the same band you do. You don't 
 
 Record shops are where vinyl people gather. Go on a Saturday, flip through the bins, and you'll end up in a chat about a pressing you've never heard of.
 
-- **[Zulu Records](/vinyl-listening-bars/#zulu-records)** is a Toronto legend at 1972 W 4th Ave in Kitsilano. It has listening stations, a huge selection and an in-house turntable refurbisher. Handy if your old deck needs some love.
-- **[Red Cat Records](/vinyl-listening-bars/#red-cat-records)** is an independent record store at 4386 Main St.
-- **[Audiopile](/vinyl-listening-bars/#audiopile)** sells new and used vinyl on Commercial Drive.
-- **[Beat Street Records](/vinyl-listening-bars/#beat-street-records)** is a DJ-focused shop at 439 W Hastings St, with electronic, hip-hop and house.
+- **[Rotate This](/vinyl-listening-bars/#rotate-this)** at 186 Ossington Ave is the independent on Ossington: new and used records, staff picks, listening stations and in-store shows.
+- **[Sonic Boom](/vinyl-listening-bars/#sonic-boom)** at 215 Spadina Ave is Canada's largest independent record store, with hundreds of thousands of new and used records, CDs and cassettes, plus in-store performances and signings.
+- **[Kops Records](/vinyl-listening-bars/#kops-records)** at 395 Queen St W is the city's oldest record store, open since 1976, with deep crates and a steady run of events.
+- **[Play De Record](/vinyl-listening-bars/#play-de-record)** at 411 Spadina Ave is the DJ-focused stop, with vinyl and gear across house, techno, hip-hop and more.
+- **[Press Vinyl Cafe](/vinyl-listening-bars/#press-vinyl-cafe)** at 2442 Danforth Ave pairs thousands of records with a coffee bar.
+- **[Pop Music](/vinyl-listening-bars/#pop-music)** at 345 Broadview Ave is the east-end shop for pop, rock and new releases.
 
 ## How to turn records into friends
 
 Vinyl can feel like a solo hobby. You, your headphones, your shelf. It's more fun with company.
 
-Pick one spot and become a regular. Go to the same pop-up twice in a month. Go to the next listening party at the same shop. Ask the person beside you what they're digging for. Record people love to talk about records, and the second conversation is always easier than the first. That rule is the core of my guide to [making friends in Toronto](/blog/how-to-make-friends-in-toronto/).
+Pick one spot and become a regular. Go to the same shop twice in a month. Go to the next listening party at the same store. Ask the person beside you what they're digging for. Record people love to talk about records, and the second conversation is always easier than the first. That rule is the core of my guide to [making friends in Toronto](/blog/how-to-make-friends-in-toronto/).
 
 ## Find more vinyl
 
