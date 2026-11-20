@@ -83,6 +83,3 @@ h1, h2, h3, h4 { font-family: var(--font); }
   .note-text { font-size: 18px; }
 }
 
-/* Wide pixel skyline divider */
-.skyline-band { padding: 20px 0 0; }
-.skyline-band img { width: 100%; height: auto; display: block; }
