@@ -114,3 +114,9 @@ h1, h2, h3, h4 { font-family: var(--font); }
    Flow them into balanced columns instead. */
 .directory-grid { display: block; columns: 3; column-gap: 24px; }
 .directory-grid .category { break-inside: avoid; margin-bottom: 24px; }
+
+/* Hero: full-width editorial statement (illustration removed) */
+.hero { grid-template-columns: 1fr; padding: 40px 0 30px; }
+.hero h1 { font-size: clamp(46px, 6.2vw, 82px); max-width: 940px; }
+.hero p { max-width: 660px; }
+.hero .search { max-width: 660px; }
