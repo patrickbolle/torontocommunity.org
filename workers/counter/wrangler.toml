@@ -1,0 +1,7 @@
+name = "toronto-community-counter"
+main = "index.js"
+compatibility_date = "2024-01-01"
+
+[[kv_namespaces]]
+binding = "TORONTO_VIEWS"
+id = "f8f8c325909242cd9562c31a49bf9d2f"

@@ -2,7 +2,7 @@
 // Uses Cloudflare Cache API to avoid hitting Umami on every request
 
 const UMAMI_URL = "https://data.kwconcerts.ca";
-const WEBSITE_ID = "ce0a9531-1032-4e43-a3a6-5c93cf9513f6";
+const WEBSITE_ID = "c9c28a56-d5c5-4f0c-814b-6b332a554711";
 const CACHE_TTL = 300; // 5 minutes
 
 let cachedToken = null;
