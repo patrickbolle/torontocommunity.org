@@ -107,14 +107,8 @@ button { font-family: inherit; font-size: inherit; cursor: pointer; }
 
 /* ---------- Masthead and tabs ---------- */
 .masthead { background: var(--masthead); color: var(--ink); }
-/* The logo's scene, stretched along the bottom edge: stepped mountains and evergreens. */
-.masthead::after {
-  content: "";
-  display: block;
-  height: 24px;
-  background: url("/treeline.svg") repeat-x left bottom / 384px 24px;
-  image-rendering: pixelated;
-}
+/* Skyline strip now lives in the footer, not the masthead. */
+.masthead::after { content: none; }
 /* Order in the bar: wordmark, then (inner pages) search, then Surprise me.
    The homepage hides the search and shows the tagline instead. */
 .masthead-inner {
@@ -311,7 +305,7 @@ button { font-family: inherit; font-size: inherit; cursor: pointer; }
 .form-submit:hover:not(:disabled), .newsletter-btn:hover:not(:disabled),
 .verify-btn.verify-btn-send:hover:not(:disabled), .surprise-go:hover,
 .search-btn.search-btn-primary:hover:not(:disabled),
-.group-modal a.group-modal-visit:hover { color: #fff; background: var(--masthead-deep); }
+.group-modal a.group-modal-visit:hover { color: #fff; background: var(--accent-hover); }
 .surprise-go:visited { color: #fff; }
 
 /* Pressed: every bevelled button sinks 1px into its shadow. */
@@ -344,7 +338,7 @@ button { font-family: inherit; font-size: inherit; cursor: pointer; }
   font-family: var(--sans);
   font-size: var(--fs-base);
   font-weight: 700;
-  color: var(--masthead);
+  color: var(--ink);
   background: var(--panel-head);
   border-bottom: 1px solid var(--line);
   box-shadow: inset 0 1px 0 var(--bevel-cream);
@@ -591,8 +585,8 @@ textarea.form-input { resize: vertical; }
   font-size: var(--fs-base);
   color: var(--ink-muted);
 }
-.wordmark-small { font-size: var(--fs-lg); color: var(--masthead); }
-.wordmark-small:visited, .wordmark-small:hover { color: var(--masthead); }
+.wordmark-small { font-size: var(--fs-lg); color: var(--ink); }
+.wordmark-small:visited, .wordmark-small:hover { color: var(--ink); }
 .site-footer-line { margin: 4px 0 10px; }
 .site-footer-links { display: flex; flex-wrap: wrap; gap: 4px 14px; margin-bottom: 10px; }
 
@@ -647,7 +641,7 @@ textarea.form-input { resize: vertical; }
 .edit-modal-title {
   font-family: var(--sans);
   font-size: var(--fs-base);
-  color: var(--masthead);
+  color: var(--ink);
   background: var(--panel-head);
   border-bottom: 1px solid var(--line);
   display: flex;
@@ -802,7 +796,7 @@ textarea.form-input { resize: vertical; }
   font-family: var(--sans);
   font-size: var(--fs-base);
   font-weight: 700;
-  color: var(--masthead);
+  color: var(--ink);
   background: var(--panel-head);
   border-bottom: 1px solid var(--line);
   box-shadow: inset 0 1px 0 var(--bevel-cream);
@@ -820,7 +814,7 @@ textarea.form-input { resize: vertical; }
 .mutuals-promo-body { color: var(--ink-2); margin-bottom: 6px; }
 .mutuals-promo-steps { margin: 0 0 4px; padding-left: 20px; color: var(--ink-2); }
 .mutuals-promo-steps li { padding: 2px 0; }
-.mutuals-promo-steps li::marker { font-weight: 700; color: var(--masthead); }
+.mutuals-promo-steps li::marker { font-weight: 700; color: var(--ink); }
 .mutuals-promo-action { padding: 8px var(--panel-pad) 12px; }
 /* The button takes the cream bevel (see Buttons): the sister site is a secondary action. */
 .mutuals-promo-price { font-size: var(--fs-sm); color: var(--ink-muted); margin-top: 6px; }
@@ -938,7 +932,7 @@ textarea.form-input { resize: vertical; }
   font-family: var(--sans);
   font-size: var(--fs-base);
   font-weight: 700;
-  color: var(--masthead);
+  color: var(--ink);
   background: var(--panel-head);
   border-bottom: 1px solid var(--line);
   box-shadow: inset 0 1px 0 var(--bevel-cream);
@@ -1060,7 +1054,7 @@ body:not(.homepage) .masthead-tag { display: none; }
 .tabs-more-btn { line-height: inherit; }
 /* Open: plain ink with a grey rule, so it reads as pressed but not as the current section. */
 .tabs-more-btn[aria-expanded="true"] { color: var(--ink); text-decoration: none; border-bottom-color: var(--field-border); }
-.tabs-more-btn.is-current[aria-expanded="true"] { border-bottom-color: var(--masthead); }
+.tabs-more-btn.is-current[aria-expanded="true"] { border-bottom-color: var(--ink); }
 .tabs-more-menu {
   position: absolute;
   top: 100%;
@@ -1102,7 +1096,7 @@ body:not(.homepage) .masthead-tag { display: none; }
 /* Browser surfaces carry the palette too */
 ::selection { background: var(--target-bg); color: var(--ink); }
 html { scrollbar-color: var(--field-border) var(--bg); }
-input, textarea { caret-color: var(--masthead); }
+input, textarea { caret-color: var(--ink); }
 
 /* Links: the underline thickens instead of jumping colour alone */
 a, .link-button, .surprise-again, .tab {
