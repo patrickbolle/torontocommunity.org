@@ -43,3 +43,9 @@ h1, h2, h3, h4 { font-family: var(--font); }
 .page-title { font-size: clamp(38px, 5vw, 60px); letter-spacing: -.05em; font-weight: 800; margin: 20px 0 10px; }
 .page-lede { color: var(--muted); max-width: 680px; line-height: 1.6; }
 @media (max-width: 900px) { .columns { grid-template-columns: 1fr; } }
+
+/* Mobile stacking must come after the later desktop overrides above */
+@media (max-width: 900px) {
+  .hero { grid-template-columns: 1fr; }
+  .columns { grid-template-columns: 1fr; }
+}
