@@ -389,7 +389,7 @@ button { font-family: inherit; font-size: inherit; cursor: pointer; }
 .link-list-note { display: block; font-size: var(--fs-sm); color: var(--ink-muted); }
 .link-list-tight li { padding: 4px 0; border-bottom: none; }
 
-.count { color: var(--ink-muted); font-size: var(--fs-sm); }
+.count { color: var(--accent); font-size: var(--fs-sm); }
 
 /* ---------- Homepage directory ---------- */
 .search { display: flex; gap: 6px; max-width: 520px; margin-bottom: 6px; }
