@@ -152,3 +152,8 @@ h1, h2, h3, h4 { font-family: var(--font); }
 .hero-profile-links { font-size: 13px; font-weight: 700; margin: 0; }
 .hero-profile-links a { color: var(--accent); }
 @media (max-width: 760px) { .hero-profile { justify-self: start; max-width: 200px; margin-top: 20px; } }
+
+/* Hero profile: pixel avatar, not a real photo */
+.hero-profile-head { display: flex; align-items: center; gap: 10px; margin-bottom: 8px; }
+.hero-profile-avatar { display: block; width: 40px; height: 40px; image-rendering: pixelated; }
+.hero-profile-name { font-weight: 800; font-size: 18px; margin: 0; }
