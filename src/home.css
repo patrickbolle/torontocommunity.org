@@ -49,3 +49,20 @@ h1, h2, h3, h4 { font-family: var(--font); }
   .hero { grid-template-columns: 1fr; }
   .columns { grid-template-columns: 1fr; }
 }
+
+/* "Just added" band: real recent groups, breaks up the directory wall */
+.just-added { border-top: 2px solid var(--accent); }
+.just-added-head { display: flex; justify-content: space-between; align-items: baseline; gap: 16px; margin-bottom: 18px; flex-wrap: wrap; }
+.just-added-head .section-title { font-size: 22px; margin: 0; }
+.just-added-cta { font-size: 13px; font-weight: 700; color: var(--accent); white-space: nowrap; text-decoration: none; }
+.just-added-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 24px; }
+.ja-cat { font-size: 12px; color: var(--muted); text-decoration: none; display: block; margin-bottom: 3px; }
+.ja-cat:hover { color: var(--accent); }
+.ja-name { font-size: 15px; font-weight: 700; text-decoration: none; display: block; line-height: 1.3; }
+.ja-name:hover { color: var(--accent); }
+.ja-desc { font-size: 13px; color: var(--muted); line-height: 1.45; display: block; margin-top: 4px; }
+@media (max-width: 900px) { .just-added-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 550px) { .just-added-grid { grid-template-columns: 1fr; } }
+
+/* Hero: give the art more weight and add a red divider */
+.hero { grid-template-columns: minmax(0, 1fr) minmax(320px, 1.22fr); border-bottom: 2px solid var(--accent); }
