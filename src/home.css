@@ -157,3 +157,9 @@ h1, h2, h3, h4 { font-family: var(--font); }
 .hero-profile-head { display: flex; align-items: center; gap: 10px; margin-bottom: 8px; }
 .hero-profile-avatar { display: block; width: 40px; height: 40px; image-rendering: pixelated; }
 .hero-profile-name { font-weight: 800; font-size: 18px; margin: 0; }
+
+/* Warm the page up: cream background, tinted bands, no blinding white */
+:root { --page: #faf8f2; --surface: #f1ece0; }
+body { background: var(--page); }
+.just-added { background: var(--surface); padding: 24px; margin: 0 -24px 26px; }
+.footer { background: var(--surface); padding: 30px 24px 32px; margin: 0 -24px; }
