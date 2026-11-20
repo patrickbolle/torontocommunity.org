@@ -138,3 +138,8 @@ h1, h2, h3, h4 { font-family: var(--font); }
 .footer { border-top: 1px dashed var(--ink); }
 .webring { margin: 8px 0 0; font-size: 11px; color: var(--muted); }
 .webring a { color: var(--muted); }
+
+/* Surprise me: a quiet fun button in the nav */
+.nav .nav-surprise { background: none; border: 0; padding: 0; font-family: inherit; font-size: 14px; font-weight: 600; color: var(--accent); cursor: pointer; }
+.nav .nav-surprise:hover { text-decoration: underline; text-underline-offset: 3px; }
+.nav .nav-surprise:focus-visible { outline: 3px solid var(--accent); outline-offset: 3px; }
