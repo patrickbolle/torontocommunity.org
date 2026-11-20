@@ -2,7 +2,7 @@
 layout: category
 tags: category
 title: "Pottery & Ceramics in Toronto"
-description: "{n} pottery and ceramics studios in Toronto and the GTA — wheel-throwing classes, handbuilding, open-studio memberships and potters' guilds. Beginners welcome."
+description: "{n} pottery and ceramics studios in Toronto and the GTA, wheel-throwing classes, handbuilding, open-studio memberships and potters' guilds. Beginners welcome."
 emoji: "🏺"
 group: mind-body
 seoTitle: "{n} Pottery Classes & Ceramics Studios in Toronto ({year})"
@@ -36,7 +36,7 @@ order: 4
 - **Find it:** [parkdalepottery.ca](https://parkdalepottery.ca/)
 
 ## ZEI Pottery Studio
-- **What:** Two Toronto studios offering 1.5-hour Wheel Tasters, pottery date nights, 4- and 8-week wheel-throwing and handbuilding courses, memberships and private events. Everyone gets their own wheel — beginner-friendly and social
+- **What:** Two Toronto studios offering 1.5-hour Wheel Tasters, pottery date nights, 4- and 8-week wheel-throwing and handbuilding courses, memberships and private events. Everyone gets their own wheel, beginner-friendly and social
 - **Where:** Queen West, 988 Queen St W
 - **Find it:** [zeipottery.com](https://zeipottery.com/)
 
@@ -67,7 +67,7 @@ order: 4
 - **Find it:** [creativeinsightpottery.com](https://creativeinsightpottery.com/)
 
 ## Burlington Potters' Guild
-- **What:** Guild of potters working out of a fully equipped ceramics studio at the Art Gallery of Burlington — earthenware, stoneware, high-fire, reduction, raku and smoke firing, plus a guild library and communal firings. Member-run and deeply community-oriented
+- **What:** Guild of potters working out of a fully equipped ceramics studio at the Art Gallery of Burlington, earthenware, stoneware, high-fire, reduction, raku and smoke firing, plus a guild library and communal firings. Member-run and deeply community-oriented
 - **Where:** Art Gallery of Burlington, 1333 Lakeshore Rd
 - **Find it:** [burlingtonpottersguild.com](https://www.burlingtonpottersguild.com/)
 

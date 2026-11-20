@@ -2,7 +2,7 @@ const fs = require("fs");
 const path = require("path");
 const mutuals = require("./mutuals.js");
 
-// Recently added groups — update this list when new groups are merged.
+// Recently added groups, update this list when new groups are merged.
 // The build enriches each entry with description and category title from the markdown.
 // Recently added Toronto groups (names must match a "## Group Name" heading).
 const recent = [

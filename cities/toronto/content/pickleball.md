@@ -2,11 +2,11 @@
 layout: category
 tags: category
 title: "Pickleball Clubs"
-description: "{n} Toronto pickleball clubs, leagues and indoor courts — drop-in play, open play, clinics and social leagues across the GTA."
+description: "{n} Toronto pickleball clubs, leagues and indoor courts, drop-in play, open play, clinics and social leagues across the GTA."
 emoji: "🏓"
 group: outdoor
 seoTitle: "Pickleball in Toronto: {n} Clubs, Leagues & Courts ({year})"
-seoDescription: "{n} pickleball clubs, leagues and indoor courts in Toronto and the GTA — drop-in games, open play, clinics and social leagues."
+seoDescription: "{n} pickleball clubs, leagues and indoor courts in Toronto and the GTA, drop-in games, open play, clinics and social leagues."
 seoHeading: "Pickleball Clubs & Leagues in Toronto"
 listNoun: "pickleball clubs & courts"
 order: 5
@@ -37,7 +37,7 @@ order: 5
 ## Pickleplex Downsview
 - **What:** A 13-court indoor pickleball club at Downsview Park with open play, leagues, lessons and court bookings. Its leagues and socials pull players from across North York and Vaughan, so there's usually a game at your level
 - **Where:** Downsview, North York
-- **When:** Open daily 8am–11pm
+- **When:** Open daily 8am, 11pm
 - **Find it:** [pickleplex.ca/locations/downsview](https://pickleplex.ca/locations/downsview/)
 
 ## EA Pickleball
@@ -57,9 +57,9 @@ order: 5
 - **Find it:** [pickleballcanada.org/club/richmond-hill-pickleball-club](https://secure.pickleballcanada.org/club/richmond-hill-pickleball-club/33049/)
 
 ## Oakville Pickleball Association
-- **What:** A non-profit, membership-based club with weekly play sorted by level — novice Tuesdays, all-level Wednesdays, intermediate Fridays and competitive Saturdays — plus leagues, clinics and socials. Welcoming to newcomers
+- **What:** A non-profit, membership-based club with weekly play sorted by level, novice Tuesdays, all-level Wednesdays, intermediate Fridays and competitive Saturdays, plus leagues, clinics and socials. Welcoming to newcomers
 - **Where:** Oakville
-- **When:** Tuesdays–Saturdays
+- **When:** Tuesdays, Saturdays
 - **Find it:** [oakvillepickleball.org](https://oakvillepickleball.org/)
 
 ---
@@ -67,9 +67,9 @@ order: 5
 ## Venues & Spaces
 
 ## 6ix Pickle
-- **What:** Downtown's only dedicated indoor pickleball club, open 24/7 with four courts, open-play sessions, league nights, a pro shop and a bar. Social play is the draw here — there's even a Dink 'N' Rave night
+- **What:** Downtown's only dedicated indoor pickleball club, open 24/7 with four courts, open-play sessions, league nights, a pro shop and a bar. Social play is the draw here, there's even a Dink 'N' Rave night
 - **Where:** Downtown (Berkeley St)
-- **Cost:** Open play $15–28
+- **Cost:** Open play $15-28
 - **Find it:** [6ixpickle.com](https://6ixpickle.com/)
 
 ## The Picklr Toronto West
@@ -84,7 +84,7 @@ order: 5
 - **Find it:** [vaughanpickleball.com](https://vaughanpickleball.com/)
 
 ## City of Toronto Pickleball Courts
-- **What:** The city's official court list — more than 300 outdoor pickleball courts across 108 locations, plus dozens of indoor drop-in sites at community centres. Free, first-come outdoor play all summer
+- **What:** The city's official court list, more than 300 outdoor pickleball courts across 108 locations, plus dozens of indoor drop-in sites at community centres. Free, first-come outdoor play all summer
 - **Where:** Across Toronto
 - **Cost:** Free outdoor courts
 - **Find it:** [toronto.ca/pickleball-court-listings](https://www.toronto.ca/explore-enjoy/parks-recreation/places-spaces/parks-and-recreation-facilities/pickleball-court-listings/)

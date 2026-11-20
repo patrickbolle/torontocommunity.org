@@ -15,13 +15,13 @@ faq:
     a: "Pick a club that meets on a regular schedule and go three times before deciding. Book clubs are one of the easiest ways to make friends in Toronto because they give you a built-in reason to talk and a recurring group of the same faces."
 ---
 
-A good book club is one of the best social deals in Toronto: a standing reason to leave the house, a room of people who like at least one thing you like, and a conversation that's already started for you. The trick is finding the *right* one — because "book club" covers everything from reading quietly in a food hall to a proper argument about a book half the room didn't finish.
+A good book club is one of the best social deals in Toronto: a standing reason to leave the house, a room of people who like at least one thing you like, and a conversation that's already started for you. The trick is finding the *right* one, because "book club" covers everything from reading quietly in a food hall to a proper argument about a book half the room didn't finish.
 
-Here's how to find one you'll actually keep going to, organized by the kind of reader you are. Most of the groups below are real, active Toronto clubs from [the directory's book clubs page](/book-clubs/); the library clubs are run by Toronto Public Library.
+How to find one you'll actually keep going to, organized by the kind of reader you are. Most of these are real, active Toronto clubs from [the directory's book clubs page](/book-clubs/); the library clubs are run by Toronto Public Library.
 
 ## If you're an introvert (or book clubs stress you out)
 
-**[Silent Book Club (Toronto)](/book-clubs/#silent-book-club-%28toronto%29)** is the cult favourite for a reason. Everyone brings their own book, you read quietly together for an hour, then chat only if you want to. No assigned reading, no "did you finish it?" guilt. The Toronto chapter has more than 6,000 members and meets Tuesday evenings in the Wellington Market food hall at The Well, 486 Front St W — you just pay for your own food or drink. It's the lowest-pressure social event in the city: technically reading alone, but in good company.
+**[Silent Book Club (Toronto)](/book-clubs/#silent-book-club-%28toronto%29)** is the cult favourite for a reason. Everyone brings their own book, you read quietly together for an hour, then chat only if you want to. No assigned reading, no "did you finish it?" guilt. The Toronto chapter has more than 6,000 members and meets Tuesday evenings in the Wellington Market food hall at The Well, 486 Front St W, you just pay for your own food or drink. It's the lowest-pressure social event in the city: technically reading alone, but in good company.
 
 ## If you want real discussion
 
@@ -39,7 +39,7 @@ Some people come for the books; some come for the argument. If that's you:
 
 ## If you want free and reliable
 
-**[Toronto Public Library book clubs](https://www.torontopubliclibrary.ca/programs-and-classes/categories/book-clubs-writers-groups.jsp)** run at branches across the city — High Park, Bloor/Gladstone, Barbara Frum, Parliament Street, Mimico Centennial and more. They're free and well-organized, and some are drop-in with no registration. If you want dependable and no-commitment, start here. (The library is also a good place to [start your own group](/blog/start-a-group/).)
+**[Toronto Public Library book clubs](https://www.torontopubliclibrary.ca/programs-and-classes/categories/book-clubs-writers-groups.jsp)** run at branches across the city. High Park, Bloor/Gladstone, Barbara Frum, Parliament Street, Mimico Centennial and more. They're free and well-organized, and some are drop-in with no registration. If you want dependable and no-commitment, start here. (The library is also a good place to [start your own group](/blog/start-a-group/).)
 
 ## If you want a small club at a neighbourhood bookshop
 
@@ -47,14 +47,14 @@ Big clubs can feel like a crowd. The city's indie bookshops run smaller, room-si
 
 - **[Flying Books Book Club](/book-clubs/#flying-books-book-club)** meets at Neverland, 371 Queen St W; your ticket includes a drink and a $20 credit toward any book in the shop.
 - **[Another Story Bookshop](/book-clubs/#another-story-bookshop)** hosts the Violet Hour Book Club in Roncesvalles, where picks lean classic and queer, alongside a steady run of author events.
-- **[Queen Books](/book-clubs/#queen-books)** in Leslieville runs recurring themed clubs — classics, philosophy, novellas — from its storefront on Queen East.
+- **[Queen Books](/book-clubs/#queen-books)** in Leslieville runs recurring themed clubs, classics, philosophy, novellas, from its storefront on Queen East.
 
 ## How to actually stick with one
 
-The secret to book clubs — and to [making friends in Toronto](/blog/how-to-make-friends-in-toronto/) generally — is repetition. The first meetup you'll feel like an outsider. By the third, you're a regular and someone's saved you a seat. Almost everyone quits after one visit, which is exactly why almost everyone stays lonely. Pick one, put the next three dates in your calendar, and just keep showing up.
+The secret to book clubs, and to [making friends in Toronto](/blog/how-to-make-friends-in-toronto/) generally, is repetition. The first meetup you'll feel like an outsider. By the third, you're a regular and someone's saved you a seat. Almost everyone quits after one visit, which is exactly why almost everyone stays lonely. Pick one, put the next three dates in your calendar, and just keep showing up.
 
-Not finding your niche? There are more clubs than any single guide can cover, and new ones join most weeks — [browse the full book clubs list](/book-clubs/), or [add one you know about](/submit/).
+Not finding your niche? There are more clubs than any single guide can cover, and new ones join most weeks, [browse the full book clubs list](/book-clubs/), or [add one you know about](/submit/).
 
 ---
 
-*Part of the [Toronto Community Directory](/) — a free, community-built list of hundreds of groups, clubs, and meetups across the city.*
+*Part of the [Toronto Community Directory](/), a free, community-built list of hundreds of groups, clubs, and meetups across the city.*

@@ -16,7 +16,7 @@ eleventyExcludeFromCollections: true
   {% include "partials/head.njk" %}
   <title>Things to Do in {{ hood.name }}: Groups & Meetups ({% buildYear %})</title>
   <meta name="description" content="{{ hood.metaDescription }}">
-  <meta property="og:title" content="Things to do in {{ hood.name }}, Toronto — find your people">
+  <meta property="og:title" content="Things to do in {{ hood.name }}, Toronto, find your people">
   <meta property="og:description" content="{{ hood.metaDescription }}">
   <meta property="og:type" content="website">
   <meta property="og:url" content="{{ site.url }}/neighbourhoods/{{ hood.slug }}/">
@@ -84,7 +84,7 @@ eleventyExcludeFromCollections: true
 
     {%- if groupTotal > 0 %}
     <h2>Communities in {{ hood.name }}</h2>
-    <p>{{ groupTotal }} group{{ "s" if groupTotal != 1 }} in the directory meet or are based around {{ hood.name }} — here they are, by category.</p>
+    <p>{{ groupTotal }} group{{ "s" if groupTotal != 1 }} in the directory meet or are based around {{ hood.name }}, here they are, by category.</p>
     {%- for c in matched %}
     <div class="hood-cat">
       <h3><a href="/{{ c.slug }}/">{{ c.title }}</a></h3>
@@ -92,7 +92,7 @@ eleventyExcludeFromCollections: true
         {%- for g in c.groups %}
         <li>
           <a href="/{{ c.slug }}/#{{ g.name | mdAnchor }}" data-group data-g-name="{{ g.name }}" data-g-desc="{{ g.description }}" data-g-cat="{{ c.title }}" data-g-slug="{{ c.slug }}"{% if g.url %} data-g-url="{{ g.url }}"{% endif %}{% if g.location %} data-g-where="{{ g.location }}"{% endif %}{% if g.when %} data-g-when="{{ g.when }}"{% endif %}{% if g.cost and not g.free %} data-g-cost="{{ g.cost }}"{% endif %}{% if g.free %} data-g-badge="Free"{% endif %}>{{ g.name }}</a>
-          {%- if g.description %} — {{ g.description | truncate(110) }}{% endif %}
+          {%- if g.description %}, {{ g.description | truncate(110) }}{% endif %}
         </li>
         {%- endfor %}
       </ul>
@@ -105,7 +105,7 @@ eleventyExcludeFromCollections: true
 
     <h2>Ready to show up?</h2>
     <p>The whole point of this directory is that the next step is small: pick one, note the day, and go. If nothing here fits, {{ hood.name }} is close enough to the rest of the city that you can <a href="/">browse every category</a> and find something a short ride away.</p>
-    <p>New to Toronto? Start with the <a href="/start-here/">most welcoming groups</a>, or read <a href="/blog/how-to-make-friends-in-toronto/">how to make friends in Toronto</a> — the short version is: pick something recurring and go three times.</p>
+    <p>New to Toronto? Start with the <a href="/start-here/">most welcoming groups</a>, or read <a href="/blog/how-to-make-friends-in-toronto/">how to make friends in Toronto</a>, the short version is: pick something recurring and go three times.</p>
 
     <p class="hood-other">More neighbourhoods:
       {%- for n in neighbourhoods %}{% if n.slug != hood.slug %} <a href="/neighbourhoods/{{ n.slug }}/">{{ n.name }}</a>{% if not loop.last %} ·{% endif %}{% endif %}{% endfor %}

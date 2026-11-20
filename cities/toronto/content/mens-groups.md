@@ -2,11 +2,11 @@
 layout: category
 tags: category
 title: "Men's Groups in Toronto"
-description: "{n} men's groups plus venues in Toronto and the GTA — weekly talking circles, men's peer support, dads' meetups, and social groups for gay and bi men. All welcoming."
+description: "{n} men's groups plus venues in Toronto and the GTA, weekly talking circles, men's peer support, dads' meetups, and social groups for gay and bi men. All welcoming."
 emoji: "👔"
 group: community
 seoTitle: "{n} Men's Groups & Resources in Toronto ({year})"
-seoDescription: "Men's groups in Toronto and the GTA: {n} listings — talking circles, peer support, dads' meetups and groups for gay and bi men."
+seoDescription: "Men's groups in Toronto and the GTA: {n} listings, talking circles, peer support, dads' meetups and groups for gay and bi men."
 listNoun: "men's groups & resources"
 seoHeading: "Men's Groups in Toronto & the GTA"
 order: 1
@@ -14,7 +14,7 @@ order: 1
 
 # 👔 Men's Groups in Toronto & the GTA
 
-## Toronto & York Region Men's Circles — MDI
+## Toronto & York Region Men's Circles. MDI
 - **What:** Weekly men's teams where you set goals, report back, and talk honestly about work, relationships and fatherhood. Part of Mentor Discover Inspire, with teams across the city and a 537-member Meetup group.
 - **Where:** Downtown Toronto, East York, Etobicoke and York Region
 - **When:** Multiple nights weekly
@@ -32,7 +32,7 @@ order: 1
 - **Where:** 26 Mansur Terrace, North York
 - **Find it:** [menandfamilies.org/centres-orig/toronto](https://menandfamilies.org/centres-orig/toronto/)
 
-## Talk It Out — Black Men's Mental Health
+## Talk It Out. Black Men's Mental Health
 - **What:** The Sunday Dinner Series, a quarterly facilitated peer discussion group for Black men across the Greater Toronto Area. Run by Talk It Out with Black Daddies Club and student-clinicians with shared lived experience, covering mental, emotional and relational well-being.
 - **Where:** Across the GTA
 - **When:** Quarterly Sunday dinners
@@ -50,16 +50,16 @@ order: 1
 - **Find it:** [the519.org/programs/prime-timers](https://www.the519.org/programs/prime-timers/)
 
 ## Toronto Dads Group
-- **What:** A 737-member community of dads — married, single, gay, trans, adoptive, step, stay-at-home and working — who meet several times a month with their kids at parks, playgrounds and museums, plus Dad's Nights Out. No dues, no attendance expectations.
+- **What:** A 737-member community of dads, married, single, gay, trans, adoptive, step, stay-at-home and working, who meet several times a month with their kids at parks, playgrounds and museums, plus Dad's Nights Out. No dues or attendance expectations.
 - **Where:** Parks and venues across Toronto and the GTA
 - **When:** Several meetups a month
 - **Cost:** No group dues
 - **Find it:** [meetup.com/torontodadsgroup](https://www.meetup.com/torontodadsgroup/)
 
 ## Fairlawn Avenue Men's Group
-- **What:** A monthly men's group at Fairlawn Avenue United Church for friendship and wide-ranging discussion — a low-key room to talk about whatever the group wants to dig into.
+- **What:** A monthly men's group at Fairlawn Avenue United Church for friendship and wide-ranging discussion, a low-key room to talk about whatever the group wants to dig into.
 - **Where:** 28 Fairlawn Avenue, North York
-- **When:** First Monday morning, Sept–June
+- **When:** First Monday morning, Sept, June
 - **Find it:** [fairlawnchurch.ca/events/tag/mens-group](https://www.fairlawnchurch.ca/events/tag/mens-group/)
 
 ---

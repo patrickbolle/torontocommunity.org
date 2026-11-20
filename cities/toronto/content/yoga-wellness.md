@@ -2,7 +2,7 @@
 layout: category
 tags: category
 title: "Yoga Studios & Wellness in Toronto"
-description: "{n} Toronto yoga studios and wellness communities — from a Queen West institution to by-donation park yoga on the waterfront ({year})."
+description: "{n} Toronto yoga studios and wellness communities, from a Queen West institution to by-donation park yoga on the waterfront ({year})."
 emoji: "🧘"
 group: mind-body
 seoTitle: "{n} Yoga Studios & Wellness Communities in Toronto ({year})"
@@ -15,21 +15,21 @@ order: 1
 # 🧘 Yoga & Wellness in Toronto
 
 ## High Park Yoga
-- **What:** By-donation community classes in High Park, combining breath, movement and awareness in the trees. Every body, all levels, no experience required — now in its fifth season, and the kind of class where you chat with the person on the next mat
+- **What:** By-donation community classes in High Park, combining breath, movement and awareness in the trees. Every body, all levels, no experience required, now in its fifth season, and the kind of class where you chat with the person on the next mat
 - **Where:** High Park Nature Centre, 375 Colborne Lodge Dr
 - **When:** Thursday evenings, in season
 - **Cost:** By donation
 - **Find it:** [meetup.com/high-park-yoga](https://www.meetup.com/high-park-yoga/)
 
 ## A Little More Joy
-- **What:** A Toronto community for movement, mindful living and connection — playful Hatha yoga with breathwork and meditation, plus lunar gatherings, outdoor movement and relaxed social nights. Come as you are; no flexibility or experience needed
+- **What:** A Toronto community for movement, mindful living and connection, playful Hatha yoga with breathwork and meditation, plus lunar gatherings, outdoor movement and relaxed social nights. Come as you are; no flexibility or experience needed
 - **Where:** The Base Yoga (AM Coffee), 2233 Dundas St W
 - **When:** Fridays 5:30pm
 - **Cost:** $20 drop-in
 - **Find it:** [meetup.com/north-york-meetup-and-explore-the-community-meetup-group](https://www.meetup.com/north-york-meetup-and-explore-the-community-meetup-group/)
 
 ## Yoga in Trillium Park
-- **What:** Free outdoor yoga by the lake at Ontario Place — a mix of hatha and vinyasa beside the Pavilion, with the skyline across the water. A bring-your-own-mat summer ritual that's easy to show up to alone
+- **What:** Free outdoor yoga by the lake at Ontario Place, a mix of hatha and vinyasa beside the Pavilion, with the skyline across the water. A bring-your-own-mat summer ritual that's easy to show up to alone
 - **Where:** Trillium Park, 955 Lake Shore Blvd W
 - **When:** Saturdays 10am & Sundays 11am, summer
 - **Cost:** Free
@@ -45,7 +45,7 @@ order: 1
 - **Find it:** [downwarddog.com](https://downwarddog.com/)
 
 ## Mosaic Yoga
-- **What:** A movement community with two studios, built for deep, nourishing practice that's still fun — vinyasa, Pilates, sound baths and yoga nidra. Warm and unpretentious, and easy to walk into on your own
+- **What:** A movement community with two studios, built for deep, nourishing practice that's still fun, vinyasa, Pilates, sound baths and yoga nidra. Warm and unpretentious, and easy to walk into on your own
 - **Where:** 440 Bloor St W, Annex & 225 Sterling Rd
 - **Find it:** [mosaicyoga.ca](https://www.mosaicyoga.ca/)
 
@@ -60,12 +60,12 @@ order: 1
 - **Find it:** [yogatree.ca](https://www.yogatree.ca/)
 
 ## Sweat and Tonic
-- **What:** A 16,000+ sq ft wellness club in the 1899 Ryrie Building — yoga, Pilates, HIIT and Ride under one roof, plus a sauna and a lounge made for lingering after class. The community is the point, not just the workout
+- **What:** A 16,000+ sq ft wellness club in the 1899 Ryrie Building, yoga, Pilates, HIIT and Ride under one roof, plus a sauna and a lounge made for lingering after class. The community is the point, not the workout.
 - **Where:** 225 Yonge St & 486 Front St W
 - **Find it:** [sweatandtonic.com](https://www.sweatandtonic.com/)
 
 ## Levelup Hot Yoga
-- **What:** A North York hot yoga room running Bikram, Vinyasa Flo, Yin and Inferno Hot Pilates seven days a week. Friendly and no-attitude — a good first hot class if you've been curious
+- **What:** A North York hot yoga room running Bikram, Vinyasa Flo, Yin and Inferno Hot Pilates seven days a week. Friendly and no-attitude, a good first hot class if you've been curious
 - **Where:** 2901 Bayview Ave, Unit 123A, North York
 - **Find it:** [leveluphotyoga.com](https://leveluphotyoga.com/)
 

@@ -2,7 +2,7 @@
 layout: category
 tags: category
 title: "Hiking & Outdoors"
-description: "15 hiking groups plus outdoor venues in Toronto & the GTA — gentle nature walks to trail running, snowshoeing and backcountry trips. Beginners welcome."
+description: "15 hiking groups plus outdoor venues in Toronto & the GTA, gentle nature walks to trail running, snowshoeing and backcountry trips. Beginners welcome."
 emoji: "🥾"
 group: outdoor
 order: 2
@@ -23,7 +23,7 @@ listNoun: "hiking groups"
 - **What:** The largest of the nine Bruce Trail Conservancy clubs, running guided hikes, urban walks and trail-maintenance days on the Toronto section of the Bruce Trail
 - **Find it:** [torontobrucetrailclub.org](https://torontobrucetrailclub.org/)
 
-## Alpine Club of Canada — Toronto Section
+## Alpine Club of Canada. Toronto Section
 - **What:** Toronto section of Canada's national mountaineering club: hiking, climbing, backcountry skiing, socials and courses for all levels
 - **Find it:** [alpineclubtoronto.ca](https://alpineclubtoronto.ca/)
 
@@ -68,15 +68,15 @@ listNoun: "hiking groups"
 - **Find it:** [letshiketo.ca](https://www.letshiketo.ca/)
 
 ## Wilde Outdoors & Adventures
-- **What:** Year-round outdoor adventures for gay men and allies — hiking, kayaking, cycling and snowshoeing in and around the GTA
+- **What:** Year-round outdoor adventures for gay men and allies, hiking, kayaking, cycling and snowshoeing in and around the GTA
 - **Find it:** [meetup.com/wilde-outdoors-adventures-for-gay-men-allies](https://www.meetup.com/wilde-outdoors-adventures-for-gay-men-allies/)
 
 ## GTA Girls Hike Club
-- **What:** Women's hiking community redefining adventure at any age and pace — guided group hikes and outdoor meetups across the GTA
+- **What:** Women's hiking community redefining adventure at any age and pace, guided group hikes and outdoor meetups across the GTA
 - **Find it:** [@gtagirlshikeclub](https://www.instagram.com/gtagirlshikeclub/)
 
 ## Toronto Hiking Moms
-- **What:** Non-profit hiking group for new mothers and parents — easy-paced, companionable hikes and meetups to get outdoors with little ones
+- **What:** Non-profit hiking group for new mothers and parents, easy-paced, companionable hikes and meetups to get outdoors with little ones
 - **Find it:** [eventbrite.ca/o/toronto-hiking-moms](https://www.eventbrite.ca/o/toronto-hiking-moms-86853910113)
 
 ---
@@ -84,7 +84,7 @@ listNoun: "hiking groups"
 ## Venues & Resources
 
 ## Rouge National Urban Park
-- **What:** Canada's largest urban park — 12 km of trails and free Parks Canada guided walks year-round
+- **What:** Canada's largest urban park, 12 km of trails and free Parks Canada guided walks year-round
 - **Find it:** [parks.canada.ca/pn-np/on/rouge](https://parks.canada.ca/pn-np/on/rouge)
 
 ## Evergreen Brick Works

@@ -8,7 +8,7 @@ faq:
   - q: "Where can I play chess in Toronto?"
     a: "For casual games, Hart House Chess Club opens its Reading Room for free play every Friday from 4pm to 11pm, and Etobicoke Chess Club runs a free café night on Fridays from 6pm. Chess in the Park meets on weekends in parks across the city, moving indoors in winter. For a weekly club, Annex Chess Club meets Mondays and Beaches Chess Club meets Sunday afternoons. The Toronto Community Directory lists them all on its chess page."
   - q: "Is there a chess café in Toronto?"
-    a: "Yes. Etobicoke Chess Club plays every Friday from 6pm to 9pm at the Second Cup at 265 Wincott Drive, and its motto is 'Play for fun, Play for real, Play for free.' There's no membership fee — you buy a coffee and sit down."
+    a: "Yes. Etobicoke Chess Club plays every Friday from 6pm to 9pm at the Second Cup at 265 Wincott Drive, and its motto is 'Play for fun, Play for real, Play for free.' There's no membership fee, you buy a coffee and sit down."
   - q: "Where can I play rated chess or tournaments in Toronto?"
     a: "Annex Chess Club runs a weekly Swiss tournament on Monday nights, Scarborough Chess Club runs CFC- and FIDE-rated Swiss tournaments on Thursdays from September to June, and Mississauga Chess Club holds adult tournament nights on Wednesdays. The Greater Toronto Chess League lists every member club and its schedule."
   - q: "Do I need to be good at chess to join a club?"
@@ -17,11 +17,11 @@ faq:
 
 Chess is a good way to meet people for one simple reason. You sit across from a stranger for half an hour, and nobody expects small talk. The game does the talking. By the second game you know their name. By the third week you know their favourite opening and how they take their coffee.
 
-Toronto has more chess than you'd guess. Some of it happens in cafés, some in a university reading room, some on picnic tables in a park, and some at rated club nights where people track every point. Here's where to go, sorted by the kind of player you are. Every group below comes from [the directory's chess page](/chess/).
+Toronto has more chess than you'd guess. Some of it happens in cafés, some in a university reading room, some on picnic tables in a park, and some at rated club nights where people track every point. Start with the kind of player you are. All of these come from [the directory's chess page](/chess/).
 
 ## If you just want a casual game
 
-No membership, no rating, no sign-up form. You bring yourself, and maybe a board.
+No membership, rating or sign-up form. You bring yourself, and maybe a board.
 
 - **[Hart House Chess Club](/chess/#hart-house-chess-club)** opens the Reading Room at 7 Hart House Circle for casual play every Friday from 4pm to 11pm, and drop-in play is free. It's the University of Toronto's club, running since 1895, but community members are welcome.
 - **[Etobicoke Chess Club](/chess/#etobicoke-chess-club)** takes over the Second Cup at 265 Wincott Drive on Friday nights from 6pm to 9pm. Free, no membership, and the club's own line is "Play for fun, Play for real, Play for free."
@@ -51,7 +51,7 @@ Playing the same people every week is how you improve. It's also how you make fr
 
 ## What about park chess?
 
-Toronto has this one covered. **[Chess in the Park](/chess/#chess-in-the-park)** plays outdoors through the summer and moves indoors when it gets cold, exploring the city's parks and chess tables. It's free, and it meets on weekends — usually Saturday or Sunday, with the location changing weekly, so check the group's Facebook page before you go.
+Toronto has this one covered. **[Chess in the Park](/chess/#chess-in-the-park)** plays outdoors through the summer and moves indoors when it gets cold, exploring the city's parks and chess tables. It's free, and it meets on weekends, usually Saturday or Sunday, with the location changing weekly, so check the group's Facebook page before you go.
 
 ## How to stick with it
 

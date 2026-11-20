@@ -2,7 +2,7 @@
 layout: category
 tags: category
 title: "Astronomy & Stargazing"
-description: "{n} astronomy clubs, observatories and stargazing spots in Toronto and the GTA — free public star parties, rooftop observation nights and dark-sky trips out of the city."
+description: "{n} astronomy clubs, observatories and stargazing spots in Toronto and the GTA, free public star parties, rooftop observation nights and dark-sky trips out of the city."
 emoji: "🔭"
 group: mind-body
 order: 7
@@ -15,7 +15,7 @@ listNoun: "astronomy clubs & stargazing spots"
 # 🔭 Astronomy Clubs & Stargazing in Toronto
 
 ## RASC Toronto Centre
-- **What:** Canada's largest astronomy club, with 600+ members across the GTA and roots going back to 1868. Members meet monthly for Recreational Astronomy Night, observe from Bayview Village Park and the Long Sault dark-sky site, and run free public star parties at Millennium Square on the lake. No telescope needed — the whole point is looking through someone else's.
+- **What:** Canada's largest astronomy club, with 600+ members across the GTA and roots going back to 1868. Members meet monthly for Recreational Astronomy Night, observe from Bayview Village Park and the Long Sault dark-sky site, and run free public star parties at Millennium Square on the lake. No telescope needed, the whole point is looking through someone else's.
 - **Where:** Bayview Village Park and Millennium Square, Toronto
 - **When:** Monthly meetings and star parties
 - **Find it:** [rascto.ca](https://rascto.ca/)
@@ -34,13 +34,13 @@ listNoun: "astronomy clubs & stargazing spots"
 - **Find it:** [drastronomy.com](https://drastronomy.com/)
 
 ## Hamilton Amateur Astronomers
-- **What:** A long-running club of amateur astronomers — 25 years and counting — meeting monthly for guest talks and member show-and-tell, with public stargazing nights around Hamilton and Burlington. The kind of crowd that will happily spend an hour helping you collimate a first telescope.
+- **What:** A long-running club of amateur astronomers, 25 years and counting, meeting monthly for guest talks and member show-and-tell, with public stargazing nights around Hamilton and Burlington. The kind of crowd that will happily spend an hour helping you collimate a first telescope.
 - **Where:** St. Matthew's-on-the-Plains Anglican Church, 126 Plains Road East, Burlington
 - **When:** Doors 7pm, meeting 7:30pm
 - **Find it:** [amateurastronomy.org](https://amateurastronomy.org/)
 
 ## U of T Astronomy & Space Exploration Association (ASX)
-- **What:** U of T's student-run astronomy outreach club, founded in 2003 and now 1,200 members strong. Runs the StarTalk lecture series, rooftop Observation Nights at McLennan, trivia nights and an annual Symposium with astronauts and researchers. Regular events are free and open to the public, not just students.
+- **What:** U of T's student-run astronomy outreach club, founded in 2003 and now 1,200 members strong. Runs the StarTalk lecture series, rooftop Observation Nights at McLennan, trivia nights and an annual Symposium with astronauts and researchers. Regular events are free and open to the public.
 - **Where:** McLennan Physical Laboratories, 60 St. George Street
 - **Cost:** Free
 - **Find it:** [utasx.ca](https://www.utasx.ca/)
@@ -61,7 +61,7 @@ listNoun: "astronomy clubs & stargazing spots"
 - **Find it:** [richmondhill.ca/en/learn-more/David-Dunlap-Observatory.aspx](https://www.richmondhill.ca/en/learn-more/David-Dunlap-Observatory.aspx)
 
 ## Allan I. Carswell Observatory
-- **What:** York University's observatory, home to a one-metre telescope — the largest on a Canadian university campus — plus free public viewing sessions, group tours and online observing. A rare chance to look through serious research hardware without leaving the city.
+- **What:** York University's observatory, home to a one-metre telescope, the largest on a Canadian university campus, plus free public viewing sessions, group tours and online observing. A rare chance to look through serious research hardware without leaving the city.
 - **Where:** York University campus, Toronto
 - **Cost:** Free
 - **Find it:** [yorku.ca/science/observatory](https://www.yorku.ca/science/observatory/)

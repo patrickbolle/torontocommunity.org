@@ -2,11 +2,11 @@
 layout: category
 tags: category
 title: "Run Clubs"
-description: "15 run clubs in Toronto — chill social jogs to marathon training. Most are free, just show up."
+description: "15 run clubs in Toronto, chill social jogs to marathon training. Most are free, just show up."
 emoji: "🏃"
 group: outdoor
 seoTitle: "{n} Run Clubs in Toronto: Where to Run ({year})"
-seoDescription: "{n} run clubs in Toronto — chill social jogs to marathon training, from beginner-friendly crews to race teams. Most are free."
+seoDescription: "{n} run clubs in Toronto, chill social jogs to marathon training, from beginner-friendly crews to race teams. Most are free."
 seoHeading: "Run Clubs in Toronto"
 listNoun: "run clubs"
 order: 1
@@ -15,7 +15,7 @@ order: 1
 # 🏃 Run Clubs in Toronto
 
 ## Parkdale Roadrunners
-- **What:** Toronto's biggest neighbourhood run crew — hundreds of runners every week, from first-timers to marathoners. Free and drop-in, rooted in Parkdale's creative scene
+- **What:** Toronto's biggest neighbourhood run crew, hundreds of runners every week, from first-timers to marathoners. Free and drop-in, rooted in Parkdale's creative scene
 - **Where:** Parkdale
 - **When:** Tuesdays 7pm
 - **Find it:** [parkdaleroadrunners.com](https://www.parkdaleroadrunners.com/)
@@ -60,11 +60,11 @@ order: 1
 - **Find it:** [torontoolympicclub.com](https://www.torontoolympicclub.com/)
 
 ## Night Terrors Run Crew
-- **What:** Late-night running crew for the night owls — community runs after dark, all paces welcome and zero judgement
+- **What:** Late-night running crew for the night owls, community runs after dark, all paces welcome and zero judgement
 - **Find it:** [instagram.com/nightterrorsrun](https://www.instagram.com/nightterrorsrun/)
 
 ## High Park Rogue Runners
-- **What:** Free, inclusive community club running out of High Park — mid-week workouts plus a Sunday long run. Volunteer-run and community-minded
+- **What:** Free, inclusive community club running out of High Park, mid-week workouts plus a Sunday long run. Volunteer-run and community-minded
 - **Where:** High Park / Bloor West
 - **When:** Wednesdays & Fridays 6:30pm · Sundays 8:30am
 - **Cost:** Free
@@ -77,7 +77,7 @@ order: 1
 - **Find it:** [baystreetrun.club](https://baystreetrun.club/)
 
 ## Sauga Valley Run Club
-- **What:** 100% volunteer-led Mississauga run club for all paces — roads, trails and good company, with no business behind it
+- **What:** 100% volunteer-led Mississauga run club for all paces, roads, trails and good company, with no business behind it
 - **Where:** Mississauga
 - **When:** Saturdays
 - **Cost:** Free
@@ -94,7 +94,7 @@ order: 1
 - **Find it:** [kardiaathletica.com](https://kardiaathletica.com/)
 
 ## Downsview parkrun
-- **What:** Free, timed 5K every Saturday morning, run by volunteers. Walk, jog, run or cheer — register once before your first visit
+- **What:** Free, timed 5K every Saturday morning, run by volunteers. Walk, jog, run or cheer, register once before your first visit
 - **Where:** Downsview Park, North York
 - **When:** Saturdays 9am
 - **Cost:** Free
@@ -105,7 +105,7 @@ order: 1
 ## Venues & Resources
 
 ## runclubs.ca Toronto
-- **What:** Directory of Toronto run clubs — schedules, locations and pace info in one place
+- **What:** Directory of Toronto run clubs, schedules, locations and pace info in one place
 - **Find it:** [runclubs.ca/toronto](https://runclubs.ca/toronto)
 
 <div class="category-banner">

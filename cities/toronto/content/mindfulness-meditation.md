@@ -2,7 +2,7 @@
 layout: category
 tags: category
 title: "Meditation & Mindfulness in Toronto"
-description: "{n} meditation and mindfulness groups in Toronto and the GTA — Buddhist sitting groups, secular weekly sits and free beginner classes ({year})."
+description: "{n} meditation and mindfulness groups in Toronto and the GTA. Buddhist sitting groups, secular weekly sits and free beginner classes ({year})."
 emoji: "🪷"
 group: mind-body
 seoTitle: "{n} Meditation Groups & Classes in Toronto ({year})"
@@ -15,7 +15,7 @@ order: 2
 # 🪷 Mindfulness & Meditation in Toronto
 
 ## Toronto Zen Centre
-- **What:** Zen Buddhist community founded in 1967 and the oldest Zen group in Canada. Daily zazen sittings, introductory workshops and courses in a quiet High Park house — newcomers start with the Introduction to Zen workshop
+- **What:** Zen Buddhist community founded in 1967 and the oldest Zen group in Canada. Daily zazen sittings, introductory workshops and courses in a quiet High Park house, newcomers start with the Introduction to Zen workshop
 - **Where:** 33 High Park Gardens, High Park
 - **When:** Daily sittings
 - **Find it:** [torontozen.org](https://torontozen.org)
@@ -29,7 +29,7 @@ order: 2
 ## Mindfulness Practice Community of Toronto
 - **What:** Interfaith sangha in the Plum Village tradition of Thich Nhat Hanh, practicing together since 1997. Weekly sittings, in-person sangha and special events, with newcomers free to drop in
 - **Where:** Roncesvalles United Church, 214 Wright Ave
-- **When:** Saturdays 9:30–11:30am
+- **When:** Saturdays 9:30-11:30am
 - **Find it:** [mindfulnesspracticecommunity.org](https://mindfulnesspracticecommunity.org)
 
 ## DDM Toronto Centre
@@ -45,9 +45,9 @@ order: 2
 - **Find it:** [toronto.nalandabodhi.ca](https://toronto.nalandabodhi.ca)
 
 ## Theravada Buddhist Community
-- **What:** Toronto-based lay Theravada sangha that meets every Sunday for chanting, a 45-minute silent sit and a reading or recorded talk from a Theravada teacher, with discussion and an optional lunch nearby. No experience needed — just the willingness to sit quietly
+- **What:** Toronto-based lay Theravada sangha that meets every Sunday for chanting, a 45-minute silent sit and a reading or recorded talk from a Theravada teacher, with discussion and an optional lunch nearby. No experience needed, just the willingness to sit quietly
 - **Where:** Carrot Common, 348 Danforth Ave, Room 212
-- **When:** Sundays 10am–12pm
+- **When:** Sundays 10am, 12pm
 - **Find it:** [theravadabuddhistcommunity.org](https://www.theravadabuddhistcommunity.org)
 
 ## Snow Lion Meditation Community
@@ -59,7 +59,7 @@ order: 2
 ## Tergar Toronto
 - **What:** Practice group following Mingyur Rinpoche's Joy of Living program, with guided and unguided meditation and group discussion. Hybrid sessions draw a warm, unpretentious crowd
 - **Where:** The Centering Space, 59 Cambridge Ave
-- **When:** 2nd & 4th Monday, 7–8:30pm
+- **When:** 2nd & 4th Monday, 7-8:30pm
 - **Find it:** [tergar.org/toronto](https://tergar.org/toronto)
 
 ## Brahma Kumaris Toronto
@@ -92,4 +92,4 @@ order: 2
 
 ## Venues & Resources
 
-Several of these groups meet in borrowed community spaces rather than dedicated studios — Roncesvalles United Church (214 Wright Ave), the Carrot Common (348 Danforth Ave), The Centering Space (59 Cambridge Ave) and St Stephen-in-the-Fields (365 College St) all host regular sits. The Buddhist centres above also welcome visitors to their own meditation halls and shrines; check each calendar before you go.
+Several of these groups meet in borrowed community spaces rather than dedicated studios. Roncesvalles United Church (214 Wright Ave), the Carrot Common (348 Danforth Ave), The Centering Space (59 Cambridge Ave) and St Stephen-in-the-Fields (365 College St) all host regular sits. The Buddhist centres above also welcome visitors to their own meditation halls and shrines; check each calendar before you go.

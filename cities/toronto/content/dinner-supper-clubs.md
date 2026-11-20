@@ -2,7 +2,7 @@
 layout: category
 tags: category
 title: "Supper Clubs & Dinner Clubs"
-description: "{n} Toronto supper clubs and dinner clubs — guest-chef suppers, secret locations, wine-paired menus, and long tables where strangers become friends."
+description: "{n} Toronto supper clubs and dinner clubs, guest-chef suppers, secret locations, wine-paired menus, and long tables where strangers become friends."
 emoji: "🍽️"
 group: social
 seoTitle: "{n} Supper Clubs in Toronto ({year})"
@@ -20,7 +20,7 @@ order: 1
 - **Find it:** [thedepanneur.ca/collections/supper-clubs](https://thedepanneur.ca/collections/supper-clubs)
 
 ## Gather Supper Club
-- **What:** Victoria and Steve seat a small group of strangers around one table in their family home off Queen West — cocktail hour and canapés first, then a seasonal three-course family-style dinner with wine and beer. Conversation prompts handle the awkward part
+- **What:** Victoria and Steve seat a small group of strangers around one table in their family home off Queen West, cocktail hour and canapés first, then a seasonal three-course family-style dinner with wine and beer. Conversation prompts handle the awkward part
 - **Where:** Queen West
 - **Cost:** $120
 - **Find it:** [gathersupperclubtoronto.com](https://gathersupperclubtoronto.com/)
@@ -42,7 +42,7 @@ order: 1
 - **Find it:** [tiktok.com/@thecookingtuba](https://www.tiktok.com/@thecookingtuba)
 
 ## Eat Out Supper Club
-- **What:** A roving dinner series from queer chef and writer Sara Baron Goodman for sapphic, wlw and genderqueer people. Loud, experimental, maximalist menus at bars, farms and friends' homes — come alone or bring company, either works
+- **What:** A roving dinner series from queer chef and writer Sara Baron Goodman for sapphic, wlw and genderqueer people. Loud, experimental, maximalist menus at bars, farms and friends' homes, come alone or bring company, either works
 - **Find it:** [instagram.com/eatoutsupperclub](https://www.instagram.com/eatoutsupperclub/)
 
 ## Saturday Spice Series

@@ -2,7 +2,7 @@
 layout: category
 tags: category
 title: "Tarot & Astrology in Toronto"
-description: "{n} tarot, astrology and spiritual groups in Toronto — practice meetups, classes, readings and open circles across the GTA."
+description: "{n} tarot, astrology and spiritual groups in Toronto, practice meetups, classes, readings and open circles across the GTA."
 emoji: "🔮"
 group: mind-body
 seoTitle: "{n} Tarot & Astrology Groups in Toronto ({year})"
@@ -20,7 +20,7 @@ order: 8
 - **Find it:** [astrologytoronto.com](https://www.astrologytoronto.com/)
 
 ## Toronto Tarot Meetup Group
-- **What:** A 500-plus-member practice group for readers of every level, from first-deck beginners to veterans. Evenings are hands-on — compare decks and spreads, swap readings and talk symbolism in a welcoming, low-pressure room
+- **What:** A 500-plus-member practice group for readers of every level, from first-deck beginners to veterans. Evenings are hands-on, compare decks and spreads, swap readings and talk symbolism in a welcoming, low-pressure room
 - **Where:** Alternity, 333 Bloor St W
 - **When:** Tuesday evenings
 - **Find it:** [meetup.com/toronto-tarot-meetup-group](https://www.meetup.com/toronto-tarot-meetup-group/)
@@ -31,7 +31,7 @@ order: 8
 - **Find it:** [therockstore.ca](https://www.therockstore.ca/)
 
 ## The Hermit's Lamp
-- **What:** A tarot shop, studio and community space in Leslieville run by reader, teacher and artist Andrew McGregor. It hosts beginner tarot classes, art shows, guest readers and a recurring queer tarot gathering — practical, friendly and open to newcomers
+- **What:** A tarot shop, studio and community space in Leslieville run by reader, teacher and artist Andrew McGregor. It hosts beginner tarot classes, art shows, guest readers and a recurring queer tarot gathering, practical, friendly and open to newcomers
 - **Where:** 276 Carlaw Ave, Unit 209B, Leslieville
 - **Find it:** [thehermitslamp.com](https://thehermitslamp.com/)
 
@@ -42,7 +42,7 @@ order: 8
 - **Find it:** [springdalechurch.ca](https://www.springdalechurch.ca/)
 
 ## Happy Soul Crystals
-- **What:** A Bloor West crystal shop and spiritual hub that runs its own in-store events — workshops, guided meditations and private group gatherings. A warm, browse-and-stay-awhile crowd of crystal and tarot regulars
+- **What:** A Bloor West crystal shop and spiritual hub that runs its own in-store events, workshops, guided meditations and private group gatherings. A warm, browse-and-stay-awhile crowd of crystal and tarot regulars
 - **Where:** 961 Bloor St W
 - **Find it:** [happysoulcrystals.com](https://happysoulcrystals.com/)
 

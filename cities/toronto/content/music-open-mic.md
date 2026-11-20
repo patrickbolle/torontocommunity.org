@@ -2,11 +2,11 @@
 layout: category
 tags: category
 title: "Music & Open Mics in Toronto"
-description: "{n} Toronto open mics, jam nights, songwriters' circles and music venues — where to play, listen and find your people."
+description: "{n} Toronto open mics, jam nights, songwriters' circles and music venues, where to play, listen and find your people."
 emoji: "🎵"
 group: creative
 seoTitle: "{n} Places to Play in Toronto: Open Mics & Jams ({year})"
-seoDescription: "{n} Toronto open mics, jam nights, songwriters' circles and music venues — where to play, listen and find your people. All levels welcome."
+seoDescription: "{n} Toronto open mics, jam nights, songwriters' circles and music venues, where to play, listen and find your people. All levels welcome."
 listNoun: "places to play"
 seoHeading: "Open Mics & Music Communities in Toronto"
 order: 7
@@ -21,13 +21,13 @@ order: 7
 - **Find it:** [tranzac.org](https://tranzac.org/)
 
 ## Open Mic Mondays at The Painted Lady
-- **What:** Long-running Monday open mic hosted by Kunle in a live-music bar on the Ossington strip. Sign-up is in person at 8pm, a feature artist plays 8:15–9pm, then the open mic runs 9pm–2am with two songs per performer. Come early, stay late, cheer loudly.
+- **What:** Long-running Monday open mic hosted by Kunle in a live-music bar on the Ossington strip. Sign-up is in person at 8pm, a feature artist plays 8:15-9pm, then the open mic runs 9pm, 2am with two songs per performer. Come early, stay late, cheer loudly.
 - **Where:** Ossington Strip
 - **When:** Mondays 9pm
 - **Find it:** [thepaintedlady.ca](https://www.thepaintedlady.ca/)
 
 ## Sunday Jam Night at Grossman's Tavern
-- **What:** Weekly Sunday jam hosted by Ken Yoshioka at a Spadina tavern that has been a blues and jazz room for decades. Bring an instrument and sit in with a crowd that has heard it all before — in the best way.
+- **What:** Weekly Sunday jam hosted by Ken Yoshioka at a Spadina tavern that has been a blues and jazz room for decades. Bring an instrument and sit in with a crowd that has heard it all before, in the best way.
 - **Where:** 377 Spadina Avenue
 - **When:** Sundays 9pm
 - **Find it:** [grossmanstavern.com](https://grossmanstavern.com/)
@@ -44,7 +44,7 @@ order: 7
 - **Find it:** [freetimescafe.com](https://www.freetimescafe.com/)
 
 ## JazzInToronto Late Night Jam
-- **What:** JazzInToronto's Saturday-night jam at the Emmet Ray, with an open sign-up for players at every level. Free for jammers, pay-what-you-can for listeners, 11:30pm–2am. The same organization publishes the city's jazz gig listings and runs community shows.
+- **What:** JazzInToronto's Saturday-night jam at the Emmet Ray, with an open sign-up for players at every level. Free for jammers, pay-what-you-can for listeners, 11:30pm, 2am. The same organization publishes the city's jazz gig listings and runs community shows.
 - **Where:** The Emmet Ray, 924 College Street
 - **When:** Saturdays 11:30pm
 - **Cost:** Free for jammers, PWYC for listeners
@@ -55,16 +55,16 @@ order: 7
 - **Find it:** [torontosongwriters.com](https://www.torontosongwriters.com/)
 
 ## Kensington Unplugged
-- **What:** A weekly Nashville-style writers' round — four songwriters an hour, each playing original songs and telling the stories behind them. Curated rather than open-mic, which keeps the listening room quiet and the songwriting sharp.
+- **What:** A weekly Nashville-style writers' round, four songwriters an hour, each playing original songs and telling the stories behind them. Curated rather than open-mic, which keeps the listening room quiet and the songwriting sharp.
 - **Where:** Supermarket, 268 Augusta Avenue, Kensington Market
-- **When:** Tuesdays 7–11pm
+- **When:** Tuesdays 7-11pm
 - **Cost:** Free
 - **Find it:** [instagram.com/kensingtonunplugged](https://www.instagram.com/kensingtonunplugged/) | [Supermarket](https://www.supermarkettoronto.com/)
 
 ## Corktown Ukulele Jam
 - **What:** Toronto's ukulele institution, running since 2009: an 8pm workshop, then a group strum and open stage in the Ukulele Lounge. Beginners are genuinely welcome, and the regulars are the reason the room keeps filling.
 - **Where:** Dominion on Queen, 500 Queen Street East
-- **When:** Wednesdays 8–11pm
+- **When:** Wednesdays 8-11pm
 - **Cost:** $6 workshop; group jam and open stage free
 - **Find it:** [torontoukes.wixsite.com](https://torontoukes.wixsite.com/torontoukes/faq)
 
@@ -84,7 +84,7 @@ order: 7
 - **Find it:** [therex.ca](https://www.therex.ca/)
 
 ## Music Gallery
-- **What:** Toronto's centre for creative music — experimental, improvised and new music concerts in a warm listening room. A home for the city's stranger, more adventurous musical corners.
+- **What:** Toronto's centre for creative music, experimental, improvised and new music concerts in a warm listening room. A home for the city's stranger, more adventurous musical corners.
 - **Where:** 918 Bathurst Street
 - **Find it:** [musicgallery.org](https://musicgallery.org/)
 

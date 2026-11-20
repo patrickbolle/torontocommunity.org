@@ -17,7 +17,7 @@ faq:
 
 Improv has a reputation problem. People picture a stranger yelling "yes, and" at them while they freeze. I get it. But a beginner class is mostly a room of nervous adults playing games and laughing at their own mistakes. It's one of the friendliest rooms you can walk into.
 
-Toronto is a good city for it. The Second City opened its Toronto theatre in 1973, Bad Dog Theatre has been making long-form since 1982, and SCTV grew out of the Second City's Toronto troupe — the one that counts John Candy, Catherine O'Hara, Eugene Levy and Martin Short among its alumni. Here's where to start, whether you want to take a class or just watch one. Every place below comes from [the directory's improv and comedy page](/improv-comedy/).
+Toronto is a good city for it. The Second City opened its Toronto theatre in 1973, Bad Dog Theatre has been making long-form since 1982, and SCTV grew out of the Second City's Toronto troupe, the one that counts John Candy, Catherine O'Hara, Eugene Levy and Martin Short among its alumni. Start with a class, or just watch. All of these come from [the directory's improv and comedy page](/improv-comedy/).
 
 ## If you want a beginner improv class
 
@@ -31,7 +31,7 @@ Toronto is a good city for it. The Second City opened its Toronto theatre in 197
 
 Not everyone wants to commit to a full class. Some of us want to try it once and see.
 
-**[Bad Dog's beginner drop-in](/improv-comedy/#bad-dog-theatre-company)** is two hours, $25 plus HST, no prerequisites, and capped at ten people. It runs Mondays and Saturdays from 6pm to 8pm. One session is enough to know whether you like it. Confirm the current schedule on Bad Dog's site before you go — class times move around.
+**[Bad Dog's beginner drop-in](/improv-comedy/#bad-dog-theatre-company)** is two hours, $25 plus HST, no prerequisites, and capped at ten people. It runs Mondays and Saturdays from 6pm to 8pm. One session is enough to know if you like it. Confirm the current schedule on Bad Dog's site before you go, class times move around.
 
 **[SoCap's drop-in classes](/improv-comedy/#socap-comedy-(the-social-capital))** are single nights from about $25, with no multi-week commitment. Most people start there and sign up for a course once they're hooked.
 
@@ -53,7 +53,7 @@ Watching is research. It's also a good night out.
 - **[SoCap Comedy](/improv-comedy/#socap-comedy-(the-social-capital))** runs improv and comedy shows most nights on the Danforth, so you can watch the form in the same building where you'd take a class.
 - **[Sweet Action Theatre](/improv-comedy/#sweet-action-theatre)** is a 55-seat room at 180 Shaw St devoted to clown, improv, sketch and puppetry. The shows are strange in the best way, and the classes are affordable.
 - **[Knifefight Theatre](/improv-comedy/#knifefight-theatre)** puts on Kumite Improv, a monthly showdown at The Assembly Theatre, 1479 Queen St W. Six improvisers, three teams of two, four rounds, live scoring and an audience-fuelled final.
-- **[The Corner Comedy Club](/improv-comedy/#the-corner-comedy-club)** at 243 Queen St W is a tiny basement room with nightly stand-up and a booked open mic on the last Tuesday of the month — 24 comics, three minutes each. Intimacy is the point.
+- **[The Corner Comedy Club](/improv-comedy/#the-corner-comedy-club)** at 243 Queen St W is a tiny basement room with nightly stand-up and a booked open mic on the last Tuesday of the month, 24 comics, three minutes each. Intimacy is the point.
 - **[Backroom Comedy Club](/improv-comedy/#backroom-comedy-club)** near Christie Pits does pro stand-up, happy-hour open mics and a Monday Night Improv where new and established acts try material.
 
 ## Why improv is good for making friends

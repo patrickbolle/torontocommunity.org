@@ -21,7 +21,7 @@ added: 2026-11-14
 - **Find it:** [torontocircuscentre.com](https://www.torontocircuscentre.com/)
 
 ## The Circus Fix
-- **What:** Aerial and ground circus studio with "an inclusive, friendly environment where everyone is encouraged to explore, play, and challenge themselves" — and a supportive community ready to cheer you on. Classes in silks, hoop, trapeze, hammock, straps, acro, handstands, flow acrobatics and flexibility, plus open gym
+- **What:** Aerial and ground circus studio with "an inclusive, friendly environment where everyone is encouraged to explore, play, and challenge themselves", and a supportive community ready to cheer you on. Classes in silks, hoop, trapeze, hammock, straps, acro, handstands, flow acrobatics and flexibility, plus open gym
 - **Where:** 17 Carlaw Ave, East End, and 950 Dupont St, West End
 - **Find it:** [thecircusfix.ca](https://thecircusfix.ca/)
 
@@ -36,7 +36,7 @@ added: 2026-11-14
 - **Find it:** [auraaerialartcentre.com](https://www.auraaerialartcentre.com/)
 
 ## Acro Labs
-- **What:** AcroYoga and partner-acrobatics classes and workshops — partner stretching, inversions and creative movement — led by certified AcroYoga teacher Abbey Nydam. "Move Together, Grow Together"
+- **What:** AcroYoga and partner-acrobatics classes and workshops, partner stretching, inversions and creative movement, led by certified AcroYoga teacher Abbey Nydam. "Move Together, Grow Together"
 - **Where:** 790 Queen St W, West Queen West
 - **Find it:** [acrodanceandmove.com](https://www.acrodanceandmove.com/)
 

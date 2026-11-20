@@ -1120,7 +1120,7 @@ body:not(.homepage) .masthead-tag { display: none; }
 
 /* ==========================================================================
    Motion. A bulletin board you can touch: cards are paper, pins press in,
-   the hit counter rolls. Feedback 100–150ms, state 200–300ms, the Surprise
+   the hit counter rolls. Feedback 100-150ms, state 200-300ms, the Surprise
    pin ~450ms. Easing decelerates, never bounces. Spatial movement lives in
    the no-preference block; reduced motion keeps colour and opacity changes.
    ========================================================================== */
@@ -1149,7 +1149,7 @@ a, .link-button, .surprise-again, .tab {
 }
 @keyframes vc-arrive { from { opacity: 0; } to { opacity: 1; } }
 
-/* Hit counter: each digit is a strip of 0–9 that rolls up to its value */
+/* Hit counter: each digit is a strip of 0-9 that rolls up to its value */
 .odometer span.odo-digit { position: relative; overflow: hidden; height: calc(1.2em + 4px); }
 .odometer .odo-strip { display: block; min-width: 0; padding: 0; border: 0; background: none; }
 .odo-strip i { display: block; font-style: normal; height: 1.2em; }

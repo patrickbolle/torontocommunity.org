@@ -24,13 +24,13 @@ added: 2026-11-14
 ## Grosvenor Toastmasters
 - **What:** Founded in 1967, one of the oldest active clubs in District 60. A high-calibre hybrid club where every new member gets a mentor, and the meeting usually rolls into a pub social afterwards
 - **Where:** Downtown Toronto, plus on Zoom
-- **When:** 2nd & 4th Wednesdays 6–8pm
+- **When:** 2nd & 4th Wednesdays 6-8pm
 - **Find it:** [grosvenortoastmasters.com](https://grosvenortoastmasters.com/)
 
 ## Toronto #1 Toastmasters
 - **What:** The first Toastmasters club in Toronto, still going strong at Etobicoke Civic Centre. Experienced members coach newcomers at their own pace, and guests are welcome at any meeting
 - **Where:** Etobicoke Civic Centre, 399 The West Mall
-- **When:** Mondays 6:30–8:30pm
+- **When:** Mondays 6:30-8:30pm
 - **Find it:** [toronto1.toastmastersclubs.org](https://toronto1.toastmastersclubs.org/)
 
 ## Roncesvalles Speakers Circle
@@ -54,7 +54,7 @@ added: 2026-11-14
 ## Toronto Debating Society
 - **What:** Toronto's oldest public debating society, a non-profit devoted to civil argument on topics from the whimsical to the serious. Members rotate through speaking roles, and no debating experience is needed
 - **Where:** Friends House, 60 Lowther Ave
-- **When:** Alternate Tuesdays, October–May
+- **When:** Alternate Tuesdays, October, May
 - **Cost:** Guests free; $150/year
 - **Find it:** [torontodebating.com](https://www.torontodebating.com/)
 

@@ -2,11 +2,11 @@
 layout: category
 tags: category
 title: "Underground DJs & Dance Nights"
-description: "{n} underground electronic collectives, DJ crews, dance nights and clubs in Toronto — warehouse parties, after-hours techno and inclusive floors."
+description: "{n} underground electronic collectives, DJ crews, dance nights and clubs in Toronto, warehouse parties, after-hours techno and inclusive floors."
 emoji: "🎧"
 group: social
 seoTitle: "{n} Underground DJs & Dance Nights in Toronto ({year})"
-seoDescription: "{n} Toronto underground electronic collectives, DJ crews and club nights — warehouse parties, after-hours techno, inclusive floors."
+seoDescription: "{n} Toronto underground electronic collectives, DJ crews and club nights, warehouse parties, after-hours techno, inclusive floors."
 seoHeading: "Underground DJs & Dance Nights in Toronto"
 listNoun: "DJ nights and venues"
 order: 6
@@ -20,7 +20,7 @@ order: 6
 - **Find it:** [afriquelikeme.com](https://www.afriquelikeme.com/)
 
 ## Box of Kittens
-- **What:** A Toronto underground institution since the late 2000s — Mike Gibbs, Jamie Kidd, Hali and Fabio Palermo throw DIY warehouse and loft parties built on deep house and techno. Unpretentious, heads-down dancing and a crowd that knows the records
+- **What:** A Toronto underground institution since the late 2000s. Mike Gibbs, Jamie Kidd, Hali and Fabio Palermo throw DIY warehouse and loft parties built on deep house and techno. Unpretentious, heads-down dancing and a crowd that knows the records
 - **Where:** Toronto
 - **Find it:** [@boxofkittensmusic](https://www.instagram.com/boxofkittensmusic/)
 
@@ -36,7 +36,7 @@ order: 6
 - **Find it:** [yesyesyall.com](https://www.yesyesyall.com/)
 
 ## System Toronto
-- **What:** A Toronto techno collective and rave crew behind the TTC subway rave and early Holy Priest shows. They pair hard, fast club sounds with a community-first outlook — the kind of party where you leave with new friends
+- **What:** A Toronto techno collective and rave crew behind the TTC subway rave and early Holy Priest shows. They pair hard, fast club sounds with a community-first outlook, the kind of party where you leave with new friends
 - **Where:** Toronto
 - **Find it:** [systemtoronto.com](https://www.systemtoronto.com/)
 
@@ -46,7 +46,7 @@ order: 6
 - **Find it:** [bodyclock.ca](https://www.bodyclock.ca/)
 
 ## Cherry Bomb
-- **What:** Running since 2007, Cherry Bomb is Toronto's longest-running party for queer women, trans and non-binary people — a flirty, inclusive night of pop, house and club classics. Big Pride editions and a welcoming crowd of regulars
+- **What:** Running since 2007, Cherry Bomb is Toronto's longest-running party for queer women, trans and non-binary people, a flirty, inclusive night of pop, house and club classics. Big Pride editions and a welcoming crowd of regulars
 - **When:** Monthly, roving venue
 - **Find it:** [@cherrybombtoronto](https://www.instagram.com/cherrybombtoronto/)
 
@@ -65,7 +65,7 @@ order: 6
 - **Find it:** [codatoronto.com](https://codatoronto.com/)
 
 ## The Piston
-- **What:** A snug Bloorcourt bar and live room that hosts techno, house and leftfield electronic nights — including Bodyclock — alongside live bands. Good sound and an easygoing crowd
+- **What:** A snug Bloorcourt bar and live room that hosts techno, house and leftfield electronic nights, including Bodyclock, alongside live bands. Good sound and an easygoing crowd
 - **Where:** 937 Bloor Street West
 - **Find it:** [thepiston.ca](https://thepiston.ca/)
 

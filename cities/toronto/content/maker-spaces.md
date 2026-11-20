@@ -2,7 +2,7 @@
 layout: category
 tags: category
 title: "Maker Spaces in Toronto"
-description: "{n} maker spaces in Toronto and the GTA — hackerspaces, shared workshops for 3D printing, laser cutting, woodworking and sewing, and a tool-lending library."
+description: "{n} maker spaces in Toronto and the GTA, hackerspaces, shared workshops for 3D printing, laser cutting, woodworking and sewing, and a tool-lending library."
 emoji: "🔧"
 group: work-tech
 seoTitle: "{n} Maker Spaces in Toronto: Workshops & Tools ({year})"
@@ -15,9 +15,9 @@ order: 3
 # 🔧 Maker Spaces in Toronto
 
 ## Site 3 CoLaboratory
-- **What:** Volunteer-run, non-profit maker space in a 2,000 sq ft west-end shop — woodworking, metalworking, welding, electronics, plastics and 3D printing. A community of makers, artists, inventors and tinkerers who create, display, teach and inspire
+- **What:** Volunteer-run, non-profit maker space in a 2,000 sq ft west-end shop, woodworking, metalworking, welding, electronics, plastics and 3D printing. A community of makers, artists, inventors and tinkerers who create, display, teach and inspire
 - **Where:** Bloor & Ossington
-- **When:** Open house Thursdays 7–10pm
+- **When:** Open house Thursdays 7-10pm
 - **Cost:** $60/mo + HST
 - **Find it:** [site3.ca](https://www.site3.ca/)
 
@@ -34,13 +34,13 @@ order: 3
 - **Find it:** [interaccess.org](https://www.interaccess.org/)
 
 ## Toronto Tool Library
-- **What:** Non-profit tool-lending library running since 2012 — thousands of tools to borrow for up to a week, plus hands-on workshops in leathercraft, sewing and home repair. A friendly, practical DIY community
+- **What:** Non-profit tool-lending library running since 2012, thousands of tools to borrow for up to a week, plus hands-on workshops in leathercraft, sewing and home repair. A friendly, practical DIY community
 - **Where:** 192 Spadina Ave, Kensington Market
 - **Cost:** $85/year
 - **Find it:** [torontotoollibrary.com](https://torontotoollibrary.com/)
 
 ## Shoppe & Tailor Studios
-- **What:** Queer-owned textile maker space and rental sewing studio — a fully equipped studio for garment makers, with private lessons, workshops and a studio collective of small fashion businesses
+- **What:** Queer-owned textile maker space and rental sewing studio, a fully equipped studio for garment makers, with private lessons, workshops and a studio collective of small fashion businesses
 - **Where:** 163 Sterling Rd, Unit 167, The Junction
 - **Find it:** [shoppeandtailor.com](https://www.shoppeandtailor.com/)
 

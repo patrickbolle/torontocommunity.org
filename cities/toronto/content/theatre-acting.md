@@ -20,7 +20,7 @@ order: 8
 - **Find it:** [alumnaetheatre.com](https://alumnaetheatre.com/)
 
 ## Village Players
-- **What:** Volunteer-run community theatre in the heart of Bloor West Village, putting on five shows a season — from British farce to contemporary drama. Auditions are open to the public and backstage help is always welcome
+- **What:** Volunteer-run community theatre in the heart of Bloor West Village, putting on five shows a season, from British farce to contemporary drama. Auditions are open to the public and backstage help is always welcome
 - **Where:** 2190E Bloor Street West, Bloor West Village
 - **Find it:** [villageplayers.net](https://villageplayers.net/)
 
@@ -45,7 +45,7 @@ order: 8
 - **Find it:** [oshawalittletheatre.com](https://oshawalittletheatre.com/)
 
 ## No Strings Theatre
-- **What:** Toronto music theatre company for young and emerging artists, with a teen intensive for ages 13–17 in acting, singing and dancing, a summer opera intensive, and a workshop series
+- **What:** Toronto music theatre company for young and emerging artists, with a teen intensive for ages 13-17 in acting, singing and dancing, a summer opera intensive, and a workshop series
 - **Where:** Toronto
 - **Find it:** [nostringstheatre.com](https://nostringstheatre.com/)
 

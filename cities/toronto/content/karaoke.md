@@ -2,11 +2,11 @@
 layout: category
 tags: category
 title: "Karaoke Bars & Nights in Toronto"
-description: "{n} karaoke bars and nights in Toronto — private rooms, live-band sing-alongs, and weekly neighbourhood stages where the room sings along ({year})."
+description: "{n} karaoke bars and nights in Toronto, private rooms, live-band sing-alongs, and weekly neighbourhood stages where the room sings along ({year})."
 emoji: "🎙️"
 group: social
 seoTitle: "{n} Karaoke Bars & Nights in Toronto ({year})"
-seoDescription: "{n} karaoke bars and nights in Toronto — private rooms, live-band karaoke and weekly neighbourhood stages. No talent required."
+seoDescription: "{n} karaoke bars and nights in Toronto, private rooms, live-band karaoke and weekly neighbourhood stages. No talent required."
 listNoun: "karaoke bars and nights"
 seoHeading: "Karaoke Bars & Nights in Toronto"
 order: 4
@@ -27,14 +27,14 @@ order: 4
 - **Find it:** [threedollarbill.ca/amuse-bouche-karaoke](https://www.threedollarbill.ca/amuse-bouche-karaoke)
 
 ## Cassette Karaoke
-- **What:** Weekly Saturday karaoke in the Gladstone House bar, hosted by Question Everything — no cover, no pressure, and a crowd that knows every word. Once a month the mic goes live-band with Good Enough Live Karaoke.
+- **What:** Weekly Saturday karaoke in the Gladstone House bar, hosted by Question Everything, free, low-pressure, and a crowd that knows every word. Once a month the mic goes live-band with Good Enough Live Karaoke.
 - **Where:** Cassette, 1214 Queen St W
 - **When:** Saturdays 8pm; live band monthly
 - **Cost:** No cover
 - **Find it:** [cassetteto.com/whats-on](https://www.cassetteto.com/whats-on)
 
 ## Dina's Tavern Karaoke
-- **What:** A Spadina tavern deep in the local music scene, with karaoke several nights a week — Thursday nights with Ivan Rivers, live-band karaoke and guest-hosted parties. Affordable drinks, low attitude and plenty of regulars.
+- **What:** A Spadina tavern deep in the local music scene, with karaoke several nights a week. Thursday nights with Ivan Rivers, live-band karaoke and guest-hosted parties. Affordable drinks, low attitude and plenty of regulars.
 - **Where:** 486 Spadina Ave
 - **When:** Several nights weekly
 - **Find it:** [dinastavern.com](https://www.dinastavern.com/)
@@ -42,9 +42,9 @@ order: 4
 ## Saturday Karaoke at The Lodge
 - **What:** Free Saturday karaoke upstairs at O'Grady's, hosted by Brayo Bryans until 2am. A queer-friendly Church Street room with big anthems, late-night courage and a proper after-party crowd.
 - **Where:** The Lodge, 518 Church St (upstairs at O'Grady's)
-- **When:** Saturdays 10pm–2am
+- **When:** Saturdays 10pm, 2am
 - **Cost:** Free
-- **Find it:** [eventbrite.com — Saturday Karaoke at The Lodge](https://www.eventbrite.com/e/saturday-karaoke-with-brayo-bryans-at-the-lodge-tickets-2002610394599)
+- **Find it:** [eventbrite.com. Saturday Karaoke at The Lodge](https://www.eventbrite.com/e/saturday-karaoke-with-brayo-bryans-at-the-lodge-tickets-2002610394599)
 
 ---
 

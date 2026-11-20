@@ -2,7 +2,7 @@
 layout: post
 tags: post
 title: "Karaoke in Toronto: private rooms, bars and weekly nights"
-description: "Private rooms on Yonge Street, free Saturday karaoke in Church-Wellesley and weekly bar nights across Toronto — where to sing and how to join in."
+description: "Private rooms on Yonge Street, free Saturday karaoke in Church-Wellesley and weekly bar nights across Toronto, where to sing and how to join in."
 date: 2026-10-09
 faq:
   - q: "Where can I rent a private karaoke room in Toronto?"
@@ -17,7 +17,7 @@ faq:
 
 Karaoke is a strange gift. Almost nobody is good at it, and that's the point. You stand up, you get it a bit wrong, and a room of strangers cheers anyway. Not many places in a city let you be bad at something in public and still feel welcome.
 
-Toronto has a few kinds of karaoke. There are private rooms where only your friends can hear you. There are bars with a weekly night and a crowd. And there are late-night rooms that keep going until last call. Here's how to pick, sorted by how brave you feel. Every spot below comes from [the directory's karaoke page](/karaoke/).
+Toronto has a few kinds of karaoke. There are private rooms where only your friends can hear you. There are bars with a weekly night and a crowd. And there are late-night rooms that keep going until last call. How to pick, sorted by how brave you feel. All of these come from [the directory's karaoke page](/karaoke/).
 
 ## Private karaoke rooms
 

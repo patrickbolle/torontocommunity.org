@@ -53,7 +53,7 @@ added: 2026-11-14
 - **Find it:** [etobicokehort.ca/monthly-meetings-1](https://etobicokehort.ca/monthly-meetings-1)
 
 ## East York Garden Club
-- **What:** "Getting dirty together since 1926" — a friendly club for gardeners of all levels, with guest speakers, plant sales and community beautification projects
+- **What:** "Getting dirty together since 1926", a friendly club for gardeners of all levels, with guest speakers, plant sales and community beautification projects
 - **Where:** Stan Wadlow Clubhouse, 373 Cedarvale Ave
 - **When:** Third Monday monthly, 7:30pm
 - **Cost:** $25/year individual
@@ -62,14 +62,14 @@ added: 2026-11-14
 ## Horticultural Societies of Parkdale & Toronto
 - **What:** The Hort brings Parkdale and Toronto gardeners together for monthly speakers, community garden projects and the Parkdale Seedy Saturday & Eco Fair. Guests are welcome
 - **Where:** Bonar-Parkdale Presbyterian Church, 250 Dunn Ave
-- **When:** Last Monday monthly, Sept–May
+- **When:** Last Monday monthly, Sept, May
 - **Cost:** $5 suggested for guests
 - **Find it:** [parkdaletorontohort.com](https://www.parkdaletorontohort.com/)
 
 ## Cloverleaf Garden Club of Mississauga
 - **What:** Mississauga garden club with expert guest speakers, a plant sale and a friendly room of gardeners happy to answer questions
 - **Where:** Mississauga Seniors' Centre, 1389 Cawthra Rd
-- **When:** Third Wednesday monthly, Jan–Jun & Sept–Nov, 7pm
+- **When:** Third Wednesday monthly, Jan, Jun & Sept, Nov, 7pm
 - **Find it:** [cloverleafgardenclub.org/meetings-events](https://www.cloverleafgardenclub.org/meetings-events)
 
 ---

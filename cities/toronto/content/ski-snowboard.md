@@ -2,7 +2,7 @@
 layout: category
 tags: category
 title: "Ski & Snowboard Clubs in Toronto"
-description: "{n} ski and snowboard clubs around Toronto, plus the local hills — adult day-trip clubs, backcountry crews, adaptive programs and where to learn ({year})."
+description: "{n} ski and snowboard clubs around Toronto, plus the local hills, adult day-trip clubs, backcountry crews, adaptive programs and where to learn ({year})."
 emoji: "🎿"
 group: outdoor
 seoTitle: "{n} Ski & Snowboard Clubs & Hills in Toronto ({year})"
@@ -36,7 +36,7 @@ added: 2026-11-14
 - **When:** Sundays
 - **Find it:** [skifivewinds.wildapricot.org](https://skifivewinds.wildapricot.org/)
 
-## Alpine Club of Canada — Toronto Section
+## Alpine Club of Canada. Toronto Section
 - **What:** The Toronto wing of the national alpine club. Members backcountry ski, cross-country ski and ski tour, alongside ice climbing, mountaineering and hiking trips. A good fit if you like your turns earned and want partners who take snow safety seriously
 - **Find it:** [alpineclubofcanada.ca/section/toronto](https://alpineclubofcanada.ca/section/toronto/)
 
@@ -61,10 +61,10 @@ added: 2026-11-14
 ## Earl Bales Ski & Snowboard Centre
 - **What:** The City of Toronto's own ski hill in North York, with beginner and intermediate runs, rentals and city-run lessons for kids and adults. Inexpensive lift tickets and night skiing make it the easiest place in the city to learn
 - **Where:** Earl Bales Park, North York
-- **Find it:** [toronto.ca — downhill ski & snowboard centres](https://www.toronto.ca/explore-enjoy/parks-recreation/program-activities/ice-snow-activities/downhill-skiing-snowboarding-centres/)
+- **Find it:** [toronto.ca, downhill ski & snowboard centres](https://www.toronto.ca/explore-enjoy/parks-recreation/program-activities/ice-snow-activities/downhill-skiing-snowboarding-centres/)
 
 ## Blue Mountain
-- **What:** Ontario's biggest resort and the default weekend mountain for Toronto skiers — dozens of runs, terrain parks, night skiing, and a village of bars and restaurants at the bottom. Where a lot of GTA bus trips end up
+- **What:** Ontario's biggest resort and the default weekend mountain for Toronto skiers, dozens of runs, terrain parks, night skiing, and a village of bars and restaurants at the bottom. Where a lot of GTA bus trips end up
 - **Where:** Collingwood
 - **Find it:** [bluemountain.ca](https://www.bluemountain.ca/)
 

@@ -2,9 +2,9 @@
 layout: category
 tags: category
 title: "Film Clubs & Indie Cinemas"
-description: "{n} film clubs and indie cinemas in Toronto — repertory screenings, filmmaker workshops, film festivals ({year})."
+description: "{n} film clubs and indie cinemas in Toronto, repertory screenings, filmmaker workshops, film festivals ({year})."
 seoTitle: "{n} Film Clubs & Indie Cinemas in Toronto ({year})"
-seoDescription: "{n} film clubs and indie cinemas in Toronto — repertory screenings, filmmaker workshops, film festivals ({year})."
+seoDescription: "{n} film clubs and indie cinemas in Toronto, repertory screenings, filmmaker workshops, film festivals ({year})."
 emoji: "🎬"
 group: creative
 order: 3

@@ -2,7 +2,7 @@
 layout: category
 tags: category
 title: "Coworking Spaces"
-description: "{n} coworking spaces in Toronto — social-impact hubs, boutique living-room spaces and creative studios. Ask each one about day passes."
+description: "{n} coworking spaces in Toronto, social-impact hubs, boutique living-room spaces and creative studios. Ask each one about day passes."
 emoji: "💻"
 group: work-tech
 seoTitle: "{n} Coworking Spaces in Toronto with Community ({year})"
@@ -21,7 +21,7 @@ order: 2
 ## Venues & Spaces
 
 ## Centre for Social Innovation (CSI)
-- **What:** Canada's largest social innovation community, with hot desks, dedicated desks and private offices at its Spadina hub. Nonprofits, artists and impact founders fill the room, and the events calendar is the real draw — come for the desk, stay for the collaborators
+- **What:** Canada's largest social innovation community, with hot desks, dedicated desks and private offices at its Spadina hub. Nonprofits, artists and impact founders fill the room, and the events calendar is the real draw, come for the desk, stay for the collaborators
 - **Where:** 192 Spadina Ave (Spadina & Richmond)
 - **Find it:** [socialinnovation.org/coworking](https://socialinnovation.org/coworking/)
 
@@ -41,7 +41,7 @@ order: 2
 - **Find it:** [workplaceone.ca](https://www.workplaceone.ca)
 
 ## Adelaide House Coworking
-- **What:** Boutique coworking in a converted garment-cutting warehouse in the Fashion District — tall ceilings, warm wood and a lounge that feels like home. Hot desks, dedicated desks and day passes, with a smaller, homey feel than the big coworking chains
+- **What:** Boutique coworking in a converted garment-cutting warehouse in the Fashion District, tall ceilings, warm wood and a lounge that feels like home. Hot desks, dedicated desks and day passes, with a smaller, homey feel than the big coworking chains
 - **Where:** 410 Adelaide St W (Fashion District)
 - **Cost:** $40 day pass
 - **Find it:** [adelaidehousecoworking.com](https://adelaidehousecoworking.com)

@@ -2,11 +2,11 @@
 layout: category
 tags: category
 title: "Climbing Gyms & Clubs"
-description: "{n} climbing gyms and clubs in Toronto — bouldering, top-rope and outdoor meetups, plus places to find a belay partner."
+description: "{n} climbing gyms and clubs in Toronto, bouldering, top-rope and outdoor meetups, plus places to find a belay partner."
 emoji: "🧗"
 group: outdoor
 seoTitle: "{n} Climbing Gyms in Toronto: Bouldering & Ropes ({year})"
-seoDescription: "{n} climbing gyms and clubs in Toronto — bouldering, top-rope, lead and outdoor trips, plus meetups for finding a belay partner."
+seoDescription: "{n} climbing gyms and clubs in Toronto, bouldering, top-rope, lead and outdoor trips, plus meetups for finding a belay partner."
 seoHeading: "Climbing Gyms & Clubs in Toronto"
 listNoun: "climbing gyms"
 order: 4
@@ -15,18 +15,18 @@ order: 4
 # 🧗 Climbing in Toronto
 
 ## Toronto Climbing Club
-- **What:** A volunteer-run community hub for indoor and outdoor climbers across the GTA — gym meetups, partner-finding, weekend crag trips and social events. Newcomers are genuinely welcome
+- **What:** A volunteer-run community hub for indoor and outdoor climbers across the GTA, gym meetups, partner-finding, weekend crag trips and social events. Newcomers are genuinely welcome
 - **Where:** Gyms across the GTA
 - **Cost:** Free to join
 - **Find it:** [torontoclimbingclub.ca](https://www.torontoclimbingclub.ca/)
 
-## Alpine Club of Canada — Toronto Section
+## Alpine Club of Canada. Toronto Section
 - **What:** The Toronto section of Canada's national alpine club, with rock and ice climbing trips, mountaineering courses, clinics and pub nights. A deep bench of experienced climbers happy to show newcomers the ropes
 - **Where:** Toronto; trips across Ontario and beyond
 - **Find it:** [alpineclubtoronto.ca](https://alpineclubtoronto.ca/)
 
 ## Queer Climb Toronto
-- **What:** A community for queer and trans climbers to meet, climb and find partners, with regular meetups at GTA gyms. Low-pressure and social, whether you're brand new or projecting hard
+- **What:** A community for queer and trans climbers to meet, climb and find partners, with regular meetups at GTA gyms. Low-pressure and social, for new and experienced climbers alike.
 - **Where:** Gyms around Toronto
 - **Find it:** [instagram.com/queerclimbto](https://www.instagram.com/queerclimbto/)
 
@@ -35,7 +35,7 @@ order: 4
 ## Venues & Spaces
 
 ## Boulderz Climbing Centre
-- **What:** Bouldering-focused gym in the Junction Triangle with a full fitness area and weekly resets. Three GTA locations — the Junction, a big Etobicoke gym and The Cave in Mississauga — so there's always a new wall to try
+- **What:** Bouldering-focused gym in the Junction Triangle with a full fitness area and weekly resets. Three GTA locations, the Junction, a big Etobicoke gym and The Cave in Mississauga, so there's always a new wall to try
 - **Where:** Junction Triangle (1444 Dupont St), plus Etobicoke and Mississauga
 - **Find it:** [boulderzclimbing.com](https://boulderzclimbing.com/)
 

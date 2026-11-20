@@ -2,11 +2,11 @@
 layout: category
 tags: category
 title: "Cycling Clubs"
-description: "{n} Toronto cycling clubs and bike shops — social coffee rides, gravel crews, women-and-queer rides, and road racing."
+description: "{n} Toronto cycling clubs and bike shops, social coffee rides, gravel crews, women-and-queer rides, and road racing."
 emoji: "🚴"
 group: outdoor
 seoTitle: "{n} Cycling Clubs & Shops in Toronto ({year})"
-seoDescription: "{n} cycling clubs and bike shops in Toronto — social coffee rides, gravel crews, women-and-queer rides, and road racing. Find your people."
+seoDescription: "{n} cycling clubs and bike shops in Toronto, social coffee rides, gravel crews, women-and-queer rides, and road racing. Find your people."
 seoHeading: "Cycling Clubs & Group Rides in Toronto"
 listNoun: "cycling groups & shops"
 order: 3
@@ -15,7 +15,7 @@ order: 3
 # 🚴 Cycling Clubs in Toronto
 
 ## Toronto Bicycling Network
-- **What:** The GTA's largest recreational cycling club, run by volunteers, with urban and country rides for every level — leisurely downtown loops to fast rural centuries. A busy social calendar of pub quizzes, hikes and trips makes it easy to meet people off the bike too
+- **What:** The GTA's largest recreational cycling club, run by volunteers, with urban and country rides for every level, leisurely downtown loops to fast rural centuries. A busy social calendar of pub quizzes, hikes and trips makes it easy to meet people off the bike too
 - **Where:** Start points across Toronto
 - **When:** Rides almost every day in season
 - **Cost:** $50/year
@@ -28,7 +28,7 @@ order: 3
 - **Find it:** [darkhorseflyers.ca](http://www.darkhorseflyers.ca/)
 
 ## LapDogs Cycling Club
-- **What:** Multi-discipline club since 2003 — road, mountain, cyclocross, gravel and track — with rides near High Park and in the east end. Women and gender-diverse riders new to the club can request a first-ride chaperone
+- **What:** Multi-discipline club since 2003, road, mountain, cyclocross, gravel and track, with rides near High Park and in the east end. Women and gender-diverse riders new to the club can request a first-ride chaperone
 - **Where:** High Park & the east end
 - **Find it:** [lapdogs.ca](https://www.lapdogs.ca/)
 
@@ -39,7 +39,7 @@ order: 3
 - **Find it:** [midweekcyclingclub.ca](https://www.midweekcyclingclub.ca/)
 
 ## Beaches Cycling Club
-- **What:** A Beaches-based club since 2007 with a safety-first, social culture — road, gravel, mountain and triathlon riders all welcome. New members do a short intro session, then join early-morning rides and coffee stops
+- **What:** A Beaches-based club since 2007 with a safety-first, social culture, road, gravel, mountain and triathlon riders all welcome. New members do a short intro session, then join early-morning rides and coffee stops
 - **Where:** Beaches
 - **When:** Saturday mornings
 - **Cost:** $80/year + Ontario Cycling
@@ -80,17 +80,17 @@ order: 3
 - **Cost:** $50/year for stokers; free for captains
 - **Find it:** [trailblazerstandem.org](https://trailblazerstandem.org/)
 
-## Randonneurs Ontario — Toronto Chapter
-- **What:** Non-competitive, self-supported long-distance riding — brevets start at 200 km and run through the countryside on weekends. A small, generous community for riders who like all-day adventures
+## Randonneurs Ontario. Toronto Chapter
+- **What:** Non-competitive, self-supported long-distance riding, brevets start at 200 km and run through the countryside on weekends. A small, generous community for riders who like all-day adventures
 - **Where:** Starts in Leslieville, Mimico & High Park
 - **When:** Weekends
 - **Cost:** First ride free, then $40/year
 - **Find it:** [randonneursontario.ca](https://www.randonneursontario.ca/calendar)
 
 ## Toronto Cruisers
-- **What:** Free Wednesday-night social rides with lights and music — a hop-on, hop-off cruise that keeps the group together and changes route every week. No membership, no RSVP, just show up
+- **What:** Free Wednesday-night social rides with lights and music, a hop-on, hop-off cruise that keeps the group together and changes route every week. No membership or RSVP. Just show up.
 - **Where:** Bloor St W & Huron St
-- **When:** Wednesdays 8pm, May–August
+- **When:** Wednesdays 8pm, May, August
 - **Cost:** Free
 - **Find it:** [torontocruisers.com](http://torontocruisers.com/)
 
@@ -99,7 +99,7 @@ order: 3
 ## Venues & Resources
 
 ## Bateman's Bicycle Company
-- **What:** Two Toronto shops that double as a ride hub — free Thursday-evening mountain bike rides in the Don Valley split into slow, medium and fast groups, plus road, gravel, women's and kids' rides
+- **What:** Two Toronto shops that double as a ride hub, free Thursday-evening mountain bike rides in the Don Valley split into slow, medium and fast groups, plus road, gravel, women's and kids' rides
 - **Where:** 49 Laird Dr & Bathurst St
 - **When:** Thursdays 6pm
 - **Cost:** Free
@@ -113,6 +113,6 @@ order: 3
 ## Bikechain
 - **What:** A non-profit DIY bike shop at the University of Toronto that runs free, beginner-friendly Tuesday-evening rides at a talking pace. U of T students can borrow a bike for free
 - **Where:** University of Toronto
-- **When:** Tuesdays, May–September
+- **When:** Tuesdays, May, September
 - **Cost:** Free
 - **Find it:** [bikechain.ca](https://bikechain.ca/)

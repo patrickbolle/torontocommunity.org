@@ -16,7 +16,7 @@ added: 2026-11-14
 # 🐉 D&D & Tabletop RPG Groups in Toronto
 
 ## TorontoDnD
-- **What:** Citywide D&D community running drop-in one-shots and ongoing tables around Toronto, from Newbie Night to high-level epic adventures. Book a seat online and sit down with a welcoming table — no campaign commitment needed
+- **What:** Citywide D&D community running drop-in one-shots and ongoing tables around Toronto, from Newbie Night to high-level epic adventures. Book a seat online and sit down with a welcoming table, no campaign commitment needed
 - **Where:** Venues across the city, including The Guild House and Storm Crow Manor
 - **When:** Games most nights of the week
 - **Find it:** [torontodnd.com](https://www.torontodnd.com/)

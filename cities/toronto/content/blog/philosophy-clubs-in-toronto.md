@@ -19,7 +19,7 @@ Some people want small talk. Some people want to ask, "But what is a good life, 
 
 Philosophy groups are a quiet gift for making friends. You skip the "so what do you do?" part and go straight to what people actually think. After one evening of arguing gently about free will, you know someone better than after a month of office lunches.
 
-Here's where to go, sorted by the kind of conversation you want. Most of the groups below come from [the directory's philosophy page](/philosophy-intellectual/); the book club lives on [the book clubs page](/book-clubs/).
+Start with the kind of conversation you want. Most of these come from [the directory's philosophy page](/philosophy-intellectual/); the book club lives on [the book clubs page](/book-clubs/).
 
 ## If you're new and a bit nervous
 
@@ -27,11 +27,11 @@ Here's where to go, sorted by the kind of conversation you want. Most of the gro
 
 ## If you want a weekly habit
 
-**[Practical Philosophy Toronto](/philosophy-intellectual/#practical-philosophy-toronto)** is the weekly one. It meets once a week, rotating between Wednesday and Thursday, 7:30–9:30pm downtown. The format is deliberate: a short introduction, then small groups of six to eight working through one topic, then a closing reflection. No philosophy background is required, there's no dogma, and it's free with optional donations. The Toronto chapter started in October 2024 and has become the largest in the world, with evenings that can draw more than 100 people. Check Meetup for the current venue.
+**[Practical Philosophy Toronto](/philosophy-intellectual/#practical-philosophy-toronto)** is the weekly one. It meets once a week, rotating between Wednesday and Thursday, 7:30-9:30pm downtown. The format is deliberate: a short introduction, then small groups of six to eight working through one topic, then a closing reflection. No philosophy background is required, there's no dogma, and it's free with optional donations. The Toronto chapter started in October 2024 and has become the largest in the world, with evenings that can draw more than 100 people. Check Meetup for the current venue.
 
 ## If you'd rather start from a book
 
-**[Book Club for Humans](/book-clubs/#book-club-for-humans)** is the bookish route in. It reads non-fiction about human behaviour, culture and thinking, and its Short Reads Socials pair a monthly topic with a few short readings and open philosophical discussion — controversial topics included, as long as everyone argues in good faith. It meets at Madison Avenue Pub on the second and last Wednesdays at 6:30pm. Attendance is free, with a pay-what-you-can bucket for Meetup costs. More than 1,400 members, and a solid crowd of regulars who actually show up.
+**[Book Club for Humans](/book-clubs/#book-club-for-humans)** is the bookish route in. It reads non-fiction about human behaviour, culture and thinking, and its Short Reads Socials pair a monthly topic with a few short readings and open philosophical discussion, controversial topics included, as long as everyone argues in good faith. It meets at Madison Avenue Pub on the second and last Wednesdays at 6:30pm. Attendance is free, with a pay-what-you-can bucket for Meetup costs. More than 1,400 members, and a solid crowd of regulars who actually show up.
 
 A book gives everyone the same starting point. That helps a lot if you're shy. You can always say, "I loved chapter three," and the conversation takes off from there.
 
@@ -41,7 +41,7 @@ A book gives everyone the same starting point. That helps a lot if you're shy. Y
 
 ## If you like a monthly theme
 
-**[Stoa of Ontario (Toronto Stoics)](/philosophy-intellectual/#stoa-of-ontario-%28toronto-stoics%29)** gathers mid-month to take one Stoic quote or concept and work out how it holds up in modern life — part seminar, part practical advice. It's casual and conversational, at a member's home in York (the address is on Meetup), and welcomes long-time practitioners and the merely curious alike. About 350 members, so you'll be in the conversation, not the audience.
+**[Stoa of Ontario (Toronto Stoics)](/philosophy-intellectual/#stoa-of-ontario-%28toronto-stoics%29)** gathers mid-month to take one Stoic quote or concept and work out how it holds up in modern life, part seminar, part practical advice. It's casual and conversational, at a member's home in York (the address is on Meetup), and welcomes long-time practitioners and the merely curious alike. About 350 members, so you'll be in the conversation, not the audience.
 
 ## How to enjoy your first discussion
 

@@ -2,7 +2,7 @@
 layout: category
 tags: category
 title: "Writing Groups & Workshops"
-description: "{n} writing groups in Toronto plus literary venues — free critique circles, genre meetups, screenwriting labs and drop-in workshops ({year})."
+description: "{n} writing groups in Toronto plus literary venues, free critique circles, genre meetups, screenwriting labs and drop-in workshops ({year})."
 emoji: "✍️"
 group: creative
 order: 4
@@ -24,7 +24,7 @@ order: 4
 ## Toronto SFF Writers
 - **What:** Sci-fi, fantasy and horror writers who meet for structured critique, writing sprints and pub nights. Open to speculative fiction writers at any level, in person or online.
 - **Where:** The Blake House, Toronto
-- **When:** Saturdays 1–4pm
+- **When:** Saturdays 1-4pm
 - **Cost:** Free
 - **Find it:** [torontosffwriters.com](https://www.torontosffwriters.com/)
 
@@ -48,7 +48,7 @@ order: 4
 ## Mississauga Writers Group
 - **What:** A large, welcoming writers' group with monthly meetings, anthologies, writing contests and a quarterly e-zine. Members write poetry, prose and everything in between.
 - **Where:** Meadowvale Community Centre, Mississauga
-- **When:** Second Saturday monthly, 9am–1pm
+- **When:** Second Saturday monthly, 9am, 1pm
 - **Find it:** [mississaugawritersgroup.ca](https://mississaugawritersgroup.ca/)
 
 ## Writers' Community of Durham Region
@@ -79,7 +79,7 @@ order: 4
 ## Venues & Resources
 
 ## Another Story Bookshop
-- **What:** Independent bookshop on Roncesvalles that hosts book launches, readings and open mics — a steady home for Toronto's literary community.
+- **What:** Independent bookshop on Roncesvalles that hosts book launches, readings and open mics, a steady home for Toronto's literary community.
 - **Where:** 315 Roncesvalles Ave
 - **Find it:** [anotherstory.ca](https://anotherstory.ca/)
 

@@ -17,7 +17,7 @@ faq:
 
 There's something about listening to a record with other people. Nobody skips a track. Nobody checks their phone between songs. You hear an album the way the band meant it, start to finish, and then someone turns to you and says, "That second side, though."
 
-Toronto has a small, lovely vinyl scene. There are real listening bars in Dovercourt, College Street, King West, Yorkville and Roncesvalles, record shops that host parties, and a handful of stores where you can lose an afternoon. Here's where to go, sorted by the kind of night you want. Every spot below comes from [the directory's vinyl page](/vinyl-listening-bars/).
+Toronto has a small, lovely vinyl scene. There are real listening bars in Dovercourt, College Street, King West, Yorkville and Roncesvalles, record shops that host parties, and a handful of stores where you can lose an afternoon. Start with the kind of night you want. All of these come from [the directory's vinyl page](/vinyl-listening-bars/).
 
 ## If you want a listening bar
 
@@ -25,7 +25,7 @@ Toronto has a small, lovely vinyl scene. There are real listening bars in Doverc
 
 **[The Little Jerry](/vinyl-listening-bars/#the-little-jerry)** at 418 College St is a tiny wine, beer and cider bar with a high-fidelity system and records at the centre of the room. It's named after a Seinfeld episode, and the music gets as much attention as the drinks. Small rooms like this are good for conversation: you're close enough to ask the person beside you what's playing.
 
-**[Vinny](/vinyl-listening-bars/#vinny)** at 480 King St W is the dinner-and-late-night pick. The King West restaurant has a '70s rec-room feel — wood panelling, vintage speakers, stacks of records — and dinner rolls into DJ-led nights Thursday to Saturday. Reservations are encouraged, and walk-ins are welcome.
+**[Vinny](/vinyl-listening-bars/#vinny)** at 480 King St W is the dinner-and-late-night pick. The King West restaurant has a '70s rec-room feel, wood panelling, vintage speakers, stacks of records, and dinner rolls into DJ-led nights Thursday to Saturday. Reservations are encouraged, and walk-ins are welcome.
 
 **[TOKI Listening Bar](/vinyl-listening-bars/#toki-listening-bar)** is behind a curtain inside W Toronto at 90 Bloor St E. It's Tokyo-style: rare records, whisky-forward cocktails and vinyl DJs on a system tuned for detail. Intimate and a little hush-hush, which makes it a good date or a good place to disappear for an hour.
 

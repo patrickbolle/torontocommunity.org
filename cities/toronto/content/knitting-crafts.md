@@ -6,7 +6,7 @@ description: "{n} knitting circles, crochet meetups and weaving, spinning and qu
 emoji: "🧶"
 group: creative
 seoTitle: "{n} Knitting Groups & Fibre Guilds in Toronto ({year})"
-seoDescription: "{n} places to knit, crochet and spin in Toronto — guilds, stitch nights and a Kensington yarn shop. Bring your project. Beginners welcome."
+seoDescription: "{n} places to knit, crochet and spin in Toronto, guilds, stitch nights and a Kensington yarn shop. Bring your project. Beginners welcome."
 listNoun: "knitting groups"
 seoHeading: "Knitting Groups & Fibre Guilds in Toronto"
 order: 9
@@ -42,7 +42,7 @@ added: 2026-11-14
 
 ## Etobicoke Rugcrafters
 - **What:** Traditional rug hooking group and a branch of the Ontario Hooking Craft Guild. Members work in primitive, pictorial, oriental and geometric styles, with mini-workshops, trips and a yearly gallery show. Evening sessions run the 2nd and 4th Tuesday, and help for beginners is part of the deal
-- **When:** 1st, 3rd & 5th Tue 9am–4pm
+- **When:** 1st, 3rd & 5th Tue 9am, 4pm
 - **Cost:** $35/year plus NPCC membership
 - **Where:** Neilson Park Creative Centre, 56 Neilson Dr, Etobicoke
 - **Find it:** [etobicokerugcrafters.com](https://www.etobicokerugcrafters.com/)
@@ -56,7 +56,7 @@ added: 2026-11-14
 
 ## Mississauga Handweavers and Spinners Guild
 - **What:** Weavers, spinners and dyers who also wander into beading, basketry and other fibre arts. Monthly program meetings, anniversary displays and a lot of shared know-how between members
-- **When:** 4th Monday, Sept–May, 1:30pm
+- **When:** 4th Monday, Sept, May, 1:30pm
 - **Where:** River Grove Community Centre, 5800 River Grove Ave, Mississauga
 - **Find it:** [mississaugaweaversandspinners.wordpress.com](https://mississaugaweaversandspinners.wordpress.com/)
 
@@ -72,6 +72,6 @@ added: 2026-11-14
 
 ## Yarns Untangled
 - **What:** Kensington Market yarn boutique full of Canadian hand-dyed yarn, with classes and a welcoming stitch night. Every second Wednesday the table fills with knitters, crocheters and people who just want to sit and make something
-- **When:** Every second Wednesday, 6–9pm
+- **When:** Every second Wednesday, 6-9pm
 - **Where:** 86 Nassau St
 - **Find it:** [yarnsuntangled.com](https://yarnsuntangled.com/)

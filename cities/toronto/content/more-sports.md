@@ -2,7 +2,7 @@
 layout: category
 tags: category
 title: "Rec Sports Leagues"
-description: "{n} rec sports leagues and clubs in Toronto — co-ed social leagues, ultimate, flag football, curling, squash, table tennis, and more."
+description: "{n} rec sports leagues and clubs in Toronto, co-ed social leagues, ultimate, flag football, curling, squash, table tennis, and more."
 emoji: "⚽"
 group: outdoor
 seoTitle: "{n} Rec Sports Leagues & Clubs in Toronto ({year})"
@@ -15,7 +15,7 @@ order: 7
 # ⚽ Rec Sports Leagues in Toronto
 
 ## JAM Sports Toronto
-- **What:** Adult rec leagues and tournaments in 20+ sports — soccer, volleyball, basketball, flag football, dodgeball, kickball and lawn bowling among them. Join with a team or sign up solo, year-round, across the city. Built for meeting people
+- **What:** Adult rec leagues and tournaments in 20+ sports, soccer, volleyball, basketball, flag football, dodgeball, kickball and lawn bowling among them. Join with a team or sign up solo, year-round, across the city. Built for meeting people
 - **Where:** Venues across Toronto
 - **Find it:** [toronto.jamsports.com](https://toronto.jamsports.com)
 
@@ -39,7 +39,7 @@ order: 7
 - **Find it:** [torontoflagfootball.com](https://torontoflagfootball.com)
 
 ## Toronto Spartan Volleyball League (TSVL)
-- **What:** Canada's largest LGBTQ2S+ sport organization, running competitive, intermediate and recreational volleyball nights. Volunteer-run and welcoming, whether you are new to the sport or a longtime player
+- **What:** Canada's largest LGBTQ2S+ sport organization, running competitive, intermediate and recreational volleyball nights. Volunteer-run and welcoming to new and longtime players.
 - **When:** Tuesday, Wednesday & Thursday evenings
 - **Find it:** [tsvl.org](https://www.tsvl.org)
 

@@ -155,7 +155,7 @@ window.vcSearch = (function () {
   // Top CAP results, then a "Show all N" button that reveals the rest.
   function render(el, list, source, showAll) {
     if (!list.length) {
-      el.innerHTML = '<p class="search-empty">Nothing yet — but you could <a href="/blog/start-a-group/">start one</a>, or <a href="/submit/">tell us about one</a>.</p>';
+      el.innerHTML = '<p class="search-empty">Nothing yet, but you could <a href="/blog/start-a-group/">start one</a>, or <a href="/submit/">tell us about one</a>.</p>';
       return;
     }
     var shown = showAll ? list : list.slice(0, CAP);
@@ -586,7 +586,7 @@ document.addEventListener('DOMContentLoaded', function() {
       if (startQuery) { groupSearch.value = startQuery; homeSearch.run(true); }
     }
 
-    // Make entire group card clickable — open the group's visit link
+    // Make entire group card clickable, open the group's visit link
     document.querySelectorAll('.group-card').forEach(function(card) {
       if (card._bound) return;
       card._bound = true;
@@ -724,7 +724,7 @@ document.addEventListener('DOMContentLoaded', function() {
     toast.innerHTML =
       '<div class="verify-toast-inner">' +
         '<p class="verify-toast-question">Anything wrong with <strong>' + safeName + '</strong>?</p>' +
-        '<p class="verify-toast-subtitle">Dead link, wrong info, closed group — anything helps.</p>' +
+        '<p class="verify-toast-subtitle">Dead link, wrong info, closed group, anything helps.</p>' +
         '<div class="verify-toast-actions">' +
           '<button type="button" class="verify-btn verify-btn-yes" data-status="active">Looks good</button>' +
           '<button type="button" class="verify-btn verify-btn-no" data-status="issue">Report an issue</button>' +
@@ -758,13 +758,13 @@ document.addEventListener('DOMContentLoaded', function() {
     toast.querySelector('.verify-btn-dismiss').addEventListener('click', function() { dismissToast(toast); });
     toast.querySelector('.verify-btn-cancel').addEventListener('click', function() { dismissToast(toast); });
 
-    // "Looks good" — quick positive signal
+    // "Looks good", quick positive signal
     toast.querySelector('.verify-btn-yes').addEventListener('click', function() {
       sendVerification(groupName, url, category, 'active', '');
       showToastThanks(toast);
     });
 
-    // "Something's wrong" — expand detail input
+    // "Something's wrong", expand detail input
     toast.querySelector('.verify-btn-no').addEventListener('click', function() {
       toast.querySelector('.verify-toast-actions').style.display = 'none';
       toast.querySelector('.verify-toast-detail').style.display = 'flex';

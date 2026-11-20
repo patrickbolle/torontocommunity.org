@@ -2,11 +2,11 @@
 layout: category
 tags: category
 title: "Photography Clubs in Toronto"
-description: "{n} photography clubs and groups in Toronto — camera clubs, photowalks and street-shoot meetups for every level, plus galleries and a citywide festival."
+description: "{n} photography clubs and groups in Toronto, camera clubs, photowalks and street-shoot meetups for every level, plus galleries and a citywide festival."
 emoji: "📷"
 group: creative
 seoTitle: "Toronto Photography Clubs & Photowalks ({year})"
-seoDescription: "Camera clubs, photowalks and street photography meetups across Toronto and the GTA — beginners to pros welcome. {n} groups and resources."
+seoDescription: "Camera clubs, photowalks and street photography meetups across Toronto and the GTA, beginners to pros welcome. {n} groups and resources."
 seoHeading: "Photography Clubs in Toronto"
 listNoun: "photography clubs & resources"
 order: 2
@@ -19,7 +19,7 @@ order: 2
 - **Find it:** [torontocameraclub.com](https://torontocameraclub.com/)
 
 ## Toronto Photo Walks
-- **What:** An informal crew that photographs Toronto one walk at a time — parks, streets and neighbourhoods, with a wide mix of abilities from accomplished shooters to people just starting out. Walks are posted on the site and everyone is welcome
+- **What:** An informal crew that photographs Toronto one walk at a time, parks, streets and neighbourhoods, with a wide mix of abilities from accomplished shooters to people just starting out. Walks are posted on the site and everyone is welcome
 - **Where:** Across Toronto
 - **Find it:** [torontophotowalks.ca](https://torontophotowalks.ca/)
 
@@ -38,7 +38,7 @@ order: 2
 ## Mississauga Camera Club
 - **What:** A big, welcoming club that has been running since 1954, with members from complete beginners to professionals. Meetings mix guest speakers, image reviews and special-interest groups
 - **Where:** Lucy Turnbull Auditorium, 1389 Cawthra Road, Mississauga
-- **When:** 1st & 3rd Thursday, Sept–June
+- **When:** 1st & 3rd Thursday, Sept, June
 - **Find it:** [mcc.mississaugacameraclub.ca](https://mcc.mississaugacameraclub.ca/)
 
 ## Chinese Canadian Photographic Society of Toronto
@@ -48,7 +48,7 @@ order: 2
 - **Find it:** [ccpst.com](https://ccpst.com/)
 
 ## Get Out & Shoot Toronto
-- **What:** A big, active Meetup community that gets people out shooting across the city and beyond — landscapes, portraits, street photography and weekend trips. All gear and skill levels welcome, smartphones included
+- **What:** A big, active Meetup community that gets people out shooting across the city and beyond, landscapes, portraits, street photography and weekend trips. All gear and skill levels welcome, smartphones included
 - **Where:** Across Toronto
 - **Find it:** [meetup.com/get-out-shoot-toronto-meetup](https://www.meetup.com/get-out-shoot-toronto-meetup/)
 
@@ -68,5 +68,5 @@ order: 2
 - **Find it:** [gallery44.org](https://www.gallery44.org/)
 
 ## CONTACT Photography Festival
-- **What:** Annual citywide photography festival each May — exhibitions, public installations and talks across Toronto galleries and public spaces
+- **What:** Annual citywide photography festival each May, exhibitions, public installations and talks across Toronto galleries and public spaces
 - **Find it:** [contactphoto.com](https://contactphoto.com/)

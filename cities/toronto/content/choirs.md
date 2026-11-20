@@ -2,7 +2,7 @@
 layout: category
 tags: category
 title: "Choirs & Singing"
-description: "{n} community choirs in Toronto — pop and rock choirs, LGBTQ+ choirs, barbershop and no-audition groups for beginners."
+description: "{n} community choirs in Toronto, pop and rock choirs, LGBTQ+ choirs, barbershop and no-audition groups for beginners."
 emoji: "🎼"
 group: creative
 seoTitle: "{n} Community Choirs in Toronto: Join a Choir ({year})"
@@ -47,7 +47,7 @@ added: 2026-11-14
 - **Find it:** [torontochoristers.ca](https://torontochoristers.ca/)
 
 ## PCS Singers Brampton
-- **What:** Brampton's longest-running community choir, founded in 1971. Non-auditioned and open to singers 16 and up — reading music helps, but they'll teach you as you go
+- **What:** Brampton's longest-running community choir, founded in 1971. Non-auditioned and open to singers 16 and up, reading music helps, but they'll teach you as you go
 - **Where:** Emmanuel United Church, 420 Balmoral Dr, Brampton
 - **When:** Mondays 7pm
 - **Cost:** $280/year
@@ -68,11 +68,11 @@ added: 2026-11-14
 - **Find it:** [paxchristichorale.org](https://www.paxchristichorale.org/)
 
 ## Toronto Northern Lights
-- **What:** Ontario's premier barbershop chorus, singing four-part harmony a cappella. Guests — experienced barbershop singers or just the curious — are welcome to sit in on a Monday rehearsal
+- **What:** Ontario's premier barbershop chorus, singing four-part harmony a cappella. Guests, experienced barbershop singers or just the curious, are welcome to sit in on a Monday rehearsal
 - **Where:** Willowdale Baptist Church, 15 Olive Ave, North York
 - **When:** Mondays 7pm
 - **Find it:** [northernlightschorus.com](https://northernlightschorus.com/)
 
 ## Choir! Choir! Choir!
-- **What:** Toronto-born participatory singalong founded in 2011 by Daveed Goldman and Nobu Adilman. They teach a custom arrangement of a pop or rock song, then a room full of strangers sings it together — no experience or rehearsal needed
+- **What:** Toronto-born participatory singalong founded in 2011 by Daveed Goldman and Nobu Adilman. They teach a custom arrangement of a pop or rock song, then a room full of strangers sings it together, no experience or rehearsal needed
 - **Find it:** [choirchoirchoir.com](https://www.choirchoirchoir.com/)

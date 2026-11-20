@@ -2,7 +2,7 @@
 layout: category
 tags: category
 title: "Book Clubs in Toronto"
-description: "{n} book clubs in Toronto — silent reading sessions, spirited debates, sci-fi & fantasy picks, and read-what-you-love meetups ({year})."
+description: "{n} book clubs in Toronto, silent reading sessions, spirited debates, sci-fi & fantasy picks, and read-what-you-love meetups ({year})."
 emoji: "📚"
 group: intellectual
 order: 1
@@ -11,7 +11,7 @@ order: 1
 # 📚 Book Clubs in Toronto
 
 ## Silent Book Club (Toronto)
-- **What:** Readers gather to read their own books in companionable silence, then chat about what they're reading. Free, low-pressure, introvert-friendly — no assigned book to finish
+- **What:** Readers gather to read their own books in companionable silence, then chat about what they're reading. Free, low-pressure, introvert-friendly, no assigned book to finish
 - **Find it:** [meetup.com/toronto-silent-book-club-meetup-group](https://www.meetup.com/toronto-silent-book-club-meetup-group/)
 
 ## Rebel Book Club Toronto
@@ -20,17 +20,17 @@ order: 1
 - **Find it:** [rebelbook.club/cities/toronto](https://rebelbook.club/cities/toronto)
 
 ## The Gloss Book Club Toronto
-- **What:** Book club for women that reads the same book worldwide and meets up locally — Toronto is where it all began
+- **What:** Book club for women that reads the same book worldwide and meets up locally. Toronto is where it all began
 - **When:** Monthly
 - **Find it:** [theglossbookclub.com/toronto](https://theglossbookclub.com/toronto)
 
 ## Flying Books Book Club
-- **What:** Monthly book club at this indie bookshop — your ticket includes a drink and a $20 credit toward any book in the shop
+- **What:** Monthly book club at this indie bookshop, your ticket includes a drink and a $20 credit toward any book in the shop
 - **Where:** Neverland, 371 Queen St W
 - **Find it:** [flyingbooks.ca/events](https://www.flyingbooks.ca/events)
 
 ## Another Story Bookshop
-- **What:** Roncesvalles indie that hosts the Violet Hour Book Club — classic and queer-lit reads over discussion — plus regular author events
+- **What:** Roncesvalles indie that hosts the Violet Hour Book Club, classic and queer-lit reads over discussion, plus regular author events
 - **Where:** 315 Roncesvalles Ave
 - **Find it:** [anotherstory.ca/events](https://anotherstory.ca/events)
 
@@ -55,7 +55,7 @@ order: 1
 - **Find it:** [bookclubs.com/club/toronto-sci-fi-fantasy-for-20s-and-30s](https://bookclubs.com/join-a-book-club/club/toronto-sci-fi-fantasy-for-20s-and-30s)
 
 ## The Augur Bookshelf
-- **What:** Monthly speculative-fiction book club from Toronto's Augur Magazine — SFF picks across fiction, poetry, comics and plays, sourced with Bakka-Phoenix Books
+- **What:** Monthly speculative-fiction book club from Toronto's Augur Magazine. SFF picks across fiction, poetry, comics and plays, sourced with Bakka-Phoenix Books
 - **When:** Fourth Monday monthly
 - **Find it:** [augursociety.org](https://augursociety.org/augur-society-launches-a-new-book-club-the-augur-bookshelf/)
 

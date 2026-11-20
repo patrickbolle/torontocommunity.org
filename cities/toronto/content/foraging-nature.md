@@ -2,7 +2,7 @@
 layout: category
 tags: category
 title: "Foraging & Nature"
-description: "{n} foraging and nature groups in Toronto & the GTA — mushroom forays, wild edible walks, fruit picking and guided nature hikes."
+description: "{n} foraging and nature groups in Toronto & the GTA, mushroom forays, wild edible walks, fruit picking and guided nature hikes."
 emoji: "🍄"
 group: mind-body
 order: 3
@@ -21,7 +21,7 @@ listNoun: "foraging groups"
 - **Find it:** [myctor.org/forays/current](https://www.myctor.org/forays/current)
 
 ## Toronto Field Naturalists
-- **What:** Volunteer naturalist club running more than 100 guided walks a year — birds, plants, trees, geology and ravines — plus a monthly public walk, lectures and a juniors program. Going since 1923
+- **What:** Volunteer naturalist club running more than 100 guided walks a year, birds, plants, trees, geology and ravines, plus a monthly public walk, lectures and a juniors program. Going since 1923
 - **Where:** City-wide
 - **When:** Year-round
 - **Find it:** [torontofieldnaturalists.org](https://torontofieldnaturalists.org/)
@@ -51,7 +51,7 @@ listNoun: "foraging groups"
 - **Find it:** [highparknaturecentre.com](https://highparknaturecentre.com/)
 
 ## Toronto Nature Stewards
-- **What:** Volunteer network restoring Toronto's ravines and natural areas — pulling invasive plants, planting natives and learning plant ID from trained lead stewards. Hands-on conservation with a genuinely social crew
+- **What:** Volunteer network restoring Toronto's ravines and natural areas, pulling invasive plants, planting natives and learning plant ID from trained lead stewards. Hands-on conservation with a genuinely social crew
 - **Where:** 50-plus sites across Toronto
 - **Cost:** Free to volunteer
 - **Find it:** [torontonaturestewards.org](https://torontonaturestewards.org/)

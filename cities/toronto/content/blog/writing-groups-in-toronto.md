@@ -8,7 +8,7 @@ faq:
   - q: "How do I find a writing group in Toronto?"
     a: "Start with what you need. If you need to get words down, try a free Shut Up & Write Toronto session at the Theatre Centre Café/Bar or near Bloor-Yonge. If you want people to read your work, Toronto Public Library runs writers' groups at branches across the city. If you write sci-fi, fantasy or horror, Toronto SFF Writers runs weekly critiques and a monthly pub night. The Toronto Community Directory lists active writing groups on its writing page."
   - q: "What is a shut up and write session?"
-    a: "You meet other writers, write quietly on your own project for a set block of time, then chat afterwards. Shut Up & Write Toronto runs free sessions in person — West Queen West on Saturday mornings, plus meetups near Bloor-Yonge and Sheppard-Yonge — and timed sprints online. Bring whatever you're working on; nobody reads it."
+    a: "You meet other writers, write quietly on your own project for a set block of time, then chat afterwards. Shut Up & Write Toronto runs free sessions in person. West Queen West on Saturday mornings, plus meetups near Bloor-Yonge and Sheppard-Yonge, and timed sprints online. Bring whatever you're working on; nobody reads it."
   - q: "Are there writing groups in Toronto for sci-fi and fantasy writers?"
     a: "Yes. Toronto SFF Writers is a volunteer-run collective for speculative fiction writers. It runs weekly in-person critique sessions (in High Park through the summer), Sunday writing sprints in person and online, virtual readings and feedback, and a monthly pub night. Its events are free."
   - q: "Are there online writing groups in Toronto?"
@@ -17,7 +17,7 @@ faq:
 
 Writing is lonely work. That's partly the appeal. But at some point most writers want a room of people doing the same strange thing, even if nobody talks for an hour.
 
-Toronto has a good handful of these rooms. Some are silent. Some are social. Some care a lot about dragons. Here's how to find the one that fits, sorted by the kind of writer you are. The directory keeps its running list on [the writing page](/writing/).
+Toronto has a good handful of these rooms. Some are silent. Some are social. Some care a lot about dragons. How to find the one that fits, sorted by the kind of writer you are. The directory keeps its running list on [the writing page](/writing/).
 
 ## If you need to actually get words down
 
@@ -45,7 +45,7 @@ Some writers want more than a weekly session. They want an organisation that wil
 
 **[Mississauga Writers Group](https://mississaugawritersgroup.ca/)** is the GTA option: monthly meetings at Mississauga Central Library, workshops, and a member anthology that gives everyone something to aim at. It's a good fit if you're west of the city and don't want to cross it for a critique.
 
-**[Writers Collective of Canada](https://wcc-cec.org/)** is the other: a workshop organisation rather than a critique circle. Its community writing workshops run at Toronto Public Library branches and online, and the format is deliberately gentle — write together, share a first draft if you feel like it, listen. Register ahead; the calendar fills.
+**[Writers Collective of Canada](https://wcc-cec.org/)** is the other: a workshop organisation rather than a critique circle. Its community writing workshops run at Toronto Public Library branches and online, and the format is deliberately gentle, write together, share a first draft if you feel like it, listen. Register ahead; the calendar fills.
 
 ## If you're a poet
 

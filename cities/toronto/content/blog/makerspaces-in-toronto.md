@@ -17,7 +17,7 @@ faq:
 
 There's a special kind of friendship that starts over a workbench. Someone sees you struggling with a jig, wanders over, and says, "Here, try it this way." Ten minutes later you're both covered in sawdust and talking about the next project.
 
-That's what a makerspace gives you: tools you couldn't fit in an apartment, and people who love to make things. Toronto has a good mix, from a volunteer-run hackerspace to a shared shop with a welding bay to free repair nights at the library. Here's how to pick one. Every place below comes from [the directory's maker spaces page](/maker-spaces/).
+That's what a makerspace gives you: tools you couldn't fit in an apartment, and people who love to make things. Toronto has a good mix, from a volunteer-run hackerspace to a shared shop with a welding bay to free repair nights at the library. How to pick one. All of these come from [the directory's maker spaces page](/maker-spaces/).
 
 ## If you want a hackerspace
 

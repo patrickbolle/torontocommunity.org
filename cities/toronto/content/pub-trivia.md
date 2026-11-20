@@ -2,11 +2,11 @@
 layout: category
 tags: category
 title: "Pub Trivia Nights in Toronto"
-description: "{n} pub trivia nights and hosts in Toronto and the GTA — weekly quizzes, themed rounds and free-to-play games at neighbourhood bars ({year})."
+description: "{n} pub trivia nights and hosts in Toronto and the GTA, weekly quizzes, themed rounds and free-to-play games at neighbourhood bars ({year})."
 emoji: "🧠"
 group: social
 seoTitle: "{n} Pub Trivia Nights in Toronto ({year})"
-seoDescription: "{n} pub trivia nights and hosts in Toronto — weekly quizzes, themed rounds and free-to-play games from Parkdale to the Beaches."
+seoDescription: "{n} pub trivia nights and hosts in Toronto, weekly quizzes, themed rounds and free-to-play games from Parkdale to the Beaches."
 listNoun: "pub trivia nights"
 seoHeading: "Pub Trivia Nights in Toronto"
 order: 5
@@ -38,11 +38,11 @@ order: 5
 ## ruby PUB TRIVIA
 - **What:** A GTA pub-quiz outfit with a fully visual, audio-driven show, phone scoring and a hostmaster running the room. They play at bars and breweries across Etobicoke, Mississauga, Oakville, Brampton and Toronto, so there's usually a game a short drive from home.
 - **Where:** Etobicoke, Mississauga, Oakville, Brampton and across the GTA
-- **When:** Weekly, Monday–Thursday & Sunday
+- **When:** Weekly, Monday, Thursday & Sunday
 - **Find it:** [rubypubtrivia.ca](https://www.rubypubtrivia.ca/)
 
 ## The Rhino
-- **What:** A Parkdale bar and grill that turns Monday nights into a proper weekly quiz. Grab a table, order a pint and settle in — the pub posts the latest news and announcements on Instagram.
+- **What:** A Parkdale bar and grill that turns Monday nights into a proper weekly quiz. Grab a table, order a pint and settle in, the pub posts the latest news and announcements on Instagram.
 - **Where:** 1249 Queen St W, Parkdale
 - **When:** Mondays 8pm
 - **Find it:** [therhino.ca/trivia](https://www.therhino.ca/trivia)
@@ -57,18 +57,18 @@ order: 5
 - **What:** Bi-weekly trivia in the Steam Whistle Kitchen inside the historic John Street Roundhouse, with the CN Tower out the window. Teams of any size, questions spanning movies, music, history and sports, and a Pint & Pretzel combo before kickoff.
 - **Where:** 255 Bremner Blvd, downtown
 - **When:** Every other Tuesday 7:30pm
-- **Find it:** [steamwhistle.ca — Tuesday trivia](https://steamwhistle.ca/blogs/news/trivia-night-toronto-tuesday)
+- **Find it:** [steamwhistle.ca. Tuesday trivia](https://steamwhistle.ca/blogs/news/trivia-night-toronto-tuesday)
 
 ## Hemingway's
-- **What:** A Yorkville pub that has called the neighbourhood home for 42 years and leans into themed trivia — The Office, Name That Tune, Harry Potter, Star Wars and 90s nights. Rooftop patio, New Zealand pub food and a crowd that comes ready to play.
+- **What:** A Yorkville pub that has called the neighbourhood home for 42 years and leans into themed trivia. The Office, Name That Tune, Harry Potter, Star Wars and 90s nights. Rooftop patio, New Zealand pub food and a crowd that comes ready to play.
 - **Where:** 142 Cumberland St, Yorkville
 - **When:** Weekly themed trivia
 - **Find it:** [hemingways.to/events](https://hemingways.to/events)
 
 ## Snakes & Lattes Annex
-- **What:** The board game café's Annex location runs general trivia every Tuesday, with a $50 gift card for the winning team and $5 pints and cans. A low-stakes room for mixed-interest groups, whether you're a trivia regular or just here for the snacks.
+- **What:** The board game café's Annex location runs general trivia every Tuesday, with a $50 gift card for the winning team and $5 pints and cans. A low-stakes room for mixed-interest groups.
 - **Where:** 600 Bloor St W, the Annex
-- **When:** Tuesdays 7–9pm
+- **When:** Tuesdays 7-9pm
 - **Find it:** [snakesandlattes.com/events-toronto](https://www.snakesandlattes.com/events-toronto)
 
 ## The Stone Lion
@@ -92,4 +92,4 @@ order: 5
 - **Where:** 1589 The Queensway, Etobicoke
 - **When:** Wednesdays 7:30pm
 - **Cost:** Free
-- **Find it:** [eventbrite.ca — Wednesday Night Trivia at Nickel Brook](https://www.eventbrite.ca/e/wednesday-night-trivia-at-nickel-brook-brewing-co-in-etobicoke-tickets-1999855848678)
+- **Find it:** [eventbrite.ca. Wednesday Night Trivia at Nickel Brook](https://www.eventbrite.ca/e/wednesday-night-trivia-at-nickel-brook-brewing-co-in-etobicoke-tickets-1999855848678)

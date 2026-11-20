@@ -15,7 +15,7 @@ faq:
     a: "Yes. The Mindfulness Practice Community follows Thich Nhat Hanh's Plum Village tradition, the Theravada Buddhist Community practises in the Ajahn Chah forest tradition, DDM Toronto Centre is Chan, Nalandabodhi Toronto is Tibetan, and the Toronto Zen Centre has sat in High Park since 1967."
 ---
 
-Most people start meditating alone, at home, with an app. That works for a while. Sitting quietly in a room with other people is different: a strange kind of company, but company. Toronto has a good range of these rooms, Buddhist and otherwise, and a few are free. Every group below is on [the directory's meditation page](/mindfulness-meditation/).
+Most people start meditating alone, at home, with an app. That works for a while. Sitting quietly in a room with other people is different: a strange kind of company, but company. Toronto has a good range of these rooms, Buddhist and otherwise, and a few are free. All of these are on [the directory's meditation page](/mindfulness-meditation/).
 
 ## If you want to try it for free
 
@@ -71,7 +71,7 @@ Meditation is a gentle way into a group. You don't have to talk much. You just h
 
 Go three times before you decide. The first sit, you'll feel stiff and new. By the third, you'll know where to sit and someone will nod hello. That nod is a small thing. It adds up.
 
-Pick a night that already fits: Sundays at Theravada, Mondays at Consciousness Explorers, the 2nd and 4th Monday at Tergar, Fridays at Snow Lion, the third Sunday at Brahma Kumaris. Geography helps too — Zen in High Park and the Mindfulness Practice Community in Roncesvalles for the west end; Theravada on Danforth and Nalandabodhi in Leslieville for the east; DDM in Scarborough, Heartfulness in Mississauga, Brahma Kumaris in North York. Choose the one you can reach on a dark Tuesday in February.
+Pick a night that already fits: Sundays at Theravada, Mondays at Consciousness Explorers, the 2nd and 4th Monday at Tergar, Fridays at Snow Lion, the third Sunday at Brahma Kumaris. Geography helps too. Zen in High Park and the Mindfulness Practice Community in Roncesvalles for the west end; Theravada on Danforth and Nalandabodhi in Leslieville for the east; DDM in Scarborough, Heartfulness in Mississauga, Brahma Kumaris in North York. Choose the one you can reach on a dark Tuesday in February.
 
 Check the calendar before a holiday weekend, and note how each handles money: most are drop-in, the Zen Centre needs its workshop first, and Theravada runs on donation.
 

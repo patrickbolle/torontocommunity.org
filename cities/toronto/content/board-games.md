@@ -2,7 +2,7 @@
 layout: category
 tags: category
 title: "Board Game Groups"
-description: "{n} board game groups plus Toronto cafés, clubs and meetup nights — heavy strategy, casual drop-ins and friendly tables for all levels."
+description: "{n} board game groups plus Toronto cafés, clubs and meetup nights, heavy strategy, casual drop-ins and friendly tables for all levels."
 emoji: "🎲"
 group: intellectual
 order: 4
@@ -12,13 +12,13 @@ listNoun: "board game groups & venues"
 # 🎲 Board Game Groups in Toronto
 
 ## Toronto Heavy Boardgamers
-- **What:** A group for heavier, crunchier games — Euro games, war games and 18xx — with weekend sessions where experienced players break out long, complex titles. Friendly to anyone ready to move beyond party games
+- **What:** A group for heavier, crunchier games. Euro games, war games and 18xx, with weekend sessions where experienced players break out long, complex titles. Friendly to anyone ready to move beyond party games
 - **Where:** The Guild House, 579 St Clair Ave W; Face-to-Face Games, 1398 Danforth Ave
 - **When:** Weekends from 11am
 - **Find it:** [meetup.com/toronto-heavy-boardgamers](https://www.meetup.com/toronto-heavy-boardgamers/)
 
 ## Board Games and Social
-- **What:** Casual board games with a community feel — regulars teach the rules, beginners are welcome, and the group heads to a pub for food and drinks afterward. Mostly 20s–40s, and easy to join solo
+- **What:** Casual board games with a community feel, regulars teach the rules, beginners are welcome, and the group heads to a pub for food and drinks afterward. Mostly 20s, 40s, and easy to join solo
 - **Where:** 30 Leeds St
 - **When:** Fridays 6:30pm
 - **Find it:** [meetup.com/boardgamestoronto](https://www.meetup.com/boardgamestoronto/)
@@ -31,7 +31,7 @@ listNoun: "board game groups & venues"
 - **Find it:** [meetup.com/toronto-gaymers](https://www.meetup.com/toronto-gaymers/)
 
 ## Midtown Toronto Board Games
-- **What:** A relaxed weekly board game night for every experience level, with card and party games in the mix. Come alone or bring a friend — the point is meeting people
+- **What:** A relaxed weekly board game night for every experience level, with card and party games in the mix. Come alone or bring a friend, the point is meeting people
 - **Where:** Yonge Burger, 44 St Clair Ave E
 - **When:** Wednesdays
 - **Find it:** [meetup.com/midtown-toronto-board-games](https://www.meetup.com/midtown-toronto-board-games/)
@@ -45,7 +45,7 @@ listNoun: "board game groups & venues"
 ## Weekly Board Games @ For The Win
 - **What:** A weekly board game night at a Yonge & Lawrence café, with a big game library and staff who teach. Beginners and seasoned strategists both fit in
 - **Where:** For The Win Board Game Cafe & Bar, 3216 Yonge St
-- **When:** Thursdays 7–11pm
+- **When:** Thursdays 7-11pm
 - **Find it:** [meetup.com/for-the-win](https://www.meetup.com/for-the-win/)
 
 ## Mississauga Board Gamers United
@@ -70,7 +70,7 @@ listNoun: "board game groups & venues"
 ## Toronto Go Club
 - **What:** A Go club at The 519, teaching beginners and hosting tournaments. One of the calmest, most welcoming strategy game nights in the city
 - **Where:** The 519, 519 Church St
-- **When:** Sundays 1:30–4pm
+- **When:** Sundays 1:30-4pm
 - **Cost:** Free
 - **Find it:** [the519.org/programs/toronto-go-club](https://www.the519.org/programs/toronto-go-club/)
 

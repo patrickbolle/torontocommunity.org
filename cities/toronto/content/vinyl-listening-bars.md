@@ -2,12 +2,12 @@
 layout: category
 tags: category
 title: "Vinyl Bars & Record Stores in Toronto"
-description: "{n} vinyl listening bars and record shops in Toronto — hi-fi rooms, crate-digging, and album-listening parties across the city ({year})."
+description: "{n} vinyl listening bars and record shops in Toronto, hi-fi rooms, crate-digging, and album-listening parties across the city ({year})."
 emoji: "💿"
 group: community
 order: 2
 seoTitle: "{n} Vinyl Bars & Record Stores in Toronto ({year})"
-seoDescription: "{n} vinyl listening bars and record shops in Toronto — hi-fi rooms, deep crates and album-listening parties from Ossington to the Danforth."
+seoDescription: "{n} vinyl listening bars and record shops in Toronto, hi-fi rooms, deep crates and album-listening parties from Ossington to the Danforth."
 listNoun: "vinyl bars & record shops"
 seoHeading: "Vinyl Bars & Record Stores in Toronto"
 ---
@@ -25,7 +25,7 @@ seoHeading: "Vinyl Bars & Record Stores in Toronto"
 - **Find it:** [thelittlejerry.com](https://thelittlejerry.com/)
 
 ## Vinny
-- **What:** King West restaurant and vinyl bar with a '70s rec-room feel — wood panelling, vintage speakers and stacks of records. Dinner rolls into a DJ-led late night
+- **What:** King West restaurant and vinyl bar with a '70s rec-room feel, wood panelling, vintage speakers and stacks of records. Dinner rolls into a DJ-led late night
 - **Where:** 480 King St W, King West
 - **Find it:** [vinnytoronto.com](https://vinnytoronto.com/)
 
@@ -44,7 +44,7 @@ seoHeading: "Vinyl Bars & Record Stores in Toronto"
 ## Venues & Spaces
 
 ## Rotate This
-- **What:** Independent record shop and long-running scene hub on Ossington. New and used records, staff picks, listening stations and in-store shows — a place to talk shop with people who care about the same records
+- **What:** Independent record shop and long-running scene hub on Ossington. New and used records, staff picks, listening stations and in-store shows, a place to talk shop with people who care about the same records
 - **Where:** 186 Ossington Ave, Ossington
 - **Find it:** [rotatethis.com](https://rotatethis.com/)
 
@@ -64,7 +64,7 @@ seoHeading: "Vinyl Bars & Record Stores in Toronto"
 - **Find it:** [playderecord.com](https://www.playderecord.com/)
 
 ## Press Vinyl Cafe
-- **What:** Record shop and coffee bar on the Danforth, with thousands of new and used records and cassettes across two floors. Pull a record, order a coffee and listen — no pretension, just a friendly neighbourhood room for music people
+- **What:** Record shop and coffee bar on the Danforth, with thousands of new and used records and cassettes across two floors. Pull a record, order a coffee and listen, no pretension, just a friendly neighbourhood room for music people
 - **Where:** 2442 Danforth Ave, East Danforth
 - **Find it:** [pressvinylcafe.com](https://pressvinylcafe.com/)
 

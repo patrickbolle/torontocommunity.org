@@ -2,12 +2,12 @@
 layout: category
 tags: category
 title: "Birdwatching"
-description: "{n} birdwatching and nature groups in Toronto & the GTA — guided walks, expert-led field trips, hawk watches and volunteer stewardship."
+description: "{n} birdwatching and nature groups in Toronto & the GTA, guided walks, expert-led field trips, hawk watches and volunteer stewardship."
 emoji: "🐦"
 group: mind-body
 order: 6
 seoTitle: "{n} Birdwatching Groups in Toronto ({year})"
-seoDescription: "Birding clubs, guided walks and nature groups across Toronto & the GTA — from High Park to Tommy Thompson Park. Find your flock."
+seoDescription: "Birding clubs, guided walks and nature groups across Toronto & the GTA, from High Park to Tommy Thompson Park. Find your flock."
 seoHeading: "Birdwatching Groups in Toronto"
 listNoun: "birding groups"
 ---
@@ -15,7 +15,7 @@ listNoun: "birding groups"
 # 🐦 Birdwatching in Toronto
 
 ## Toronto Field Naturalists
-- **What:** Volunteer-led walks and outings — more than 100 a year — covering birding, ecology, geology and Toronto's ravines. Public walks welcome newcomers; members get the full calendar.
+- **What:** Volunteer-led walks and outings, more than 100 a year, covering birding, ecology, geology and Toronto's ravines. Public walks welcome newcomers; members get the full calendar.
 - **Where:** Across Toronto
 - **When:** Year-round outings
 - **Find it:** [torontofieldnaturalists.org/walks](https://torontofieldnaturalists.org/walks/)
@@ -31,7 +31,7 @@ listNoun: "birding groups"
 - **Find it:** [ofo.ca/field-trips-events/event-calendar](https://ofo.ca/field-trips-events/event-calendar/)
 
 ## High Park Nature Centre
-- **What:** Adult nature clubs in High Park — Urban Naturalists, Adult Rangers stewardship, Branching Out multilingual hikes and a nature book club. Meet other curious city naturalists.
+- **What:** Adult nature clubs in High Park. Urban Naturalists, Adult Rangers stewardship, Branching Out multilingual hikes and a nature book club. Meet other curious city naturalists.
 - **Where:** High Park
 - **Find it:** [highparknaturecentre.com/adult-nature-clubs](https://highparknaturecentre.com/adult-nature-clubs/)
 
@@ -48,12 +48,12 @@ listNoun: "birding groups"
 - **Find it:** [theriverwoodconservancy.org/birding](https://theriverwoodconservancy.org/birding/)
 
 ## FLAP Canada
-- **What:** Volunteer-powered bird collision rescue and monitoring in the GTA — patrol buildings for injured birds, collect collision data and help make windows bird-safe.
+- **What:** Volunteer-powered bird collision rescue and monitoring in the GTA, patrol buildings for injured birds, collect collision data and help make windows bird-safe.
 - **Where:** Downtown Toronto & the GTA
 - **Find it:** [flap.org/get-involved](https://flap.org/get-involved/)
 
 ## Toronto Nature Stewards
-- **What:** Volunteer stewards restoring ravines and natural areas at 53 public sites across Toronto — invasive plant removal, native planting and community nature education.
+- **What:** Volunteer stewards restoring ravines and natural areas at 53 public sites across Toronto, invasive plant removal, native planting and community nature education.
 - **Where:** Across Toronto
 - **Find it:** [torontonaturestewards.org/get-involved](https://torontonaturestewards.org/get-involved/)
 
@@ -61,8 +61,8 @@ listNoun: "birding groups"
 
 ## Venues & Resources
 
-**[Toronto Birding Hotspots](https://www.torontobirding.ca/birding-hotspots)** — the Toronto Ornithological Club's guide to GTA birding locations, from High Park and the islands to the Leslie Street Spit.
+**[Toronto Birding Hotspots](https://www.torontobirding.ca/birding-hotspots)**, the Toronto Ornithological Club's guide to GTA birding locations, from High Park and the islands to the Leslie Street Spit.
 
-**[Rouge National Urban Park](https://www.pc.gc.ca/en/pn-np/on/rouge)** — Canada's first national urban park, with trails and birding across Scarborough and Durham Region. A big, free landscape for a full day out.
+**[Rouge National Urban Park](https://www.pc.gc.ca/en/pn-np/on/rouge)**. Canada's first national urban park, with trails and birding across Scarborough and Durham Region. A big, free landscape for a full day out.
 
-**[TRCA Parks](https://trca.ca/parks/)** — conservation areas and parks across the GTA, including Tommy Thompson Park, with birding events and seasonal nature programs.
+**[TRCA Parks](https://trca.ca/parks/)**, conservation areas and parks across the GTA, including Tommy Thompson Park, with birding events and seasonal nature programs.
