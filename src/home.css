@@ -33,3 +33,13 @@ h1, h2, h3, h4 { font-family: var(--font); }
 
 /* Content width: the handoff's 1344px fills the viewport edge-to-edge; pull it in */
 :root { --content-width: 1100px; }
+
+/* Editorial pages: flatten the old boxed panels into clean handoff-style sections */
+.panel { border: 0; background: transparent; box-shadow: none; margin-bottom: 28px; }
+.panel-title { background: transparent; border: 0; border-bottom: 1px solid var(--line); color: var(--ink); font-family: var(--font); font-size: 20px; letter-spacing: -.02em; padding: 0 0 8px; }
+.panel-body { padding: 14px 0 0; }
+.columns { display: grid; grid-template-columns: minmax(0, 2.1fr) minmax(240px, 1fr); gap: 44px; }
+.frame.page { max-width: var(--content-width); margin: 0 auto; padding: 0 24px; }
+.page-title { font-size: clamp(38px, 5vw, 60px); letter-spacing: -.05em; font-weight: 800; margin: 20px 0 10px; }
+.page-lede { color: var(--muted); max-width: 680px; line-height: 1.6; }
+@media (max-width: 900px) { .columns { grid-template-columns: 1fr; } }
