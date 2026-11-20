@@ -6,13 +6,15 @@ import { readFileSync, readdirSync } from "node:fs";
 import { join } from "node:path";
 import { createRequire } from "node:module";
 
-// Expands {{ mutuals.* }} tokens in markdown (see _data/mutuals.js).
-const mutuals = createRequire(import.meta.url)("../_data/mutuals.js");
+// Multi-city: city selected by CITY env (default "toronto").
+const CITY = process.env.CITY || "toronto";
+// Expands {{ mutuals.* }} tokens in markdown (see cities/<city>/_data/mutuals.js).
+const mutuals = createRequire(import.meta.url)(join("..", "cities", CITY, "_data", "mutuals.js"));
 
 const BUTTONDOWN_API = "https://api.buttondown.com/v1";
 const API_KEY = process.env.BUTTONDOWN_API_KEY;
 const SITE_URL = "https://torontocommunity.org";
-const CONTENT_DIR = join(process.cwd(), "content");
+const CONTENT_DIR = join(process.cwd(), "cities", CITY, "content");
 const DRY_RUN = process.argv.includes("--dry-run");
 
 if (!API_KEY && !DRY_RUN) {
@@ -23,7 +25,7 @@ if (!API_KEY && !DRY_RUN) {
 // ── Parse git log ──────────────────────────────────────────────
 
 function getRecentChanges() {
-  const log = execSync('git log --since="7 days ago" --format="%s" -- content/', {
+  const log = execSync(`git log --since="7 days ago" --format="%s" -- cities/${CITY}/content/`, {
     encoding: "utf-8",
   }).trim();
 
@@ -92,7 +94,7 @@ function getSpotlightCategory() {
 function getClassified() {
   try {
     const data = JSON.parse(
-      readFileSync(join(process.cwd(), "_data", "classifieds.json"), "utf-8")
+      readFileSync(join(process.cwd(), "cities", CITY, "_data", "classifieds.json"), "utf-8")
     );
     const today = new Date().toISOString().slice(0, 10);
     return (data.listings || []).find((c) => c.text && (!c.until || c.until >= today)) || null;

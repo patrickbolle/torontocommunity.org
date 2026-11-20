@@ -12,10 +12,13 @@ import { readFileSync, readdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 import { createRequire } from "node:module";
 
-// Expands {{ mutuals.* }} tokens in markdown (see _data/mutuals.js).
-const mutuals = createRequire(import.meta.url)("../_data/mutuals.js");
+// Multi-city: city selected by CITY env (default "toronto"), mirroring eleventy.config.js.
+const CITY = process.env.CITY || "toronto";
 
-const CONTENT_DIR = join(process.cwd(), "content");
+// Expands {{ mutuals.* }} tokens in markdown (see cities/<city>/_data/mutuals.js).
+const mutuals = createRequire(import.meta.url)(join("..", "cities", CITY, "_data", "mutuals.js"));
+
+const CONTENT_DIR = join(process.cwd(), "cities", CITY, "content");
 const CONCURRENCY = 6;
 const TIMEOUT_MS = 15000;
 // A real browser UA — a bot-identifying UA gets challenged/blocked far more
