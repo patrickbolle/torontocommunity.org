@@ -11,61 +11,61 @@ import {
   normalizeUrl,
 } from "./format.js";
 
-const GITHUB_REPO = "patrickbolle/vancouvercommunity.org";
+const GITHUB_REPO = "patrickbolle/torontocommunity.org";
 const DEFAULT_BRANCH = "main";
 
 // Map form categories to file names
 const CATEGORY_FILES = {
-  "dinner-supper-clubs": "content/dinner-supper-clubs.md",
-  "social-friend-clubs": "content/social-friend-clubs.md",
-  "run-clubs": "content/run-clubs.md",
-  "board-games": "content/board-games.md",
-  "tabletop-rpg": "content/tabletop-rpg.md",
-  "creative-art": "content/creative-art.md",
-  "photography": "content/photography.md",
-  "film-cinema": "content/film-cinema.md",
-  "writing": "content/writing.md",
-  "language-exchange": "content/language-exchange.md",
-  "hiking-outdoors": "content/hiking-outdoors.md",
-  "cycling": "content/cycling.md",
-  "paddling-sailing": "content/paddling-sailing.md",
-  "dance": "content/dance.md",
-  "improv-comedy": "content/improv-comedy.md",
-  "public-speaking": "content/public-speaking.md",
-  "music-open-mic": "content/music-open-mic.md",
-  "choirs": "content/choirs.md",
-  "climbing": "content/climbing.md",
-  "pickleball": "content/pickleball.md",
-  "more-sports": "content/more-sports.md",
-  "pottery-ceramics": "content/pottery-ceramics.md",
-  "knitting-crafts": "content/knitting-crafts.md",
-  "yoga-wellness": "content/yoga-wellness.md",
-  "sauna-cold-plunge": "content/sauna-cold-plunge.md",
-  "ski-snowboard": "content/ski-snowboard.md",
-  "mindfulness-meditation": "content/mindfulness-meditation.md",
-  "mens-groups": "content/mens-groups.md",
-  "maker-spaces": "content/maker-spaces.md",
-  "philosophy-intellectual": "content/philosophy-intellectual.md",
-  "book-clubs": "content/book-clubs.md",
-  "tech-startup": "content/tech-startup.md",
-  "coworking": "content/coworking.md",
-  "volunteer": "content/volunteer.md",
-  "vinyl-listening-bars": "content/vinyl-listening-bars.md",
-  "chess": "content/chess.md",
-  "underground-dj": "content/underground-dj.md",
-  "poetry-spoken-word": "content/poetry-spoken-word.md",
-  "tarot-astrology": "content/tarot-astrology.md",
-  "pub-trivia": "content/pub-trivia.md",
-  "zine-risograph": "content/zine-risograph.md",
-  "astronomy-stargazing": "content/astronomy-stargazing.md",
-  "foraging-nature": "content/foraging-nature.md",
-  "community-gardens": "content/community-gardens.md",
-  "birdwatching": "content/birdwatching.md",
-  "karaoke": "content/karaoke.md",
-  "resources": "content/resources.md",
-  "theatre-acting": "content/theatre-acting.md",
-  "dogs": "content/dogs.md",
-  "circus-flow": "content/circus-flow.md"
+  "dinner-supper-clubs": "cities/toronto/content/dinner-supper-clubs.md",
+  "social-friend-clubs": "cities/toronto/content/social-friend-clubs.md",
+  "run-clubs": "cities/toronto/content/run-clubs.md",
+  "board-games": "cities/toronto/content/board-games.md",
+  "tabletop-rpg": "cities/toronto/content/tabletop-rpg.md",
+  "creative-art": "cities/toronto/content/creative-art.md",
+  "photography": "cities/toronto/content/photography.md",
+  "film-cinema": "cities/toronto/content/film-cinema.md",
+  "writing": "cities/toronto/content/writing.md",
+  "language-exchange": "cities/toronto/content/language-exchange.md",
+  "hiking-outdoors": "cities/toronto/content/hiking-outdoors.md",
+  "cycling": "cities/toronto/content/cycling.md",
+  "paddling-sailing": "cities/toronto/content/paddling-sailing.md",
+  "dance": "cities/toronto/content/dance.md",
+  "improv-comedy": "cities/toronto/content/improv-comedy.md",
+  "public-speaking": "cities/toronto/content/public-speaking.md",
+  "music-open-mic": "cities/toronto/content/music-open-mic.md",
+  "choirs": "cities/toronto/content/choirs.md",
+  "climbing": "cities/toronto/content/climbing.md",
+  "pickleball": "cities/toronto/content/pickleball.md",
+  "more-sports": "cities/toronto/content/more-sports.md",
+  "pottery-ceramics": "cities/toronto/content/pottery-ceramics.md",
+  "knitting-crafts": "cities/toronto/content/knitting-crafts.md",
+  "yoga-wellness": "cities/toronto/content/yoga-wellness.md",
+  "sauna-cold-plunge": "cities/toronto/content/sauna-cold-plunge.md",
+  "ski-snowboard": "cities/toronto/content/ski-snowboard.md",
+  "mindfulness-meditation": "cities/toronto/content/mindfulness-meditation.md",
+  "mens-groups": "cities/toronto/content/mens-groups.md",
+  "maker-spaces": "cities/toronto/content/maker-spaces.md",
+  "philosophy-intellectual": "cities/toronto/content/philosophy-intellectual.md",
+  "book-clubs": "cities/toronto/content/book-clubs.md",
+  "tech-startup": "cities/toronto/content/tech-startup.md",
+  "coworking": "cities/toronto/content/coworking.md",
+  "volunteer": "cities/toronto/content/volunteer.md",
+  "vinyl-listening-bars": "cities/toronto/content/vinyl-listening-bars.md",
+  "chess": "cities/toronto/content/chess.md",
+  "underground-dj": "cities/toronto/content/underground-dj.md",
+  "poetry-spoken-word": "cities/toronto/content/poetry-spoken-word.md",
+  "tarot-astrology": "cities/toronto/content/tarot-astrology.md",
+  "pub-trivia": "cities/toronto/content/pub-trivia.md",
+  "zine-risograph": "cities/toronto/content/zine-risograph.md",
+  "astronomy-stargazing": "cities/toronto/content/astronomy-stargazing.md",
+  "foraging-nature": "cities/toronto/content/foraging-nature.md",
+  "community-gardens": "cities/toronto/content/community-gardens.md",
+  "birdwatching": "cities/toronto/content/birdwatching.md",
+  "karaoke": "cities/toronto/content/karaoke.md",
+  "resources": "cities/toronto/content/resources.md",
+  "theatre-acting": "cities/toronto/content/theatre-acting.md",
+  "dogs": "cities/toronto/content/dogs.md",
+  "circus-flow": "cities/toronto/content/circus-flow.md"
 };
 
 const corsHeaders = {
@@ -107,7 +107,7 @@ async function githubApi(endpoint, env, options = {}, rid) {
     headers: {
       "Authorization": `Bearer ${env.GITHUB_TOKEN}`,
       "Accept": "application/vnd.github+json",
-      "User-Agent": "Vancouver-Community-Bot",
+      "User-Agent": "Toronto-Community-Bot",
       "Content-Type": "application/json",
       ...options.headers
     }
@@ -302,7 +302,7 @@ ${f.cost ? `**Cost:** ${f.cost}` : ''}
 ${f.availability ? `**Who can join:** ${f.availability}` : ''}
 
 ---
-*Submitted via vancouvercommunity.org*
+*Submitted via torontocommunity.org*
 `;
 
   const pr = await githubApi(`/repos/${GITHUB_REPO}/pulls`, env, {
@@ -356,7 +356,7 @@ async function handleEdit(data, env, rid) {
   // Create a GitHub issue instead of replacing the file
   const issueBody = `## Edit Suggestion
 
-**Category:** [${categoryKey}](https://vancouvercommunity.org/${categoryKey}/)
+**Category:** [${categoryKey}](https://torontocommunity.org/${categoryKey}/)
 **File:** \`${fileName}\`
 
 ### What should change
@@ -365,7 +365,7 @@ ${summary}
 ${submittedBy ? `**Submitted by:** ${submittedBy}` : ''}
 
 ---
-*Submitted via vancouvercommunity.org*
+*Submitted via torontocommunity.org*
 `;
 
   const issue = await githubApi(`/repos/${GITHUB_REPO}/issues`, env, {
@@ -412,7 +412,7 @@ async function handleVerify(data, env, rid) {
   const issueBody = `## Link Verification Report
 
 **Group:** ${group}
-**Category:** [${categoryKey}](https://vancouvercommunity.org/${categoryKey}/)
+**Category:** [${categoryKey}](https://torontocommunity.org/${categoryKey}/)
 **URL:** ${reportedUrl ? reportedUrl.href : 'N/A'}
 
 ### Issue reported
@@ -464,7 +464,7 @@ ${u.cost ? `**Cost:** ${u.cost}` : ''}
 ${u.availability ? `**Who can join:** ${u.availability}` : ''}
 
 ---
-*Submitted via vancouvercommunity.org — category not matched, needs triage*
+*Submitted via torontocommunity.org — category not matched, needs triage*
 `;
 
   const issue = await githubApi(`/repos/${GITHUB_REPO}/issues`, env, {
@@ -545,7 +545,7 @@ export default {
       });
       return new Response(JSON.stringify({
         error: "Server error",
-        message: "Something went wrong. Please try again or email hello@vancouvercommunity.org.",
+        message: "Something went wrong. Please try again or email hello@torontocommunity.org.",
         rid
       }), { status: 500, headers: corsHeaders });
     }

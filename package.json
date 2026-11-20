@@ -1,12 +1,13 @@
 {
-  "name": "vancouver-communities",
+  "name": "toronto-communities",
   "private": true,
   "scripts": {
-    "dev": "npx @11ty/eleventy --serve",
-    "build": "npx @11ty/eleventy"
+    "dev": "CITY=toronto npx @11ty/eleventy --serve",
+    "build": "CITY=toronto npx @11ty/eleventy"
   },
   "devDependencies": {
     "@11ty/eleventy": "^3.0.0",
-    "markdown-it-anchor": "^9.2.0"
+    "markdown-it-anchor": "^9.2.0",
+    "wrangler": "^4.166.0"
   }
 }

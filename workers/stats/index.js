@@ -1,4 +1,4 @@
-// Cloudflare Worker for Vancouver Community stats (proxies Umami analytics)
+// Cloudflare Worker for Toronto Community stats (proxies Umami analytics)
 // Uses Cloudflare Cache API to avoid hitting Umami on every request
 
 const UMAMI_URL = "https://data.kwconcerts.ca";

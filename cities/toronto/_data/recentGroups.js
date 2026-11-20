@@ -15,7 +15,7 @@ const recent = [
 
 module.exports = function () {
   return recent.map((entry) => {
-    const filePath = path.join("content", entry.categorySlug + ".md");
+    const filePath = path.join(__dirname, "..", "content", entry.categorySlug + ".md");
     if (!fs.existsSync(filePath)) return null;
     const raw = mutuals.expand(fs.readFileSync(filePath, "utf-8"));
 

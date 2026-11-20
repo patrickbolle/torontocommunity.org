@@ -1,7 +1,19 @@
 const markdownItAnchor = require("markdown-it-anchor");
 const fs = require("fs");
 const path = require("path");
-const mutuals = require("./_data/mutuals.js");
+
+// --- Multi-city ---
+// The city is selected by the CITY env var (default "toronto"). City-specific
+// content, data, and static art live under cities/<city>/; everything else
+// (_includes, src, scripts, workers) is shared machinery and never changes per
+// city. To add a city: copy cities/toronto -> cities/<newcity>, edit its
+// _data/site.json, and build with CITY=<newcity>.
+const CITY = process.env.CITY || "toronto";
+const cityRoot = path.join("cities", CITY);                 // e.g. "cities/toronto"
+const cityDataDir = path.join(cityRoot, "_data");           // e.g. "cities/toronto/_data"
+const siteManifest = require(path.resolve(cityDataDir, "site.json"));
+const siteRef = siteManifest.ref || String(siteManifest.url || "").replace(/^https?:\/\//, "");
+const mutuals = require(path.resolve(cityDataDir, "mutuals.js"));
 
 // "Free" means the activity is free, not "alcohol-free", "feel free" or "first visit free".
 function isFreeText(text) {
@@ -16,7 +28,7 @@ module.exports = function (eleventyConfig) {
   // --- Passthrough copies (preserves existing URL paths) ---
   eleventyConfig.addPassthroughCopy({ "src/style.css": "_build/style.css" });
   eleventyConfig.addPassthroughCopy({ "src/main.js": "_build/main.js" });
-  eleventyConfig.addPassthroughCopy({ "static": "/" });
+  eleventyConfig.addPassthroughCopy({ [path.join(cityRoot, "static")]: "/" });
 
   // --- Markdown: add anchor links to h2 headings ---
   eleventyConfig.amendLibrary("md", (mdLib) => {
@@ -41,7 +53,7 @@ module.exports = function (eleventyConfig) {
           const url = new URL(href);
           // Links with their own UTM params (e.g. mutuals) keep them untouched.
           if (!url.searchParams.has("ref") && !url.searchParams.has("utm_source")) {
-            url.searchParams.set("ref", "vancouvercommunity.org");
+            url.searchParams.set("ref", siteRef);
             tokens[idx].attrSet("href", url.toString());
           }
           const domain = url.hostname.replace("www.", "");
@@ -169,7 +181,7 @@ module.exports = function (eleventyConfig) {
   // --- Helper: link a listing's location to its neighbourhood page ---
   // Uses the same aliases as the neighbourhood pages, so "(Kits)" on Run Clubs
   // links to /neighbourhoods/kitsilano/. First match only; plain text otherwise.
-  const hoods = require("./_data/neighbourhoods.js");
+  const hoods = require(path.resolve(cityDataDir, "neighbourhoods.js"));
   const hoodPatterns = hoods.map((h) => ({
     slug: h.slug,
     re: new RegExp(
@@ -391,9 +403,9 @@ module.exports = function (eleventyConfig) {
 
   return {
     dir: {
-      input: "content",
+      input: path.join(cityRoot, "content"),
       output: "site",
-      includes: "../_includes",
+      includes: "../../../_includes",
       data: "../_data",
     },
     markdownTemplateEngine: "njk",

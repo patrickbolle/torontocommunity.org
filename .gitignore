@@ -6,6 +6,15 @@ node_modules/
 *.png
 *.jpg
 *.jpeg
-!static/**
+!cities/**/static/**
 link-report.md
 link-issue.md
+
+# Local tooling + secrets (never commit)
+.npm-cache/
+.wrangler-home/
+.xdg-cache/
+.xdg-config/
+.xdg-data/
+.DS_Store
+.cf-token
