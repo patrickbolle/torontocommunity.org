@@ -89,7 +89,7 @@
       <ul class="result-list">
         {%- for item in (allGroupItems or groupItems) %}
         <li>
-          <span class="tag">{% if item.when %}{{ item.when }}{% endif %}{% if item.location %}{% if item.when %} · {% endif %}{{ item.location }}{% endif %}{% if item.free %}{% if item.when or item.location %} · {% endif %}free{% endif %}</span>
+          <span class="tag">{% if item.when %}{{ item.when }}{% endif %}{% if item.location %}{% if item.when %} · {% endif %}{{ item.location }}{% endif %}</span>{% if item.free %} <span class="badge-free">Free</span>{% endif %}
           <p><a href="{{ item.url }}" target="_blank" rel="noopener noreferrer" data-umami-event="outbound-link">{{ item.name }} →</a></p>
           <p>{{ item.description }}</p>
         </li>

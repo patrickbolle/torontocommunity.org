@@ -176,3 +176,9 @@ body { background: var(--page); }
 /* Readable metadata: the when/where line was 11px mono grey */
 .tag { font: 13px/1.6 var(--font); color: var(--muted); }
 .tag { font: 14px/1.6 var(--font); color: #46525c; }
+
+/* Polish: free badge, subtle row hover, readable just-added copy */
+.badge-free { display: inline-block; font-size: 11px; font-weight: 700; color: #335f37; background: #e6efe2; border: 1px solid #c2d6bc; padding: 1px 6px; margin-left: 6px; vertical-align: 1px; }
+.result-list li { transition: background .15s ease; }
+.result-list li:hover { background: rgba(22, 32, 42, .025); }
+.ja-desc { font-size: 14px; }
