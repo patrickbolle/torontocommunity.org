@@ -172,3 +172,7 @@ body { background: var(--page); }
 .just-added-head .section-title { font-size: 20px; }
 .hero p { font-size: 16px; }
 .article p { font-size: 16px; }
+
+/* Readable metadata: the when/where line was 11px mono grey */
+.tag { font: 13px/1.6 var(--font); color: var(--muted); }
+.tag { font: 14px/1.6 var(--font); color: #46525c; }
